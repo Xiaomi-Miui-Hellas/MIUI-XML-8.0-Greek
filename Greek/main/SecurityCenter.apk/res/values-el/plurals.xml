@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="find_applications">
+        <item quantity="other">Αναζήτηση μεταξύ %d εφαρμογών</item>
+        <item quantity="one">Αναζήτηση μεταξύ %d εφαρμογής</item>
+     </plurals>
+     <plurals name="found_apps_title">
+        <item quantity="other">Βρέθηκαν %d εφαρμογές</item>
+        <item quantity="zero">Βρέθηκαν 0 εφαρμογές</item>
+        <item quantity="one">Βρέθηκε %d εφαρμογή</item>
+     </plurals>
+     <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d δικαιώματα</item>
+        <item quantity="one">%d δικαίωμα</item>
+     </plurals>
+     <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d εφαρμογές δεν επιτρέπεται να εκκινούν αυτόματα</item>
+        <item quantity="one">%d εφαρμογή δεν επιτρέπεται να εκκινεί αυτόματα</item>
+     </plurals>
+     <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d εφαρμογές μπορούν να εκκινούν αυτόματα</item>
+        <item quantity="one">%d εφαρμογή μπορεί να εκκινεί αυτόματα</item>
+     </plurals>
+     <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d εφαρμογές δεν έχουν πρόσβαση root</item>
+        <item quantity="one">%d εφαρμογή δεν έχει πρόσβαση root</item>
+     </plurals>
+     <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d εφαρμογές έχουν πρόσβαση root</item>
+        <item quantity="one">%d εφαρμογή έχει πρόσβαση root</item>
+     </plurals>
+     <plurals name="hints_install_apps_interval">
+        <item quantity="other">Χρησιμοποιήθηκε πριν %d ημέρες</item>
+        <item quantity="one">Χρησιμοποιήθηκε χθες</item>
+     </plurals>
+     <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d εφαρμογές</item>
+        <item quantity="one">%d εφαρμογή</item>
+     </plurals>
+     <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"%d εφαρμογές δεν μπορούν να κάνουν χρήση περιαγωγής δεδομένων"</item>
+        <item quantity="one">"%d εφαρμογή δεν μπορεί να κάνει χρήση περιαγωγής δεδομένων"</item>
+     </plurals>
+     <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d εφαρμογές μπορούν να κάνουν χρήση περιαγωγής δεδομένων</item>
+        <item quantity="one">%d εφαρμογή μπορεί να κάνει χρήση περιαγωγής δεδομένων</item>
+     </plurals>
+     <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Βρέθηκαν %d εφαρμογές</item>
+        <item quantity="one">Βρέθηκε %d εφαρμογή</item>
+     </plurals>
+     <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Παρακολούθηση χρήσης δεδομένων για %d εφαρμογές</item>
+        <item quantity="one">Παρακολούθηση χρήσης δεδομένων για %d εφαρμογή</item>
+     </plurals>
+     <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Χωρίς παρακολούθηση χρήσης δεδομένων για %d εφαρμογές</item>
+        <item quantity="one">Χωρίς παρακολούθηση χρήσης δεδομένων για %d εφαρμογή</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d εφαρμογές δεν χρησιμοποιούν την εξοικονόμηση δεδομένων</item>
+        <item quantity="one">%d εφαρμογή δεν χρησιμοποιεί την εξοικονόμηση δεδομένων</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d εφαρμογές χρησιμοποιούν την εξοικονόμηση δεδομένων</item>
+        <item quantity="one">%d εφαρμογή χρησιμοποιεί την εξοικονόμηση δεδομένων</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d εφαρμογές μπορούν να βελτιστοποιηθούν</item>
+        <item quantity="one">%d εφαρμογή μπορεί να βελτιστοποιηθεί</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d εφαρμογές βελτιστοποιήθηκαν</item>
+        <item quantity="one">%d εφαρμογή βελτιστοποιήθηκε</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d γράμματα.</item>
+        <item quantity="one">"Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 γράμμα. "</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d πεζά γράμματα.</item>
+        <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 πεζό …</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d χαρακτήρες εκτός από γράμματα.</item>
+        <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 χαρακτήρα εκτός από …</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d αριθμούς.</item>
+        <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 …</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d ειδικά σύμβολα.</item>
+        <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 ειδικό …</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d κεφαλαία γράμματα.</item>
+        <item quantity="one">Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 κεφαλαίο …</item>
+     </plurals>
+     <plurals name="notification_apps">
+        <item quantity="other">%d εφαρμογές περιέχουν κινδύνους για την ιδιωτικότητα</item>
+        <item quantity="one">%d εφαρμογή περιέχει κινδύνους για την ιδιωτικότητα</item>
+     </plurals>
+     <plurals name="number_locked">
+        <item quantity="other">%d εφαρμογές κλειδώθηκαν</item>
+        <item quantity="one">%d εφαρμογή κλειδώθηκε</item>
+     </plurals>
+     <plurals name="number_to_lock">
+        <item quantity="other">%d εφαρμογές δεν κλειδώθηκαν</item>
+        <item quantity="one">%d εφαρμογή δεν κλειδώθηκε</item>
+     </plurals>
+     <plurals name="power_center_battery_day">
+        <item quantity="other">"%d ημέρες "</item>
+        <item quantity="one">"%d ημέρα "</item>
+     </plurals>
+     <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ώρες "</item>
+        <item quantity="one">"%d ώρα "</item>
+     </plurals>
+     <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d λεπτά "</item>
+        <item quantity="one">"%d λεπτό "</item>
+     </plurals>
+     <plurals name="search_app_count_txt_na">
+        <item quantity="other">Αναζήτηση %d εφαρμογών</item>
+        <item quantity="one">Αναζήτηση %d εφαρμογής</item>
+     </plurals>
+     <plurals name="summary_app_update">
+        <item quantity="other">Διαθέσιμες ενημερώσεις για %d εφαρμογές.</item>
+        <item quantity="one">Διαθέσιμη ενημέρωση για %d εφαρμογή.</item>
+     </plurals>
+</resources>

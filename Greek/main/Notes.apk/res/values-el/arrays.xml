@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="contact_entries">
+        <item>Όνομα</item>
+        <item>Ψευδώνυμο</item>
+        <item>Τηλέφωνο</item>
+        <item>E-mail</item>
+        <item>Οργανισμός</item>
+        <item>IM</item>
+        <item>Τηλέφωνο SIP</item>
+        <item>Γενέθλια</item>
+        <item>Ιστοσελίδα</item>
+        <item>Διεύθυνση</item>
+        <item>Σημείωση</item>
+     </string-array>
+     <string-array name="font_size_names">
+        <item>Μικρή</item>
+        <item>Μεσαία</item>
+        <item>Μεγάλη</item>
+        <item>Τεράστια</item>
+     </string-array>
+     <string-array name="welcome_notes_content">
+        <item>"Πατήστε για να δημιουργήσετε μια σημείωση
+"</item>
+        <item>"Για να προσθέσετε μια εικόνα ή να εμφανίσετε τα πλαίσια ελέγχου, πατήστε το παρακάτω κουμπί
+"</item>
+        <item>"Πατήστε και κρατήστε μια σημείωση για καρφίτσωμα, μετακίνηση ή διαγραφή
+"</item>
+        <item>"Και περισσότερες σπουδαίες δυνατότητες!
+  - Συγχρονισμός με  Mi Cloud
+  - Ορισμός υπενθυμίσεων"</item>
+     </string-array>
+</resources>

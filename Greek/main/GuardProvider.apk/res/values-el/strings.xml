@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="AVL">AVL</string>
+     <string name="DesAVL">AVL</string>
+     <string name="DesMi">Mi</string>
+     <string name="DesTencent">Tencent</string>
+     <string name="Mi">Mi</string>
+     <string name="Tencent">Tencent</string>
+     <string name="app_name">Φρουρός Ασφαλείας</string>
+     <string name="avl_dialog_cloudscan" />
+     <string name="avl_dialog_dbupdate" />
+     <string name="avl_dialog_header">"Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές του AVL (%s)."</string>
+     <string name="avl_dialog_policy">Δείτε την Πολιτική Απορρήτου</string>
+     <string name="avl_dialog_title">"Πολιτική Απορρήτου AVL"</string>
+     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+     <string name="default_sdcard_volume_path" />
+     <string name="hello_world">Hello world!</string>
+     <string name="menu_settings">Ρυθμίσεις</string>
+     <string name="tencent_dialog_cloudscan">Ανέβασε και σάρωσε τα ονόματα και τις λεπτομέρειες των εφαρμογών με την online βάση ιών.</string>
+     <string name="tencent_dialog_dbupdate">Αυτόματη ενημέρωση βάσης ιών</string>
+     <string name="tencent_dialog_header">"Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές του Tencent (%s)."</string>
+     <string name="tencent_dialog_policy">Δείτε την Πολιτική Απορρήτου</string>
+     <string name="tencent_dialog_title">Πολιτική Απορρήτου Tencent</string>
+     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+     <string name="title_activity_main">Βασική Δραστηριότητα</string>
+</resources>
