@@ -14,6 +14,6 @@
     </plurals>
      <plurals name="view_realtime_clear">
         <item quantity="other">Καθαρός</item>
-        <item quantity="one">Ηλιόλουστος</item>
+        <item quantity="one">Λιακάδα</item>
      </plurals>
 </resources>

@@ -1,39 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="actionbar_unread_messages">
-        <item quantity="other">%1$d αδιάβαστα</item>
+        <item quantity="other">%1$d νέα μηνύματα</item>
+        <item quantity="one">%1$d νέο μήνυμα</item>
      </plurals>
      <plurals name="confirm_archive_conversation">
-        <item quantity="other">Αρχειοθέτηση αυτών των %1$d συζητήσεων;</item>
-        <item quantity="zero">Αρχειοθέτηση αυτών των %1$d συζητήσεων;</item>
-        <item quantity="one">Αρχειοθέτηση της συζήτησης;</item>
-        <item quantity="two">Αρχειοθέτηση αυτών των %1$d συζητήσεων;</item>
-        <item quantity="few">Αρχειοθέτηση αυτών των %1$d συζητήσεων;</item>
-        <item quantity="many">Αρχειοθέτηση αυτών των %1$d συζητήσεων;</item>
+        <item quantity="other">Αρχειοθέτηση %1$d συζητήσεων;</item>
+        <item quantity="one">Αρχειοθέτηση %1$d συζήτησης;</item>
      </plurals>
      <plurals name="confirm_delete_conversation">
-        <item quantity="other">Διαγραφή αυτών των %1$d συζητήσεων;</item>
-        <item quantity="zero">Διαγραφή αυτών των %1$d συζητήσεων;</item>
-        <item quantity="one">Διαγραφή της συζήτησης;</item>
-        <item quantity="two">Διαγραφή αυτών των %1$d συζητήσεων;</item>
-        <item quantity="few">Διαγραφή αυτών των %1$d συζητήσεων;</item>
-        <item quantity="many">Διαγραφή αυτών των %1$d συζητήσεων;</item>
+        <item quantity="other">Διαγραφή  %1$d συζητήσεων;</item>
+        <item quantity="one">Διαγραφή %1$d συζήτησης;</item>
      </plurals>
      <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Αυτές οι συζητήσεις περιέχουν συγχωνευμένα στοιχεία. Διαγραφή ούτως ή άλλως;</item>
-        <item quantity="zero">Αυτές οι συζητήσεις περιέχουν συγχωνευμένα στοιχεία. Διαγραφή ούτως ή άλλως;</item>
-        <item quantity="one">Αυτή η συζήτηση περιέχει συγχωνευμένα στοιχεία. Διαγραφή ούτως ή άλλως;</item>
-        <item quantity="two">Αυτές οι συζητήσεις περιέχουν συγχωνευμένα στοιχεία. Διαγραφή ούτως ή άλλως;</item>
-        <item quantity="few">Αυτές οι συζητήσεις περιέχουν συγχωνευμένα στοιχεία. Διαγραφή ούτως ή άλλως;</item>
-        <item quantity="many">Αυτές οι συζητήσεις περιέχουν συγχωνευμένα στοιχεία. Διαγραφή ούτως ή άλλως;</item>
+        <item quantity="other">Οι συζητήσεις περιέχουν πολλαπλά μηνύματα. Διαγραφή ούτως ή άλλως;</item>
+        <item quantity="one">Η συζήτηση περιέχει πολλαπλά μηνύματα. Διαγραφή ούτως ή άλλως;</item>
      </plurals>
      <plurals name="contact_num_selected">
-        <item quantity="other">%d επιλεγμένα</item>
-        <item quantity="zero">%d επιλεγμένα</item>
-        <item quantity="one">%d επιλεγμένο</item>
-        <item quantity="two">%d επιλεγμένα</item>
-        <item quantity="few">%d επιλεγμένα</item>
-        <item quantity="many">%d επιλεγμένα</item>
+        <item quantity="other">%d επιλεγμένα στοιχεία</item>
+        <item quantity="one">%d επιλεγμένο στοιχείο</item>
      </plurals>
      <plurals name="conversation_archived">
         <item quantity="other">%1$d στο αρχείο.</item>
@@ -60,8 +45,8 @@
         <item quantity="one">%1$d όχι σαν spam.</item>
      </plurals>
      <plurals name="conversation_phished">
-        <item quantity="other">%1$d αναφέρθηκαν ως ψευδή.</item>
-        <item quantity="one">%1$d αναφέρθηκε ως ψευδές.</item>
+        <item quantity="other">%1$d αναφέρθηκαν ως απάτη.</item>
+        <item quantity="one">%1$d αναφέρθηκε ως απάτη.</item>
      </plurals>
      <plurals name="conversation_spammed">
         <item quantity="other">%1$d αναφέρθηκαν ως spam.</item>
@@ -73,42 +58,22 @@
      </plurals>
      <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d μηνύματα θα διαγραφούν μόνιμα.</item>
-        <item quantity="zero">%1$d μηνύματα θα διαγραφούν μόνιμα.</item>
         <item quantity="one">%1$d μήνυμα θα διαγραφεί μόνιμα.</item>
-        <item quantity="two">%1$d μηνύματα θα διαγραφούν μόνιμα.</item>
-        <item quantity="few">%1$d μηνύματα θα διαγραφούν μόνιμα.</item>
-        <item quantity="many">%1$d μηνύματα θα διαγραφούν μόνιμα.</item>
      </plurals>
      <plurals name="move_conversation">
         <item quantity="other">Μετακίνηση %1$d συζητήσεων</item>
-        <item quantity="zero">Μετακίνηση %1$d συζητήσεων</item>
-        <item quantity="one">Μετακίνηση συζήτησης</item>
-        <item quantity="two">Μετακίνηση %1$d συζητήσεων</item>
-        <item quantity="few">Μετακίνηση %1$d συζητήσεων</item>
-        <item quantity="many">Μετακίνηση %1$d συζητήσεων</item>
+        <item quantity="one">Μετακίνηση %1$d συζήτησης</item>
      </plurals>
      <plurals name="new_incoming_messages_many">
-        <item quantity="other">Εμφάνιση %1$d νέων μηνυμάτων.</item>
-        <item quantity="zero">Εμφάνιση %1$d νέων μηνυμάτων.</item>
-        <item quantity="one">Εμφάνιση %1$d νέου μηνύματος.</item>
-        <item quantity="two">Εμφάνιση %1$d νέων μηνυμάτων.</item>
-        <item quantity="few">Εμφάνιση %1$d νέων μηνυμάτων.</item>
-        <item quantity="many">Εμφάνιση %1$d νέων μηνυμάτων.</item>
+        <item quantity="other">%1$d νέα μηνύματα</item>
+        <item quantity="one">%1$d νέο μήνυμα</item>
      </plurals>
      <plurals name="num_selected">
-        <item quantity="other">%d επιλεγμένα</item>
-        <item quantity="zero">%d επιλεγμένα</item>
-        <item quantity="one">%d επιλεγμένο</item>
-        <item quantity="two">%d επιλεγμένα</item>
-        <item quantity="few">%d επιλεγμένα</item>
-        <item quantity="many">%d επιλεγμένα</item>
+        <item quantity="other">%d επιλεγμένα στοιχεία</item>
+        <item quantity="one">%d επιλεγμένο στοιχείο</item>
      </plurals>
      <plurals name="show_messages_read">
         <item quantity="other">%1$d παλαιότερα μηνύματα</item>
-        <item quantity="zero">%1$d παλαιότερα μηνύματα</item>
         <item quantity="one">%1$d παλαιότερο μήνυμα</item>
-        <item quantity="two">%1$d παλαιότερα μηνύματα</item>
-        <item quantity="few">%1$d παλαιότερα μηνύματα</item>
-        <item quantity="many">%1$d παλαιότερα μηνύματα</item>
      </plurals>
 </resources>

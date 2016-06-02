@@ -47,7 +47,7 @@
      <string name="button_exit">Έξοδος</string>
      <string name="button_not_allow">Ακύρωση</string>
      <string name="daily_forcast_drawer_on_bottom">Απόκρυψη</string>
-     <string name="daily_forcast_drawer_on_top">Δείτε άλλες ημέρες</string>
+     <string name="daily_forcast_drawer_on_top">Πρόβλεψη %1$s ημερών</string>
      <string name="daily_forcast_no_wind">Άπνοια</string>
      <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
      <string name="daily_forcast_weather_transfer">%1$s transfer %2$s</string>

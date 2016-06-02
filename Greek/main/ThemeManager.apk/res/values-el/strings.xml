@@ -212,7 +212,7 @@
      <string name="resource_no_result">Κανένα αποτέλεσμα</string>
      <string name="resource_notification_default">Ειδοποιήσεις</string>
      <string name="resource_on_trial">Σε δοκιμή: %1$s</string>
-     <string name="resource_online">Online %1$s</string>
+     <string name="resource_online">Online</string>
      <string name="resource_pack_confirm">"Παρότι έχετε ήδη αγοράσει %1$d στοιχεία αυτού του θέματος, είναι φθηνότερο να αγοράσετε το πλήρες πακέτο"</string>
      <string name="resource_pack_discount_info">Γλιτώνετε %1$s!</string>
      <string name="resource_pack_get_auth_has_been_undercarriaged">Το θέμα αυτό δεν είναι πλέον διαθέσιμο.</string>

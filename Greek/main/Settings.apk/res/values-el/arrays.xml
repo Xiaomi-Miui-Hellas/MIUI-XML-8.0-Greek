@@ -757,26 +757,26 @@
         <item>Έλεγχος ταυτότητας…</item>
         <item>Λήψη διεύθυνσης IP…</item>
         <item>Συνδεδεμένο</item>
-        <item>Ακυρώθηκε</item>
+        <item>Σε αναστολή</item>
         <item>Αποσύνδεση…</item>
-        <item>Αποσυνδέθηκε</item>
-        <item>Ανεπιτυχής</item>
+        <item>Αποσυνδεδεμένο</item>
+        <item>Ανεπιτυχές</item>
         <item>Φραγμένο</item>
-        <item>Προσωρινή αποφυγή κακής σύνδεσης</item>
+        <item>Προσωρινά αποφεύγεται (ασθενές σήμα)</item>
      </string-array>
      <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Σάρωση…</item>
-        <item>Σύνδεση προς %1$s…</item>
-        <item>Έλεγχος ταυτότητας με το %1$s…</item>
-        <item>Λήψη διεύθυνσης IP από το %1$s…</item>
+        <item>Σύνδεση στο %1$s…</item>
+        <item>Έλεγχος ταυτότητας με %1$s…</item>
+        <item>Λήψη διεύθυνσης IP από %1$s…</item>
         <item>Συνδεδεμένο στο %1$s</item>
-        <item>Ακυρώθηκε</item>
-        <item>Αποσύνδεση από το %1$s…</item>
-        <item>Αποσυνδέθηκε</item>
-        <item>Ανεπιτυχής</item>
+        <item>Σε αναστολή</item>
+        <item>αποσύνδεση από %1$s…</item>
+        <item>Αποσυνδεδεμένο</item>
+        <item>Ανεπιτυχές</item>
         <item>Φραγμένο</item>
-        <item>Προσωρινή αποφυγή κακής σύνδεσης</item>
+        <item>Προσωρινά αποφεύγεται (ασθενές σήμα)</item>
      </string-array>
      <string-array name="window_animation_scale_entries">
         <item>Κίνηση ανενεργή</item>

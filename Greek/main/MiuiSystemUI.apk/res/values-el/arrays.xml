@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="indices_car_wash">
-        <item>Κατάλληλος</item>
-        <item>Ακατάλληλος</item>
-     </string-array>
-     <string-array name="indices_sport">
-        <item>Κατάλληλος</item>
-        <item>Ακατάλληλος</item>
-     </string-array>
-     <string-array name="indices_uv_level">
-        <item>Χωρίς αντηλιακό</item>
-        <item>Προσοχή στον ήλιο</item>
-        <item>Αποφύγετε να βγείτε έξω</item>
-     </string-array>
      <string-array name="weather_type">
         <item>Λιακάδα</item>
         <item>Νεφελώδης</item>
@@ -42,29 +29,32 @@
         <item>Παγωμένη Βροχή</item>
         <item></item>
      </string-array>
-     <string-array name="wind_direction">
-        <item>Άνεμος Β</item>
-        <item>Άνεμος ΒΑ</item>
-        <item>Άνεμος Α</item>
-        <item>Άνεμος ΝΑ</item>
-        <item>Άνεμος Ν</item>
-        <item>Άνεμος ΝΔ</item>
-        <item>Άνεμος Δ</item>
-        <item>Άνεμος ΒΔ</item>
+     <string-array name="wifi_status">
+        <item></item>
+        <item>Σάρωση…</item>
+        <item>Σύνδεση…</item>
+        <item>Πιστοποίηση…</item>
+        <item>Λήψη διεύθυνσης IP…</item>
+        <item>Συνδεδεμένο</item>
+        <item>Σε αναστολή</item>
+        <item>Αποσύνδεση…</item>
+        <item>Αποσυνδεδεμένο</item>
+        <item>Ανεπιτυχές</item>
+        <item>Φραγμένο</item>
+        <item>Προσωρινά αποφεύγεται (ασθενές σήμα)</item>
      </string-array>
-     <string-array name="wind_power">
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
+     <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Σάρωση…</item>
+        <item>Σύνδεση στο %1$s…</item>
+        <item>Πιστοποίηση με %1$s…</item>
+        <item>Λήψη διεύθυνσης IP από %1$s…</item>
+        <item>Συνδεδεμένο στο %1$s</item>
+        <item>Σε αναστολή</item>
+        <item>αποσύνδεση από %1$s…</item>
+        <item>Αποσυνδεδεμένο</item>
+        <item>Ανεπιτυχές</item>
+        <item>Φραγμένο</item>
+        <item>Προσωρινά αποφεύγεται (ασθενές σήμα)</item>
      </string-array>
 </resources>
