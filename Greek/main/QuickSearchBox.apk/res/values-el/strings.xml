@@ -16,6 +16,7 @@
 
 Για να διαγράψετε το ιστορικό του προγράμματος περιήγησης, χρησιμοποιήστε τις ρυθμίσεις του προγράμματος περιήγησης."</string>
      <string name="clear_shortcuts_summary">Εκκαθάριση συντομεύσεων και πρόσφατων προτάσεων αναζήτηση</string>
+     <string name="common_setting">Γενικές ρυθμίσεις</string>
      <string name="connect_and_retry">Συνδεθείτε στο Internet και προσπαθήστε ξανά</string>
      <string name="corpus_description_apps">Εγκατεστημένες εφαρμογές</string>
      <string name="corpus_description_web">Σελιδοδείκτες</string>
@@ -48,9 +49,12 @@
      <string name="menu_help">Βοήθεια</string>
      <string name="menu_settings">Ρυθμίσεις αναζήτησης</string>
      <string name="network_unavailable">Αδυναμία σύνδεσης στο δίκτυο</string>
+     <string name="recent_apps">Πρόσφατες εφαρμογές</string>
      <string name="recently_shortcut_label">Πρόσφατες συντομεύσεις</string>
      <string name="remove_from_history">Διαγραφή αυτού του στοιχείου από το ιστορικό αναζήτησης;</string>
      <string name="remove_from_history_failed">Αδύνατη η διαγραφή από το ιστορικό</string>
+     <string name="search_group_fold">Απόκρυψη</string>
+     <string name="search_group_unfold">Περισσότερα</string>
      <string name="search_history">Ιστορικό</string>
      <string name="search_in_app_store">Αναζήτηση στο Mi Market</string>
      <string name="search_in_web">Αναζήτηση online</string>
@@ -67,6 +71,7 @@
      <string name="voice_search_hint_title">"Προσπαθήστε να πείτε "</string>
      <string name="web_search_results">Αποτελέσματα αναζήτησης Web</string>
      <string name="xiaomi_hint" />
+     <string name="xiaomi_homepage_suggest" />
      <string name="xiaomi_hot_query" />
      <string name="xiaomi_search_label">Αποτελέσματα</string>
      <string name="xiaomi_suggest_base" />
