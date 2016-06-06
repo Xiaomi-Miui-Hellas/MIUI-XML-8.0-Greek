@@ -40,7 +40,6 @@
         <item>Μηνύματα</item>
         <item>Πολυμέσα</item>
         <item>Συσκευή</item>
-        <item>Εκκίνηση</item>
      </string-array>
      <string-array name="app_ops_labels">
         <item>Τοποθεσία</item>
@@ -88,21 +87,11 @@
         <item>Τοποθεσία</item>
         <item>Λήψη στατιστικών χρήσης</item>
         <item>Σίγαση/ενεργοποίηση μικροφώνου</item>
-        <item>Αναδυόμενο παράθυρο</item>
         <item>Προβολή πολυμέσων</item>
         <item>Ενεργοποίηση VPN</item>
-        <item>Άνοιγμα Wi‑Fi</item>
-        <item>Άνοιγμα Bluetooth</item>
-        <item>Αποστολή MMS</item>
-        <item>Ανάγνωση MMS</item>
-        <item>Σύνταξη MMS</item>
-        <item>Αυτόματη εκκίνηση</item>
-        <item>Άνοιγμα NFC</item>
-        <item>Διαγραφή SMS</item>
-        <item>Διαγραφή MMS</item>
-        <item>Διαγραφή επαφών</item>
-        <item>Διαγραφή αρχείου κλήσεων</item>
-        <item>Άνοιγμα δεδομένων κινητής</item>
+        <item>Εγγραφή ταπετσαρίας</item>
+        <item>Βοηθός δομής</item>
+        <item>Βοηθός στιγμιότυπου</item>
      </string-array>
      <string-array name="app_ops_permissions">
         <item>Επίτρεψε</item>
@@ -155,21 +144,11 @@
         <item>παρακολούθηση θέσης υψηλής ισχύος</item>
         <item>λήψη στατιστικών χρήσης</item>
         <item>σίγαση/ενεργοποίηση μικροφώνου</item>
-        <item>αναδυόμενο παράθυρο</item>
         <item>προβολή πολυμέσων</item>
         <item>ενεργοποίηση VPN</item>
-        <item>άνοιγμα Wi‑Fi</item>
-        <item>άνοιγμα Bluetooth</item>
-        <item>αποστολή MMS</item>
-        <item>ανάγνωση MMS</item>
-        <item>σύνταξη MMS</item>
-        <item>αυτόματη εκκίνηση</item>
-        <item>άνοιγμα NFC</item>
-        <item>διαγραφή SMS</item>
-        <item>διαγραφή MMS</item>
-        <item>διαγραφή επαφών</item>
-        <item>διαγραφή αρχείου κλήσεων</item>
-        <item>άνοιγμα δεδομένων κινητής</item>
+        <item>εγγραφή ταπετσαρίας</item>
+        <item>βοηθός δομής</item>
+        <item>βοηθός στιγμιότυπου</item>
      </string-array>
      <string-array name="app_process_limit_entries">
         <item>Τυπικό όριο</item>
@@ -185,9 +164,22 @@
         <item>Μπάρα στην κορυφή</item>
      </string-array>
      <string-array name="bearer_entries">
-        <item>LTE</item>
-        <item>eHRPD</item>
         <item>Δεν έχει καθοριστεί</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
      </string-array>
      <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 λεπτά</item>
@@ -284,7 +276,6 @@
         <item>Μεσαία</item>
         <item>Μεγάλη</item>
         <item>Τεράστια</item>
-        <item>Godzilla</item>
      </string-array>
      <string-array name="entries_zen_mode">
         <item>Ανενεργό</item>
@@ -309,9 +300,10 @@
         <item>3.5 ίντσες</item>
      </string-array>
      <string-array name="haptic_feedback_level_entries">
-        <item>Ισχυρό</item>
-        <item>Μέτριο</item>
-        <item>Ελαφρύ</item>
+        <item>Ανενεργή</item>
+        <item>Ελαφριά</item>
+        <item>Μέτρια</item>
+        <item>Ισχυρή</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">
         <item>Ποτέ μην χρησιμοποιείτε HDCP έλεγχο</item>
@@ -363,11 +355,10 @@
      </string-array>
      <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Αμέσως</item>
+        <item>30 δευτερόλεπτα</item>
         <item>1 λεπτό</item>
         <item>2 λεπτά</item>
         <item>5 λεπτά</item>
-        <item>15 λεπτά</item>
-        <item>30 λεπτά</item>
      </string-array>
      <string-array name="long_press_timeout_selector_titles">
         <item>Σύντομη</item>
@@ -436,13 +427,17 @@
      </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Κανένα</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (ασφαλές)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (ασφαλές)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (ασφαλές)</item>
-        <item>1280x720 tvdpi και 1920x1080 xhdpi</item>
+        <item>480p</item>
+        <item>480p (ασφαλές)</item>
+        <item>720p</item>
+        <item>720p (ασφαλές)</item>
+        <item>1080p</item>
+        <item>1080p (ασφαλές)</item>
+        <item>4K</item>
+        <item>4K (ασφαλές)</item>
+        <item>4K (βελτιωμένο)</item>
+        <item>4K (βελτιωμένο, ασφαλές)</item>
+        <item>720p, 1080p (διπλή οθόνη)</item>
      </string-array>
      <string-array name="perm_hips_action">
         <item>Επίτρεψε</item>
@@ -495,10 +490,11 @@
         <item>Αποθηκευμένο (κενό)</item>
      </string-array>
      <string-array name="ram_states">
-        <item>κανονική</item>
-        <item>μέτρια</item>
-        <item>χαμηλή</item>
-        <item>κρίσιμη</item>
+        <item>Κανονική</item>
+        <item>Μέτρια</item>
+        <item>Χαμηλή</item>
+        <item>Κρίσιμη</item>
+        <item>\?</item>
      </string-array>
      <string-array name="screen_color_title">
         <item>Θερμό</item>

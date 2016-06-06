@@ -259,7 +259,7 @@
      <string name="Privacy_App_Uninstall">Απεγκατάσταση</string>
      <string name="Privacy_Perm_Count">%1$d επιτράπηκαν | %2$d απορρίφθηκαν</string>
      <string name="Su_Enable_Dialog">%1$s ζητά πρόσβαση root.</string>
-     <string name="Su_Package_Forbidden">%1$s δεν έχει πρόσβαση root.</string>
+     <string name="Su_Package_Forbidden">Το %1$s δεν έχει πρόσβαση root.</string>
      <string name="Su_Unavailable">Η πρόσβαση root δεν είναι διαθέσιμη σε αυτή την έκδοση του MIUI. Πρέπει να περάσετε μια developer έκδοση του MIUI προκειμένου να έχετε πρόσβαση root.</string>
      <string name="SysOpt_Boost_AutoStart">Αυτόματη εκκίνηση</string>
      <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
