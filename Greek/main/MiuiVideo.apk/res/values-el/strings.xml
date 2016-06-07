@@ -483,7 +483,7 @@
      <string name="vp_select_source">Επιλέξτε την πηγή</string>
      <string name="vp_select_video_definition">Επιλέξτε σαφήνεια</string>
      <string name="vp_select_video_source">Επιλέξτε την πηγή</string>
-     <string name="vp_skip">Παράκαμψη εισαγωγής</string>
+     <string name="vp_skip">Παράλειψη εισαγωγής</string>
      <string name="vp_standard_definition">SD</string>
      <string name="vp_super_definition">Ultra-clear</string>
      <string name="vp_time_separator">/</string>

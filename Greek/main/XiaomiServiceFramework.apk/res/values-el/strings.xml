@@ -104,7 +104,7 @@
      <string name="error_device_id_message">"Μη έγκυρο ID συσκευής: %s
 Το ID της συσκευής πρέπει να είναι έγκυρο IMEI ή MAC address. Χωρίς το ID, κάποιοι λογαριασμοί και cloud λειτουργίες δεν θα είναι διαθέσιμα."</string>
      <string name="error_device_id_title">Αδυναμία λήψης έγκυρου ID συσκευής</string>
-     <string name="sim_unactivated_title">Η κάρτα SIM είναι μη ενεργή</string>
+     <string name="sim_unactivated_title">Η κάρτα SIM δεν έχει ενεργοποιηθεί</string>
      <string name="sync_notification_title_format">Τρέχον στοιχείο συγχρονισμού: %1$s</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xmsf_activate_info">XMSF πληροφορίες ενεργοποίησης</string>

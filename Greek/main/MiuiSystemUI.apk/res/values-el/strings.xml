@@ -127,7 +127,7 @@
      <string name="chooseUsbActivity">Επιλέξτε εφαρμογή για τη συσκευή USB</string>
      <string name="connected_via_passpoint">Συνδεδεμένο μέσω %1$s</string>
      <string name="connected_via_wfa">Συνδεδεμένο μέσω βοηθού Wi‑Fi</string>
-     <string name="data_usage_disabled_dialog">"Έχετε φτάσει καθορισμένο όριο χρήσης δεδομένων σας.
+     <string name="data_usage_disabled_dialog">"Έχετε φτάσει το καθορισμένο όριο χρήσης δεδομένων σας.
 
 Εάν ενεργοποιήσετε πάλι τα δεδομένα, ενδέχεται να χρεωθείτε από τον πάροχό σας."</string>
      <string name="data_usage_disabled_dialog_3g_title">Δεδομένα 2G-3G ανενεργά</string>

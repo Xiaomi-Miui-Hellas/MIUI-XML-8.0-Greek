@@ -250,7 +250,7 @@
      <string name="micloud_main_sync_exception">Σφάλμα συγχρονισμού</string>
      <string name="micloud_main_sync_init">Λήψη πληροφοριών</string>
      <string name="micloud_main_sync_now">Συγχρονισμός τώρα</string>
-     <string name="micloud_main_sync_on">Ο συγχρονισμός είναι ενεργός</string>
+     <string name="micloud_main_sync_on">Ενεργοποίηση συγχρονισμού</string>
      <string name="micloud_main_sync_on_wifi">Χρήση Wi‑Fi</string>
      <string name="micloud_main_sync_pause">Παύση συγχρονισμού</string>
      <string name="micloud_main_sync_pending">Σε αναμονή για συγχρονισμό</string>
