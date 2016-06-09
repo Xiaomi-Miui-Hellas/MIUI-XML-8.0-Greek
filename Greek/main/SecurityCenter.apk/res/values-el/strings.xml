@@ -10,7 +10,7 @@
      <string name="ac_enable_title">Ενεργοποίηση Κλειδώματος Εφαρμογής</string>
      <string name="ac_enter_applock">Εισάγετε το Κλείδωμα Εφαρμογής</string>
      <string name="ac_firstUseApplock_subTitle">Χρησιμοποιήστε το Κλείδωμα Εφαρμογής για την προστασία της ιδιωτικής ζωής σας</string>
-     <string name="ac_firstUseApplock_title">Απαίτηση κωδικού πρόσβασης για το άνοιγμα επιλεγμένων εφαρμογών</string>
+     <string name="ac_firstUseApplock_title">Απαίτηση κωδικού για το άνοιγμα επιλεγμένων εφαρμογών</string>
      <string name="ac_summaryOff">Ανενεργό. Δεν απαιτείται κωδικός για το άνοιγμα εφαρμογών</string>
      <string name="ac_summaryOn">Ενεργό. Απαιτείται κωδικός για το άνοιγμα εφαρμογών</string>
      <string name="access_control_need_password">"%sΕπιτυχής προσθήκη κλειδώματος
@@ -667,7 +667,7 @@
      <string name="pm_remember_choice">Να θυμάται την επιλογή</string>
      <string name="pm_root_success_notification_title">Πρόσβαση root ενεργή</string>
      <string name="power_20s_enter_mode">Λειτουργία. %2$s στο %1$d</string>
-     <string name="power_20s_shutdown">Η συσκευή θα απενεργοποιηθεί σε 20 δευτερόλεπτα</string>
+     <string name="power_20s_shutdown">Η συσκευή θα απενεργοποιηθεί σε %d δευτερόλεπτα</string>
      <string name="power_apply_toast">Με την αλλαγή %s να αποθηκεύσετε τις τρέχουσες ρυθμίσεις σας</string>
      <string name="power_bluetooth">Bluetooth</string>
      <string name="power_button_delete">Διαγραφή</string>

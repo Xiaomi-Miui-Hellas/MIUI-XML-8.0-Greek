@@ -79,6 +79,7 @@
         <item>Μετά από 1 λεπτό</item>
         <item>Μετά από 5 λεπτά</item>
         <item>Μετά από 10 λεπτά</item>
+        <item>Μετά από 30 λεπτά</item>
         <item>Ποτέ</item>
      </string-array>
      <string-array name="power_dialog_cpu_state_items">
@@ -127,6 +128,7 @@
         <item>"Χρήση δεδομένων κινητής "</item>
         <item>"Χρήση Wi‑Fi "</item>
         <item>"Εξοικονόμηση δεδομένων "</item>
+        <item>Πρόγραμμα δεδομένων Mi</item>
      </string-array>
      <string-array name="traffic_type">
         <item>"Χρήση δεδομένων "</item>
