@@ -389,7 +389,7 @@
      <string name="eventTypeCustom">Προσαρμογή</string>
      <string name="event_edit_field_hint_text">Ημερομηνία</string>
      <string name="export_sim_contact_finish">Εξαγωγή ολοκληρώθηκε</string>
-     <string name="export_sim_contact_finish_msg">%1$d μεταφέρθηκαν | %2$d παραλείφθηκαν | %3$d απομένουν</string>
+     <string name="export_sim_contact_finish_msg">%1$d μεταφέρθηκαν | %2$d αντιγράφηκαν | %3$d απομένουν%4$s</string>
      <string name="export_to_sdcard">Εξαγωγή στον αποθηκευτικό χώρο</string>
      <string name="export_to_sim">Εξαγωγή σε κάρτα SIM</string>
      <string name="export_to_sim1">Εξαγωγή σε κάρτα SIM 1</string>

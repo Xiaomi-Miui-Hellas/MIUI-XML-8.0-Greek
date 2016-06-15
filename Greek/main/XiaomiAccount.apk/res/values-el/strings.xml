@@ -251,6 +251,8 @@
      <string name="passport_login_title">Σύνδεση στο λογαριασμό Mi</string>
      <string name="passport_login_using_other_ways"><u>Άλλοι τρόποι για να συνδεθείτε</u></string>
      <string name="passport_login_with_email_or_id"><u>Συνδεθείτε με την διεύθυνση email ή με το Mi Account ID</u></string>
+     <string name="passport_miui_provision_find_status_text">"Αυτή η συσκευή έχει συσχετισθεί με υφιστάμενο ID λογαριασμού Mi（%1$s）. Πρέπει να εισάγετε κωδικό για να επαληθεύσετε τη συσκευή.
+(αριθμός ξεκλειδώματος: %2$s)"</string>
      <string name="passport_next">Επόμενο</string>
      <string name="passport_notification_title">Σφάλμα σύνδεσης για %1$s</string>
      <string name="passport_password_req_notice">Κωδικός από 8 έως 16 χαρακτήρες με αριθμούς και γράμματα (γίνεται διάκριση πεζών).</string>
