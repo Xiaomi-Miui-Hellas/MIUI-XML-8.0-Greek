@@ -3246,8 +3246,11 @@
      <string name="status_bar_settings_show_screenshot_notification">Προβολή ειδοπ. στιγμιότυπου</string>
      <string name="status_bar_settings_show_wifi_name">Προβολή Wi‑Fi</string>
      <string name="status_bar_settings_status_bar">Γραμμή κατάστασης</string>
+     <string name="status_bar_settings_style">Διάταξη ειδοποιήσεων &amp; διακοπτών</string>
      <string name="status_bar_settings_toggle_collapse_after_clicked">Κλείσιμο μετά το άγγιγμα</string>
      <string name="status_bar_settings_toggle_position">Οργάνωση διακοπτών</string>
+     <string name="status_bar_style_list">Συνδυασμένη</string>
+     <string name="status_bar_style_page">Ξεχωριστή</string>
      <string name="status_bt_address">Διεύθυνση Bluetooth</string>
      <string name="status_data_state">Κατάσταση κινητού δικτύου</string>
      <string name="status_icc_id">ICCID</string>
