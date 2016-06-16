@@ -299,7 +299,7 @@
         <item>4.0 ίντσες</item>
         <item>3.5 ίντσες</item>
      </string-array>
-     <string-array name="haptic_feedback_level_entries">
+     <string-array name="haptic_feedback_level_texts">
         <item>Ανενεργή</item>
         <item>Ελαφριά</item>
         <item>Μέτρια</item>
@@ -587,6 +587,10 @@
      <string-array name="startup_hips_action">
         <item>Επίτρεψε</item>
         <item>Απόρριψη</item>
+     </string-array>
+     <string-array name="status_bar_style_entries">
+        <item>Συνδυασμένο</item>
+        <item>Ξεχωριστό</item>
      </string-array>
      <string-array name="timezone_filters">
         <item>Αμερική</item>
