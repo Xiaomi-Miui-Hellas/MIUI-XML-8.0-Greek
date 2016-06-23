@@ -31,7 +31,6 @@
      <string name="invalid_sim_pin_hint">Πληκτρολογήστε ένα PIN από 4 έως 8 αριθμούς</string>
      <string name="invalid_sim_puk_hint">Ο κωδικός PUK θα πρέπει να είναι 8 ή περισσότεροι αριθμοί</string>
      <string name="keyguard_torch_cover_text">Για να διατηρήσετε to φακό αναμμένο, πατήστε το κουμπί λειτουργίας</string>
-     <string name="left_action_default_hint_text">Πληκτρολόγιο</string>
      <string name="lock_screen_date">EEEE d MMMM</string>
      <string name="lock_screen_date_12">EEEE d MMMM</string>
      <string name="lockscreen_access_pattern_cell_added">Το μοτίβο προστέθηκε</string>
@@ -51,8 +50,8 @@
      <string name="login_website_in_case_forget_password">Για να επαναφέρετε τον κωδικό πρόσβασής σας, πηγαίνετε στο i.mi.com</string>
      <string name="missed_call_text">%d αναπάντητες κλήσεις</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Ξεκλειδώθηκε με Bluetooth</string>
-     <string name="open_camera_hint_text">Σύρετε αριστερά για να ανοίξετε το %s</string>
-     <string name="open_remote_center_hint_text">Σύρετε δεξιά για να ανοίξετε το %s</string>
+     <string name="open_camera_hint_text">Σύρετε αριστερά για να ανοίξετε την Κάμερα</string>
+     <string name="open_remote_center_hint_text">Σύρετε δεξιά για να ανοίξετε το Mi Remote</string>
      <string name="open_wifi_settings">Άνοιγμα ρυθμίσεων Wi-Fi</string>
      <string name="phone_locked_string">Συσκευή κλειδωμένη</string>
      <string name="phone_locked_timeout_minutes_string">Παρακαλώ δοκιμάστε ξανά σε %s λεπτά</string>

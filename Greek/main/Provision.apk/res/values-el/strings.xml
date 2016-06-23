@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="agree">Συμφωνώ</string>
-     <string name="alert_dialog_btn_close">Απενεργοποίηση</string>
-     <string name="alert_dialog_btn_open">Επίτρεψε</string>
-     <string name="alert_dialog_msg">"Some of MIUI's core features and services won't be able to work as intended without these permissions (e.g. your device won't be able to display contact info during a call). If you disable these permissions, MIUI's apps will ask for individual permissions when they're required for a specific activity."</string>
-     <string name="alert_dialog_title">Ορισμένες υπηρεσίες μπορεί να δυσλειτουργούν</string>
+     <string name="agree_terms">"Έχω διαβάσει και συμφωνώ με τους Όρους Παροχής Υπηρεσιών και την Πολιτική Προστασίας Προσωπικών Δεδομένων."</string>
+     <string name="back">Πίσω</string>
      <string name="congratulation_label" />
+     <string name="congratulation_title">Επιτυχής ρύθμιση!</string>
      <string name="desc_extra_fingerprint" />
      <string name="desc_extra_international_fingerprint" />
      <string name="desc_fingerprint">Χρησιμοποιήστε το δακτυλικό σας αποτύπωμα για να ξεκλειδώσετε τη συσκευή σας, να επαληθεύσετε συναλλαγές Mi Pay, ή για να συνδεθείτε σε εφαρμογές και υπηρεσίες.</string>
@@ -27,18 +26,12 @@
      <string name="other_settings">Πρόσθετες ρυθμίσεις</string>
      <string name="other_settings_location">Τοποθεσία</string>
      <string name="other_settings_location_summary">Επιτρέψτε στις εφαρμογές να έχουν πρόσβαση στην τοποθεσία σας</string>
-     <string name="other_settings_permission">Δικαιώματα υπηρεσιών MIUI</string>
-     <string name="other_settings_permission_summary">Δώστε στο Mi Cloud, στο Τηλέφωνο και σε άλλες λειτουργίες και βασικές υπηρεσίες τα δικαιώματα που χρειάζονται για να λειτουργήσουν όπως έχουν σχεδιαστεί</string>
      <string name="other_settings_user_experience">Πρόγραμμα εμπειρίας χρηστών</string>
      <string name="other_settings_user_experience_summary">Βοηθήστε στην βελτίωση του MIUI με την αποστολή ανώνυμων δεδομένων χρήσης (%s)</string>
      <string name="other_settings_user_experience_summary1">Προβολή πολιτικής απορρήτου</string>
-     <string name="page_layout_label">Ρυθμίστε το μέγεθος του κειμένου και τη διάταξη της Αρχικής Οθόνης, την μπάρα ειδοποιήσεων, το πληκτρολόγιο, και πολλά άλλα.</string>
-     <string name="page_layout_title">Διάταξη συστήματος</string>
      <string name="pref_title_data_slot">Προεπιλεγμένη SIM δεδομένων</string>
      <string name="pref_title_voice_slot">Προεπιλεγμένη SIM φωνής</string>
      <string name="privacy_policy">Πολιτική απορρήτου</string>
-     <string name="provision_finish">OK</string>
-     <string name="provision_finish_restart">Επανεκκίνηση</string>
      <string name="provision_inputmethod_policy_description">"
 Προβολή Πολιτικής Απορρήτου επιλεγμένου πληκτρολογίου."</string>
      <string name="provision_inputmethod_policy_description1">Πολιτική Απορρήτου</string>
@@ -52,13 +45,10 @@
      <string name="sim_redetection">Ελέγξτε ξανά</string>
      <string name="skip_underline"><u>Παραλείψετε αυτό το βήμα</u></string>
      <string name="summary_not_set">Δεν ορίστηκε</string>
-     <string name="summary_sim_card">Κάρτα %1$d</string>
-     <string name="summary_sim_card_with_operator">Κάρτα %1$d: %2$s</string>
      <string name="terms_of_use">Όροι και Προϋποθέσεις</string>
      <string name="terms_of_use_label">"Η προστασία της ιδιωτικής σας ζωής είναι πολύ σημαντική για εμάς. Παρακαλούμε διαβάστε τους Όρους Παροχής Υπηρεσιών και την Πολιτική Απορρήτου για να καταλάβετε τι είδους πληροφορίες συλλέγουμε, πώς τις χρησιμοποιούμε και τι επιλογές είναι διαθέσιμες σε εσάς.
 
 Θα πρέπει να συμφωνήσετε με τους Όρους Χρήσης και την Πολιτική Απορρήτου πριν μπορέσετε να χρησιμοποιήσετε το MIUI."</string>
-     <string name="title_congratulation">"Επιτυχής ρύθμιση!"</string>
      <string name="title_fingerprint">Προσθέστε το δακτυλικό σας αποτύπωμα</string>
      <string name="user_agreement">Όροι Παροχής Υπηρεσιών</string>
      <string name="welcome">Καλώς ήρθατε</string>

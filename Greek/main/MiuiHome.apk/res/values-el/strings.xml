@@ -44,6 +44,7 @@
      <string name="cant_remove_folder">Αδύνατη η διαγραφή του άδειου φακέλου</string>
      <string name="cant_remove_retained_app">Αδύνατη η απεγκατάσταση διατηρητέας εφαρμογής</string>
      <string name="cant_remove_system_app">Αδύνατη η διαγραφή εφαρμογής συστήματος</string>
+     <string name="change_wallpaper">Αλλαγή</string>
      <string name="children_folder_title">Παιδιά</string>
      <string name="children_mode_exit">Έξοδος</string>
      <string name="children_mode_tips">Επιστροφή στις Ρυθμίσεις και διαχείριση πρόσβασης στις εφαρμογές.</string>
@@ -52,12 +53,17 @@
      <string name="cloud_app_restore_title">Σε αναμονή</string>
      <string name="configure_wallpaper">Ρυθμίσεις</string>
      <string name="confirm_btn_label">ΟΚ</string>
+     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Οι κλωνοποιημένες εφαρμογές θα απεγκατασταθούν μαζί με αυτές.</string>
+     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Η κλωνοποιημένη εφαρμογή θα απεγκατασταθεί μαζί με αυτήν.</string>
+     <string name="confirm_uninstall_dialog_title">Οι αντίστοιχες κλωνοποιημένες εφαρμογές θα αφαιρεθούν.</string>
      <string name="current_preview">Προεπισκόπηση</string>
      <string name="current_wallpaper">Τωρινή ταπετσαρία</string>
      <string name="custom_wallpaper_picker">Αναζήτηση</string>
+     <string name="default_folder_title_claro">Claro</string>
      <string name="default_folder_title_game">Παιχνίδια</string>
      <string name="default_folder_title_recommend">Προτάσεις</string>
      <string name="default_folder_title_security">Ασφάλεια</string>
+     <string name="default_folder_title_telcel">Telcel</string>
      <string name="default_folder_title_tools">Εργαλεία</string>
      <string name="default_shortcut_title_10086">10086.cn</string>
      <string name="delete">Διαγραφή</string>
@@ -140,6 +146,7 @@
      <string name="guide_install_app_msg">Η εφαρμογή δεν εγκαταστάθηκε. Εύρεση εφαρμογής στο Market τώρα;</string>
      <string name="guide_install_app_title">Εγκατάσταση εφαρμογής</string>
      <string name="guide_tips_editing_mode">Κρατήστε πατημένο το παρακάτω widget για να το σύρετε στην οθόνη</string>
+     <string name="home_screen">Αρχική οθόνη</string>
      <string name="image_too_small_message">Η αρχική εικόνα δεν είναι αρκετά μεγάλη</string>
      <string name="install">Εγκατάσταση</string>
      <string name="invalid_contact_shortcut">Λανθασμένη συντόμευση επαφής</string>
@@ -150,8 +157,10 @@
      <string name="loading_desktop">Μισό λεπτό…</string>
      <string name="loading_wallpaper">Μισό λεπτό…</string>
      <string name="local_wallpaper">Τοπικά</string>
+     <string name="lock_screen">Οθόνη κλειδώματος</string>
      <string name="lock_screen_failed_message">Δεν μπορεί να εφαρμοστεί</string>
      <string name="lock_screen_success_message">Εφαρμόστηκε</string>
+     <string name="lock_screen_wallpaper">Ταπετσαρία οθόνης κλειδώματος</string>
      <string name="menu_add">Προσθήκη</string>
      <string name="menu_back_desktop">Πίσω στην αρχική οθόνη</string>
      <string name="menu_customize">Προσαρμογή ρυθμίσεων</string>
@@ -169,6 +178,8 @@
      <string name="mi_wallpaper">Ταπετσαρία MIUI</string>
      <string name="mtzgadget_missing_text">"Δεν είναι πλέον διαθέσιμο. Παρακαλώ προσθέστε ξανά"</string>
      <string name="multi_selecting_tips">Για να πάρετε μια εφαρμογή, πατήστε το εικονίδιό της</string>
+     <string name="no_detail_page">Δεν υπάρχουν λεπτομέρειες</string>
+     <string name="normal_wallpaper">Ταπετσαρία</string>
      <string name="online_wallpaper">Online</string>
      <string name="out_of_space">Δεν υπάρχει χώρος σε αυτή την οθόνη.</string>
      <string name="permdesc_install_shortcut">Επιτρέπει σε μια εφαρμογή την προσθήκη συντομεύσεων χωρίς την παρέμβαση του χρήστη.</string>
@@ -247,12 +258,16 @@
      <string name="uninstall_result_other_failed" formatted="false">Αδυναμία απεγκατάστασης %s και %d άλλων εφαρμογών</string>
      <string name="uninstall_result_succeeded">Η εφαρμογή απεγκαταστάθηκε</string>
      <string name="uninstall_result_two_failed">Αδυναμία απεγκατάστασης %s και 1 άλλης εφαρμογής</string>
+     <string name="uninstall_with_xspace_dialog_message">Οι αντίστοιχες κλωνοποιημένες εφαρμογές θα απεγκατασταθούν μαζί με τα δεδομένα τους.</string>
+     <string name="uninstall_xspace_dialog_message">Η απεγκατάσταση της κλωνοποιημένης εφαρμογής θα διαγράψει όλα τα δεδομένα της.</string>
+     <string name="uninstall_xspace_dialog_title_format">Απεγκατάσταση κλώνου \"%s\"</string>
      <string name="unknown_artist_name">Άγνωστος Καλλιτέχνης</string>
      <string name="unnamed_folder_name">Χωρίς όνομα</string>
      <string name="wallpaper">Ταπετσαρία</string>
      <string name="wallpaper_auto_change_title">Οθόνη κλειδώματος</string>
      <string name="wallpaper_failed_message">Αδυναμία εφαρμογής ταπετσαρίας</string>
      <string name="wallpaper_scaling_message">Αλλαγής κλίμακας για διόρθωση μεγέθους</string>
+     <string name="wallpaper_scroll_type_tips">Κύλιση ταπετσαρίας</string>
      <string name="wallpaper_settings">Ρυθμίσεις ταπετσαρίας</string>
      <string name="wallpaper_success_message">Επιτυχής εφαρμογή ταπετσαρίας</string>
      <string name="widget_favorite_contacts_edit">Επεξεργασία</string>

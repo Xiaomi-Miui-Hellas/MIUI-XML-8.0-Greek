@@ -116,7 +116,7 @@
      <string name="auto_handle_title">ΓΕΝΙΚΑ</string>
      <string name="back">Επιστροφή</string>
      <string name="background_traffic">Παρασκήνιο %s</string>
-     <string name="battery_capacity_title">Χωρητικότητα μπαταρίας</string>
+     <string name="battery_capacity_title">Χωρητικότητα</string>
      <string name="battery_charge_estimating">υπολογισμός…</string>
      <string name="battery_charge_full">Φορτίστηκε</string>
      <string name="battery_charging_prompt">Φορτίζει</string>
@@ -410,7 +410,7 @@
      <string name="handle_text_system">Σύστημα</string>
      <string name="header_info_scan_progress">%d%%</string>
      <string name="help_label">Βοήθεια</string>
-     <string name="hide_mode_app_background_setting_text">Εξοικονόμηση μπαταρίας εφαρμογών</string>
+     <string name="hide_mode_app_background_setting_text">Εξοικ.μπαταρίας εφαρμογών</string>
      <string name="hide_mode_summary_text">"Διαχείριση δραστηριοτήτων παρασκηνίου εφαρμογών για εξοικονόμηση μπαταρίας"</string>
      <string name="hide_mode_title_text">Λειτουργία απόκρυψης</string>
      <string name="hints_auto_start_warning_info">Από αποκλεισμένες εφαρμογές δεν θα λαμβάνετε μηνύματα</string>
@@ -1049,7 +1049,7 @@
      <string name="quick_optimize_no_issue">Χωρίς προβλήματα μπαταρίας</string>
      <string name="quick_optimize_no_issue_subtitle">Όλα είναι εντάξει</string>
      <string name="quick_optimize_no_issue_title">"Δεν υπάρχουν προβλήματα με την μπαταρία"</string>
-     <string name="quick_optimize_sub_summary_text">Προστέθηκε %s διάρκεια μπαταρίας</string>
+     <string name="quick_optimize_sub_summary_text">Προστέθηκαν %s διάρκεια μπαταρίας</string>
      <string name="reach_daily_limit_value_body">Μειώστε τη χρήση δεδομένων κινητής.</string>
      <string name="reach_daily_limit_value_body_open_traffic_saving">Πατήστε για ενεργοποίηση Εξοικονόμησης Δεδομένων.</string>
      <string name="reach_daily_limit_value_title">Το ημερήσιο όριο δεδομένων έχει επιτευχθεί</string>
