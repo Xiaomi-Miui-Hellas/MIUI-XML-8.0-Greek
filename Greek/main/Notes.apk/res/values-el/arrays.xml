@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="attachment_chooser">
+        <item>Κάμερα</item>
+        <item>Άλμπουμ</item>
+     </string-array>
      <string-array name="contact_entries">
         <item>Όνομα</item>
         <item>Ψευδώνυμο</item>
@@ -13,6 +17,10 @@
         <item>Διεύθυνση</item>
         <item>Σημείωση</item>
      </string-array>
+     <string-array name="folder_operations">
+        <item>Μετονομασία</item>
+        <item>Διαγραφή</item>
+     </string-array>
      <string-array name="font_size_names">
         <item>Μικρή</item>
         <item>Μεσαία</item>
@@ -20,11 +28,15 @@
         <item>Τεράστια</item>
      </string-array>
      <string-array name="welcome_notes_content">
+        <item>"Καλώς ήρθατε στις Σημειώσεις
+"</item>
         <item>"Πατήστε για να δημιουργήσετε μια σημείωση
 "</item>
-        <item>"Για να προσθέσετε μια εικόνα ή να εμφανίσετε τα πλαίσια ελέγχου, πατήστε το παρακάτω κουμπί
+        <item>"Επιλέξτε ένα όμορφο θέμα
 "</item>
-        <item>"Πατήστε και κρατήστε μια σημείωση για καρφίτσωμα, μετακίνηση ή διαγραφή
+        <item>"Δημιουργήστε ένα φάκελο σημειώσεων
+"</item>
+        <item>"Προστατέψτε τις προσωπικές σημειώσεις
 "</item>
         <item>"Και περισσότερες σπουδαίες δυνατότητες!
   - Συγχρονισμός με  Mi Cloud

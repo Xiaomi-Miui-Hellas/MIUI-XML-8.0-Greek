@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="app_check_title_text">
+        <item quantity="other">%d στοιχεία μπορούν να βελτιστοποιηθούν</item>
+        <item quantity="one">%d στοιχείο μπορεί να βελτιστοποιηθεί</item>
+     </plurals>
+     <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">Σε %1$d λεπτά</item>
+        <item quantity="one">Σε %1$d λεπτό</item>
+     </plurals>
      <plurals name="find_applications">
         <item quantity="other">Αναζήτηση μεταξύ %d εφαρμογών</item>
         <item quantity="one">Αναζήτηση μεταξύ %d εφαρμογής</item>
@@ -121,9 +129,37 @@
         <item quantity="other">"%d λεπτά "</item>
         <item quantity="one">"%d λεπτό "</item>
      </plurals>
+     <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d προβλήματα μπαταρίας</item>
+        <item quantity="one">%d πρόβλημα μπαταρίας</item>
+     </plurals>
+     <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Βρέθηκαν %d προβλήματα μπαταρίας</item>
+        <item quantity="one">Βρέθηκε %d πρόβλημα μπαταρίας</item>
+     </plurals>
+     <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Επιλύθηκαν %d προβλήματα μπαταρίας</item>
+        <item quantity="one">Επιλύθηκε %d πρόβλημα μπαταρίας</item>
+     </plurals>
      <plurals name="search_app_count_txt_na">
         <item quantity="other">Αναζήτηση %d εφαρμογών</item>
         <item quantity="one">Αναζήτηση %d εφαρμογής</item>
+     </plurals>
+     <plurals name="sp_back_title_text">
+        <item quantity="other">%s κίνδυνοι πληρωμών</item>
+        <item quantity="one">%s κίνδυνος πληρωμών</item>
+     </plurals>
+     <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s εφαρμογές πληρωμών είναι προστατευμένες</item>
+        <item quantity="one">%s εφαρμογή πληρωμών είναι προστατευμένη</item>
+     </plurals>
+     <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s εφαρμογές δεν είναι προστατευμένες</item>
+        <item quantity="one">%s εφαρμογή δεν είναι προστατευμένη</item>
+     </plurals>
+     <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s εφαρμογές είναι προστατευμένες</item>
+        <item quantity="one">%s εφαρμογή είναι προστατευμένη</item>
      </plurals>
      <plurals name="summary_app_update">
         <item quantity="other">Διαθέσιμες ενημερώσεις για %d εφαρμογές.</item>

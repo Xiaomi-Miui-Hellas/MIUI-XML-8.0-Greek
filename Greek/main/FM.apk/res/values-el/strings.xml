@@ -59,5 +59,9 @@
      <string name="turn_off_fm">Κλείσιμο</string>
      <string name="txt_divider">" | "</string>
      <string name="txt_sleep_mode">Λειτουργία αδράνειας</string>
+     <string name="using_recorder_cancel">Απόρριψη</string>
+     <string name="using_recorder_confirm">Συμφωνώ</string>
+     <string name="using_recorder_dialog_message">"Το FM ράδιο πρέπει να χρησιμοποιήσει τις υπηρεσίες εγγραφής της συσκευής σας για να λειτουργήσει κανονικά."</string>
+     <string name="using_recorder_dialog_title">Άδεια πρόσβασης</string>
      <string name="view_stations_list">Προβολή λίστας σταθμών</string>
 </resources>

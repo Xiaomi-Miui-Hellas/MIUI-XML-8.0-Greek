@@ -13,13 +13,6 @@
         <item>Δευτέρα έως Παρασκευή</item>
         <item>Προσαρμοσμένη</item>
      </string-array>
-     <string-array name="auto_memory_clean">
-        <item>Σε 1 λεπτό</item>
-        <item>Σε 5 λεπτά</item>
-        <item>Σε 10 λεπτά</item>
-        <item>Σε 30 λεπτά</item>
-        <item>Ποτέ</item>
-     </string-array>
      <string-array name="date_of_app">
         <item>Χθες (δεδομένα)</item>
         <item>Σήμερα (δεδομένα)</item>
@@ -81,29 +74,6 @@
         <item>Μετά από 10 λεπτά</item>
         <item>Μετά από 30 λεπτά</item>
         <item>Ποτέ</item>
-     </string-array>
-     <string-array name="power_dialog_cpu_state_items">
-        <item>Υψηλή απόδοση</item>
-        <item>Ισορροπημένη</item>
-     </string-array>
-     <string-array name="power_dialog_sleep_items">
-        <item>15 δευτερόλεπτα</item>
-        <item>30 δευτερόλεπτα</item>
-        <item>1 λεπτό</item>
-        <item>2 λεπτά</item>
-        <item>5 λεπτά</item>
-        <item>10 λεπτά</item>
-        <item>Ποτέ</item>
-     </string-array>
-     <string-array name="power_dialog_vibration_items">
-        <item>Ανενεργό</item>
-        <item>Όταν είναι αθόρυβο</item>
-        <item>Πάντα</item>
-     </string-array>
-     <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Ανενεργό</item>
-        <item>Ενεργό</item>
-        <item>Χωρίς αλλαγή</item>
      </string-array>
      <string-array name="roaming_apps_sorted_type">
         <item>Περισσότερη χρήση</item>
