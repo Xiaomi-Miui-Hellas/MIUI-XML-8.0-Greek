@@ -28,7 +28,7 @@
      <string name="ads_install_num" />
      <string name="ads_score_title" />
      <string name="app_name">Καιρός</string>
-     <string name="aqi_data_source">υποστηρίζεται από Caiyun Weather</string>
+     <string name="aqi_data_source">Υποστηρίζεται από Caiyun Weather</string>
      <string name="aqi_desc">Δείκτης Ποιότητας Αέρα</string>
      <string name="aqi_detail_24_hours">Ωριαία Πρόγνωση</string>
      <string name="aqi_detail_5_days">Ημερήσια Πρόγνωση</string>
@@ -66,7 +66,7 @@
      <string name="daily_forecast_detail_date">d/M</string>
      <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
      <string name="data_source_timezone">GMT%1$s</string>
-     <string name="edit_alert_city_title" />
+     <string name="edit_alert_city_title">Διαχείριση ειδοποιήσεων</string>
      <string name="edit_city">Αλλαγή</string>
      <string name="empty">" "</string>
      <string name="first_start_network_msg">Για να πάρετε τις πληροφορίες καιρού, θα πρέπει να συνδεθείτε στο Internet.</string>
@@ -145,9 +145,9 @@
      <string name="top_pollution_pm10">PM10</string>
      <string name="top_pollution_pm25">PM2.5</string>
      <string name="top_pollution_so2">SO2</string>
-     <string name="traffic_control_daty_after_tomorrow_numbers">Μεθαύριο: %1$s %2$s</string>
-     <string name="traffic_control_today_numbers">Σήμερα: %1$s %2$s</string>
-     <string name="traffic_control_tomorrow_numbers">Αύριο: %1$s %2$s</string>
+     <string name="traffic_control_daty_after_tomorrow_numbers">Μεθαύριο: %1$s</string>
+     <string name="traffic_control_today_numbers">Σήμερα: %1$s</string>
+     <string name="traffic_control_tomorrow_numbers">Αύριο: %1$s</string>
      <string name="traffic_controls">Έλεγχοι κυκλοφορίας</string>
      <string name="tts_report_aqi" />
      <string name="tts_report_city_name" />
