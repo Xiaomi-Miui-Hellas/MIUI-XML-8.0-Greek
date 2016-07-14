@@ -171,6 +171,7 @@
      <string name="btn_text_already_opened">Ενεργό</string>
      <string name="btn_text_cleanup_all">Καθαρίστε</string>
      <string name="btn_text_done">OK</string>
+     <string name="btn_text_goto_power_rank">Περισσότερα</string>
      <string name="btn_text_goto_setup">Πηγαίνετε στις Ρυθμίσεις</string>
      <string name="btn_text_network_speed_detail">Σύνδεση</string>
      <string name="btn_text_open_now">Ενεργοποίηση</string>
@@ -180,7 +181,7 @@
      <string name="btn_text_power_consume_suggest_optimize">Βελτιστοποίηση</string>
      <string name="btn_text_quick_cleanup">Καθαρισμός</string>
      <string name="btn_text_quick_optimize">Βελτιστοποίηση</string>
-     <string name="btn_text_quick_save_power">Δροσίστε</string>
+     <string name="btn_text_quick_save_power">Βελτιστοποίηση</string>
      <string name="btn_text_quick_scan">Ανάλυση</string>
      <string name="btn_text_start_check">Έλεγχος</string>
      <string name="btn_text_stop">Διακοπή</string>
@@ -193,6 +194,7 @@
      <string name="button_text_cleanup">Καθαρίστε</string>
      <string name="button_text_clear">Καθαρισμός</string>
      <string name="button_text_create_shortcut">Προσθήκη συντόμευσης</string>
+     <string name="button_text_deny">Απόρριψη</string>
      <string name="button_text_disconnect_now">Αποσύνδεση</string>
      <string name="button_text_fix">Διόρθωση</string>
      <string name="button_text_fix_now">Επιδιόρθωση</string>
@@ -218,6 +220,10 @@
      <string name="cancel">Ακύρωση</string>
      <string name="cancel_button">Ακύρωση</string>
      <string name="celcius_symbol">℃</string>
+     <string name="charging_text_battery_full_time">Τελευταία φόρτιση</string>
+     <string name="charging_text_battery_nearly_full">Σχεδόν φορτισμένη</string>
+     <string name="charging_text_battery_perfect">Πλήρως φορτισμένη</string>
+     <string name="charging_text_time_calculating">Υπολογισμός χρόνου φόρτισης…</string>
      <string name="chat_number">10 ώρες</string>
      <string name="chat_uint">" ώρες"</string>
      <string name="check_network_state">Δοκιμή δικτύου</string>
@@ -233,6 +239,8 @@
      <string name="connect_internet_by_usbshare">Κοινή χρήση Internet μέσω USB</string>
      <string name="connect_internet_by_wifi">Wi‑Fi</string>
      <string name="continue_install">Εγκατάσταση</string>
+     <string name="convenient_mode">Ξεκλειδώστε όλες τις εφαρμογές ταυτόχρονα</string>
+     <string name="convenient_summary">"Να μην απαιτείται κωδικός πρόσβασης μετά το ξεκλείδωμα μιας εφαρμογής"</string>
      <string name="correction_attention_dialog_message">Προσαρμογή των ρυθμίσεων τώρα. Περιμένετε μέχρι να ολοκληρωθεί η διαδικασία και προσπαθήστε ξανά.</string>
      <string name="cta_button_text_agree">OK</string>
      <string name="cta_button_text_cancel">Έξοδος</string>
@@ -939,6 +947,7 @@
      <string name="resource_cleanmaster">Cleaner</string>
      <string name="resource_monthreport">Αναφορά ασφαλείας</string>
      <string name="resource_networkassistant_1">Χρήση δεδομένων</string>
+     <string name="resource_networkassistant_2">Ρύθμιση προγράμματος δεδομένων</string>
      <string name="resource_networkassistant_4">Δοκιμή δικτύου</string>
      <string name="resource_permcenter">Δικαιώματα</string>
      <string name="resource_powercenter">Εξοικονόμηση μπαταρίας</string>
@@ -948,6 +957,11 @@
      <string name="result_autoscan_header">Παρακολούθηση πληρωμών</string>
      <string name="result_autoscan_info">Αυτόματη παρακολούθηση περιβάλλοντος συστήματος όταν ξεκινούν εφαρμογές πληρωμών</string>
      <string name="result_sign_header">Βρέθηκαν %d ανεπίσημες εφαρμογές</string>
+     <string name="result_sms_header">Ανιχνεύτηκαν κίνδυνοι στα Μηνύματα</string>
+     <string name="result_sms_info_antispam">Ενεργοποιείστε το Antispam για την προστασία της συσκευής από κακόβουλα URL</string>
+     <string name="result_sms_info_auth">Περιορισμός πρόσβασης εφαρμογών τρίτων στους κωδικούς επαλήθευσης.</string>
+     <string name="result_sms_title_antispam">Απειλές από κακόβουλα URL στα SMS</string>
+     <string name="result_sms_title_auth">Κίνδυνος διαρροής χρηματοοικονομικών SMS</string>
      <string name="result_virus_header">Βρέθηκαν %d ιοί και ανασφαλείς εφαρμογές</string>
      <string name="result_wifi_header">Ανιχνεύτηκαν κίνδυνοι Wi‑Fi</string>
      <string name="right_precent">100%</string>

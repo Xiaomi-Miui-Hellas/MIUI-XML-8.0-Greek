@@ -100,10 +100,10 @@
      <string name="information_views" />
      <string name="install">Εγκατάσταση</string>
      <string name="international_detail_menu_title">Λεπτομέρειες</string>
-     <string name="international_details_pressure_title">Πίεση</string>
+     <string name="international_details_pressure_title">ΠΙΕΣΗ</string>
      <string name="international_details_real_feel_title">ΑΙΣΘΗΣΗ ΣΑΝ®</string>
      <string name="international_details_title">Λεπτομέρειες</string>
-     <string name="international_details_uv_index_title">Δείκτης UV</string>
+     <string name="international_details_uv_index_title">ΔΕΙΚΤΗΣ UV</string>
      <string name="international_details_wind_connect">%1$s %2$s</string>
      <string name="international_details_wind_title">ΑΝΕΜΟΣ</string>
      <string name="locate_fail_detail_err">"Αδυναμία εντοπισμού συσκευής

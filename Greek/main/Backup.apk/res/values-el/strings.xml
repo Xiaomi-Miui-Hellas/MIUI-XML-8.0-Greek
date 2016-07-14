@@ -137,6 +137,7 @@
      <string name="miliao_account_login">Είσοδος στο MiTalk</string>
      <string name="mms_title">Μηνύματα πολυμέσων</string>
      <string name="multi_select_title">Επιλέχθηκαν %1$s αντικείμενα</string>
+     <string name="multi_user_mode_backup_message">"Αδύνατη η χρήση του Backup σε λειτουργία Multi-user. Απενεργοποιήστε την για να συνεχίσετε."</string>
      <string name="multi_user_mode_dialog_message">"Αδύνατη η χρήση της Μεταφοράς σε λειτουργία Multi-user. Απενεργοποιήστε την για να συνεχίσετε."</string>
      <string name="multi_user_mode_dialog_title">"Είστε σε λειτουργία Multi-user"</string>
      <string name="never">Ποτέ</string>

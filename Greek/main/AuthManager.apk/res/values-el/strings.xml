@@ -260,6 +260,7 @@
      <string name="Privacy_Perm_Count">%1$d επιτράπηκαν | %2$d απορρίφθηκαν</string>
      <string name="Su_Enable_Dialog">%1$s ζητά πρόσβαση root.</string>
      <string name="Su_Package_Forbidden">Το %1$s δεν έχει πρόσβαση root.</string>
+     <string name="Su_Package_Forbidden2">δεν έχει πρόσβαση root.</string>
      <string name="Su_Unavailable">Η πρόσβαση root δεν είναι διαθέσιμη σε αυτή την έκδοση του MIUI. Πρέπει να περάσετε μια developer έκδοση του MIUI προκειμένου να έχετε πρόσβαση root.</string>
      <string name="SysOpt_Boost_AutoStart">Αυτόματη εκκίνηση</string>
      <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
@@ -282,6 +283,7 @@
      <string name="permission_request_title">Αίτηση άδειας</string>
      <string name="permission_warning_template">Επιτρέπετε στο %1$s να %2$s;</string>
      <string name="permisson_reject_notice_toast_text">Το \"%1$s\" δεν έχει δικαίωμα να %2$s. Μπορείτε να αλλάξετε τα δικαιώματα της εφαρμογής οποιαδήποτε στιγμή στην Ασφάλεια > Δικαιώματα.</string>
+     <string name="permisson_reject_notice_toast_text2">δεν έχει δικαίωμα να %1$s.</string>
      <string name="screen_overlay_button">Άνοιγμα ρυθμίσεων</string>
      <string name="screen_overlay_message">Για να αλλάξετε αυτή τη ρύθμιση της άδειας, πρέπει πρώτα να απενεργοποιήσετε την επικάλυψη της οθόνης από το Ρυθμίσεις>Εφαρμογές</string>
      <string name="screen_overlay_title">Ανιχνεύτηκε επικάλυψη οθόνης</string>
