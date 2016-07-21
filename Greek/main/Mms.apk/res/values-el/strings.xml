@@ -19,6 +19,8 @@
      <string name="add_slide_hint">Πατήστε για δημιουργία νέας διαφάνειας</string>
      <string name="add_smiley">Χαμόγελα</string>
      <string name="add_timing">Χρόνος αποστολής</string>
+     <string name="add_to_browser_favorite_failed">Αδυναμία προσθήκης</string>
+     <string name="add_to_browser_favorite_success">Επιτυχής προσθήκη</string>
      <string name="add_video">Προσθήκη βίντεο</string>
      <string name="adding_attachments">Παρακαλώ περιμένετε ενώ τα στοιχεία προστίθενται στο slideshow.</string>
      <string name="adding_attachments_title">Προσθήκη συνημμένων</string>
@@ -44,10 +46,12 @@
      <string name="batch_deleting_progress_message">Διαγραφή…</string>
      <string name="bcc_label">"Bcc: "</string>
      <string name="block_messaging_entry_title">Αποκλεισμένα SMS</string>
+     <string name="block_support_text">Υποστηρίζεται από Antiy.</string>
      <string name="bookmark">Αγαπημένα</string>
      <string name="bookmark_confirm_delete_message">Αφαίρεση επιλεγμένων μηνυμάτων από τα αγαπημένα;</string>
      <string name="bookmark_empty">Δεν υπάρχουν αγαπημένα</string>
      <string name="bookmark_list_title">Αγαπημένα</string>
+     <string name="call_sender">Κλήση αποστολέα</string>
      <string name="cannot_add_picture_and_video">Δεν είναι δυνατή η προσθήκη βίντεο και εικόνας σε μία διαφάνεια.</string>
      <string name="cannot_add_slide_anymore">Δεν είναι δυνατή η προσθήκη περισσότερων διαφανειών.</string>
      <string name="cannot_forward_drm_obj">Το αντικείμενο DRM που περιλαμβάνεται στο μήνυμα δεν μπορεί να προωθηθεί.</string>
@@ -118,6 +122,9 @@
      <string name="delete_message">Διαγραφή</string>
      <string name="delete_phrase">Διαγραφή φράσης</string>
      <string name="delete_unlocked">Διαγραφή κλειδωμένων μηνυμάτων</string>
+     <string name="delete_wild_sims">Διαγραφή αριθμών</string>
+     <string name="delete_wild_sims_confirm">Όλα τα μηνύματα που ανήκουν στους επιλεγμένους αριθμούς θα διαγραφούν από το τηλέφωνο. Μπορείτε να τα επαναφέρετε στο i.mi.com.</string>
+     <string name="delete_wild_sims_title">Διαγραφή επιλεγμένων αριθμών</string>
      <string name="delivery_report_activity">Αναφορά παράδοσης</string>
      <string name="delivery_toast_body">Μήνυμα ελήφθη από %s</string>
      <string name="disable_notifications_dialog_message">Διακοπή διπλών ειδοποιήσεων μηνυμάτων κειμένου από την προεπιλεγμένη εφαρμογή μηνυμάτων;</string>
@@ -158,6 +165,11 @@
      <string name="exporting_progress_private_message">Εξαγωγή…</string>
      <string name="failed_to_add_media">Δεν μπορείτε να το προσθέσετε αυτό %1$s στο μήνυμά σας.</string>
      <string name="failed_to_resize_image">Η εικόνα δεν άλλαξε μέγεθός.</string>
+     <string name="fake_cell_alert_hint">Φαίνεται ότι αυτό το μήνυμα στάλθηκε από αριθμό τηλεφώνου διαφορετικό από αυτόν που εμφανίζεται. Να είστε προσεκτικοί με τα SMS που περιέχει οικονομικά αιτήματα.</string>
+     <string name="fake_cell_checking_hint">Έλεγχος ασφαλείας…</string>
+     <string name="fake_cell_detection_entry">Ανιχνεύτηκε ψεύτικος σταθμός βάσης</string>
+     <string name="fake_cell_safe_hint">Αυτό το μήνυμα είναι ασφαλές</string>
+     <string name="fake_cell_timeout_hint">"Αδυναμία ελέγχου ασφάλειας"</string>
      <string name="fdn_check_failure">Μπορείτε να στείλετε μηνύματα μόνο στους αριθμούς κλήσης συγκεκριμένων αριθμών.</string>
      <string name="feedback_description_hint">Παρακαλώ εισάγετε τα σχόλιά σας εδώ (στα Αγγλικά)</string>
      <string name="feedback_submit">Αποστολή</string>
@@ -175,6 +187,7 @@
      <string name="file_title">Όνομα:</string>
      <string name="file_width_height">Μέγεθος:</string>
      <string name="flatshow_page_no">%1$d</string>
+     <string name="force_touch_new_message_title">Νέο μήνυμα</string>
      <string name="forward_from">Προώθηση από:</string>
      <string name="forward_prefix">"Fwd: "</string>
      <string name="found_old_messages">Μεταφόρτωση μηνυμάτων από %1$s στο %2$s;</string>
@@ -196,6 +209,7 @@
      <string name="hms_add_image_progress_message">Επεξεργασία…</string>
      <string name="hms_first_use_tips">Για την λήψη μηνυμάτων υπηρεσίας, θα πρέπει να είστε συνδεδεμένοι σε δίκτυο Wi‑Fi</string>
      <string name="hms_uri_param_err">"Η παράμετρος \"id\" της διεύθυνσης URL του Mipub δεν μπορεί να είναι κενή"</string>
+     <string name="i_know">OK</string>
      <string name="importing_progress_private_message">Εισαγωγή…</string>
      <string name="in_sms">Μήνυμα</string>
      <string name="insufficient_drm_rights">Ανιχνεύτηκαν ανεπαρκή δικαιώματα DRM.</string>
@@ -329,6 +343,7 @@
      <string name="need_download">Συγχρονισμός…</string>
      <string name="networking_allow_continue">OK</string>
      <string name="networking_allow_desc">"Τα έξυπνα μηνύματα σας επιτρέπουν να στείλετε δωρεάν γραπτά μηνύματα και φωνή, αναγνωρίζουν άγνωστους αριθμούς, φιλτράρουν τα spam κλπ. Με τη χρήση αυτής της υπηρεσίας, συμφωνείτε με τα Xiaomi %1$s και %2$s. Θα πρέπει να ενεργοποιήσετε τον Χρυσό Οδηγό και να συνδεθείτε στο Internet για να χρησιμοποιήσετε αυτή την υπηρεσία."</string>
+     <string name="networking_allow_desc_without_mx">"Τα έξυπνα μηνύματα σας επιτρέπουν να αναγνωρίζετε άγνωστους αριθμούς, φιλτράρουν τα spam, κλπ. Με τη χρήση αυτής της υπηρεσίας συμφωνείτε με τα Xiaomi %1$s και %2$s. Θα πρέπει να ενεργοποιήσετε τον Χρυσό Οδηγό και να συνδεθείτε στο Internet για να χρησιμοποιήσετε αυτή την υπηρεσία."</string>
      <string name="networking_allow_title">Προσοχή</string>
      <string name="new_message">Νέο μήνυμα</string>
      <string name="new_message_arrived">Νέο μήνυμα ελήφθη</string>
@@ -360,7 +375,9 @@
      <string name="prefDefault_ringtone_repeat">1</string>
      <string name="pref_advanced_settings_title">Προχωρημένες ρυθμίσεις</string>
      <string name="pref_allow_network_access_summary">Ενεργοποιήστε το για να δείτε τις τελευταίες πληροφορίες σχετικά με την παράδοση και άλλες υπηρεσίες.</string>
+     <string name="pref_cell_broadcast">Εκπομπές κυψέλης</string>
      <string name="pref_collapse_sp_messages_summary">Ομαδοποίηση μηνυμάτων παρόχου στο ίδιο νήμα</string>
+     <string name="pref_delivery_ringtone">Ηχητική ειδοποίηση</string>
      <string name="pref_edit_smsc_address">Αριθμός του κέντρου SMS</string>
      <string name="pref_forward_title">Προώθηση</string>
      <string name="pref_key_mx_feedback">Υποβάλετε σχόλια</string>
@@ -376,6 +393,7 @@
      <string name="pref_summary_allow_si_sl_push">Να επιτρέψετε τη λήψη και την κοινοποίηση των μηνυμάτων WAP push (SI/SL)</string>
      <string name="pref_summary_delete_limit">%1$s μηνύματα ανά συνομιλία</string>
      <string name="pref_summary_delivery_reports">Εμφάνιση κατάστασης παράδοσης για κάθε μήνυμα που στέλνετε</string>
+     <string name="pref_summary_delivery_ringtone">Λήψη ηχητικής ειδοποίησης για απεσταλμένα μηνύματα.</string>
      <string name="pref_summary_hide_festival">Απόκρυψη χαρακτηριστικών Κινέζικης γλώσσας όταν το σύστημα τεθεί σε μη Κινέζικη γλώσσα</string>
      <string name="pref_summary_manage_sim_messages">Διαχείριση μηνυμάτων που είναι αποθηκευμένα στην κάρτα SIM σας</string>
      <string name="pref_summary_mms_auto_retrieval">Αυτόματη ανάκτηση μηνυμάτων MMS</string>
@@ -478,6 +496,8 @@
      <string name="search_label">Μηνύματα</string>
      <string name="search_setting_description">Κείμενο στα μηνύματά σας</string>
      <string name="search_show_more_results">Δείτε περισσότερα</string>
+     <string name="second_mms_introduction">Πηγαίνετε στο δεύτερο χώρο</string>
+     <string name="second_mms_switch">Αλλαγή</string>
      <string name="secs">δευτερόλεπτα</string>
      <string name="security_alert_desc">"Ο αποστολέας δεν είναι στις επαφές σας. "<u><font color="red">Αναφορά αυτού του αριθμού</font></u></string>
      <string name="security_alert_desc_highlight">Αναφορά αυτού του αριθμού</string>
@@ -514,6 +534,7 @@
      <string name="set">Ορισμός</string>
      <string name="share_img">Κοινή χρήση</string>
      <string name="show_all_messages">Δείτε όλα τα μηνύματα</string>
+     <string name="show_sender">Εμφάνιση πληροφοριών αποστολέα</string>
      <string name="sim_card1">Κάρτα SIM 1</string>
      <string name="sim_card2">Κάρτα SIM 2</string>
      <string name="sim_card_cloud">%s ((Mi Message)</string>
@@ -542,6 +563,7 @@
      <string name="sp_category_title_prefix">%s</string>
      <string name="sp_conversation_title">Ειδοποιήσεις</string>
      <string name="sp_mark_as_read">Σημείωση όλων των μηνυμάτων ως αναγνωσμένα;</string>
+     <string name="sp_mark_as_read_menu_title">Σήμανση ως αναγνωσμένα</string>
      <string name="sp_mark_as_read_progress">Επεξεργασία…</string>
      <string name="sp_mark_as_read_title">Σημειώστε όλων ως αναγνωσμένα</string>
      <string name="status_failed">Ανεπιτυχή</string>
@@ -609,6 +631,15 @@
      <string name="unstick_conversation">Ξεκαρφίτσωμα τρέχουσας συνομιλίας</string>
      <string name="unsticked_conversation">Ήδη αφαιρέθηκε το καρφίτσωμα</string>
      <string name="unsupported_media_format">Μη υποστηριζόμενος %1$s τύπος αρχείου.</string>
+     <string name="url_fraud_dangerous_alert">"Η ιστοσελίδα που προσπαθείτε να επισκεφθείτε ενδέχεται να είναι επικίνδυνη. Πιθανόν να προκαλέσει ζημιά στη συσκευή και τα δεδομένα σας. Θα την επισκεφθείτε ούτως ή άλλως;
+%s"</string>
+     <string name="url_fraud_insurance">Ασφαλιστική απάτη</string>
+     <string name="url_fraud_risky_alert">"Η ιστοσελίδα που προσπαθείτε να επισκεφθείτε ενδέχεται να είναι επικίνδυνη. Θα την επισκεφθείτε ούτως ή άλλως;
+%s"</string>
+     <string name="url_fraud_title">Η ιστοσελίδα μπορεί να είναι ψεύτικη</string>
+     <string name="url_fraud_visit"><u>Επίσκεψη ούτως ή άλλως</u></string>
+     <string name="url_result_safe">Αυτό το URL είναι ασφαλές</string>
+     <string name="url_scanning">Έλεγχος URL…</string>
      <string name="user_agreement1">Διαβάστε τους ισχύοντες όρους προσεκτικά πριν να εγκαταστήσετε πρόσθετο λογισμικό ή να χρησιμοποιήσετε αυτό το προϊόν.</string>
      <string name="user_agreement2">" Συμφωνία χρήσης"</string>
      <string name="user_agreement3">" και "</string>

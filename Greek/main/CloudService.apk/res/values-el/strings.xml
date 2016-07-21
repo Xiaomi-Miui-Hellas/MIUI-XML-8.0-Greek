@@ -438,7 +438,7 @@
      <string name="sync_dspt_provision_title">Mi Cloud</string>
      <string name="sync_item_calllog_summary">Συγχρονισμός αρχείων κλήσεων που έγιναν και ελήφθησαν σε αυτό το τηλέφωνο</string>
      <string name="sync_item_calllog_title">Συγχρονισμός αρχείων καταγραφής κλήσεων</string>
-     <string name="sync_item_sms_summary">Συγχρονισμός SMS που στάλθηκαν και ελήφθησαν αυτό το τηλέφωνο</string>
+     <string name="sync_item_sms_summary">Συγχρονισμός SMS που στάλθηκαν και ελήφθησαν από αυτό το τηλέφωνο</string>
      <string name="sync_item_sms_title">Συγχρονισμός μηνυμάτων</string>
      <string name="sync_off">Ανενεργό</string>
      <string name="sync_on">Ενεργό</string>
