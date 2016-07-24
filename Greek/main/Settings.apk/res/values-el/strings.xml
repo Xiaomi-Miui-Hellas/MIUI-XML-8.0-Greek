@@ -3077,7 +3077,7 @@
      <string name="security_settings_fingerprint_enroll_start_title">Ας αρχίσουμε!</string>
      <string name="security_settings_fingerprint_enroll_touch_dialog_message">Χρησιμοποιείστε τον αισθητήρα δακτυλικών αποτυπωμάτων της συσκευής σας.</string>
      <string name="security_settings_fingerprint_enroll_touch_dialog_title">Ωχ, αυτό δεν είναι ο αισθητήρας</string>
-     <string name="security_settings_fingerprint_preference_title">Δακτυλικό αποτύπωμα</string>
+     <string name="security_settings_fingerprint_preference_title">Δακτ.αποτύπωμα</string>
      <string name="security_settings_premium_sms_desc">Αποστολή premium SMS</string>
      <string name="security_settings_summary">Ορισμός της τοποθεσίας μου ξεκλειδώματος κλειδώματος κάρτας SIM και κλειδώματος αποθηκευτικού χώρου διαπιστευτηρίων</string>
      <string name="security_settings_title">Ασφάλεια</string>
