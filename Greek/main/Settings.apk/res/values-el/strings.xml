@@ -971,7 +971,7 @@
      <string name="data_usage_disable_mobile_limit">Ορισμός ορίου δεδομένων κινητής</string>
      <string name="data_usage_disable_wifi_limit">Ορισμός Wi‑Fi ορίου δεδομένων</string>
      <string name="data_usage_disclaimer">Τα στοιχεία χρεώσεων δεδομένων του φορέα μπορεί να διαφέρουν από αυτά στη συσκευή σας.</string>
-     <string name="data_usage_empty">Δεν υπάρχουν εφαρμογές που χρησιμοποιούνται τα δεδομένα κατά τη διάρκεια αυτής της περιόδου.</string>
+     <string name="data_usage_empty">Δεν υπάρχουν εφαρμογές που να χρησιμοποίησαν δεδομένα κατά τη διάρκεια αυτής της περιόδου.</string>
      <string name="data_usage_enable_3g">2G-3G δεδομένα</string>
      <string name="data_usage_enable_4g">4G δεδομένα</string>
      <string name="data_usage_enable_mobile">Δεδομένα κινητής τηλεφωνίας</string>
@@ -1397,10 +1397,10 @@
      <string name="extreme_threats_summary">Λήψη ειδοποιήσεων για ακραίες απειλές για τη ζωή και την περιουσία</string>
      <string name="extreme_threats_title">Ακραίες απειλές</string>
      <string name="factory_reset_summary">Διαγραφή όλων των δεδομένων από την εσωτερική μνήμη του τηλεφώνου σας</string>
-     <string name="failed_to_check_find_device_status_content">Αδυναμία ελέγχου κατάστασης του Εύρεση συσκευής. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
+     <string name="failed_to_check_find_device_status_content">Αδυναμία ελέγχου κατάστασης του Εύρεση συσκευής. Περιμένετε ένα με δύο λεπτά και δοκιμάστε ξανά.</string>
      <string name="failed_to_check_find_device_status_title">Αδυναμία ελέγχου κατάστασης του Εύρεση συσκευής</string>
      <string name="failed_to_open_app_settings_toast">Απέτυχε να ανοίξει τις ρυθμίσεις για %1$s</string>
-     <string name="failed_to_shut_down_find_device_content">"Αδυναμία απενεργοποίησης του Εύρεση συσκευής. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά."</string>
+     <string name="failed_to_shut_down_find_device_content">"Αδυναμία απενεργοποίησης του Εύρεση συσκευής. Περιμένετε ένα με δύο λεπτά και δοκιμάστε ξανά."</string>
      <string name="failed_to_shut_down_find_device_title">"Αδυναμία απενεργοποίησης του Εύρεση συσκευής"</string>
      <string name="fcc_equipment_id">ID Εξοπλισμού</string>
      <string name="filter">Φίλτρο</string>
@@ -1486,7 +1486,7 @@
      <string name="free_wifi_connect_dialog_summary">%1$s παρέχεται από %2$s.</string>
      <string name="free_wifi_connect_dialog_title">Διαθέσιμο Wi‑Fi</string>
      <string name="free_wifi_connect_fail">Δεν είναι δυνατή η σύνδεση με το δίκτυο. Ελέγξτε τη σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
-     <string name="free_wifi_connect_fail2">Δεν μπορείτε να εισέλθετε. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
+     <string name="free_wifi_connect_fail2">Δεν μπορείτε να εισέλθετε. Περιμένετε ένα με δύο λεπτά και προσπαθήστε ξανά.</string>
      <string name="free_wifi_connect_summary">Πατήστε για να συνδεθείτε με %1$s.</string>
      <string name="free_wifi_connect_title">Διαθέσιμο Wi‑Fi</string>
      <string name="free_wifi_connected">Συνδεδεμένο με δωρεάν Wi‑Fi</string>

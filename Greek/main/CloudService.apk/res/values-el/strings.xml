@@ -44,7 +44,7 @@
      <string name="cloud_find_device">Εύρεση συσκευής</string>
      <string name="cloud_restore_title">Επαναφορά από αντίγραφο</string>
      <string name="cloud_space_upgrade_message">Πατήστε για να προσθέσετε %sGB στο cloud σας</string>
-     <string name="cloud_space_upgrade_no_quota_info">Αποτυχία φόρτωσης. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
+     <string name="cloud_space_upgrade_no_quota_info">Αποτυχία φόρτωσης. Περιμένετε ένα με δύο λεπτά και δοκιμάστε ξανά.</string>
      <string name="cloud_space_upgrade_title">Περισσότερος χώρος για το Mi Cloud</string>
      <string name="cloudservice_new_sync">Συγχρονισμός %s με το Mi Cloud</string>
      <string name="cmcc_micloud_dspt">Χρησιμοποιήστε το Mi Cloud για να συγχρονίσετε τα δεδομένα, να εντοπίσετε τη συσκευή σας,</string>

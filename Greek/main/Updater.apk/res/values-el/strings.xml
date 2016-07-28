@@ -54,11 +54,14 @@
      <string name="continue_update_negative_btn">Συνέχεια</string>
      <string name="continue_update_positive_btn">Διακοπή</string>
      <string name="daily_build">Καθημερινή</string>
+     <string name="dialog_reboot_message">Το MIUI πρόκειται να ενημερωθεί. Αυτή η διαδικασία μπορεί να διαρκέσει 5-20 λεπτά. Κρατήστε τη συσκευή σας σε λειτουργία και μην κάνετε επανεκκίνηση όσο διαρκεί η ενημέρωση.</string>
+     <string name="dialog_reboot_title">Ενημέρωση συστήματος</string>
+     <string name="dialog_reboot_yes">Ενημέρωση</string>
      <string name="download_again">Προσπαθήστε ξανά</string>
      <string name="download_cancel">Ακύρωση</string>
      <string name="download_current_rom">Επανεκκίνηση για εφαρμογή της ενημέρωσης</string>
      <string name="download_diff">Λήψη διαφορών</string>
-     <string name="download_error">Κάτι πήγε στραβά. Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά.</string>
+     <string name="download_error">Κάτι πήγε στραβά. Περιμένετε ένα με δύο λεπτά και δοκιμάστε ξανά.</string>
      <string name="download_failed">Η λήψη απέτυχε</string>
      <string name="download_full">Πλήρης λήψη</string>
      <string name="download_success_reboot_immediately">Επανεκκίνηση για εφαρμογή της ενημέρωσης</string>
@@ -202,7 +205,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="unstable_build">Ασταθής</string>
      <string name="update_comment_hint" />
      <string name="update_comment_title">Σχόλιο</string>
-     <string name="update_downfull_no_info_sum">Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά.</string>
+     <string name="update_downfull_no_info_sum">Περιμένετε ένα με δύο λεπτά και δοκιμάστε ξανά.</string>
      <string name="update_downfull_no_info_title">Δεν είναι δυνατή η λήψη της ενημερωμένης έκδοσης</string>
      <string name="update_feedback">Βαθμολογήστε αυτή την ενημέρωση</string>
      <string name="update_feedback_end">Χάσατε την προθεσμία αυτής της εβδομάδας</string>

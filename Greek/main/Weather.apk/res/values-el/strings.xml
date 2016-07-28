@@ -27,6 +27,7 @@
      <string name="ads_extension" />
      <string name="ads_install_num" />
      <string name="ads_score_title" />
+     <string name="alert_warning">Ειδοποιήσεις καιρού</string>
      <string name="app_name">Καιρός</string>
      <string name="aqi_data_source">Υποστηρίζεται από Caiyun Weather</string>
      <string name="aqi_desc">Δείκτης Ποιότητας Αέρα</string>
@@ -41,6 +42,7 @@
      <string name="aqi_detail_sub_title">Λεπτομέρειες Δείκτη Ποιότητας Αέρα</string>
      <string name="aqi_detail_subtitle">AQI %1$s</string>
      <string name="aqi_detail_title">Δείκτης Ποιότητας Αέρα</string>
+     <string name="aqi_detail_unit">Μονάδα μέτρησης: µg/m³ (CO: mg/m³)</string>
      <string name="aqi_publish_source">Ενημερώθηκε την %1$s από CNEMC</string>
      <string name="aqi_publish_time">Ενημερώθηκε %1$s</string>
      <string name="aqi_short_desc">AQI %1$s</string>
@@ -58,6 +60,7 @@
      <string name="daily_forcast_drawer_on_top">Πρόβλεψη %1$s ημερών</string>
      <string name="daily_forcast_no_stable_direction">Άπνοια</string>
      <string name="daily_forcast_no_wind">Άπνοια</string>
+     <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
      <string name="daily_forcast_temperature_connect" />
      <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
      <string name="daily_forcast_weather_transfer">%1$s transfer %2$s</string>
@@ -75,6 +78,7 @@
      <string name="hour_minute_time_format">HH:mm</string>
      <string name="hourly_forcast_now">Τώρα</string>
      <string name="hourly_forecast_title">Ωριαία Πρόγνωση</string>
+     <string name="index_item_install_now">Εγκατάσταση τώρα</string>
      <string name="indices_desc_Precip1hr">%1$smm</string>
      <string name="indices_desc_feel">Αίσθηση σαν %1$s°C</string>
      <string name="indices_desc_feel_without_pic">%1$s°C</string>
@@ -96,6 +100,7 @@
      <string name="information_manager_information">Πληροφορίες καιρού</string>
      <string name="information_manager_wlan">Φόρτωση μόνο με σύνδεση Wi‑Fi</string>
      <string name="information_menu_title" />
+     <string name="information_set">Ρυθμίσεις αρχικής σελίδας</string>
      <string name="information_time_source">%1$s | %2$s</string>
      <string name="information_views" />
      <string name="install">Εγκατάσταση</string>
@@ -124,6 +129,12 @@
      <string name="realtime_aqi_title">Δείκτης Ποιότητας Αέρα</string>
      <string name="realtime_humidity_title">Σχετική Υγρασία</string>
      <string name="realtime_wind_default_title">Άνεμος</string>
+     <string name="retry">Προσπαθήστε ξανά</string>
+     <string name="set">Ρυθμίσεις</string>
+     <string name="set_degree_centigrade">°C</string>
+     <string name="set_fahrenheit">°F</string>
+     <string name="set_kilometre">Χμ/ω</string>
+     <string name="set_land_mile">mph</string>
      <string name="share">Κοινή χρήση</string>
      <string name="share_btn_cancel">Ακύρωση</string>
      <string name="share_btn_confirm">Κοινή χρήση</string>
@@ -158,6 +169,9 @@
      <string name="tts_report_weather_desc" />
      <string name="tts_report_wind" />
      <string name="twc_logo_title" />
+     <string name="unit">Μονάδα μέτρησης</string>
+     <string name="unit_temperature">Μονάδα μέτρησης θερμοκρασίας</string>
+     <string name="unit_wind">Μονάδα μέτρησης ανέμου</string>
      <string name="video_dialog_no_play" />
      <string name="video_dialog_play" />
      <string name="video_dialog_subtitle" />
@@ -166,5 +180,6 @@
      <string name="view_indexes_item_today">Σήμερα</string>
      <string name="view_indexes_item_tommorrow">Αύριο</string>
      <string name="weather_alert">Ειδοποιήσεις καιρού</string>
+     <string name="wind_miles_unit">%1$smph</string>
      <string name="wind_unit">%1$sΧμ/ω</string>
 </resources>

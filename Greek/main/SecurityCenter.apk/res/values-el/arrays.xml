@@ -97,12 +97,9 @@
      <string-array name="traffic_sort_type">
         <item>"Χρήση δεδομένων κινητής "</item>
         <item>"Χρήση Wi‑Fi "</item>
-        <item>"Εξοικονόμηση δεδομένων "</item>
-        <item>Πρόγραμμα δεδομένων Mi</item>
      </string-array>
      <string-array name="traffic_type">
         <item>"Χρήση δεδομένων "</item>
         <item>"Χρήση Wi‑Fi "</item>
-        <item>"Εξοικονόμηση δεδομένων "</item>
      </string-array>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="accessbility_suggestion_dropdown_opened">Οι προτάσεις επαφών άνοιξαν</string>
      <string name="accessibility_add_attendee">Προσθήκη επισκέπτη</string>
      <string name="accessibility_add_reminder">Προσθήκη ειδοποίησης</string>
      <string name="accessibility_all_day">Ολοήμερο γεγονός</string>
@@ -135,6 +136,8 @@
      <string name="event_hide_more">Απόκρυψη</string>
      <string name="event_info_descrip">"Περιγραφή: "</string>
      <string name="event_info_end">Τέλος\u0009\u0009\u0009</string>
+     <string name="event_info_from">Από</string>
+     <string name="event_info_jump_to_email">Μετάβαση στο mail</string>
      <string name="event_info_organizer">Organizer:</string>
      <string name="event_info_reminders_label">Υπενθυμίσεις</string>
      <string name="event_info_reminders_label_1">Υπενθύμιση</string>
@@ -146,9 +149,12 @@
      <string name="event_info_where">"Που: "</string>
      <string name="event_lunar_month">μήνας</string>
      <string name="event_show_more">Περισσότερες επιλογές</string>
+     <string name="event_title">Τίτλος</string>
      <string name="event_view">Προβολή γεγονότος</string>
      <string name="every_weekday">Κάθε εργάσιμη (Δευ-Παρ)</string>
      <string name="exist_calendar">Εγγεγραμμένα</string>
+     <string name="festival_detail_title">Φεστιβάλ</string>
+     <string name="force_touch_title_add_new_event">Προσθήκη γεγονότος</string>
      <string name="from_google_group_calendar">Ημερολόγιο Google</string>
      <string name="gadget_no_events">Χωρίς προσεχή ημερολογιακά γεγονότα</string>
      <string name="gadget_title">Ημερολόγιο</string>
@@ -158,9 +164,17 @@
      <string name="hint_description">Περιγραφή</string>
      <string name="hint_what">Περιεχόμενο υπενθύμισης γεγονότος</string>
      <string name="hint_where">Τοποθεσία</string>
+     <string name="holiday_card_title">Αργίες</string>
      <string name="huangli_bad_type">Αποφύγετε</string>
      <string name="huangli_good_type">Σε περίπτωση</string>
      <string name="huangli_label" />
+     <string name="image_content">Εικόνα</string>
+     <string name="insert_event_dialog_btn_negative">Όχι</string>
+     <string name="insert_event_dialog_btn_positive">Ναι</string>
+     <string name="insert_event_dialog_message">Προσθήκη γεγονότος στο ημερολόγιο;</string>
+     <string name="insert_event_dialog_title">Προσοχή</string>
+     <string name="insert_event_toast_add_failed">Αδυναμία προσθήκης</string>
+     <string name="insert_event_toast_add_success">Το γεγονός δημιουργήθηκε</string>
      <string name="jump_date">Άλμα</string>
      <string name="jump_date_full">Άλμα σε ημερομηνία</string>
      <string name="label_recent_events">Πρόσφατα γεγονότα</string>
@@ -171,6 +185,7 @@
      <string name="menu_about_preferences">Σχετικά με το Ημερολόγιο</string>
      <string name="menu_general_preferences">Γενικές ρυθμίσεις</string>
      <string name="menu_preferences">Ρυθμίσεις</string>
+     <string name="menu_reminder_preferences">Υπενθυμίσεις</string>
      <string name="menu_select_visible_calendars">Ημερολόγια για προβολή</string>
      <string name="miui_chinese_week_range_double" />
      <string name="miui_chinese_week_range_single" />
@@ -221,18 +236,23 @@
      <string name="preferences_alerts_ringtone_title">Ήχος</string>
      <string name="preferences_alerts_title">Ειδοποιήσεις</string>
      <string name="preferences_alerts_vibrateWhen_title">Δόνηση</string>
+     <string name="preferences_alerts_vibrate_title">Δόνηση και ήχος κλήσης</string>
      <string name="preferences_build_version">Έκδοση δημιουργίας</string>
      <string name="preferences_category_account_title">Λογαριασμός</string>
      <string name="preferences_category_general_title">Γενικά</string>
      <string name="preferences_clear_search_history_summary">"Αφαίρεση όλων των αναζητήσεών σας"</string>
      <string name="preferences_clear_search_history_title">Καθαρισμός ιστορικού αναζήτησης</string>
      <string name="preferences_default_reminder_default">10</string>
+     <string name="preferences_default_reminder_default_value">10</string>
      <string name="preferences_default_reminder_dialog">Προκαθορισμένος χρόνος υπενθύμισης</string>
      <string name="preferences_default_reminder_title">Προκαθορισμένος χρόνος υπενθύμισης</string>
      <string name="preferences_general_title">Ρυθμίσεις προβολής ημερολογίου</string>
      <string name="preferences_hide_declined_title">Απόκρυψη απορριφθέντων γεγονότων</string>
+     <string name="preferences_history_events">Εμφάνιση ιστορικού γεγονότων</string>
+     <string name="preferences_holidays">Εμφάνιση αργιών</string>
      <string name="preferences_home_tz_default">Αμερική/Λος Άντζελες</string>
      <string name="preferences_home_tz_title">Τοπική ζώνη ώρας</string>
+     <string name="preferences_notification_ringtone_title">Ήχος</string>
      <string name="preferences_reminder_title">Ειδοποιήσεις &amp; υπενθυμίσεις</string>
      <string name="preferences_show_week_num_title">Εμφάνιση αριθμού εβδομάδας</string>
      <string name="preferences_title">Ρυθμίσεις</string>
@@ -291,6 +311,9 @@
      <string name="select_synced_calendars_title">Ημερολόγια για συγχρονισμό</string>
      <string name="select_visible_calendars_title">Ημερολόγια για προβολή</string>
      <string name="set_as_wallpaper">Ορισμός ως ταπετσαρία</string>
+     <string name="setting_holiday">Αργίες</string>
+     <string name="setting_others">Άλλα</string>
+     <string name="settings_calendar">Ημερολόγιο</string>
      <string name="show_controls">Εμφάνιση ελέγχου</string>
      <string name="show_day_view">Εμφάνιση ημέρας</string>
      <string name="show_newer_events">Ακουμπήστε για δείτε γεγονότα μετά %1$s</string>
@@ -341,7 +364,7 @@
      <string name="travel_item_weather_forecast">Πρόγνωση προορισμού</string>
      <string name="travel_item_weather_now">Καιρικές συνθήκες προορισμού</string>
      <string name="travel_load_failed">"Αδυναμία φόρτωσης"</string>
-     <string name="travel_loaded">Powered by Veryzhun</string>
+     <string name="travel_loaded">Υποστηρίζεται από Veryzhun</string>
      <string name="travel_loading">Μισό λεπτό…</string>
      <string name="travel_local">Προορισμός</string>
      <string name="travel_seat_number_text">Κάθισμα</string>

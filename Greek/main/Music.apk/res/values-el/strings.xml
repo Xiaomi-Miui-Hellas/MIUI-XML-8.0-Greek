@@ -338,7 +338,7 @@
      <string name="in_searching_please_wait">Αναζήτηση, παρακαλώ περιμένετε</string>
      <string name="input_hint_prefix">Παρακαλώ εισάγετε %1$s</string>
      <string name="insufficient_space">"Δεν υπάρχει αρκετός χώρος στον εσωτερικό χώρο αποθήκευσης της συσκευής"</string>
-     <string name="is_loading_data">Φόρτωση τραγουδιών. Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά.</string>
+     <string name="is_loading_data">Φόρτωση τραγουδιών. Περιμένετε ένα με δύο λεπτά και δοκιμάστε ξανά.</string>
      <string name="is_scanning">Έλεγχος αποθ.χώρου…</string>
      <string name="is_scanning_support_online">"Έλεγχος αποθ.χώρου…
 (Εν τω μεταξύ, μπορείτε να κάνετε streaming μουσικής στο διαδίκτυο)"</string>
