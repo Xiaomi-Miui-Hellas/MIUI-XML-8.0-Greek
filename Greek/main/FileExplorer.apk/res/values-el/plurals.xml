@@ -8,6 +8,14 @@
         <item quantity="few">Θα διαγραφούν %1$d προσωρινά αρχεία βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφα ασφαλείας;</item>
         <item quantity="many">Θα διαγραφούν %1$d προσωρινά αρχεία βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφα ασφαλείας;</item>
      </plurals>
+     <plurals name="days">
+        <item quantity="other">%1$d ημέρες</item>
+        <item quantity="zero">%1$d ημέρες</item>
+        <item quantity="one">%1$d ημέρα</item>
+        <item quantity="two">%1$d ημέρες</item>
+        <item quantity="few">%1$d ημέρες</item>
+        <item quantity="many">%1$d ημέρες</item>
+     </plurals>
      <plurals name="days_ago">
         <item quantity="other">Πριν %1$d ημέρες</item>
         <item quantity="zero">Πριν %1$d ημέρες</item>
@@ -88,6 +96,14 @@
         <item quantity="few">%1$d αρχεία WeChat βίντεο θα λήξουν</item>
         <item quantity="many">%1$d αρχεία WeChat βίντεο θα λήξουν</item>
      </plurals>
+     <plurals name="follower_num">
+        <item quantity="other">ακόλουθοι</item>
+        <item quantity="zero">ακόλουθοι</item>
+        <item quantity="one">ακόλουθος</item>
+        <item quantity="two">ακόλουθοι</item>
+        <item quantity="few">ακόλουθοι</item>
+        <item quantity="many">ακόλουθοι</item>
+     </plurals>
      <plurals name="found_new_files">
         <item quantity="other">Βρέθηκαν %1$d νέα αρχεία</item>
         <item quantity="zero">Βρέθηκαν %1$d νέα αρχεία</item>
@@ -95,6 +111,14 @@
         <item quantity="two">Βρέθηκαν %1$d νέα αρχεία</item>
         <item quantity="few">Βρέθηκαν %1$d νέα αρχεία</item>
         <item quantity="many">Βρέθηκαν %1$d νέα αρχεία</item>
+     </plurals>
+     <plurals name="hours">
+        <item quantity="other">%1$d ώρες</item>
+        <item quantity="zero">%1$d ώρες</item>
+        <item quantity="one">%1$d ώρα</item>
+        <item quantity="two">%1$d ώρες</item>
+        <item quantity="few">%1$d ώρες</item>
+        <item quantity="many">%1$d ώρες</item>
      </plurals>
      <plurals name="hours_ago">
         <item quantity="other">Πριν %1$d ώρες</item>
@@ -120,6 +144,14 @@
         <item quantity="few"> (%1$d στοιχεία)</item>
         <item quantity="many"> (%1$d στοιχεία)</item>
      </plurals>
+     <plurals name="mins">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="zero">%1$d λεπτά</item>
+        <item quantity="one">%1$d λεπτό</item>
+        <item quantity="two">%1$d λεπτά</item>
+        <item quantity="few">%1$d λεπτά</item>
+        <item quantity="many">%1$d λεπτά</item>
+     </plurals>
      <plurals name="mins_ago">
         <item quantity="other">Πριν %1$d λεπτά</item>
         <item quantity="zero">Πριν %1$d λεπτά</item>
@@ -135,6 +167,14 @@
         <item quantity="two">%1$d επιλεγμένα</item>
         <item quantity="few">%1$d επιλεγμένα</item>
         <item quantity="many">%1$d επιλεγμένα</item>
+     </plurals>
+     <plurals name="number_of_comment">
+        <item quantity="other">%1$s σχόλια</item>
+        <item quantity="zero">%1$s σχόλια</item>
+        <item quantity="one">%1$s σχόλιο</item>
+        <item quantity="two">%1$s σχόλια</item>
+        <item quantity="few">%1$s σχόλια</item>
+        <item quantity="many">%1$s σχόλια</item>
      </plurals>
      <plurals name="remote_video_update">
         <item quantity="other">Found %1$d νέα βίντεο</item>
@@ -168,6 +208,14 @@
         <item quantity="few">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
         <item quantity="many">%1$s σχετικά αρχεία (%2$d στοιχεία)</item>
      </plurals>
+     <plurals name="seconds">
+        <item quantity="other">%1$d δευτερόλεπτα</item>
+        <item quantity="zero">%1$d δευτερόλεπτα</item>
+        <item quantity="one">%1$d δευτερόλεπτο</item>
+        <item quantity="two">%1$d δευτερόλεπτα</item>
+        <item quantity="few">%1$d δευτερόλεπτα</item>
+        <item quantity="many">%1$d δευτερόλεπτα</item>
+     </plurals>
      <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">%1$d αρχεία έμειναν για λήψη</item>
         <item quantity="zero">%1$d αρχεία έμειναν για λήψη</item>
@@ -175,6 +223,14 @@
         <item quantity="two">%1$d αρχεία έμειναν για λήψη</item>
         <item quantity="few">%1$d αρχεία έμειναν για λήψη</item>
         <item quantity="many">%1$d αρχεία έμειναν για λήψη</item>
+     </plurals>
+     <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">%1$d αρχεία έμειναν για αποστολή</item>
+        <item quantity="zero">%1$d αρχεία έμειναν για αποστολή</item>
+        <item quantity="one">%1$d αρχείο έμεινε για αποστολή</item>
+        <item quantity="two">%1$d αρχεία έμειναν για αποστολή</item>
+        <item quantity="few">%1$d αρχεία έμειναν για αποστολή</item>
+        <item quantity="many">%1$d αρχεία έμειναν για αποστολή</item>
      </plurals>
      <plurals name="ui_bar_txt_upload_progress">
         <item quantity="other">%1$d αρχεία έμειναν για αποστολή</item>
@@ -199,6 +255,14 @@
         <item quantity="two"> λήψεις</item>
         <item quantity="few"> λήψεις</item>
         <item quantity="many"> λήψεις</item>
+     </plurals>
+     <plurals name="video_count">
+        <item quantity="other">%1$s βίντεο</item>
+        <item quantity="zero">%1$s βίντεο</item>
+        <item quantity="one">%1$s βίντεο</item>
+        <item quantity="two">%1$s βίντεο</item>
+        <item quantity="few">%1$s βίντεο</item>
+        <item quantity="many">%1$s βίντεο</item>
      </plurals>
      <plurals name="video_num">
         <item quantity="other">%1$s βίντεο</item>

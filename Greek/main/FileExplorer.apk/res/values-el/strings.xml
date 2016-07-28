@@ -4,13 +4,18 @@
      <string name="account_login_title">Λογαριασμός</string>
      <string name="action_mode_deselect_all">Αποεπιλογή όλων</string>
      <string name="action_mode_select_all">Επιλογή όλων</string>
+     <string name="activity_parse_video_title">Επικόλληση URL</string>
      <string name="activity_rule">Κανόνες</string>
      <string name="ad_download">Λήψη</string>
      <string name="ad_downloading">Φόρτωση…</string>
+     <string name="add_one">+1</string>
      <string name="add_private">Προσθήκη αρχείων σε κρυφούς φακέλους</string>
      <string name="add_private_files">Προσθήκη αρχείων</string>
      <string name="add_task">Προσθήκη εργασιών</string>
      <string name="adding_upload_tasks">Πρόσθεση εργασίας…</string>
+     <string name="album_creator">Δημιουργήθηκε από %s</string>
+     <string name="album_name">Καθημερινές επιλογές: %s</string>
+     <string name="all_topic">Όλα τα θέματα</string>
      <string name="already_liked">"Είναι ήδη στα αγαπημένα"</string>
      <string name="already_signin_description">"Είστε ήδη συνδεδεμένος."</string>
      <string name="app_name">Αρχεία</string>
@@ -65,6 +70,7 @@
      <string name="category_favorite">Αγαπημένα</string>
      <string name="category_file">Αρχεία</string>
      <string name="category_files">Αρχεία</string>
+     <string name="category_kuaipan">KuaiPan</string>
      <string name="category_midrive">KuaiPan</string>
      <string name="category_music">Μουσική</string>
      <string name="category_other">Διάφορα</string>
@@ -77,7 +83,9 @@
      <string name="category_type_other">Άλλα</string>
      <string name="category_video">Βίντεο</string>
      <string name="category_zip">Συμπιεσμένα</string>
+     <string name="change_mobile_network_message">Εναλλαγή σε δεδομένα κινητής. Η χρήση δεδομένων κινητής για μεταφορά αρχείων μπορεί να επιφέρει επιπρόσθετες χρεώσεις.</string>
      <string name="change_sticker">Επιλέξτε ένα άλλο</string>
+     <string name="choose_report_comment_reason">Γιατί αναφέρετε αυτό το σχόλιο;</string>
      <string name="choose_report_reason">Γιατί το αναφέρετε αυτό;</string>
      <string name="choose_send_type">Επιλογή τρόπου αποστολής</string>
      <string name="choose_upload_location">Αποστολή σε φάκελο του KuaiPan</string>
@@ -87,6 +95,10 @@
      <string name="clean_trash_box">Άδειασμα κάδου ανακύκλωσης</string>
      <string name="click_to_switch_volume">Πατήστε εδώ για εναλλαγή μεταξύ της εσωτερικής αποθήκευσης και της κάρτας SD</string>
      <string name="close">Κλείσιμο</string>
+     <string name="comment_delete_message">Το σχόλιο θα διαγραφεί μόνιμα.</string>
+     <string name="comment_delete_title">Διαγραφή σχολίου</string>
+     <string name="comment_hint">Προσθήκη σχολίου</string>
+     <string name="comment_reply">Απάντηση %1$s: </string>
      <string name="compress_fail">Αποτυχία συμπίεσης: υπάρχει ήδη ένα αρχείο με ίδιο όνομα.</string>
      <string name="compress_fail_unknown">"Αδυναμία συμπίεσης. Ο χώρος αποθήκευσης είναι πλήρης ή παρουσιάστηκε άγνωστο σφάλμα."</string>
      <string name="compress_message">Συμπίεση σε…</string>
@@ -97,15 +109,19 @@
      <string name="connect_network_setting_des">Υπενθύμιση κατά την πρόσβαση δικτύου</string>
      <string name="connecting">Σύνδεση…</string>
      <string name="connection_error">"Αδυναμία σύνδεσης"</string>
+     <string name="copied">Αντιγράφτηκε</string>
      <string name="copy_failed">Η αντιγραφή απέτυχε</string>
+     <string name="copy_failed_retry">Αδυναμία αντιγραφής. Περιμένετε %1$s και προσπαθήστε ξανά</string>
      <string name="copy_file_to_kuaipan">Αντιγραφή αρχείου στο Kuaipan</string>
+     <string name="copy_file_to_midrive">Αντιγραφή αρχείου στο Mi Drive</string>
+     <string name="copy_text">Αντιγραφή κειμένου</string>
      <string name="copy_to">Αντιγραφή στο…</string>
      <string name="create_kuaipan_shortcut_pref">Τοποθέτηση στην αρχική οθόνη</string>
      <string name="create_new_folder_desctiption">Δημιουργία φακέλου…</string>
      <string name="create_new_folder_failed">Αποτυχία δημιουργίας φακέλου</string>
      <string name="create_share_link_description">Δημιουργία συνδέσμου…</string>
      <string name="cution">Συμβουλές</string>
-     <string name="data_capacity">Διαθ χώρος %1$s</string>
+     <string name="data_capacity">Διαθ.χώρος %1$s</string>
      <string name="data_consumption_cancel">Έξοδος</string>
      <string name="data_consumption_checkbox_hint">"Να μην εμφανιστεί ξανά"</string>
      <string name="data_consumption_confirm">OK</string>
@@ -130,12 +146,14 @@
      <string name="delete_dialog_button">Διαγραφή</string>
      <string name="delete_error">"Αδύνατη η διαγραφή αρχείων. Δοκιμάστε ξανά"</string>
      <string name="delete_failed">Αποτυχία διαγραφής</string>
+     <string name="delete_failed_retry">Αδυναμία διαγραφής. Περιμένετε %1$s και προσπαθήστε ξανά</string>
      <string name="delete_file">Διαγραφή του αρχείου;</string>
      <string name="delete_file_error">"Αδυναμία διαγραφής αρχείου"</string>
      <string name="delete_files">Διαγραφή %1$d αρχείων;</string>
      <string name="delete_folder">Διαγραφή αυτού του αρχείου;</string>
      <string name="delete_folders">Διαγραφή %1$d;</string>
      <string name="delete_selected_tasks">Διαγραφή επιλεγμένων;</string>
+     <string name="delete_success">Το αρχείο διαγράφηκε</string>
      <string name="delete_video">Διαγραφή</string>
      <string name="delete_video_dialog_tip">"Δεν θα μπορείτε να επαναφέρετε το βίντεο αφού το διαγράψετε."</string>
      <string name="delete_video_dialog_title">Διαγραφή βίντεο</string>
@@ -158,7 +176,13 @@
      <string name="downloaded_sticker_str">Έχει ληφθεί</string>
      <string name="downloading">Λαμβάνει…</string>
      <string name="downloading_in_3g">Λήψη με 3G…</string>
+     <string name="drive_closed">Δεν έχετε συνδεθεί</string>
+     <string name="drive_opened">Συνδεδεμένο</string>
+     <string name="editor_commend">Επεξεργασία</string>
      <string name="email_platform">Email</string>
+     <string name="empty_comment">Τα σχόλια δεν μπορεί να είναι κενά</string>
+     <string name="empty_file_download">Δεν είναι δυνατή η λήψη κενών αρχείων</string>
+     <string name="empty_file_upload">Δεν είναι δυνατή η αποστολή κενών αρχείων</string>
      <string name="enable_documentsui">Ενεργοποιείστε πρώτα το %s στις Ρυθμίσεις > Εφαρμογές</string>
      <string name="enable_sd_card">Εισάγετε κάρτα SD ή ακυρώστε την μαζική αποθήκευση USB.</string>
      <string name="enable_usb">Συνδέστε τη συσκευή USB</string>
@@ -189,7 +213,7 @@
      <string name="file_info_modified">Τροποποίηση :</string>
      <string name="file_info_size">Μέγεθος :</string>
      <string name="file_loading">Φορτώνει…</string>
-     <string name="file_name_invalid">"Τα ονόματα των αρχείων δεν μπορούν να περιέχουν τους παρακάτω χαρακτήρες: /\\:*?&lt;>"</string>
+     <string name="file_name_invalid">Τα ονόματα των αρχείων δεν μπορεί να περιέχουν τους εξής χαρακτήρες: /\\:*?&lt;></string>
      <string name="file_not_exist">το αρχείο δεν υπάρχει</string>
      <string name="file_too_large">Αποτυχία αποστολής: πολύ μεγάλο αρχείο.</string>
      <string name="files">Αρχεία</string>
@@ -197,6 +221,9 @@
      <string name="folder_exist">Ο φάκελος ήδη υπάρχει</string>
      <string name="folder_name_empty">Το όνομα φακέλου δεν μπορεί να είναι κενό</string>
      <string name="folder_name_illegal">μη έγκυρο όνομα φακέλου</string>
+     <string name="folder_name_invalid">Τα ονόματα των φακέλων δεν μπορεί να περιέχουν τους εξής χαρακτήρες: /\\:*?&lt;></string>
+     <string name="force_touch_clean">Καθαρισμός</string>
+     <string name="force_touch_search">Αναζήτηση αρχείων</string>
      <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Αγγίξτε&lt;/a>για να πάει στον κάδο ανακύκλωσης</string>
      <string name="found_router">Το router συνδέθηκε</string>
      <string name="found_usb">Η συσκευή αποθήκευσης USB συνδέθηκε</string>
@@ -211,6 +238,7 @@
      <string name="ftp_username_hint">Όνομα χρήστη</string>
      <string name="gbk_summary">Απλοποιημένη Κινέζικη κωδικοποίηση Windows</string>
      <string name="gbk_title">GBK</string>
+     <string name="get_user_info_err">Αδυναμία λήψης πληροφοριών για αυτό το χρήστη</string>
      <string name="get_verification_code_fail">"Αδυναμία λήψης κωδικού επαλήθευσης"</string>
      <string name="gigabyteShort">GB</string>
      <string name="good_tip">Μπράβο!</string>
@@ -222,8 +250,10 @@
      <string name="homepage_tab_category">Κατηγορίες</string>
      <string name="homepage_tab_file_view">Τηλέφωνο</string>
      <string name="homepage_tab_recent">Πρόσφατα</string>
+     <string name="hot_comments">Δημοφιλή σχόλια</string>
      <string name="hot_sticker">Δημοφιλή αυτοκόλλητα</string>
      <string name="hot_video">Δημοφιλή βίντεο</string>
+     <string name="hot_video_load_more">Περισσότερα ></string>
      <string name="hottest_sticker_str">Δημοφιλή</string>
      <string name="if_cancel">Ακύρωση λειτουργίας;</string>
      <string name="image_loading_error">"Αδυναμία φόρτωσης εικόνας"</string>
@@ -231,6 +261,8 @@
      <string name="installing">Εγκατάσταση…</string>
      <string name="instruction">Εισάγετε την παρακάτω διεύθυνση στον FTP Client </string>
      <string name="instruction_pre">Αγγίξτε για να ξεκινήσει ο διακομιστής FTP</string>
+     <string name="interest_recommend">Προτεινόμενα βίντεο</string>
+     <string name="join_activity">Συμμετοχή</string>
      <string name="just_now">Μόλις τώρα</string>
      <string name="kilobyteShort">KB</string>
      <string name="kp_category_all">Κατηγορία</string>
@@ -247,8 +279,6 @@
      <string name="kuaipan_delete_success">Η φωτογραφία διαγράφηκε</string>
      <string name="kuaipan_info">Αρχεία KuaiPan</string>
      <string name="kuaipan_label">Kuaipan</string>
-     <string name="kuaipan_logged_in">Συνδεδεμένο</string>
-     <string name="kuaipan_not_logged_in">Δεν έχετε συνδεθεί</string>
      <string name="kuaipan_over_space">Έλλειψη χώρου</string>
      <string name="kuaipan_photo_folder_divider">,</string>
      <string name="kuaipan_photo_locate">Εντοπίστηκε %1$s</string>
@@ -279,6 +309,7 @@
      <string name="login_reg_content">"Αποθήκευση αρχείων και συγχρονισμός σε πολλαπλές συσκευές,
 απαιτείται σύνδεση δικτύου."</string>
      <string name="login_reg_content0">Χρήση του Kuaipan από παντού.</string>
+     <string name="login_reg_content1">Χρησιμοποιείστε το Mi Drive από οπουδήποτε.</string>
      <string name="login_success_tip">Επιτυχής σύνδεση</string>
      <string name="login_tip">Μοιραστείτε βίντεο με δημοφιλή θέματα για να κερδίσετε βραβεία</string>
      <string name="make_private">Ιδιωτικό</string>
@@ -300,12 +331,40 @@
      <string name="menu_item_sort_type">Τύπο</string>
      <string name="menu_item_usb">USB</string>
      <string name="menu_list_name">Μενού</string>
+     <string name="message_comment_prefix">"Σχόλιο: "</string>
+     <string name="message_my_received_praise">Τα like μου</string>
+     <string name="message_my_received_praise_count">+%1$s</string>
+     <string name="message_praise_comment">" σας αρέσει αυτό το σχόλιο"</string>
+     <string name="message_praise_video">" σας αρέσει αυτό το βίντεο"</string>
+     <string name="message_reply_prefix">Απάντηση</string>
+     <string name="message_reply_suffix">": "</string>
+     <string name="message_title">Τα μηνύματά μου</string>
      <string name="mi_router_label">Mi Router</string>
+     <string name="midrive_network_connect_confirm">Το Mi Drive χρειάζεται να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>
+     <string name="midrive_space_full">Δεν υπάρχει αρκετός χώρος στο Mi Drive</string>
+     <string name="midrive_welcome_message">Τα KuaiPan αρχεία σας έχουν μεταφερθεί επιτυχώς στο Mi Drive. Σας δίνουμε μια τρίμηνη συμπληρωματική συνδρομή Mi Cloud. Το Mi Cloud και το Mi Drive χρησιμοποιούν τον ίδιο αποθηκευτικό χώρο. Μπορείτε να έχετε πρόσβαση στα αρχεία σας στο i.mi.com.</string>
+     <string name="midrive_welcome_title">Καλωσορίσατε στο Mi Drive</string>
      <string name="midrop_msg_1">Ενεργοποιήστε το Mi Drop στην άλλη συσκευή</string>
      <string name="midrop_msg_2">Όταν το Mi Drop είναι ενεργό, μπορείτε να αναζητήσετε συσκευές σε κοντινή απόσταση και να στείλετε αρχεία</string>
      <string name="midrop_send_files">Επιλέξτε αρχεία για αποστολή</string>
      <string name="migrate_announcement_msg">Συγχρονίστε τον λογαριασμό στο KuaiPan με το λογαριασμό της Mi από τις ρυθμίσεις KuaiPan.</string>
      <string name="migrate_announcement_title">Ολοκλήρωση μετεγκατάστασης</string>
+     <string name="migrate_cancel">Ακύρωση</string>
+     <string name="migrate_confirm">Μεταφορά</string>
+     <string name="migrate_failed_confirm">Τα κατάλαβα</string>
+     <string name="migrate_failed_msg">Κάτι πήγε στραβά. Μεταφέρετε τα αρχεία σας χειροκίνητα. &lt;a href=http://www.kuaipan.cn>Πατήστε εδώ για προβολή&lt;/a></string>
+     <string name="migrate_failed_title">Αδυναμία μεταφοράς αρχείων</string>
+     <string name="migrate_failed_toast">Κάτι πήγε στραβά. Μεταφέρετε τα αρχεία σας χειροκίνητα. &lt;a href=http://www.kuaipan.cn>Πατήστε εδώ για προβολή&lt;/a></string>
+     <string name="migrate_hint">Σημαντικό: Το KuaiPan αντικαθίσταται από το Mi Drive. Πατήστε για να μεταφέρετε τα αρχεία σας τώρα.</string>
+     <string name="migrate_note">Σημαντικό: Το KuaiPan αντικαθίσταται από το Mi Drive. Μεταφέρετε τα αρχεία σας τώρα.</string>
+     <string name="migrate_runing">Μεταφορά αρχείων… Ελάτε ξανά αργότερα.</string>
+     <string name="migrate_success_cancel">Το κατάλαβα</string>
+     <string name="migrate_success_confirm">Ελέγξτε το</string>
+     <string name="migrate_success_msg">Όλα τα αρχεία σας έχουν μεταφερθεί επιτυχώς από το KuaiPan στο Mi Drive.</string>
+     <string name="migrate_success_title">Επιτυχής μεταφορά</string>
+     <string name="migrate_update_confirm">Δοκιμάστε τώρα</string>
+     <string name="migrate_update_msg">Το KuaiPan έχει αντικατασταθεί με το Mi Drive για να σας παρέχει καλύτερη εμπειρία χρήστη.</string>
+     <string name="migrate_update_title">Το KuaiPan έχει αντικατασταθεί με το Mi Drive</string>
      <string name="mobile_network_dialog_cancle">Ακύρωση</string>
      <string name="mobile_network_dialog_confirm">OK</string>
      <string name="mobile_network_dialog_tip">Χρησιμοποιώντας τα δεδομένα κινητής για να παρακολουθήσετε βίντεο μπορεί να οδηγήσει σε υψηλότερες χρεώσεις.</string>
@@ -316,6 +375,7 @@
      <string name="mobile_photo_desc" />
      <string name="month_day_format">dd MMM</string>
      <string name="move_failed">Αδυναμία αποκοπής</string>
+     <string name="move_failed_retry">Αδυναμία αποκοπής. Περιμένετε %1$s και δοκιμάστε ξανά</string>
      <string name="move_icon_to_desktop_hint">Δημιουργήστε μια συντόμευση για τον Explorer στην Αρχική οθόνη, για να διαχειριστείτε τα αρχεία πιο αποτελεσματικά.</string>
      <string name="move_icon_to_desktop_success">Τώρα μπορείτε να βρείτε την συντόμευση του Explorer στην Αρχική οθόνη.</string>
      <string name="move_to">Μετακίνηση σε…</string>
@@ -358,6 +418,7 @@
      <string name="network_spent_reminding">Το άνοιγμα αυτής της σελίδας απαιτεί κίνηση από το πρόγραμμα δεδομένων σας.</string>
      <string name="network_spent_reminding_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="never_notify_network_connect">"Να μην εμφανιστεί ξανά"</string>
+     <string name="new_comments">Νέα σχόλια</string>
      <string name="new_folder_name">Ανώνυμος φάκελος</string>
      <string name="new_function">Σχετικά με τους ιδιωτικούς φακέλους</string>
      <string name="new_function_info">"Ο ιδιωτικός φάκελος, είναι ένα νέο χαρακτηριστικό MIUI.
@@ -372,6 +433,7 @@
      <string name="no">Όχι</string>
      <string name="no_apk">Πατήστε για να δείτε τις δημοφιλέστερες εφαρμογές.</string>
      <string name="no_app_tags">Κενό</string>
+     <string name="no_comment">Χωρίς σχόλια</string>
      <string name="no_display_file">"Αδυναμία προβολής %1$s"</string>
      <string name="no_downloaded_sticker_tip">"Αδυναμία εύρεσης των ληφθέντων αυτοκόλλητων. Ελέγξτε τα αυτοκόλλητα που μοιράζονται από οπαδούς Mi."</string>
      <string name="no_enough_storage_indication">"Ο χώρος της συσκευής είναι γεμάτος."</string>
@@ -380,6 +442,7 @@
      <string name="no_local_sticker_tip">"Αδυναμία εύρεσης των ληφθέντων αυτοκόλλητων. Ελέγξτε τα αυτοκόλλητα που μοιράζονται από οπαδούς Mi."</string>
      <string name="no_login_btn_text">Σύνδεση</string>
      <string name="no_login_tip">Μοιραστείτε βίντεο με δημοφιλή θέματα για να κερδίσετε βραβεία</string>
+     <string name="no_message">Χωρίς μηνύματα</string>
      <string name="no_more_space">Λίγος χώρος</string>
      <string name="no_network_retry">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεση και προσπαθήστε ξανά."</string>
      <string name="no_network_str">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεση δικτύου σας και δοκιμάστε ξανά."</string>
@@ -387,6 +450,8 @@
      <string name="no_new_content_tip">Όλα τα στοιχεία είναι ενημερωμένα</string>
      <string name="no_recent_files">Δεν υπάρχουν πρόσφατα αρχεία</string>
      <string name="no_tasks">Χωρίς εργασίες</string>
+     <string name="no_topic">Χωρίς θέματα</string>
+     <string name="no_topic_found">Αδυναμία εύρεσης θεμάτων</string>
      <string name="no_wifi">Δεν υπάρχει δίκτυο Wi‑Fi</string>
      <string name="no_wifi_hint">Δε βρέθηκε σύνδεση Wi‑Fi</string>
      <string name="not_installed_documentsui">To DocumentsUI (Έγγραφα) δεν έχει εγκατασταθεί</string>
@@ -453,6 +518,7 @@
      <string name="operation_refresh">Ανανέωση</string>
      <string name="operation_rename">Μετονομασία</string>
      <string name="operation_rename_message">Εισαγωγή νέου ονόματος</string>
+     <string name="operation_reply">Σχόλιο</string>
      <string name="operation_resume">Εκκίνηση</string>
      <string name="operation_resume_all">Συνέχιση όλων</string>
      <string name="operation_save">αποθήκευση</string>
@@ -461,6 +527,10 @@
      <string name="operation_show_sys">Εμφάνιση κρυφών αρχείων</string>
      <string name="operation_unfavorite">Αφαίρεση από τα Αγαπημένα</string>
      <string name="operation_unlike">Κατάργηση αγαπημένου</string>
+     <string name="origin_name">%1$s: </string>
+     <string name="other_user_liked_topic_tip">Δεν ακολουθείτε κάποιο από τα θέματα τώρα</string>
+     <string name="other_user_topic_tab">Θέματα</string>
+     <string name="other_user_video_tab">Βίντεο</string>
      <string name="pan_settting">Ρυθμίσεις KuaiPan</string>
      <string name="partial_cancel_successful">"Αδυναμία αφαίρεσης ορισμένων αρχείων. Τα υπόλοιπα αρχεία μεταφέρθηκαν στο %s"</string>
      <string name="partial_delete_failure">"Αδυναμία αφαίρεσης ορισμένων αρχείων. Δοκιμάστε ξανά"</string>
@@ -512,7 +582,9 @@
      <string name="pull_to_signin">Σύρετε προς τα κάτω για να συνδεθείτε.</string>
      <string name="qq_not_installed">"Το QQ δεν έχει εγκατασταθεί"</string>
      <string name="qq_platform">QQ</string>
+     <string name="quota_info">Mi Drive: %1$s διαθέσιμα, %2$s σύνολο</string>
      <string name="qzone_platform">Qzone</string>
+     <string name="recommend">Προτεινόμενα</string>
      <string name="release_to_signin">Απελευθέρωση σύνδεσης</string>
      <string name="remote_video_no_network">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεση και προσπαθήστε ξανά."</string>
      <string name="remote_video_report_success">"Ευχαριστούμε για τα σχόλιά σας! Θα τα εξετάσουμε το συντομότερο δυνατό."</string>
@@ -524,6 +596,7 @@
      <string name="repair_error">"Αδυναμία επαναφοράς"</string>
      <string name="repair_file">Επαναφορά κρυπτογραφημένων αρχείων</string>
      <string name="repeat_upload_video">Αυτό το βίντεο έχει ήδη διαμοιραστεί. Διαλέξτε ένα άλλο.</string>
+     <string name="reply_success">Το σχόλιο προστέθηκε</string>
      <string name="report_abuse">Υβριστικό</string>
      <string name="report_advertisement">Διαφήμιση</string>
      <string name="report_other">Άλλο</string>
@@ -543,6 +616,7 @@
      <string name="sd_card_available">Διαθέσιμα: %1$s</string>
      <string name="sd_card_size">Κάρτα SD: %1$s</string>
      <string name="sd_full">"Ο εσωτερικός χώρος της συσκευής σας είναι γεμάτος"</string>
+     <string name="sd_invalid">Αδυναμία χρήσης κάρτας SD</string>
      <string name="sdcard">Κάρτα SD</string>
      <string name="sdcard_available">Διαθέσιμα %1$s</string>
      <string name="sdcard_total">Σύνολο %1$s</string>
@@ -582,8 +656,10 @@
      <string name="select_image">Επιλέξτε φωτογραφίες</string>
      <string name="select_music">Επιλέξτε τραγούδια</string>
      <string name="select_video">Επιλέξτε βίντεο</string>
+     <string name="send_comment">Αποστολή</string>
+     <string name="send_error">Αδυναμία προσθήκης σχολίου</string>
      <string name="send_sticker">Αποστολή αυτοκόλλητου</string>
-     <string name="send_to_midrive">KuaiPan</string>
+     <string name="send_to_kuaipan">KuaiPan</string>
      <string name="send_to_midrive_failed_message">Ο τύπος του αρχείου δεν υποστηρίζεται</string>
      <string name="send_to_qq">Αποστολή στο QQ</string>
      <string name="send_to_weixin">αποστολή στο WeChat</string>
@@ -623,6 +699,7 @@
      <string name="stay_awake_summary">Η οθόνη μένει ενεργή κατά τη χρήση του FTP</string>
      <string name="stay_awake_title">Ενεργή οθόνη</string>
      <string name="stop_server">Διακοπή Υπηρεσίας</string>
+     <string name="storage_cloned_app">Αποθ.χώρος για τις διπλές εφαρμογές</string>
      <string name="storage_info">%1$s διαθέσιμα</string>
      <string name="storage_info_detail">Διαθέσιμα:%1$s Σύνολο:%1$s</string>
      <string name="storage_internal">Εσωτερική μνήμη</string>
@@ -654,6 +731,7 @@
      <string name="tab_storage">ΑΠΟΘΗΚΕΥΣΗ</string>
      <string name="tag_weixin_video">Μικρά βίντεο</string>
      <string name="terabyteShort">TB</string>
+     <string name="title_album">Άλμπουμ</string>
      <string name="title_app_tags">Εφαρμογές</string>
      <string name="title_enable_documentsui">Ενεργοποιήστε τα Έγγραφα</string>
      <string name="title_expire_video">Πρόκειται να λήξουν</string>
@@ -663,7 +741,11 @@
      <string name="title_upload_video">Κοινή χρήση μικρών βίντεο</string>
      <string name="toast_file_not_can_read">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
      <string name="tools">Εργαλεία</string>
+     <string name="topic_follow">Ακολουθήστε</string>
+     <string name="topic_followed">Ακολουθείτε</string>
+     <string name="topic_message">%1$s: %2$s</string>
      <string name="topic_winners">Προηγούμενοι νικητές</string>
+     <string name="trans_mobile_network_message">Η χρήση δεδομένων κινητής για μεταφορά αρχείων μπορεί να επιφέρει επιπρόσθετες χρεώσεις.</string>
      <string name="trans_task">Δίκτυο μεταφοράς</string>
      <string name="transfer_done">Επιτυχής μεταφορά αρχείων.</string>
      <string name="transfer_private_data">Μεταφορά ιδιωτικών αρχείων από την κάρτα SD…</string>
@@ -683,9 +765,15 @@
      <string name="ui_main_toast_operation_failed">Αποτυχία αγαπημένου %1$s</string>
      <string name="unmount_inform_text">Αποσύνδεση USB χώρου;</string>
      <string name="unreviewed_video_cannot_share">Τα βίντεο θα πρέπει να ελεγχθούν πριν την κοινοποίηση</string>
+     <string name="upload_external_action_hint">Επικόλληση URL</string>
+     <string name="upload_external_notification_failed">Αδυναμία δημοσίευσης</string>
+     <string name="upload_external_notification_success">Επιτυχής δημοσίευση</string>
+     <string name="upload_external_notification_title">Δημοσίευση… περιμένετε ένα λεπτό</string>
      <string name="upload_failed">Αποτυχία αποστολής</string>
      <string name="upload_file_toolarge_message">%1$d απέτυχαν στην αποστολή: Μη \u0009 στέλνετε αρχεία μεγαλύτερα από 300Mb.</string>
      <string name="upload_local_video">Κοινή χρήση μικρών βίντεο</string>
+     <string name="upload_notification_compress_progress">Συμπίεση %1$s%%</string>
+     <string name="upload_notification_compress_title">Συμπίεση βίντεο⤦</string>
      <string name="upload_notification_failed">"Αδυναμία αποστολής"</string>
      <string name="upload_notification_failed_content">Προσπαθήστε ξανά</string>
      <string name="upload_notification_progress">Αποστολή (%1$s)%%…</string>
@@ -696,6 +784,7 @@
      <string name="upload_video_dialog_message">"Το βίντεο σας θα εμφανίζεται στα δημοφιλή βίντεο μετά την επαλήθευσή του."</string>
      <string name="upload_video_dialog_title">Το βίντεο διαμοιράστηκε επιτυχώς</string>
      <string name="upload_video_failed">"Αδυναμία διαμοιρασμού βίντεο. Προσπαθήστε ξανά."</string>
+     <string name="upload_video_forbidden">Μην ανεβάζετε παρόμοια βίντεο</string>
      <string name="upload_video_success">Το βίντεο έχει διαμοιραστεί. Γίνεται επαλήθευση τώρα…</string>
      <string name="upload_video_tip">Μόνο ένα βίντεο μπορεί να διαμοιραστεί την κάθε φορά</string>
      <string name="uploading">Αποστολή…</string>
@@ -703,6 +792,7 @@
      <string name="usb_label">USB</string>
      <string name="used">Σε χρήση</string>
      <string name="user_agreement">Συμφωνία Χρήστη</string>
+     <string name="user_center_setting">Ρυθμίσεις</string>
      <string name="user_center_title">Αρχική</string>
      <string name="user_guide">Εισαγωγή στο KuaiPan</string>
      <string name="user_guide_continue_use">Το ξέρω</string>
@@ -716,12 +806,22 @@
      <string name="user_login_dialog_cancle">Ακύρωση</string>
      <string name="user_login_dialog_tip">Συνδεθείτε για να ανεβάζετε βίντεο, να συμμετέχετε στις βαθμολογίες και να κερδίζετε βραβεία</string>
      <string name="user_login_dialog_title">Σύνδεση</string>
+     <string name="user_msg_text">Μηνύματα</string>
      <string name="user_no_net_video_tip">Κακή σύνδεση δικτύου. Ελέγξτε τις ρυθμίσεις και δοκιμάστε ξανά</string>
      <string name="user_no_upload">Δεν υπάρχουν βίντεο</string>
      <string name="user_no_video_tip">"Δεν έχετε ανεβάσει βίντεο ακόμα"</string>
      <string name="user_not_login">Απαιτείται σύνδεση</string>
      <string name="user_not_video_btn_text">Ανεβάστε το πρώτο βίντεο</string>
+     <string name="user_setting_new_comment">Ειδοποιήσεις σχετικά με τα σχόλια</string>
+     <string name="user_setting_new_comment_tip">Λήψη ειδοποιήσεων σχετικά με νέα σχόλια.</string>
+     <string name="user_setting_new_liked">Ειδοποιήσεις σχετικά με τα like</string>
+     <string name="user_setting_new_liked_tip">Λήψη ειδοποιήσεων όταν σε κάποιους αρέσουν τα βίντεο σας</string>
+     <string name="user_setting_topic_new_msg">Ειδοποιήσεις σχετικά με νέα βίντεο</string>
+     <string name="user_setting_topic_new_msg_tip">λήψη ειδοποιήσεων όταν δημοσιεύονται βίντεο στα θέματα που ακολουθείτε.</string>
+     <string name="user_topic_btn_text">Δείτε περισσότερα θέματα</string>
+     <string name="user_topic_text">Τα θέματά μου</string>
      <string name="user_upload_tip">Αποστολή</string>
+     <string name="user_video_text">Τα βίντεο μου</string>
      <string name="utf8_summary">Προεπιλεγμένη κωδικοποίηση FTP συστήματος</string>
      <string name="utf8_title">UTF-8</string>
      <string name="video_ad_download">Εγκατάσταση</string>
@@ -734,6 +834,13 @@
      <string name="video_data_consumption_confirm">OK</string>
      <string name="video_data_consumption_dialog_message">Η αποστολή θα καταναλώσει %1$s δεδομένων κινητής</string>
      <string name="video_data_consumption_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
+     <string name="video_parse_btn">Έναρξη</string>
+     <string name="video_parse_error_repeated">Μην ανεβάζετε παρόμοια βίντεο</string>
+     <string name="video_parse_error_unknown">Αυτή η υπηρεσία βίντεο δεν υποστηρίζεται. Δοκιμάστε μια άλλη</string>
+     <string name="video_parse_hint">Υποστηριζόμενες εφαρμογές: WeChat, Weibo, Youku.</string>
+     <string name="video_parse_success">Επιτυχής ανάλυση</string>
+     <string name="video_parse_timeout">Κάτι πήγε στραβά. Δοκιμάστε ξανά</string>
+     <string name="video_parsing_btn">Ανάλυση…</string>
      <string name="video_play_failed">Άγνωστο σφάλμα</string>
      <string name="video_publish_hint">Μια καλή περιγραφή, θα βοηθήσει άλλα άτομα να βρουν το βίντεό σας</string>
      <string name="video_releasing">Αποστολή…</string>
@@ -744,6 +851,7 @@
      <string name="video_tag_search_hint">Προσαρμόστε το θέμα</string>
      <string name="video_tag_search_lead">\#</string>
      <string name="video_tag_search_title">Επιλέξτε θέμα</string>
+     <string name="video_topic_hint">Αναζήτηση</string>
      <string name="video_upload_btn">Επόμενο</string>
      <string name="video_upload_btn_hint">Τα βίντεο MP4 θα πρέπει να έχουν διάρκεια 3δ~10λ</string>
      <string name="video_upload_btn_hint_span">"Δεν μπορείτε να βρείτε το βίντεό σας;"</string>
@@ -753,7 +861,9 @@
      <string name="video_upload_retry_message">"Αδυναμία αποστολής. Δοκιμή ξανά;"</string>
      <string name="video_upload_retry_title">Προσπαθήστε ξανά</string>
      <string name="video_upload_title">Επιλέξτε βίντεο</string>
+     <string name="videos">Βίντεο</string>
      <string name="view_more_sticker">Δείτε περισσότερα αυτοκόλλητα</string>
+     <string name="vip_info">VIP: %1$s</string>
      <string name="wait_net">Αναμονή για το δίκτυο…</string>
      <string name="wait_sdcard">Αναμονή για κάρτα SD…</string>
      <string name="wait_wifi">Αναμονή για Wi‑Fi…</string>
@@ -771,4 +881,5 @@
      <string name="year_month_day_format">dd MMM, yyyy</string>
      <string name="yes">Ναι</string>
      <string name="yesterday">Χθες</string>
+     <string name="zero_comment">Χωρίς σχόλια</string>
 </resources>
