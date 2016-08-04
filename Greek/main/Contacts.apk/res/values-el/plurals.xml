@@ -44,6 +44,9 @@
         <item quantity="other">"Προστέθηκαν %1$d επαφές"</item>
         <item quantity="one">Προστέθηκε %1$d επαφή</item>
      </plurals>
+     <plurals name="group_copy_success_toast">
+        <item quantity="other">Αντιγράφηκαν %1$d επαφές</item>
+     </plurals>
      <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">%1$d άτομα</item>
         <item quantity="one">%1$d άτομο</item>
@@ -51,6 +54,13 @@
      <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">%1$d νούμερα</item>
         <item quantity="one">%1$d νούμερο</item>
+     </plurals>
+     <plurals name="group_move_success_toast">
+        <item quantity="other">Μεταφέρθηκαν %1$d επαφές</item>
+     </plurals>
+     <plurals name="hint_account_contacts">
+        <item quantity="other">Βρέθηκαν %1$d στοιχεία</item>
+        <item quantity="one">Βρέθηκε %1$d στοιχείο</item>
      </plurals>
      <plurals name="hint_search_contacts">
         <item quantity="other">%1$d επαφές</item>

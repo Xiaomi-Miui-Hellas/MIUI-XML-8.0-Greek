@@ -92,6 +92,7 @@
      <string name="later">Αργότερα</string>
      <string name="loading">Αίτηση…</string>
      <string name="log_share">Μοιράσου το</string>
+     <string name="menu_more_button">Μενού</string>
      <string name="menu_title_current_version_log">Περίληψη ενημέρωσης</string>
      <string name="menu_title_download_current_rom">Λήψη πακέτου ενημέρωσης</string>
      <string name="menu_title_pick_rom_file">Επιλέξτε το πακέτο αναβάθμισης</string>

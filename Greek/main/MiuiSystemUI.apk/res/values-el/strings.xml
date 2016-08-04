@@ -20,6 +20,7 @@
      <string name="accessibility_data_three_bars">Τρεις μπάρες.</string>
      <string name="accessibility_data_two_bars">Δύο μπάρες.</string>
      <string name="accessibility_home">Αρχική</string>
+     <string name="accessibility_ime_switch_button">Κουμπί εναλλαγής μεθόδου εισαγωγής.</string>
      <string name="accessibility_managed_profile">Προφίλ εργασίας</string>
      <string name="accessibility_menu">Μενού</string>
      <string name="accessibility_no_data">Χωρίς δεδομένα.</string>
@@ -244,6 +245,11 @@
      <string name="screen_pinning_negative">Όχι ευχαριστώ</string>
      <string name="screen_pinning_positive">Το κατάλαβα</string>
      <string name="screen_pinning_title">Η οθόνη καρφιτσώθηκε</string>
+     <string name="screenshot_delete">Διαγραφή</string>
+     <string name="screenshot_delete_dlg_msg">Θέλετε σίγουρα να διαγράψετε αυτό το στιγμιότυπο;</string>
+     <string name="screenshot_delete_dlg_title">Διαγραφή</string>
+     <string name="screenshot_dlg_cancel">Ακύρωση</string>
+     <string name="screenshot_dlg_delete_button">Διαγραφή</string>
      <string name="screenshot_edit">Επεξεργασία</string>
      <string name="screenshot_failed_text">Αδυναμία αποθήκευσης στιγμιότυπου πιθανόν λόγω περιορισμένου χώρου αποθήκευσης ή δεν επιτρέπεται από την εφαρμογή.</string>
      <string name="screenshot_long_screenshot">Λήψη μακρύτερου</string>
@@ -334,7 +340,6 @@ d MMMM"</string>
      <string name="vpn_text_long">Συνδεδεμένο στο %s. Πατήστε για να δείτε λεπτομέρειες.</string>
      <string name="vpn_title">Το VPN ενεργοποιήθηκε</string>
      <string name="vpn_title_long">Σύνδεση σε VPN μέσω %s</string>
-     <string name="weather_description">%1$s | %2$s ></string>
      <string name="weather_description_no_aqi">%1$s ></string>
      <string name="weather_publish_time">Ενημερώθηκε %1$s</string>
      <string name="wifi_connected_no_internet">Συνδεδεμένο, χωρίς Internet</string>

@@ -54,6 +54,9 @@
      <string-array name="long_add_menu">
         <item>Προσθήκη στις εξαιρέσεις</item>
      </string-array>
+     <string-array name="low_memory_clean_menu">
+        <item>Καθαρισμός</item>
+     </string-array>
      <string-array name="scan_engine">
         <item>Clean Master</item>
         <item>Tencent</item>

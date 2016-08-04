@@ -91,6 +91,7 @@
      <string name="creating_event_with_guest">Θα αποσταλούν προσκλήσεις</string>
      <string name="custom">"Προσαρμοσμένο (δεν παραμετροποιείται στο τηλέφωνο)"</string>
      <string name="daily">Καθημερινά</string>
+     <string name="date_pattern_yyyy_mm_dd_kk_mm">d-M-yyyy HH:mm</string>
      <string name="date_time_fmt" formatted="false">%s, %s</string>
      <string name="day_view">Ημέρα</string>
      <string name="day_view_new_event_hint">Νέο γεγονός</string>
@@ -110,6 +111,7 @@
      <string name="does_not_repeat">Μεμονωμένο γεγονός</string>
      <string name="done">Επόμενο</string>
      <string name="download">Λήψη</string>
+     <string name="dropdown_delete_button_desc">Αφαίρεση %s από τους αποδέκτες</string>
      <string name="edit_event_all_day_label">ΟΛΗ ΜΕΡΑ</string>
      <string name="edit_event_calendar_label">Ημερολόγιο</string>
      <string name="edit_event_confirm_message">Απόρριψη αλλαγών γεγονότος;</string>
@@ -159,6 +161,7 @@
      <string name="gadget_no_events">Χωρίς προσεχή ημερολογιακά γεγονότα</string>
      <string name="gadget_title">Ημερολόγιο</string>
      <string name="goto_today">Σήμερα</string>
+     <string name="guide_card_hint_text">Πατήστε για άνοιγμα του Mi Cloud</string>
      <string name="hide_controls">Απόκρυψη ελέγχου</string>
      <string name="hint_attendees">Συμμετέχοντες</string>
      <string name="hint_description">Περιγραφή</string>
@@ -311,8 +314,17 @@
      <string name="select_synced_calendars_title">Ημερολόγια για συγχρονισμό</string>
      <string name="select_visible_calendars_title">Ημερολόγια για προβολή</string>
      <string name="set_as_wallpaper">Ορισμός ως ταπετσαρία</string>
+     <string name="setting_about_calendar_version">Έκδοση Ημερολογίου:</string>
+     <string name="setting_about_imei">IMEI:</string>
+     <string name="setting_about_miui_version">Έκδοση MIUI:</string>
+     <string name="setting_about_summary">Έκδοση:</string>
      <string name="setting_holiday">Αργίες</string>
+     <string name="setting_holiday_display_desc">Οι κάρτες Αργιών βρίσκονται στην αρχική σελίδα του ημερολογίου</string>
+     <string name="setting_holiday_display_title">Εμφάνιση Αργιών</string>
+     <string name="setting_holiday_reminder">Υπενθύμιση Αργιών</string>
+     <string name="setting_homepage">Αρχική σελίδα</string>
      <string name="setting_others">Άλλα</string>
+     <string name="setting_title_about">Σχετικά</string>
      <string name="settings_calendar">Ημερολόγιο</string>
      <string name="show_controls">Εμφάνιση ελέγχου</string>
      <string name="show_day_view">Εμφάνιση ημέρας</string>

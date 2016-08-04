@@ -70,7 +70,7 @@
      <string name="dialog_insufficient_space_on_external">Αδυναμία ολοκλήρωσης λήψης. Δεν υπάρχει επαρκής χώρος στον εξωτερικό μέσο αποθήκευσης.</string>
      <string name="dialog_media_not_found">Αδυναμία λήψης. Το εξωτερικό μέσο αποθήκευσης δεν είναι διαθέσιμο.</string>
      <string name="dialog_msg_disabled_net">%1$s περιορισμένες λήψεις για το τρέχον δίκτυο. Πατήστε για να πάτε στην εφαρμογή Ασφάλεια.</string>
-     <string name="dialog_msg_recommend">Δεν θα είστε σε θέση να δείτε την προτεινόμενη πηγές μετά την απενεργοποίηση. Μπορείτε να επιλέξετε  \"Φόρτωση όταν συνδεθεί σε Wi‑Fi\" για να εξοικονομήσετε δεδομένα κινητής.</string>
+     <string name="dialog_msg_recommend">Δεν θα είστε σε θέση να δείτε τις προτεινόμενες πηγές μετά την απενεργοποίηση. Μπορείτε να επιλέξετε  \"Φόρτωση όταν συνδεθεί σε Wi‑Fi\" για να εξοικονομήσετε δεδομένα κινητής.</string>
      <string name="dialog_queued_body">Θα γίνει λήψη του αρχείου στο μέλλον.</string>
      <string name="dialog_title_disabled_net">Πρόσβαση Internet</string>
      <string name="dialog_title_not_available">Λήψη Απέτυχε</string>
@@ -142,7 +142,7 @@
      <string name="edit_hint"> Πληκτρολογήστε μια διεύθυνση URL (http or https)</string>
      <string name="editmode_menu_delete">Διαγραφή</string>
      <string name="editmode_menu_share">Κοινή χρήση</string>
-     <string name="engine_open">Ανοιγμα</string>
+     <string name="engine_open">Άνοιγμα</string>
      <string name="enter_search">Αναζήτηση</string>
      <string name="experience_xunlei_account_speed">Τα μέλη της Xunlei απολαμβάνουν γρήγορες ταχύτητες</string>
      <string name="expire_notification_msg">Η συνδρομή Xunlei λήγει σύντομα.</string>

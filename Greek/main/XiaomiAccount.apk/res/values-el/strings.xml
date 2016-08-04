@@ -135,9 +135,9 @@
      <string name="location_service_not_working">Η υπηρεσία εντοπισμού δεν λειτουργεί</string>
      <string name="logout_failed">Αδυναμία αποσύνδεσης</string>
      <string name="mi_account_identity_title">Επιβεβαιώστε την ταυτότητα σας</string>
+     <string name="mi_insurance">Ασφάλεια Mi</string>
      <string name="mi_pass">Mi Pass</string>
      <string name="mi_pay_identity">Ταυτότητα</string>
-     <string name="micloud_account_name">Λογαριασμός Mi</string>
      <string name="micloud_space_info">%s διαθέσιμα</string>
      <string name="mili_center">Mi Credits</string>
      <string name="mipay_center">Mi Wallet</string>
@@ -150,6 +150,10 @@
      <string name="no_response_retry">Καμία απάντηση. Δοκιμάστε ξανά.</string>
      <string name="no_sim_card">Δεν υπάρχει κάρτα SIM</string>
      <string name="nobind">Αποσυνδεδεμένο</string>
+     <string name="notify_network_restricted_content_bg_network">Η πρόσβαση στο Internet του λογαριασμού Mi έχει περιοριστεί. Πατήστε για να επιτρέψετε.</string>
+     <string name="notify_network_restricted_content_hidden_state">Η δραστηριότητα παρασκηνίου του λογαριασμού Mi έχει περιοριστεί. Πατήστε για να επιτρέψετε.</string>
+     <string name="notify_network_restricted_content_mobile_network">Η πρόσβαση στο Internet του λογαριασμού Mi έχει περιοριστεί. Πατήστε για να επιτρέψετε.</string>
+     <string name="notify_network_restricted_title">Ο λογαριασμός Mi δεν μπορεί να συνδεθεί στο δίκτυο</string>
      <string name="other_devices">Άλλες συσκευές</string>
      <string name="passport_access_denied">Δεν επιτρέπετε η πρόσβαση</string>
      <string name="passport_account_hint_text">Διεύθυνση email ή αριθμός τηλεφώνου</string>

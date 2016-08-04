@@ -199,9 +199,10 @@
      <string name="contactSavedToast">Η επαφή αποθηκεύτηκε</string>
      <string name="contact_delete_toast">Η επαφή διαγράφηκε</string>
      <string name="contact_detail_action_item_calllog">Ιστορικό κλήσεων</string>
-     <string name="contact_detail_action_item_nocalllog">Χωρίς ιστορικό</string>
+     <string name="contact_detail_action_item_nocalllog">Δεν υπάρχει ιστορικό</string>
      <string name="contact_detail_calllog_call_note_tips">Σημειώσεις</string>
      <string name="contact_detail_calllog_call_record_tips">Ηχογράφηση κλήσης</string>
+     <string name="contact_detail_calllog_empty">Δεν υπάρχουν εγγραφές κλήσεων</string>
      <string name="contact_detail_menu_delete_miprofile">Διαγραφή κάρτας</string>
      <string name="contact_detail_miprofile_accept">Ανταλλαγή καρτών επαφών</string>
      <string name="contact_detail_miprofile_accept_fail_toast">"Αδυναμία ανταλλαγής καρτών επαφών"</string>
@@ -460,6 +461,7 @@
      <string name="frequentList">Συχνά</string>
      <string name="from_account_format">%1$s</string>
      <string name="full_name">Πλήρες Όνομα</string>
+     <string name="gallery">Άλμπουμ</string>
      <string name="generic_no_account_prompt">Διατηρείτε τις επαφές σας ασφαλή ακόμα κι αν χάσετε το τηλέφωνό σας: συγχρονισμός με μια online υπηρεσία.</string>
      <string name="generic_no_account_prompt_title">Προσθήκη λογαριασμού</string>
      <string name="ghostData_company">Εταιρεία</string>
@@ -886,8 +888,8 @@
      <string name="photo_fragment">Φωτογραφία</string>
      <string name="photo_labels_group">Φωτογραφία προφίλ</string>
      <string name="photo_load_failed">"Αδυναμία φόρτωσης φωτογραφίας"</string>
-     <string name="pick_new_photo">Επιλέξτε νέα φωτογραφία από Γκαλερί</string>
-     <string name="pick_photo">Επιλογή φωτογραφίας από Γκαλερί</string>
+     <string name="pick_new_photo">Επιλέξτε νέα φωτογραφία από %s</string>
+     <string name="pick_photo">Επιλέξτε φωτογραφία από %s</string>
      <string name="pickerNewContactHeader">Δημιουργία νέας επαφής</string>
      <string name="pickerNewContactText">Δημιουργία νέας επαφής</string>
      <string name="picker_all_list_empty">Δεν υπάρχουν επαφές</string>

@@ -12,6 +12,7 @@
      <string name="backup_finished_notification_content">Ολοκλήρωση λήψης αντιγράφου Αρχικής οθόνης, εφαρμογών ρυθμίσεων συστήματος, κλπ.</string>
      <string name="backup_now">Αντίγραφο τώρα</string>
      <string name="backup_size">Μέγεθος: %s</string>
+     <string name="backup_size_summary">Μέγεθος: %1$s</string>
      <string name="backup_success">Ολοκλήρωση αντιγράφου</string>
      <string name="backup_successfully">Επιτυχής λήψη αντιγράφου</string>
      <string name="backup_to_cloud">Αντίγραφο εφαρμογής</string>
@@ -96,6 +97,8 @@
      <string name="open_wifi_description">Συνδεθείτε σε ένα δίκτυο Wi‑Fi για να επαναφέρετε την εφαρμογή</string>
      <string name="open_wifi_setting">Ρυθμίσεις Wi‑Fi</string>
      <string name="process_whole_recovery">Επαναφορά του \"%s\"</string>
+     <string name="provision_arrow_back">&lt;</string>
+     <string name="provision_arrow_next">></string>
      <string name="query_restore_back_view">Αντ.ασφαλείας Mi Cloud</string>
      <string name="query_restore_description">Επαναφορά εφαρμογών Αρχικής οθόνης και ρυθμίσεων χρησιμοποιώντας αυτό το αντίγραφο. Αυτό θα αντικαταστήσει τα δεδομένα εφαρμογών για εφαρμογές έχουν ήδη εγκατασταθεί σε αυτή τη συσκευή. Εφαρμογές που δεν περιλαμβάνονται στο αντίγραφο ασφαλείας θα μεταφερθούν στην τελευταία Αρχική οθόνη.</string>
      <string name="query_restore_summary">Βρέθηκε ένα αντίγραφο ασφαλείας Mi Cloud για αυτή τη συσκευή. Επαναφορά εφαρμογών Αρχικής οθόνης και ρυθμίσεων ή θα την χρησιμοποιήσετε ως μια νέα συσκευή και θα διαγράψετε τα προηγούμενα αντίγραφα ασφαλείας Mi Cloud;</string>
