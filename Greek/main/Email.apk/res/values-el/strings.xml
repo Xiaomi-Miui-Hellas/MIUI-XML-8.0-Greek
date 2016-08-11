@@ -145,7 +145,7 @@
      <string name="activity_folder_selection">Επιλέξτε φάκελο</string>
      <string name="activity_mailbox_selection">Επιλέξτε λογαριασμό</string>
      <string name="add_account">Προσθήκη λογαριασμού</string>
-     <string name="add_attachment">Επισύναψη Αρχείων</string>
+     <string name="add_attachment">Προσθήκη συνημμένων</string>
      <string name="add_calendar">Υπενθύμιση</string>
      <string name="add_label">Προσθήκη φακέλου</string>
      <string name="add_pre_message_attachments">Προσθήκη συνημμένων αρχικού μηνύματος;</string>

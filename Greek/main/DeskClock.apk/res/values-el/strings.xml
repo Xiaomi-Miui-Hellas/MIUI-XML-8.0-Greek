@@ -52,6 +52,9 @@
      <string name="edit_systemtime">Ρύθμιση ώρας συστήματος</string>
      <string name="elapsed_time_format">(+ %s )</string>
      <string name="every_day">Κάθε μέρα</string>
+     <string name="force_touch_add_alarm">Προσθήκη αφύπνισης</string>
+     <string name="force_touch_enter_stopwatch">Χρονόμετρο</string>
+     <string name="force_touch_enter_timer">Αντ.μέτρηση</string>
      <string name="full_wday_month_day_no_year">EEE d MMMM</string>
      <string name="hour">1 ώρα</string>
      <string name="hour_unit">ω</string>
@@ -61,6 +64,8 @@
      <string name="label_pref_summary">Ονομάστε αυτό το ξυπνητήρι</string>
      <string name="lap">Γύρος</string>
      <string name="lap_num">Γύρος</string>
+     <string name="legal_off_day">Επίσημες αργίες</string>
+     <string name="legal_off_day_message">" (Κλειστό τις εργάσιμες ημέρες)"</string>
      <string name="legal_workday">Εργάσιμες ημέρες</string>
      <string name="legal_workday_invalidate">Έληξε (Ξυπνητήρι από Δευτέρα έως Παρασκευή)</string>
      <string name="legal_workday_invalidate_message">(Έληξε. Τροποποιήστε τις ρυθμίσεις)</string>
@@ -74,7 +79,9 @@
      <string name="menu_item_sort_by_name">Ταξινόμηση κατά όνομα</string>
      <string name="minute">1 λεπτό</string>
      <string name="minutes">%s λεπτά</string>
+     <string name="more_settings">Περισσότερες ρυθμίσεις</string>
      <string name="never">Μια φορά</string>
+     <string name="oneshot_alarm">Διαγραφή όταν απενεργοποιηθεί</string>
      <string name="pause">Παύση</string>
      <string name="remind_ringtone">Ήχος</string>
      <string name="reset">Επαναφορά</string>
@@ -92,6 +99,13 @@
      <string name="snooze_duration_title">Διάρκεια αναβολής</string>
      <string name="start">Εκκίνηση</string>
      <string name="start_up">Εκκίνηση</string>
+     <string name="stat_repeat_everyday">Καθημερινά</string>
+     <string name="stat_repeat_legal_off_day">Αργίες</string>
+     <string name="stat_repeat_legal_workday">Επίσημες αργίες</string>
+     <string name="stat_repeat_none">Μια φορά</string>
+     <string name="stat_repeat_self_define">Προσαρμογή</string>
+     <string name="stat_repeat_weekdays">Δευτ - Παρ</string>
+     <string name="stat_repeat_weekends">Σαββατοκύριακο</string>
      <string name="stopwatch_lap_empty_text">Χωρίς περίοδο</string>
      <string name="stopwatch_title">Χρονόμετρο</string>
      <string name="system_time_setting">Ρυθμίσεις</string>
@@ -99,6 +113,7 @@
      <string name="timer_alarm_alert_pad">%s</string>
      <string name="timer_alarm_cancel_pad">κάντε κλικ στην οθόνη για να σταματήσει το κουδούνισμα</string>
      <string name="timer_alert_alert_silenced">Το χρονόμετρο σταμάτησε μετά από %d λεπτά.</string>
+     <string name="timer_clock_alert_text">Ρύθμιση αντ.μέτρησης</string>
      <string name="timer_continue">Συνέχιση</string>
      <string name="timer_got_it">OK</string>
      <string name="timer_item_duration_display">%1$d λεπτά %2$d δευτερόλεπτα</string>

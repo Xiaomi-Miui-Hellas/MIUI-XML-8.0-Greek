@@ -21,6 +21,8 @@
      <string name="action_item_send">Αποστολή</string>
      <string name="action_item_share">Κοινή χρήση</string>
      <string name="action_settings">Ρυθμίσεις</string>
+     <string name="ad_close">Κλείσιμο</string>
+     <string name="ad_extension">promotion</string>
      <string name="add_music">Προσθήκη τραγουδιών</string>
      <string name="add_to_last_of_playlist">Προσθήκη στο τέλος της λίστας αναπαραγωγής</string>
      <string name="alaka_required">"Αυτό το τραγούδι δεν είναι διαθέσιμο."</string>
@@ -49,8 +51,11 @@
      <string name="app_downloads">%s λήψεις</string>
      <string name="app_label">Λήψεις</string>
      <string name="artist">Καλλιτέχνες</string>
+     <string name="artist_album">Άλμπουμ</string>
+     <string name="artist_favor">Προτεινόμενα</string>
      <string name="artist_is_empty">Το όνομα του καλλιτέχνη δεν μπορεί να είναι κενό.</string>
      <string name="artist_name">Καλλιτέχνης</string>
+     <string name="artist_news">Νέα</string>
      <string name="artist_search_title">Καλλιτέχνης</string>
      <string name="artist_view">Καλλιτέχνης</string>
      <string name="atmd_music">Ultimate</string>
@@ -69,6 +74,7 @@
      <string name="being_disable_auto_payment">Απενεργοποίηση…</string>
      <string name="being_enable_auto_payment">Ενεργοποίηση…</string>
      <string name="bill_list_fragment_title">Charts</string>
+     <string name="billboard_song_subtitle">— %s</string>
      <string name="bluetooth_device">Συσκευή Bluetooth</string>
      <string name="buffering">Φόρτωση…</string>
      <string name="button_add">Προσθήκη</string>
@@ -98,12 +104,14 @@
      <string name="cloud_settings">Ρυθμίσεις συγχρονισμού</string>
      <string name="cloud_space_full">Δεν έχει απομείνει αποθηκευτικός χώρος</string>
      <string name="cloud_space_full_message">Δεν υπάρχει αρκετός χώρος αποθήκευσης στο Mi Cloud σας για να προσθέσετε περισσότερα τραγούδια. Για να πάρετε περισσότερο, αναβαθμίσετε το Mi λογαριασμό σας.</string>
+     <string name="comment_format" formatted="false">%s: %s</string>
      <string name="confirm_delete_downloads_message">%d λήψεις θα διαγραφούν.</string>
      <string name="confirm_delete_the_download_item_message">Διαγραφή αυτών των λήψεων;</string>
      <string name="confirm_download">Λήψη</string>
      <string name="confirm_to_renew">Ανανέωση</string>
      <string name="cp_info_first">Η υπηρεσία streaming παρέχεται από την Ultimate Inc.</string>
      <string name="cp_info_second">service1@ultimobi.com</string>
+     <string name="create_order_fail">"Αδυναμία δημιουργίας παραγγελίας. Προσπαθήστε ξανά."</string>
      <string name="create_playlist">Δημιουργία λίστας αναπαραγωγής</string>
      <string name="create_playlist_failure">"Αδυναμία δημιουργίας λίστας αναπαραγωγής"</string>
      <string name="current_services">Τρέχουσες υπηρεσίες</string>
@@ -303,6 +311,8 @@
      <string name="filter_by_size_prefix">"Ελάχιστο μέγεθος: "</string>
      <string name="filter_by_size_summary">"Να μην εμφανίζονται μικρά αρχεία ήχου"</string>
      <string name="find_music">Ανακαλύψτε τραγούδια</string>
+     <string name="follow">Ακολουθήστε</string>
+     <string name="followed">Ακολουθείτε</string>
      <string name="font_family">miui</string>
      <string name="force_touch_audio_picker">Αναγνώριση τραγουδιού</string>
      <string name="force_touch_play_local_music_random">Ανακάτεμα τοπικής μουσικής</string>
@@ -358,6 +368,12 @@
      <string name="local_music_empty">Η τοπική λίστα αναπαραγωγής είναι κενή</string>
      <string name="local_music_empty_goto_online">Δεν βρέθηκαν τραγούδια</string>
      <string name="local_music_is_not_available">"Η τοπική μουσική δεν είναι διαθέσιμη"</string>
+     <string name="local_page_artist">Ακολουθήστε Καλλιτέχνες</string>
+     <string name="local_page_custom_subtitle">Καθημερινά τραγούδια</string>
+     <string name="local_page_custom_title">Ιδιωτικά προσαρμοσμένα</string>
+     <string name="local_page_song_all">Όλα τα τραγούδια</string>
+     <string name="local_page_song_download">Τοπικά τραγούδια</string>
+     <string name="local_page_song_favorite">Αγαπημένα τραγούδια</string>
      <string name="local_tracks_short">Τοπική Μουσική</string>
      <string name="login_first">Πρέπει να συνδεθείτε στον λογαριασμός σας στην Mi Account πρώτα</string>
      <string name="lrc_search_failed">Δεν βρέθηκαν στίχοι!</string>
@@ -474,7 +490,7 @@
      <string name="notification_download_failed_more">"Αποτυχία λήψης %1$d στοιχείων"</string>
      <string name="notification_download_success_more">%1$d ληφθέντα</string>
      <string name="notification_favorite_summary">Λήψη ειδοποιήσεων σχετικά με νέες κυκλοφορίες και τελευταίες επιτυχίες</string>
-     <string name="notification_favorite_title">Ειδοποίηση σχετικά με αγαπημένους καλιτέχνες</string>
+     <string name="notification_favorite_title">Ειδοποίηση σχετικά με αγαπημένους καλλιτέχνες</string>
      <string name="notification_headset_custom">Παράβλεψη</string>
      <string name="notification_headset_info">Πατήστε για να δείτε τις ρυθμίσεις.</string>
      <string name="notification_headset_settings">Συνδεδεμένα ακουστικά</string>
@@ -488,11 +504,16 @@
      <string name="nowplaying_menu_item_delete">Διαγραφή</string>
      <string name="ok">OK</string>
      <string name="one_month">1 μήνα</string>
+     <string name="online_bill">Κατάλογος</string>
+     <string name="online_favor">Προτεινόμενα</string>
+     <string name="online_fm">FM</string>
      <string name="online_list_delete_message">Όλα τα ληφθέντα τραγούδια σε αυτή τη λίστα αναπαραγωγής θα διαγραφούν από τον εσωτερικό χώρο αποθήκευσης.</string>
      <string name="online_music_enabled_subtitle">Πατήστε για stream των αγαπημένων σας τραγουδιών.</string>
      <string name="online_music_enabled_summary">Ακούστε και κατεβάστε τα αγαπημένα σας τραγούδια. Δείτε κορυφαία τραγούδια και τις επιμελημένες λίστες αναπαραγωγής όπου κι αν πάτε!</string>
      <string name="online_music_enabled_title">Το δωρεάν streaming είναι εδώ</string>
      <string name="online_playlist_is_empty">Κενή λίστα αναπαραγωγής!</string>
+     <string name="online_recommend">Λίστα</string>
+     <string name="online_special">Ειδικά</string>
      <string name="open_download">Άνοιγμα</string>
      <string name="order_pending">Εν αναμονή επιβεβαίωσης</string>
      <string name="order_process_fail">"Αδυναμία έγκρισης του λογαριασμού σας. Περιμένετε λίγα λεπτά και δοκιμάστε ξανά"</string>
@@ -520,6 +541,12 @@
      <string name="playback_failed_no_title_by_bad_file">Το τραγούδι δεν μπορεί να αναπαραχθεί. δεν υποστηρίζεται ο τύπος του αρχείου ή το αρχείο δεν υπάρχει.</string>
      <string name="playlist_deleted_message">Διαγραφή λίστας.</string>
      <string name="playlist_renamed_message">Μετονομασία λίστας.</string>
+     <string name="playlist_type_album">Άλμπουμ</string>
+     <string name="playlist_type_artist">Καλλιτέχνης</string>
+     <string name="playlist_type_billboard">Chart</string>
+     <string name="playlist_type_fm">FM</string>
+     <string name="playlist_type_my">Η λίστα αναπαραγωγής μου</string>
+     <string name="playlist_type_recommend">Προτεινόμενη λίστα αναπαραγωγής</string>
      <string name="playlist_unavailable">"Δυστυχώς η λίστα αναπαραγωγής δεν είναι διαθέσιμη. Για να τη διαγράψετε, πατήστε και κρατήστε και στη συνέχεια επιλέξτε διαγραφή."</string>
      <string name="please_download_first">Πρέπει να λάβετε αυτό το τραγούδι πριν από τη χρήση του ως ήχου κλήσης</string>
      <string name="please_search_or_select">Παρακαλώ αναζητήστε ή επιλέξτε</string>
@@ -545,6 +572,9 @@
      <string name="privacy_tip_title">Χρήση του επιταχυντή Xunlei;</string>
      <string name="project_device">Mi Phone</string>
      <string name="project_device_mobile">Φορητή συσκευή</string>
+     <string name="pulluprefreshrecyclerview_loading_error">"Αδυναμία φόρτωσης"</string>
+     <string name="pulluprefreshrecyclerview_loading_finished">Επιτυχής φόρτωση</string>
+     <string name="pulluprefreshrecyclerview_loading_running">Φόρτωση…</string>
      <string name="radar">ACRCloud</string>
      <string name="radar_click_to_retry">Πατήστε για να δοκιμάσετε ξανά</string>
      <string name="radar_fail">Χωρίς αποτελέσματα</string>
@@ -619,6 +649,7 @@
      <string name="settings_search_title_desktop_lyric">Στίχοι Αρχικής οθόνης</string>
      <string name="settings_search_title_download_quality">Ποιότητα λήψης</string>
      <string name="settings_search_title_download_when_favorite">Λήψη αγαπημένων</string>
+     <string name="settings_search_title_main">Μουσική</string>
      <string name="settings_search_title_notification">Ειδοποιήσεις μουσικής</string>
      <string name="settings_search_title_vip_service">Τραγούδια premium</string>
      <string name="share_append_text">Από @MIUI</string>

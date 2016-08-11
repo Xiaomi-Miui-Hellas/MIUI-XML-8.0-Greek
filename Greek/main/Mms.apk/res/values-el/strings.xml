@@ -4,9 +4,9 @@
      <string name="activity_not_found">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
      <string name="activity_not_found_uri">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
      <string name="addBlackList">Φραγή</string>
-     <string name="add_attachment">Επισυνάψτε</string>
+     <string name="add_attachment">Προσθήκη συνημμένων</string>
      <string name="add_contact">Επαφή</string>
-     <string name="add_festival">Προτείνω</string>
+     <string name="add_festival">Χαιρετίσματα</string>
      <string name="add_music">Προσθήκη μουσικής</string>
      <string name="add_nickname">Ψευδώνυμο</string>
      <string name="add_nickname_title">Επεξεργασία ψευδώνυμου</string>
@@ -76,7 +76,7 @@
      <string name="confirm_delete_all_SIM_messages">Διαγραφή όλων των μηνυμάτων κάρτας SIM;</string>
      <string name="confirm_delete_all_conversations">Διαγραφή όλων των συζητήσεων;</string>
      <string name="confirm_delete_conversation">Διαγραφή αυτού του νήματος;</string>
-     <string name="confirm_delete_group_message">Διαγραφή ομαδικών μηνυμάτων;</string>
+     <string name="confirm_delete_group_message">Διαγραφή μηνυμάτων της ομάδας;</string>
      <string name="confirm_delete_locked_message">Διαγραφή αυτού του κλειδωμένου μηνύματος;</string>
      <string name="confirm_delete_message">Διαγραφή αυτού του μηνύματος;</string>
      <string name="confirm_dialog_locked_title">Διαγραφή κλειδωμένου μηνύματος;</string>
@@ -87,7 +87,7 @@
      <string name="confirm_export_dialog_title">Αφαίρεση από τις προσωπικές επαφές</string>
      <string name="confirm_no_block_positive">Άρση φραγής</string>
      <string name="confirm_no_block_title">Άρση φραγής αυτού του αριθμού και αποκατάσταση όλων των μηνυμάτων;</string>
-     <string name="confirm_rate_limit">Ένας μεγάλος αριθμός των μηνυμάτων πολυμέσων αποστέλλεται.</string>
+     <string name="confirm_rate_limit">Ένας μεγάλος αριθμός μηνυμάτων πολυμέσων αποστέλλεται.</string>
      <string name="confirm_restore_all_title">Επαναφορά όλων των μηνυμάτων από αυτόν τον αριθμό;</string>
      <string name="confirm_restore_checkbox">Άρση φραγής μηνυμάτων που στάλθηκαν από αυτό τον αριθμό</string>
      <string name="confirm_restore_message">Επαναφορά επιλεγμένων μηνυμάτων;</string>
@@ -96,7 +96,7 @@
      <string name="confirm_send_mms">Ένας από τους παραλήπτες σας περιέχει διεύθυνση email. Αυτό το μήνυμα θα σταλεί ως ΜΜS, και ίσως επιφέρει επιπλέον χρεώσεις από τον πάροχό σας.</string>
      <string name="context_menu_add_calendar">Προβολή στο Ημερολόγιο</string>
      <string name="context_menu_add_contact">Προσθήκη στις Επαφές</string>
-     <string name="context_menu_add_to_browser_favorite">Προσθήκη στα αγαπημένα</string>
+     <string name="context_menu_add_to_browser_favorite">Προσθήκη στους σελιδοδείκτες του Πλοηγού</string>
      <string name="context_menu_browse_web">Αναζήτηση</string>
      <string name="context_menu_call">Κλήση</string>
      <string name="context_menu_contact">Επαφή: %1$s</string>
@@ -115,7 +115,7 @@
      <string name="copy_message_text_success">Το κείμενο έχει αντιγραφεί</string>
      <string name="copy_to_sdcard">Αποθήκευση συνημμένου</string>
      <string name="copy_to_sdcard_fail">Αδυναμία αποθήκευσης συνημμένου</string>
-     <string name="copy_to_sdcard_success">Συνημμένο αποθηκεύτηκε ως %s</string>
+     <string name="copy_to_sdcard_success">Το συνημμένο αποθηκεύτηκε ως %s</string>
      <string name="database_corruption">Επιδιόρθωση…</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_bookmark">Αφαίρεση από τα Αγαπημένα</string>
@@ -145,7 +145,7 @@
      <string name="edit">Επεξεργασία</string>
      <string name="edit_nickname_for_nocontact">Πρέπει πρώτα να προσθέστε ένα παραλήπτη</string>
      <string name="edit_nickname_for_nocontact_by_robot">Πρέπει πρώτα να προσθέστε ένα παραλήπτη</string>
-     <string name="edit_phrase">Επεξεργασία φράσης</string>
+     <string name="edit_phrase">Επεξεργασία γρήγορων απαντήσεων</string>
      <string name="edit_slide_activity">Επεξεργασία διαφάνειας</string>
      <string name="edit_slideshow_activity">Επεξεργασία slideshow</string>
      <string name="enable_password_protect">Απαίτηση κωδικού πρόσβασης</string>
@@ -171,7 +171,6 @@
      <string name="fake_cell_safe_hint">Αυτό το μήνυμα είναι ασφαλές</string>
      <string name="fake_cell_timeout_hint">"Αδυναμία ελέγχου ασφάλειας"</string>
      <string name="fdn_check_failure">Μπορείτε να στείλετε μηνύματα μόνο στους αριθμούς κλήσης συγκεκριμένων αριθμών.</string>
-     <string name="feedback_description_hint">Παρακαλώ εισάγετε τα σχόλιά σας εδώ (στα Αγγλικά)</string>
      <string name="feedback_submit">Αποστολή</string>
      <string name="festival">Γρήγορες απαντήσεις</string>
      <string name="festival_continue">OK</string>
@@ -181,7 +180,7 @@
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Φορτώνει…</string>
      <string name="fetion_prefix">[Fetion]</string>
-     <string name="file_create_time">Ώρα δημιουργίας:</string>
+     <string name="file_create_time">Δημιουργήθηκε:</string>
      <string name="file_share_message_description">Θα ήθελα να μοιραστώ μαζί σας μερικά αρχεία</string>
      <string name="file_size">Μέγεθος:</string>
      <string name="file_title">Όνομα:</string>
@@ -208,7 +207,7 @@
      <string name="hint_search_sms">%d μηνύματα</string>
      <string name="hms_add_image_progress_message">Επεξεργασία…</string>
      <string name="hms_first_use_tips">Για την λήψη μηνυμάτων υπηρεσίας, θα πρέπει να είστε συνδεδεμένοι σε δίκτυο Wi‑Fi</string>
-     <string name="hms_uri_param_err">"Η παράμετρος \"id\" της διεύθυνσης URL του Mipub δεν μπορεί να είναι κενή"</string>
+     <string name="hms_uri_param_err">"Η διεύθυνση URL δεν μπορεί να είναι κενή"</string>
      <string name="i_know">OK</string>
      <string name="importing_progress_private_message">Εισαγωγή…</string>
      <string name="in_sms">Μήνυμα</string>
@@ -226,7 +225,7 @@
      <string name="manage_permission_app_label">Δικαιώματα συσκευής</string>
      <string name="me">Εγώ</string>
      <string name="menu_add_black">Φραγή αυτού του αριθμού</string>
-     <string name="menu_add_contact">Προσθήκη σε υπάρχουσα επαφή</string>
+     <string name="menu_add_contact">Προσθήκη σε υφιστάμενη επαφή</string>
      <string name="menu_call">Κλήση</string>
      <string name="menu_compose_new">Σύνθεση</string>
      <string name="menu_contact">Προβολή πληροφοριών επαφής</string>

@@ -5,6 +5,8 @@
      <string name="back">Πίσω</string>
      <string name="congratulation_label" />
      <string name="congratulation_title">Επιτυχής ρύθμιση!</string>
+     <string name="content_description_complete">Ολοκληρώθηκε</string>
+     <string name="content_description_start">Έναρξη</string>
      <string name="desc_extra_fingerprint" />
      <string name="desc_extra_international_fingerprint" />
      <string name="desc_fingerprint">Χρησιμοποιήστε το δακτυλικό σας αποτύπωμα για να ξεκλειδώσετε τη συσκευή σας, να επαληθεύσετε συναλλαγές Mi Pay, ή για να συνδεθείτε σε εφαρμογές και υπηρεσίες.</string>

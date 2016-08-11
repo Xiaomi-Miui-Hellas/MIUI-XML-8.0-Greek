@@ -26,6 +26,7 @@
      <string name="duration_format_hour">%sδ</string>
      <string name="duration_format_minute">%sλ</string>
      <string name="duration_format_second">%sδ</string>
+     <string name="empty_recognition_tip">Κενό</string>
      <string name="error_app_internal">Ελέγξτε αν κάποια άλλη εφαρμογή χρησιμοποιεί τώρα την λειτουργία εγγραφής.</string>
      <string name="error_app_internal_title">Σφάλμα ηχογράφησης</string>
      <string name="error_file_access">Το αρχείο δεν υπάρχει ή έχει καταστραφεί</string>

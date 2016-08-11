@@ -203,7 +203,11 @@
      <string name="micloud_find_device_guide_micloud">Ενεργοποίηση συγχρονισμού με το Mi Cloud</string>
      <string name="micloud_find_device_guide_micloud_sub_content">Συγχρονίστε επαφές, φωτογραφίες, σημειώσεις και άλλα πολλά με το Mi Cloud</string>
      <string name="micloud_find_device_guide_noti_content">Ενεργοποίηση</string>
+     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Τα QQ δεδομένα σας θα είναι ασφαλή ακόμα και αν χάσετε τη συσκευή σας</string>
+     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Τα WeChat δεδομένα σας θα είναι ασφαλή ακόμα και αν χάσετε τη συσκευή σας</string>
+     <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Τα Alipay δεδομένα σας θα είναι ασφαλή ακόμα και αν χάσετε τη συσκευή σας</string>
      <string name="micloud_find_device_guide_noti_title">Ενεργοποιήστε την Εύρεση συσκευής για την προστασία των δεδομένων σας, ακόμα και όταν η συσκευή σας έχει χαθεί</string>
+     <string name="micloud_find_device_guide_noti_title_by_app_change_qq">Το QQ συνιστά να ενεργοποιήσετε το Εύρεση συσκευής</string>
      <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Ενεργοποιήστε την Εύρεση συσκευής για να ασφαλίσετε τα δεδομένα σας στο WeChat</string>
      <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Ενεργοποιήστε την Εύρεση συσκευής για να ασφαλίσετε τα δεδομένα σας στο Alipay</string>
      <string name="micloud_find_device_guide_progress">Ενεργοποίηση του Εύρεση συσκευής…</string>
@@ -233,6 +237,11 @@
      <string name="micloud_main_memory_low_message">"Για να συγχρονίσετε, διαγράψετε μερικά στοιχεία που έχετε αποθηκευμένα στο cloud."</string>
      <string name="micloud_main_memory_low_title">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
      <string name="micloud_main_message_not_synced">%s δεδομένα δεν έχουν συγχρονιστεί</string>
+     <string name="micloud_main_multi_user_error_message">"Έχετε συνδεθεί με τον ίδιο λογαριασμό που έχετε στον Πρώτο χώρο και προκλήθηκε ένα σφάλμα Mi Cloud. Αν θέλετε να κάνετε αντίγραφα ασφαλείας των αρχείων:
+
+1. Χρησιμοποιήστε ένα διαφορετικό λογαριασμό.
+2. Μεταφέρετε τα στοιχεία στον Πρώτο χώρο."</string>
+     <string name="micloud_main_multi_user_error_title">Σφάλμα Mi Cloud</string>
      <string name="micloud_main_network_abnormal">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="micloud_main_network_error">Δεν είναι δυνατή η σύνδεση με το δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και δοκιμάστε ξανά.</string>
      <string name="micloud_main_not_sync">%d στοιχεία σε αναμονή συγχρονισμού</string>
@@ -286,6 +295,7 @@
      <string name="micloud_notif_content_depend_wifi">Συνδεθείτε σε Wi‑Fi για να συγχρονίσετε.</string>
      <string name="micloud_notif_content_master_depend_wifi">Συνδεθείτε πρώτα σε Wi‑Fi.</string>
      <string name="micloud_notif_content_memory_low">Δεν υπάρχει αρκετός χώρος αποθήκευσης.</string>
+     <string name="micloud_notif_content_multi_user_error">Έχετε συνδεθεί με τον ίδιο λογαριασμό που έχετε στον Πρώτο χώρο.</string>
      <string name="micloud_notif_content_sync_finish">Λογαριασμός</string>
      <string name="micloud_notif_content_sync_not_finish">Λεπτομέρειες</string>
      <string name="micloud_notif_content_sync_with_off">Πατήστε για συγχρονισμό της συσκευής τώρα.</string>
@@ -390,6 +400,8 @@
      <string name="pref_title_sync_display_photo_on_wifi_only">Χρήση μόνο Wi‑Fi για να συγχρονίσετε φωτογραφίες</string>
      <string name="pref_title_sync_video_on_wifi_only">Χρήση μόνο Wi‑Fi για να συγχρονίσετε βίντεο</string>
      <string name="privacy_policy">Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
+     <string name="provision_arrow_back">&lt;</string>
+     <string name="provision_arrow_next">></string>
      <string name="remind_later">Υπενθύμιση αργότερα</string>
      <string name="restoreSync">Συγχρονισμός τώρα</string>
      <string name="setting">Ρυθμίσεις</string>

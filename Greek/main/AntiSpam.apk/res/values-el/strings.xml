@@ -170,7 +170,7 @@
      <string name="marked_by_others">"%d άλλοι χρήστες το επισήμαναν ως "</string>
      <string name="marked_by_user">"το έχετε επισημάνει ως "</string>
      <string name="menu_add">Προσθήκη</string>
-     <string name="menu_add_into_contact">Προσθήκη σε υπάρχουσα επαφή</string>
+     <string name="menu_add_into_contact">Προσθήκη σε υφιστάμενη επαφή</string>
      <string name="menu_add_new_contact">Νέα επαφή</string>
      <string name="menu_bl_add_contact">Επαφές</string>
      <string name="menu_bl_add_manual">Προσθήκη</string>

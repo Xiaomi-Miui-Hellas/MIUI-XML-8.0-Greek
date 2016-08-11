@@ -62,6 +62,10 @@
         <item quantity="other">%d τραγούδια</item>
         <item quantity="one">1 τραγούδι</item>
      </plurals>
+     <plurals name="comment_count">
+        <item quantity="other">%d σχόλια</item>
+        <item quantity="one">%d σχόλιο</item>
+     </plurals>
      <plurals name="dialog_delete_descript">
         <item quantity="other">Διαγραφή %d τραγουδιών;</item>
         <item quantity="one">Διαγραφή %d τραγουδιού;</item>
@@ -85,6 +89,10 @@
      <plurals name="multichoice_title">
         <item quantity="other">Επιλέχθηκαν %d στοιχεία</item>
         <item quantity="one">Επιλέχθηκε %d στοιχείο</item>
+     </plurals>
+     <plurals name="reader_count">
+        <item quantity="other">%d αναγνώστες</item>
+        <item quantity="one">%d αναγνώστης</item>
      </plurals>
      <plurals name="send_songs_toast">
         <item quantity="other">Θα αποσταλούν %d τραγούδια</item>

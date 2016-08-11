@@ -35,8 +35,6 @@
      <string name="account_user_education">Εκπαίδευση</string>
      <string name="account_user_email">Email</string>
      <string name="account_user_gender">Φύλο</string>
-     <string name="account_user_gender_female">Γυναίκα</string>
-     <string name="account_user_gender_male">Άντρας</string>
      <string name="account_user_id">Mi Account ID</string>
      <string name="account_user_income">Εισόδημα</string>
      <string name="account_user_location">Τοποθεσία</string>

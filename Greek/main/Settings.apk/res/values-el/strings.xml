@@ -1437,6 +1437,8 @@
      <string name="fingerprint_last_delete_message">"Δεν θα είστε σε θέση να χρησιμοποιήσετε τα δακτυλικά σας αποτυπώματα για να ξεκλειδώσετε το τηλέφωνο, να εγκρίνετε αγορές, ή να συνδεθείτε σε εφαρμογές με αυτά."</string>
      <string name="fingerprint_last_delete_title">Κατάργηση όλων των δακτυλικών αποτυπωμάτων;</string>
      <string name="fingerprint_list_title">Δακτ.αποτύπωμα</string>
+     <string name="fingerprint_lock_first">Ξεκλείδωμα Πρώτου χώρου</string>
+     <string name="fingerprint_lock_second">Ξεκλείδωμα Δεύτερου χώρου</string>
      <string name="fingerprint_manage_category_title">Διαχείριση δακτυλικών αποτυπωμάτων</string>
      <string name="fingerprint_not_recognized">Μη αναγνωρίσιμο</string>
      <string name="fingerprint_removal_failed">"Αδυναμία αφαίρεσης δακτυλικού αποτυπώματος. Προσπαθήστε ξανά αργότερα"</string>
@@ -1533,6 +1535,7 @@
      <string name="global_change_warning">Αυτή η ρύθμιση επηρεάζει όλους τους χρήστες σε αυτό το τηλέφωνο.</string>
      <string name="global_font_change_title">Αλλαγή μεγέθους γραμματοσειράς</string>
      <string name="global_locale_change_title">Αλλαγή γλώσσας</string>
+     <string name="google_backup_enable">Ενεργοποίηση αντ.ασφαλείας</string>
      <string name="google_backup_section_title">Αντίγραφα Google &amp; επαναφορά</string>
      <string name="google_wallet">Google Wallet</string>
      <string name="gsm_to_wifi_connect_type_title">Κινητή σε Wi‑Fi</string>
@@ -2421,10 +2424,13 @@
      <string name="permission_detail_info">Λεπτομέρειες άδειας</string>
      <string name="permission_detail_info_summary">Δικαιώματα: Ασφάλεια %1$d | Ιδιωτικότητα %2$d | Άλλα %3$d</string>
      <string name="permission_manage">Διαχείριση δικαιωμάτων</string>
+     <string name="permission_manage_global_build_title">Άλλα δικαιώματα</string>
      <string name="permission_manage_summary">Αυτόματη έναρξη, προστασία της ιδιωτικής ζωής, ασφαλής διαχείριση άδειας</string>
      <string name="permission_manage_title">%s λεπτομέρειες άδειας</string>
      <string name="permission_manager">Δικαιώματα</string>
      <string name="permission_mgr">Δικαιώματα</string>
+     <string name="permission_settings_summary">Διαχείριση δικαιωμάτων σχετικά με τοποθεσία, αποθήκευση, τηλέφωνο, μηνύματα και επαφές.</string>
+     <string name="permission_settings_title">Δικαιώματα εφαρμογών</string>
      <string name="permissions_label">Δικαιώματα</string>
      <string name="permit_draw_overlay">Να επιτρέπεται η επικάλυψη άλλων εφαρμογών</string>
      <string name="permit_usage_access">Να επιτρέπεται η πρόσβαση χρήσης</string>
@@ -2876,6 +2882,8 @@
      <string name="screensaver_settings_summary_sleep">Κατά τη φόρτιση</string>
      <string name="screensaver_settings_title">Διαδραστική Προφύλαξη Οθόνης</string>
      <string name="screensaver_settings_when_to_dream">Πότε να ξεκινήσει</string>
+     <string name="screenshot">Στιγμιότυπο</string>
+     <string name="screenshot_three_gesture">Σύρετε τρία δάκτυλα ταυτόχρονα για λήψη στιγμιότυπου</string>
      <string name="sd_card_settings_label">Συσκευή αποθήκευσης USB</string>
      <string name="sd_card_storage">Συσκευή αποθήκευσης USB</string>
      <string name="sd_eject">Αποσύνδεση κοινόχρηστου αποθηκευτικού χώρου</string>
@@ -3404,9 +3412,9 @@
 "<b>Αντίγραφα ασφαλείας εφαρμογών</b>" 
 Όλες οι αποθηκευμένες εφαρμογές στο ^1 θα απεγκατασταθούν και τα δεδομένα τους θα διαγραφούν. Για να κρατήσετε αυτές τις εφαρμογές, μετακινήστε τες σε εναλλακτικό χώρο αποθήκευσης σε αυτή τη συσκευή."</string>
      <string name="storage_internal_title">Εσωτερική μνήμη</string>
-     <string name="storage_internal_unmount_details"><b>Όταν αποπροσαρτήσετε το ^1, οι εφαρμογές που βρίσκονται σε αυτό θα σταματήσουν να λειτουργούν και τα αρχεία πολυμέσων που είναι αποθηκευμένα δεν θα είναι διαθέσιμα μέχρι να επανατοποθετηθεί.</b>" 
+     <string name="storage_internal_unmount_details">"<b>Όταν αποπροσαρτήσετε το ^1, οι εφαρμογές που βρίσκονται σε αυτό θα σταματήσουν να λειτουργούν και τα αρχεία πολυμέσων που είναι αποθηκευμένα δεν θα είναι διαθέσιμα μέχρι να επανατοποθετηθεί.</b>" 
 
-Το ^1 έχει διαμορφωθεί για να δουλεύει μόνο σε αυτή τη συσκευή. Δεν θα δουλέψει σε καμία άλλη."</string>
+Το ^1 έχει διαμορφωθεί για να δουλεύει μόνο σε αυτή τη συσκευή. Δεν θα δουλέψει σε καμία άλλη.""</string>
      <string name="storage_label">Αποθηκευτικός χώρος</string>
      <string name="storage_low_summary">Ορισμένες λειτουργίες του συστήματος, όπως ο συγχρονισμός ενδέχεται να μην λειτουργούν σωστά. Προσπαθήστε να ελευθερώσετε χώρο διαγράφοντας ή unpinning στοιχεία, όπως εφαρμογές ή περιεχόμενο πολυμέσων</string>
      <string name="storage_low_title">Ο αποθηκευτικός χώρος είναι σε χαμηλά επίπεδα</string>
@@ -3436,6 +3444,62 @@
      <string name="storage_unmount_failure">Αδυναμία ασφαλούς αποσύνδεσης του %1$s</string>
      <string name="storage_unmount_success">Το %1$s αποσυνδέθηκε με ασφάλεια</string>
      <string name="storage_usb">Μνήμη USB</string>
+     <string name="storage_usb_settings">Αποθ.χώρος &amp; USB</string>
+     <string name="storage_used">Αποθ.χώρος σε χρήση</string>
+     <string name="storage_volume_summary">%1$s χρήση του %2$s</string>
+     <string name="storage_volume_used">Χρήση του %1$s</string>
+     <string name="storage_volume_used_total">Συνολικά χρήση του %1$s</string>
+     <string name="storage_wizard_format_confirm_body">"Αυτό απαιτεί το ^1 να διαμορφωθεί ώστε να είναι ασφαλές. 
+
+Μετά την διαμόρφωση το ^1 θα δουλεύει μόνο σε αυτή τη συσκευή. 
+
+"<b>Η διαμόρφωση θα διαγράψει όλα τα δεδομένα που είναι τώρα στο ^1.</b>" Για να αποφύγετε την απώλεια δεδομένων, κάντε αντίγραφο ασφαλείας. "</string>
+     <string name="storage_wizard_format_confirm_next">Διαγραφή &amp; διαμόρφωση</string>
+     <string name="storage_wizard_format_confirm_public_body">"Αυτό απαιτεί το ^1 να διαμορφωθεί. 
+
+"<b>Η διαμόρφωση θα διαγράψει όλα τα δεδομένα που είναι τώρα στο ^1.</b>" Για να αποφύγετε την απώλεια δεδομένων, κάντε αντίγραφο ασφαλείας. "</string>
+     <string name="storage_wizard_format_confirm_public_title">Διαμόρφωση ως φορητό αποθ.χώρο</string>
+     <string name="storage_wizard_format_confirm_title">Διαμόρφωση ως εσωτερικό αποθ.χώρο</string>
+     <string name="storage_wizard_format_progress_body">Μην αφαιρέσετε το ^1 όσο γίνεται διαμόρφωση.</string>
+     <string name="storage_wizard_format_progress_title">Διαμόρφωση ^1…</string>
+     <string name="storage_wizard_init_external_summary">Για μεταφορά φωτογραφιών και άλλων πολυμέσων μεταξύ των συσκευών.</string>
+     <string name="storage_wizard_init_external_title">Χρήση ως φορητό αποθ.χώρο</string>
+     <string name="storage_wizard_init_internal_summary">Για την αποθήκευση όλων των δεδομένων συμπεριλαμβανομένων εφαρμογών και φωτογραφιών μόνο σε αυτή τη συσκευή. Απαιτείται διαμόρφωση που θα εμποδίσει την λειτουργία του σε άλλες συσκευές.</string>
+     <string name="storage_wizard_init_internal_title">Χρήση ως εσωτερικό αποθ.χώρο</string>
+     <string name="storage_wizard_init_title">Ρύθμιση του ^1</string>
+     <string name="storage_wizard_migrate_body">"Μπορείτε να μεταφέρετε φωτογραφίες, αρχεία και μερικές εφαρμογές σε αυτό το νέο ^1. 
+
+Η μεταφορά διαρκεί περίπου ^2 και θα ελευθερώσει ^3 στον εσωτερικό χώρο αποθήκευσης. Μερικές εφαρμογές δεν θα λειτουργούν κατά την διάρκεια της μεταφοράς."</string>
+     <string name="storage_wizard_migrate_confirm_body"><b>Η μεταφορά διαρκεί περίπου ^1. Θα ελευθερώσει ^2 στο ^3.</b></string>
+     <string name="storage_wizard_migrate_confirm_next">Μεταφορά</string>
+     <string name="storage_wizard_migrate_confirm_title">Μεταφορά δεδομένων τώρα</string>
+     <string name="storage_wizard_migrate_details">"Κατά τη διάρκεια της μεταφοράς: 
+• Μην αφαιρέσετε το ^1. 
+• Μερικές εφαρμογές δεν θα λειτουργούν σωστά. 
+• Διατηρήστε τη συσκευή φορτισμένη."</string>
+     <string name="storage_wizard_migrate_later">Μεταφορά αργότερα</string>
+     <string name="storage_wizard_migrate_now">Μεταφορά τώρα</string>
+     <string name="storage_wizard_migrate_progress_title">Μεταφορά δεδομένων…</string>
+     <string name="storage_wizard_migrate_title">Μεταφορά δεδομένων σε νέο αποθ.χώρο</string>
+     <string name="storage_wizard_move_confirm_body">"Η μεταφορά της εφαρμογής ^1 και των δεδομένων της στο ^2 θα διαρκέσει μόνο λίγα λεπτά. Δεν θα μπορείτε να χρησιμοποιήσετε την εφαρμογή μέχρι να ολοκληρωθεί η μεταφορά. 
+
+Μην αφαιρέσετε το ^2 κατά τη διάρκεια της μεταφοράς."</string>
+     <string name="storage_wizard_move_confirm_title">Μεταφορά ^1</string>
+     <string name="storage_wizard_move_progress_body">"Μην αφαιρέσετε το ^1 κατά τη διάρκεια της μεταφοράς. 
+
+Η εφαρμογή ^2 σε αυτή τη συσκευή δεν θα είναι διαθέσιμη μέχρι να ολοκληρωθεί η μεταφορά."</string>
+     <string name="storage_wizard_move_progress_cancel">Ακύρωση μεταφοράς</string>
+     <string name="storage_wizard_move_progress_title">Μεταφορά ^1…</string>
+     <string name="storage_wizard_ready_external_body">Το ^1 είναι έτοιμο για χρήση με φωτογραφίες και άλλα πολυμέσα.</string>
+     <string name="storage_wizard_ready_internal_body">"Το νέο σας ^1 είναι έτοιμο για χρήση. 
+
+για να μεταφέρετε φωτογραφίες, αρχεία και δεδομένα εφαρμογών σε αυτή τη συσκευή, πηγαίνετε στις Ρυθμίσεις > Αποθηκευτικός χώρος."</string>
+     <string name="storage_wizard_ready_title">Το ^1 είναι έτοιμο</string>
+     <string name="storage_wizard_slow_body">"Το ^1 φαίνεται ότι είναι αργό. 
+
+Μπορείτε να συνεχίσετε, αλλά οι εφαρμογές που μεταφέρθηκαν σε αυτό μπορεί να κολλάνε και η μεταφορά δεδομένων μπορεί να διαρκεί περισσότερο χρόνο. 
+
+Χρησιμοποιείστε ένα ταχύτερο ^1 για καλύτερη απόδοση."</string>
      <string name="storageuse_settings_summary">Χρήση χώρου από εφαρμογές</string>
      <string name="storageuse_settings_title">Χρήση αποθηκευτικού χώρου</string>
      <string name="strict_mode">Ενεργοποίηση Strict Mode</string>
@@ -3443,8 +3507,13 @@
      <string name="sum_carrier_select">Επιλέξτε ένα φορέα δικτύου</string>
      <string name="summary_divider_text">", "</string>
      <string name="summary_font_size">%1$s</string>
+     <string name="summary_range_symbol_combination">%1$s - %2$s</string>
+     <string name="summary_range_verbal_combination">%1$s to %2$s</string>
      <string name="supl_not_set">&lt;Δεν έχει οριστεί></string>
      <string name="supplicant_state_label">Supplicant state:</string>
+     <string name="suw_back_button_label">Πίσω</string>
+     <string name="suw_more_button_label">Περισσότερα</string>
+     <string name="suw_next_button_label">Επόμενο</string>
      <string name="switch_off_text">Ανενεργό</string>
      <string name="switch_on_text">Ενεργό</string>
      <string name="symbols_not_allowed_for_password">Ο κωδικός δεν μπορεί να περιέχει σύμβολα</string>
@@ -3471,6 +3540,9 @@
      <string name="sync_wifi_label">Ρύθμιση συγχρονισμού Wi‑Fi</string>
      <string name="sync_wifi_only">Μόνο Wi‑Fi</string>
      <string name="system">Σύστημα</string>
+     <string name="system_alert_window_apps_title">Εφαρμογές</string>
+     <string name="system_alert_window_off">Όχι</string>
+     <string name="system_alert_window_on">Ναι</string>
      <string name="system_app_settings">Εφαρμογές συστήματος</string>
      <string name="system_backup_section_title">Αντίγραφα</string>
      <string name="system_package">Οι ενημερώσεις του συστήματος δεν μπορούν να εγκατασταθούν σε εξωτερικά μέσα.</string>
@@ -3525,6 +3597,7 @@
      <string name="transition_animation_scale_title">Κλίμακα μετάβασης animation</string>
      <string name="translation_contributors_summary" />
      <string name="translation_contributors_title">Συνεργάτες</string>
+     <string name="trust_agent_disabled_device_admin">Απενεργοποιήθηκε από το διαχειριστή</string>
      <string name="trusted_credentials">Ασφαλή πιστοποιητικά</string>
      <string name="trusted_credentials_disable_confirmation">Απενεργοποίηση του πιστοποιητικού CA συστήματος</string>
      <string name="trusted_credentials_disable_label">Απενεργοποίηση</string>
@@ -3585,12 +3658,36 @@
      <string name="uicc_mount_summary" />
      <string name="under_keyguard">Κλείδωμα της οθόνης</string>
      <string name="uninstall_all_users_text">Καταργήστε την εγκατάσταση για όλους τους χρήστες</string>
+     <string name="uninstall_dlg_msg">Η απεγκατάσταση θα διαγράψει όλα τα δεδομένα της εφαρμογής.</string>
+     <string name="uninstall_dlg_title">Απεγκατάσταση τώρα</string>
      <string name="uninstall_text">Απεγκατάσταση</string>
+     <string name="uninstall_with_xspace_app_dlg_msg">Οι αντίστοιχες διπλές εφαρμογές θα διαγραφούν μαζί με τα δεδομένα τους.</string>
+     <string name="uninstall_xspace_app_dlg_msg">Η απεγκατάσταση τη διπλής εφαρμογής θα διαγράψει όλα τα δεδομένα της.</string>
+     <string name="uninstall_xspace_app_dlg_title">Απεγκατάσταση διπλής εφαρμογής;</string>
      <string name="unknown">Άγνωστος</string>
+     <string name="unknown_app">Άγνωστη εφαρμογή</string>
      <string name="unlock_backup_info_summary">"Όταν αποτύχει η αναγνώριση προσώπου πως θέλετε να ξεκλειδώσετε το τηλέφωνο σας "</string>
      <string name="unlock_change_lock_password_title">Αλλαγή του κωδικού</string>
      <string name="unlock_change_lock_pattern_title">Αλλαγή του μοτίβου</string>
      <string name="unlock_change_lock_pin_title">Αλλαγή του PIN</string>
+     <string name="unlock_disable_frp_warning_content_password">Οι λειτουργίες προστασίας της συσκευής δεν θα λειτουργήσουν χωρίς τον κωδικό σας.</string>
+     <string name="unlock_disable_frp_warning_content_password_fingerprint">"Οι λειτουργίες προστασίας της συσκευής δεν θα λειτουργήσουν χωρίς τον κωδικό σας.
+
+Επίσης, τα αποθηκευμένα δακτυλικά σας αποτυπώματα θα αφαιρεθούν και δεν θα μπορείτε να ξεκλειδώνετε τη συσκευή σας, να εγκρίνετε αγορές ή να συνδεθείτε σε εφαρμογές με αυτά."</string>
+     <string name="unlock_disable_frp_warning_content_pattern">Οι λειτουργίες προστασίας της συσκευής δεν θα λειτουργήσουν χωρίς το μοτίβο σας.</string>
+     <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Οι λειτουργίες προστασίας της συσκευής δεν θα λειτουργήσουν χωρίς το μοτίβο σας.
+
+Επίσης, τα αποθηκευμένα δακτυλικά σας αποτυπώματα θα αφαιρεθούν και δεν θα μπορείτε να ξεκλειδώνετε τη συσκευή σας, να εγκρίνετε αγορές ή να συνδεθείτε σε εφαρμογές με αυτά."</string>
+     <string name="unlock_disable_frp_warning_content_pin">Οι λειτουργίες προστασίας της συσκευής δεν θα λειτουργήσουν χωρίς το PIN σας.</string>
+     <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Οι λειτουργίες προστασίας της συσκευής δεν θα λειτουργήσουν χωρίς το PIN σας.
+
+Επίσης, τα αποθηκευμένα δακτυλικά σας αποτυπώματα θα αφαιρεθούν και δεν θα μπορείτε να ξεκλειδώνετε τη συσκευή σας, να εγκρίνετε αγορές ή να συνδεθείτε σε εφαρμογές με αυτά."</string>
+     <string name="unlock_disable_frp_warning_content_unknown">Device protection features will not work without your screen lock.</string>
+     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Device protection features will not work without your screen lock.
+
+Επίσης, τα αποθηκευμένα δακτυλικά σας αποτυπώματα θα αφαιρεθούν και δεν θα μπορείτε να ξεκλειδώνετε τη συσκευή σας, να εγκρίνετε αγορές ή να συνδεθείτε σε εφαρμογές με αυτά."</string>
+     <string name="unlock_disable_frp_warning_ok">Ναι, κατάργηση</string>
+     <string name="unlock_disable_frp_warning_title">Κατάργηση προστασίας της συσκευής;</string>
      <string name="unlock_disable_lock_password_summary">Αφαίρεση κλειδώματος με κωδικό</string>
      <string name="unlock_disable_lock_pattern_summary">Αφαίρεση μοτίβου ξεκλειδώματος</string>
      <string name="unlock_disable_lock_pin_summary">Αφαίρεση κλειδώματος με PIN</string>
@@ -3621,6 +3718,7 @@
      <string name="unlock_set_unlock_pin_summary">Μέτρια προς υψηλή ασφάλεια</string>
      <string name="unlock_set_unlock_pin_title">PIN</string>
      <string name="unlock_set_unlock_summary">Παρακαλούμε ενεργοποιήστε κωδικό οθόνη για να ορίσετε την προστασία του κωδικού πρόσβασης</string>
+     <string name="unlock_setup_wizard_fingerprint_details">Από τη στιγμή που ορίσετε ένα κλείδωμα οθόνης, μπορείτε επίσης να ορίσετε το δακτυλικό σας αποτύπωμα στις Ρυθμίσεις > Ασφάλεια.</string>
      <string name="unmount_inform_text">Η συσκευή USB θα αποσυνδεθεί</string>
      <string name="untitled_apn">Χωρίς τίτλο</string>
      <string name="update_progress_for_updates">Ενημέρωση (%s)</string>
@@ -3926,6 +4024,7 @@
      <string name="wifi_connect_cmcc_dialog_not_remind">"Να μην εμφανιστεί ξανά"</string>
      <string name="wifi_connect_cmcc_dialog_title">Ειδοποίηση χρήσης δεδομένων</string>
      <string name="wifi_connect_failed_message">Το τηλέφωνο δεν μπόρεσε να συνδεθεί στο Wi‑Fi δίκτυο….</string>
+     <string name="wifi_connected_no_internet">Συνδεδεμένο, χωρίς Internet</string>
      <string name="wifi_context_menu_change_password">Αλλαγή κωδικού</string>
      <string name="wifi_context_menu_change_wapi_certificate">Αλλαγή πιστοποιητικού WAPI</string>
      <string name="wifi_context_menu_connect">Σύνδεση στο δίκτυο Wi‑Fi</string>
@@ -4085,6 +4184,7 @@
      <string name="wifi_security_wpa">WPA PSK</string>
      <string name="wifi_security_wpa2">WPA2 PSK</string>
      <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+     <string name="wifi_select_assistant_dialog_title">Επιλέξτε βοηθό</string>
      <string name="wifi_select_network">Επιλέξτε Wi‑Fi</string>
      <string name="wifi_setting_category">Διαθέσιμα δίκτυα</string>
      <string name="wifi_setting_frequency_band_error">Υπήρξε ένα πρόβλημα κατά τον ορισμό της συχνότητας μπάντας</string>
@@ -4184,6 +4284,7 @@
      <string name="wifi_suspend_efficiency_title">Βελτίωση απόδοσης</string>
      <string name="wifi_suspend_optimizations">Βελτιστοποίηση Wi‑Fi</string>
      <string name="wifi_suspend_optimizations_summary">Εξοικονόμηση ενέργειας της μπαταρίας, όταν ενεργοποιείτε το Wi‑Fi</string>
+     <string name="wifi_switch_away_when_unvalidated">Εναλλαγή σε δεδομένα κινητής αν το Wi‑Fi χάσει την σύνδεση στο Internet.</string>
      <string name="wifi_switch_to_gsm_message">Χάθηκε η σύνδεση με Wi‑Fi. Χρήση σύνδεσης δεδομένων κινητής αντί αυτού;</string>
      <string name="wifi_switch_to_gsm_title">Χρήση GSM;</string>
      <string name="wifi_tether_checkbox_text">Φορητό σημείο πρόσβασης Wi‑Fi</string>
@@ -4193,6 +4294,7 @@
      <string name="wifi_tether_enabled_subtext">Το φορητό σημείο πρόσβασης %1$s είναι ενεργό</string>
      <string name="wifi_tether_failed_subtext">Σφάλμα φορητού σημείου πρόσβασης Wi‑Fi</string>
      <string name="wifi_tether_setting_title">Βασικές ρυθμίσεις</string>
+     <string name="wifi_tether_settings_title">Προσωπικό hotspot</string>
      <string name="wifi_tether_starting">Ενεργοποίηση hotspot για…</string>
      <string name="wifi_tether_stopping">Απενεργοποίηση hotspot…</string>
      <string name="wifi_type_approval" />
@@ -4245,9 +4347,22 @@
      <string name="wizard_back">Πίσω</string>
      <string name="wizard_finish">Τέλος</string>
      <string name="wizard_next">Επόμενο</string>
+     <string name="work_profile_confirm_remove_message">Όλες οι εφαρμογές και τα δεδομένα σε αυτό το προφίλ θα διαγραφούν εάν συνεχίσετε.</string>
+     <string name="work_profile_confirm_remove_title">Διαγραφή προφίλ εργασίας;</string>
+     <string name="work_profile_usage_access_warning">Turning off usage access for this app doesn’t prevent your administrator tracking data usage for apps in your work profile.</string>
+     <string name="work_sim_title">SIM εργασίας</string>
      <string name="wps_category">WPS</string>
      <string name="wps_connect_summary">Σιγουρευτείτε πως το router υποστηρίζει και έχει ενεργό το WPS</string>
      <string name="wps_connect_title">Σύνδεση WPS</string>
+     <string name="write_settings">Τροποποίηση ρυθμίσεων συστήματος</string>
+     <string name="write_settings_description">Αυτή η άδεια επιτρέπει σε μια εφαρμογή να τροποποιεί τις ρυθμίσεις συστήματος.</string>
+     <string name="write_settings_off">Όχι</string>
+     <string name="write_settings_on">Ναι</string>
+     <string name="write_settings_preference">Να επιτρέπεται στην εφαρμογή να τροποποιεί τις ρυθμίσεις συστήματος</string>
+     <string name="write_settings_summary" formatted="false">%d από %d εφαρμογές επιτρέπεται να τροποποιούν τις ρυθμίσεις συστήματος</string>
+     <string name="write_settings_title">Μπορούν να τροποποιούν τις ρυθμίσεις συστήματος</string>
+     <string name="write_system_settings">Τροποποίηση ρυθμίσεων συστήματος</string>
+     <string name="write_tag">Εγγραφή</string>
      <string name="wrong_pin_code_pukked">Εσφαλμένος κωδικός PIN κάρτας SIM. Θα πρέπει να επικοινωνήσετε με τον πάροδο κινητής τηλεφωνίας σας για να ξεκλειδώσετε τη συσκευή σας.</string>
      <string name="xiaomi_account">Λογαριασμός Mi</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
@@ -4256,6 +4371,7 @@
      <string name="xiaomi_router_available_notif_title">Mi Router διαθέσιμο</string>
      <string name="xiaomi_router_notif_summary">Ειδοποίησέ με όταν υπάρχει διαθέσιμο Mi Router</string>
      <string name="xiaomi_router_notif_title">Ειδοποίηση για Mi Router</string>
+     <string name="xspace">Διπλές εφαρμογές</string>
      <string name="yes">Ναι</string>
      <string name="yes_all_caps">ΝΑΙ</string>
      <string name="zen_mode_alarm_info">Οι συναγερμοί είναι πάντα διακοπές προτεραιότητας</string>
