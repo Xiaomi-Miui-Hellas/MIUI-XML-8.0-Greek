@@ -14,7 +14,7 @@
      <string name="device_xiaomi">Mi Phone</string>
      <string name="edit_frequent_phrases">Επεξεργασία συχνών φράσεων</string>
      <string name="frequent_phrases_des">Εισάγετε συχνές φράσεις με λίγα μόνο πατήματα κατά την επεξεργασία κειμένου</string>
-     <string name="frequent_phrases_size_exceeded">Μπορείτε να προσθέσετε μέχρι 10 συχνές φράσεις. Διαγράψτε τις περιττές, για να προσθέσετε νέες</string>
+     <string name="frequent_phrases_size_exceeded">Μπορείτε να προσθέσετε μέχρι %1$d συχνές φράσεις. Διαγράψτε τις περιττές, για να προσθέσετε νέες</string>
      <string name="menu_add_frequent_phrases">Προσθήκη</string>
      <string name="menu_delete">Διαγραφή</string>
      <string name="menu_edit">Επεξεργασία</string>
