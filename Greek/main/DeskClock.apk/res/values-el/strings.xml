@@ -44,8 +44,8 @@
      <string name="delete">Διαγραφή</string>
      <string name="delete_alarm">Διαγραφή αφύπνισης</string>
      <string name="delete_alarm_confirm">Διαγραφή αυτής της αφύπνισης;</string>
-     <string name="delete_selected_timer_item">Διαγραφή επιλεγμένου χρονόμετρου;</string>
-     <string name="delete_timer_item_title">Διαγραφή χρονόμετρου</string>
+     <string name="delete_selected_timer_item">Διαγραφή επιλεγμένου χρονομέτρου;</string>
+     <string name="delete_timer_item_title">Διαγραφή χρονομέτρου</string>
      <string name="delete_timezone_title">Διαγραφή ζώνης ώρας</string>
      <string name="dialog_confirm_abort">Απόρριψη αλλαγών;</string>
      <string name="done">OK</string>
@@ -73,7 +73,7 @@
      <string name="loading_ringtone">Φόρτωση του ήχου…</string>
      <string name="menu_add_worldclock">Προσθήκη</string>
      <string name="menu_desk_clock">Επιτραπέζιο ρολόι</string>
-     <string name="menu_edit_timer_item">Αλλαγή χρονόμετρου</string>
+     <string name="menu_edit_timer_item">Αλλαγή χρονομέτρου</string>
      <string name="menu_item_dock_settings">Ρυθμίσεις βάσης</string>
      <string name="menu_item_sort_by_gmt_offset">Ταξινόμηση κατά ώρα</string>
      <string name="menu_item_sort_by_name">Ταξινόμηση κατά όνομα</string>
@@ -117,12 +117,12 @@
      <string name="timer_continue">Συνέχιση</string>
      <string name="timer_got_it">OK</string>
      <string name="timer_item_duration_display">%1$d λεπτά %2$d δευτερόλεπτα</string>
-     <string name="timer_item_label_hint">Όνομα χρονόμετρου</string>
+     <string name="timer_item_label_hint">Όνομα χρονομέτρου</string>
      <string name="timer_item_picker_hour">Ώρα</string>
      <string name="timer_item_picker_minute">λεπτό</string>
      <string name="timer_item_picker_second">δευτ</string>
-     <string name="timer_new_item">Προσθήκη χρονόμετρου</string>
-     <string name="timer_notify_text">Αναβολή ή απόρριψη χρονόμετρου.</string>
+     <string name="timer_new_item">Προσθήκη χρονομέτρου</string>
+     <string name="timer_notify_text">Αναβολή ή απόρριψη χρονομέτρου.</string>
      <string name="timer_start_alarm">Τέλος χρόνου!</string>
      <string name="timer_title">Αντ.μέτρηση</string>
      <string name="timezone_exist_error_message">Η ζώνη ώρας υπάρχει ήδη.</string>

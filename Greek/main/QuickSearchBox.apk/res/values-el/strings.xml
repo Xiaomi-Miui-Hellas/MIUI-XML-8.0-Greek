@@ -44,6 +44,7 @@
      <string name="google_settings_category_title">Αναζήτηση Google</string>
      <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
      <string name="hot_search">Δημοφιλή</string>
+     <string name="hot_words" />
      <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
      <string name="loading">Μισό λεπτό…</string>
      <string name="menu_help">Βοήθεια</string>
@@ -53,24 +54,29 @@
      <string name="recently_shortcut_label">Πρόσφατες συντομεύσεις</string>
      <string name="remove_from_history">Διαγραφή αυτού του στοιχείου από το ιστορικό αναζήτησης;</string>
      <string name="remove_from_history_failed">Αδύνατη η διαγραφή από το ιστορικό</string>
+     <string name="search_apps">Αναζήτηση εφαρμογών</string>
      <string name="search_group_fold">Απόκρυψη</string>
      <string name="search_group_unfold">Περισσότερα</string>
      <string name="search_history">Ιστορικό</string>
      <string name="search_in_app_store">Αναζήτηση στο Mi Market</string>
      <string name="search_in_web">Αναζήτηση online</string>
+     <string name="search_keyword_quicksearchbox">Αναζήτηση</string>
      <string name="search_settings">Ρυθμίσεις αναζήτησης</string>
      <string name="search_sources">Στοιχεία για αναζήτηση</string>
      <string name="search_sources_summary">Επιλέξτε τι αναζητάτε στην συσκευή σας</string>
      <string name="search_suggestion">Συμβουλές</string>
+     <string name="search_videos">Αναζήτηση βίντεο</string>
      <string name="search_widget">Αναζήτηση</string>
      <string name="send_secret_code">Αποστολή κωδικού</string>
      <string name="show_more">Δείτε περισσότερα</string>
+     <string name="suggest_open_app_failed">"Αδυναμία ανοίγματος εφαρμογής"</string>
      <string name="system_search_category_title">Τηλέφωνο</string>
      <string name="voice_search_hint_quotation_end">\"</string>
      <string name="voice_search_hint_quotation_start">\"</string>
      <string name="voice_search_hint_title">"Προσπαθήστε να πείτε "</string>
      <string name="web_search_results">Αποτελέσματα αναζήτησης Web</string>
      <string name="xiaomi_hint" />
+     <string name="xiaomi_homepage_hint" />
      <string name="xiaomi_homepage_suggest" />
      <string name="xiaomi_hot_query" />
      <string name="xiaomi_search_label">Αποτελέσματα</string>
