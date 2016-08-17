@@ -760,6 +760,7 @@
      <string name="release_to_refresh">Αφήστε για ανανέωση</string>
      <string name="rematch">Επανασύνδεση</string>
      <string name="remote_controller_name">Mi Remote</string>
+     <string name="remove_fav_channel">Αφαίρεση αγαπημένου</string>
      <string name="rename">Μετονομασία</string>
      <string name="rename_hint">Πληκτρολογήστε το όνομα της συσκευής</string>
      <string name="repeat_diagnosis">Δοκιμή ξανά</string>
@@ -776,6 +777,7 @@
      <string name="scene_default">Προεπιλογή</string>
      <string name="scene_name_frame">%1$s από %2$s%3$s</string>
      <string name="scene_name_frame_short">%1$s%2$s</string>
+     <string name="screen_shot_button_title">Στιγμιότυπο οθόνης TV</string>
      <string name="screen_shot_delete">Διαγραφή</string>
      <string name="screen_shot_delete_warning">Είστε βέβαιοι ότι θέλετε να το διαγράψετε;</string>
      <string name="screen_shot_more">Εμφάνιση περισσότερων στιγμιότυπων</string>
