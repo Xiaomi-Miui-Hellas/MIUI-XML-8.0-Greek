@@ -11,6 +11,27 @@
         <item>"Βεβαιωθείτε ότι έχετε επιλέξει το σωστό μοντέλο A/C κατά την διαδικασία σύζευξης. Ακολουθήστε τις οδηγίες που εμφανίζονται στη συσκευή σας μέχρι η σύζευξη να ολοκληρωθεί."</item>
         <item>Όχι. Προς το παρόν μπορείτε να χρησιμοποιήσετε τα Mi 4, Mi 4c, και Redmi Note 2 ως τηλεχειριστήρια IR.</item>
      </string-array>
+     <string-array name="assistant_tab">
+        <item>Βίντεο</item>
+        <item>Στιγμιότυπα</item>
+        <item>Εφαρμογή</item>
+     </string-array>
+     <string-array name="epg_channel_tab">
+        <item>Όλα</item>
+        <item>Συλλογή</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Πρόσφατα</item>
+     </string-array>
+     <string-array name="epg_channel_tab_actionbar">
+        <item>Όλα τα κανάλια</item>
+        <item>Αγαπημένα κανάλια</item>
+        <item>Κανάλια CCTV</item>
+        <item>Κανάλια δορυφορικής TV</item>
+        <item>Κανάλια HD</item>
+        <item>Πρόσφατη προβολή</item>
+     </string-array>
      <string-array name="epg_week_tab">
         <item>Κυρ</item>
         <item>Δευ</item>
