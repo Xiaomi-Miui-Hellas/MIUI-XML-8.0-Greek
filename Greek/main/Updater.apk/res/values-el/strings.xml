@@ -126,11 +126,14 @@
      <string name="notification_reboot_btn">Επανεκκίνηση</string>
      <string name="notification_reboot_seccess_des">Πατήστε για να μοιραστείτε τις πληροφορίες ενημέρωσης.</string>
      <string name="notification_reboot_seccess_title">Η συσκευή ενημερώθηκε!</string>
-     <string name="notification_reboot_summary_hm">Πατήστε για να κάνετε επανεκκίνηση της συσκευής σας.</string>
+     <string name="notification_reboot_summary_hm">Πατήστε για επανεκκίνηση της συσκευής σας.</string>
      <string name="notification_reboot_title">Η ενημέρωση ολοκληρώθηκε</string>
      <string name="notification_reboot_title_hm">Επανεκκίνηση για εφαρμογή της ενημέρωσης</string>
      <string name="notification_restart">Ενημέρωση ξανά</string>
      <string name="notification_share">Μοιράσου το</string>
+     <string name="notification_uncrypt_summary_hm">Πατήστε για επανεκκίνηση της συσκευής σας.</string>
+     <string name="notification_uncrypt_title_hm">Επανεκκίνηση για εφαρμογή της ενημέρωσης</string>
+     <string name="notification_uncrypting">Αποκρυπτογράφηση ενημέρωσης</string>
      <string name="notification_update_new_version">Υπάρχει διαθέσιμη ενημέρωση</string>
      <string name="notification_update_now">Ενημέρωση τώρα</string>
      <string name="notification_updating">Ενημέρωση…</string>
@@ -202,6 +205,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="timer_title">Η συσκευή θα επανεκκινήσει σε %d δευτερόλεπτα.</string>
      <string name="title_toast_auto">Οι ενημερώσεις θα λαμβάνονται αυτόματα</string>
      <string name="top_secret_build">Απόρρητη</string>
+     <string name="uncrypt_title">Αποκρυπτογράφηση (%s)</string>
      <string name="unkown_error_title">"Αδυναμία λήψης"</string>
      <string name="unstable_build">Ασταθής</string>
      <string name="update_comment_hint" />

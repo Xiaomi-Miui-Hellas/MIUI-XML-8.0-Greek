@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_airplane_mode">Λειτ.πτήσης.</string>
+     <string name="accessibility_assistant">Βοηθός Αφής</string>
      <string name="accessibility_back">Πίσω</string>
      <string name="accessibility_battery_level">Επίπεδο μπαταρίας: %d</string>
      <string name="accessibility_bluetooth_connected">Το Bluetooth συνδέθηκε.</string>
@@ -296,6 +297,7 @@ d MMMM"</string>
      <string name="status_bar_settings_signal_meter_disconnected">Δεν υπάρχει σύνδεση Internet</string>
      <string name="status_bar_settings_signal_meter_wifi_nossid">Wi‑Fi συνδεδεμένο</string>
      <string name="status_bar_style_settings">Ειδοποιήσεις</string>
+     <string name="status_bar_volte_label">HD</string>
      <string name="task_access_locked_app_msg">Κλείδωμα εφαρμογών ενεργό</string>
      <string name="title_usb_accessory">Αξεσουάρ USB</string>
      <string name="torch_activity_hint">Κρατήστε [icon] για ενεργοποίηση του φακού στην οθόνη κλειδώματος</string>

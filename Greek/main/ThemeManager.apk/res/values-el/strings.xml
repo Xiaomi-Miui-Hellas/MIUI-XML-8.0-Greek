@@ -169,6 +169,7 @@
      <string name="resource_comment_upload_not_logined">Θα πρέπει να συνδεθείτε πρώτα</string>
      <string name="resource_comment_upload_success">Σχόλιο εστάλη! Θα εμφανιστεί μετά από μια σύντομη ανασκόπηση.</string>
      <string name="resource_continue">Επόμενο</string>
+     <string name="resource_data_empty">Το περιεχόμενο είναι κενό.</string>
      <string name="resource_default">Προεπιλεγμένος ήχος κλήσης</string>
      <string name="resource_default_name">Πόρος</string>
      <string name="resource_delete">Διαγραφή</string>

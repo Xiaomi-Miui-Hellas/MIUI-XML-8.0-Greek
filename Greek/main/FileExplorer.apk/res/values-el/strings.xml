@@ -172,7 +172,9 @@
      <string name="dislike_toast">"Τέτοια βίντεο δεν θα προτείνονται σε εσάς."</string>
      <string name="dislike_video">"Δεν με ενδιαφέρει"</string>
      <string name="dlg_error_unmount_text">Αποτυχία αποσύνδεσης μνήμης USB.</string>
+     <string name="download">Λήψη</string>
      <string name="download_current_progress">%1$d/100</string>
+     <string name="download_fail">Αδυναμία λήψης</string>
      <string name="download_failed">Αποτυχία λήψης</string>
      <string name="download_link_completed">%1$s μοιράζονται μέσω KuaiPan. Αγγίξτε τον παρακάτω σύνδεσμο για εμφάνιση:</string>
      <string name="downloaded_sticker_str">Έχει ληφθεί</string>
@@ -220,6 +222,7 @@
      <string name="file_too_large">Αποτυχία αποστολής: πολύ μεγάλο αρχείο.</string>
      <string name="files">Αρχεία</string>
      <string name="finished">Ολοκληρώθηκε</string>
+     <string name="flow_setting">Ρυθμίσεις</string>
      <string name="folder_exist">Ο φάκελος ήδη υπάρχει</string>
      <string name="folder_name_empty">Το όνομα φακέλου δεν μπορεί να είναι κενό</string>
      <string name="folder_name_illegal">μη έγκυρο όνομα φακέλου</string>
@@ -252,6 +255,7 @@
      <string name="homepage_tab_category">Κατηγορίες</string>
      <string name="homepage_tab_file_view">Τηλέφωνο</string>
      <string name="homepage_tab_recent">Πρόσφατα</string>
+     <string name="hot_app">Δημοφιλείς εφαρμογές</string>
      <string name="hot_comments">Δημοφιλή σχόλια</string>
      <string name="hot_sticker">Δημοφιλή αυτοκόλλητα</string>
      <string name="hot_video">Δημοφιλή βίντεο</string>
@@ -260,6 +264,7 @@
      <string name="if_cancel">Ακύρωση λειτουργίας;</string>
      <string name="image_loading_error">"Αδυναμία φόρτωσης εικόνας"</string>
      <string name="input_memo_hint">Εισάγετε πρόσθετους λόγους (προαιρετικό)</string>
+     <string name="install_fail">"Αδυναμία εγκατάστασης"</string>
      <string name="installing">Εγκατάσταση…</string>
      <string name="instruction">Εισάγετε την παρακάτω διεύθυνση στον FTP Client </string>
      <string name="instruction_pre">Αγγίξτε για να ξεκινήσει ο διακομιστής FTP</string>
@@ -481,6 +486,8 @@
      <string name="oauth_failed_tip">"Αδυναμία ολοκλήρωσης εξουσιοδότησης"</string>
      <string name="oauth_success_tip">Επιτυχής εξουσιοδότηση</string>
      <string name="online_not_support">"Δεν μπορείτε να δείτε αυτό το αρχείο στο διαδίκτυο αυτή τη στιγμή."</string>
+     <string name="only_wifi">Λήψη όταν συνδεθείτε σε Wi‑Fi</string>
+     <string name="open_app">Άνοιγμα</string>
      <string name="open_changed_file_message">"Το αρχείο που προσπαθείτε να ανοίξετε έχει αλλάξει. Για να διορθώσετε αυτό το πρόβλημα:
 1. Κατεβάστε το αρχείο πάλι για να βεβαιωθείτε ότι έχετε την πιο πρόσφατη έκδοση.
 2. Ανεβάστε το στο KuaiPan."</string>
@@ -593,6 +600,7 @@
      <string name="qq_platform">QQ</string>
      <string name="quota_info">Mi Drive: %1$s διαθέσιμα, %2$s σύνολο</string>
      <string name="qzone_platform">Qzone</string>
+     <string name="recent_show">Πρόσφατα</string>
      <string name="recommend">Προτεινόμενα</string>
      <string name="recommend_topic">Προτεινόμενα θέματα</string>
      <string name="recommend_user">Προτεινόμενα προφίλ</string>
@@ -667,6 +675,7 @@
      <string name="select_image">Επιλέξτε φωτογραφίες</string>
      <string name="select_music">Επιλέξτε τραγούδια</string>
      <string name="select_video">Επιλέξτε βίντεο</string>
+     <string name="select_volume">Επιλέξτε τοποθεσία αποθήκευσης</string>
      <string name="send_comment">Αποστολή</string>
      <string name="send_error">Αδυναμία προσθήκης σχολίου</string>
      <string name="send_sticker">Αποστολή αυτοκόλλητου</string>
@@ -751,7 +760,7 @@
      <string name="title_expire_video">Πρόκειται να λήξουν</string>
      <string name="title_recent">Πρόσφατα</string>
      <string name="title_report_video">Αναφορά</string>
-     <string name="title_select_volume">Επιλογή καταλόγου</string>
+     <string name="title_select_volume">Επιλέξτε φάκελο</string>
      <string name="title_upload_video">Κοινή χρήση μικρών βίντεο</string>
      <string name="toast_file_not_can_read">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
      <string name="tools">Εργαλεία</string>

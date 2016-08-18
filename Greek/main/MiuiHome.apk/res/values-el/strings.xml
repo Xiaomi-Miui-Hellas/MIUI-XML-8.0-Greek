@@ -48,6 +48,8 @@
      <string name="children_folder_title">Παιδιά</string>
      <string name="children_mode_exit">Έξοδος</string>
      <string name="children_mode_tips">Επιστροφή στις Ρυθμίσεις και διαχείριση πρόσβασης στις εφαρμογές.</string>
+     <string name="children_mode_tips_message">Δεν υπάρχει εφαρμογή στην λειτουργία Παιδιού. Παρακαλώ επιλέξτε εφαρμογή.</string>
+     <string name="children_mode_tips_title">Παρακαλώ επιλέξτε εφαρμογή</string>
      <string name="choose_wallpaper">Επιλογή ταπετσαρίας</string>
      <string name="chooser_wallpaper">Επιλογή ταπετσαρίας από</string>
      <string name="cloud_app_restore_title">Σε αναμονή</string>
@@ -213,6 +215,7 @@
      <string name="process" />
      <string name="recommend_apps_default_title">Κενό</string>
      <string name="recommend_apps_notice">Προτεινόμενες εφαρμογές</string>
+     <string name="recommend_apps_notice_nodata">Προτεινόμενες Εφαρμογές (χωρίς στοιχεία)</string>
      <string name="recommend_apps_switch_title">Προτεινόμενες εφαρμογές</string>
      <string name="recommend_apps_tips">"Για αυτή τη λειτουργία, πρέπει να συνδεθείτε στο Internet για να λειτουργήσει κανονικά. Για να την απενεργοποιήσετε, αγγίξτε το όνομα του τρέχοντος φακέλου."</string>
      <string name="reset_scene_prompt">H σκηνή θα επανέλθει στην προεπιλεγμένη διάταξη</string>

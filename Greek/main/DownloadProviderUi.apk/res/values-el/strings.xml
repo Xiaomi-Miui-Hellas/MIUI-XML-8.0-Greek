@@ -21,7 +21,6 @@
      <string name="apk_filter">APK</string>
      <string name="app_downloads">%s λήψεις</string>
      <string name="app_label">Λήψεις</string>
-     <string name="app_name">File Explorer</string>
      <string name="app_size">%1$s</string>
      <string name="auth_activity_title">Λογαριασμός Xunlei</string>
      <string name="auth_fail">"Αδυναμία λήψης έγκρισης"</string>
@@ -88,7 +87,7 @@
      <string name="download_error_insufficient_space">Ανεπαρκείς χώρος</string>
      <string name="download_filesize_unknown">άγνωστο</string>
      <string name="download_from">Πηγή:</string>
-     <string name="download_in_process">Λαμβάνει</string>
+     <string name="download_in_process">ΛΗΨΗ…</string>
      <string name="download_info_count_deleted_tasks">%s λήψεις αφαιρέθηκαν</string>
      <string name="download_info_start_deleted_tasks">Διαγραφή λήψεων</string>
      <string name="download_list_get_free_vip">Δοκιμή Xunlei</string>
@@ -113,8 +112,10 @@
      <string name="download_running">Σε πρόοδο</string>
      <string name="download_share_dialog">Κοινή χρήση μέσω</string>
      <string name="download_speed">Ταχύτητα λήψης:</string>
-     <string name="download_speed_null" />
      <string name="download_spend_time">Χρόνος</string>
+     <string name="download_status_continue">Συνέχιση</string>
+     <string name="download_status_fail">Προσπαθήστε ξανά</string>
+     <string name="download_status_paused">Παύση</string>
      <string name="download_success">Ολοκληρώθηκε</string>
      <string name="download_title">Λήψεις</string>
      <string name="download_title_sorted_by_date">Λήψεις - Κατά ημερομηνία</string>
@@ -152,6 +153,9 @@
      <string name="file_exist_hint">Αυτό το αρχείο είναι ήδη σε αναμονή για λήψη</string>
      <string name="file_picker">Επιλέξτε μια τοποθεσία</string>
      <string name="file_size">Μέγεθος:</string>
+     <string name="force_touch_newdownload">Νέα λήψη</string>
+     <string name="force_touch_rank">Βαθμολογίες</string>
+     <string name="force_touch_search">Αναζήτηση στον Ιστό</string>
      <string name="free_high_speed_channel">Επιτάχυνση Xunlei (δωρεάν)</string>
      <string name="free_speedup_exp">Δωρεάν δοκιμή επιτάχυνσης λήψεων Xunlei</string>
      <string name="get_account_dialog_msg">Λήψη πληροφοριών λογαριασμού…</string>
@@ -210,6 +214,7 @@
      <string name="no_vip_show_info">"Επιταχύνετε τις λήψεις σας
 σε όλες τις συσκευές σας με την Xunlei"</string>
      <string name="notify_disabled_net_by_app">Η πρόσβαση στο Internet έχει περιοριστεί</string>
+     <string name="notify_install_guide_forward_text">Άνοιγμα</string>
      <string name="notify_install_guide_msg">Άνοιγμα</string>
      <string name="notify_install_guide_title">Επιτυχής εγκατάσταση %s</string>
      <string name="notify_not_support">Αυτές οι ειδοποιήσεις δεν υποστηρίζονται. Ενημέρωση τώρα</string>
@@ -236,7 +241,6 @@
      <string name="paused_waiting_to_retry">Αναμονή για επανάληψη</string>
      <string name="percent_title">%1$s άλλοι το κατέβασαν</string>
      <string name="period_of_validity">Ισχύς:</string>
-     <string name="play">Αναπαραγωγή</string>
      <string name="pref_download_revert_default">Προεπιλογή</string>
      <string name="pref_download_settings_title">Όριο μεγέθους λήψης</string>
      <string name="pref_download_storage_path">Δημιουργήστε ένα νέο φάκελο για τις λήψεις</string>
@@ -276,6 +280,7 @@
      <string name="revert_default">Επαναφορά</string>
      <string name="revert_download_path">Χρήση προεπιλεγμένης τοποθεσίας για τις λήψεις;</string>
      <string name="save_path">"Αποθήκευση λήψεων σε: "</string>
+     <string name="save_text">Εξοικονομήστε ￥%1$s</string>
      <string name="search_clear_history_btn">Διαγραφή ιστορικού αναζήτησης</string>
      <string name="search_clear_history_toast">Το ιστορικό διαγράφηκε</string>
      <string name="search_favorite_empty">Προσθέστε μερικές πηγές στα αγαπημένα</string>
@@ -327,8 +332,6 @@
      <string name="sniff_copyright_text">Δεν είναι δυνατή η εμφάνιση αποτελεσμάτων λόγω δικαιωμάτων πνευματικής ιδιοκτησίας</string>
      <string name="sniff_download_task_already_exist">Αυτό το στοιχείο λήψης υπάρχει ήδη</string>
      <string name="sniff_download_task_create_success">το στοιχείο λήψης προστέθηκε</string>
-     <string name="sniff_find_some_prefix">Βρέθηκαν</string>
-     <string name="sniff_find_some_suffix">Στοιχεία</string>
      <string name="sniff_finding_resource_prompt">Αναζήτηση για πηγή…</string>
      <string name="sniff_hot_text">Σχετικά</string>
      <string name="sniff_no_network_tip">Ελέγξτε τη σύνδεση δικτύου σας και δοκιμάστε ξανά</string>
