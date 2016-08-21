@@ -112,7 +112,7 @@
      <string name="cp_info_first">Η υπηρεσία streaming παρέχεται από την Ultimate Inc.</string>
      <string name="cp_info_second">service1@ultimobi.com</string>
      <string name="create_order_fail">"Αδυναμία δημιουργίας παραγγελίας. Προσπαθήστε ξανά."</string>
-     <string name="create_playlist">Δημιουργία λίστας αναπαραγωγής</string>
+     <string name="create_playlist">Δημιουργία λίστας</string>
      <string name="create_playlist_failure">"Αδυναμία δημιουργίας λίστας αναπαραγωγής"</string>
      <string name="current_services">Τρέχουσες υπηρεσίες</string>
      <string name="current_version">Τρέχουσα έκδοση</string>
@@ -354,7 +354,7 @@
 (Εν τω μεταξύ, μπορείτε να κάνετε streaming μουσικής στο διαδίκτυο)"</string>
      <string name="japan_korea_female">Γυναίκες καλλιτέχνες (Ιαπωνία/Κορέα)</string>
      <string name="japan_korea_group">Συγκροτήματα(Ιαπωνία/Κορέα)</string>
-     <string name="japan_korea_male">Αντρες καλλιτέχνες (Ιαπωνία/Κορέα)</string>
+     <string name="japan_korea_male">Άντρες καλλιτέχνες (Ιαπωνία/Κορέα)</string>
      <string name="keep_queued_download">Διατήρηση</string>
      <string name="ktv_playlist">Λίστα KTV</string>
      <string name="latest_song">Ιστορικό αναπαραγωγής (%d)</string>
@@ -372,8 +372,8 @@
      <string name="local_page_custom_subtitle">Καθημερινά τραγούδια</string>
      <string name="local_page_custom_title">Ιδιωτικά προσαρμοσμένα</string>
      <string name="local_page_song_all">Όλα τα τραγούδια</string>
-     <string name="local_page_song_download">Τοπικά τραγούδια</string>
-     <string name="local_page_song_favorite">Αγαπημένα τραγούδια</string>
+     <string name="local_page_song_download">Τοπικά</string>
+     <string name="local_page_song_favorite">Αγαπημένα</string>
      <string name="local_tracks_short">Τοπική Μουσική</string>
      <string name="login_first">Πρέπει να συνδεθείτε στον λογαριασμός σας στην Mi Account πρώτα</string>
      <string name="lrc_search_failed">Δεν βρέθηκαν στίχοι!</string>
@@ -603,7 +603,7 @@
      <string name="retry">Δοκιμή ξανά</string>
      <string name="retry_after_network_available">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεση δεδομένων σας και προσπαθήστε ξανά."</string>
      <string name="retry_download">Δοκιμάστε ξανά</string>
-     <string name="ringtone_not_support">"Το φορμά του τραγουδιού δεν υποστηρίζεται"</string>
+     <string name="ringtone_not_support">"Ο τύπος του τραγουδιού δεν υποστηρίζεται"</string>
      <string name="root_downloads">Λήψεις</string>
      <string name="save_to_playlist">Αποθήκευση ως λίστα αναπαραγωγής</string>
      <string name="search_album">Αναζήτηση άλμπουμ Online</string>
@@ -618,7 +618,7 @@
      <string name="second_symbol">s</string>
      <string name="sel_svc">Επιλέξτε υπηρεσία</string>
      <string name="select_album">Επιλογή άλμπουμ</string>
-     <string name="select_all">Επιλογή όλων</string>
+     <string name="select_all">Επιλ.όλων</string>
      <string name="select_device">Επιλογή συσκευής</string>
      <string name="select_displayed_folders">Επιλογή φακέλων για εμφάνιση</string>
      <string name="select_local_album">Επιλογή τοπικού άλμπουμ</string>

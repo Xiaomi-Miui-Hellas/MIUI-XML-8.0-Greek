@@ -3,7 +3,7 @@
      <string name="SMTP_independent_verification_text">Ανεξάρτητη επαλήθευση SMTP</string>
      <string name="SMTP_password_text">Κωδικός πρόσβασης</string>
      <string name="SMTP_username_text">Όνομα χρήστη</string>
-     <string name="abc_action_mode_done">Έγινε</string>
+     <string name="abc_action_mode_done">Ολοκληρώθηκε</string>
      <string name="abc_searchview_description_clear">Καθαρισμός</string>
      <string name="abc_searchview_description_query">Κριτήρια αναζήτησης</string>
      <string name="abc_searchview_description_search">Αναζήτηση</string>
