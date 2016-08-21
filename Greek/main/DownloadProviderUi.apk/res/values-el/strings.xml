@@ -84,8 +84,8 @@
      <string name="download_complete">Ολοκληρώθηκε</string>
      <string name="download_detail">Λεπτομέρειες</string>
      <string name="download_error">Απέτυχε</string>
-     <string name="download_error_insufficient_space">Ανεπαρκείς χώρος</string>
-     <string name="download_filesize_unknown">άγνωστο</string>
+     <string name="download_error_insufficient_space">Ανεπαρκής χώρος</string>
+     <string name="download_filesize_unknown">Άγνωστο</string>
      <string name="download_from">Πηγή:</string>
      <string name="download_in_process">ΛΗΨΗ…</string>
      <string name="download_info_count_deleted_tasks">%s λήψεις αφαιρέθηκαν</string>

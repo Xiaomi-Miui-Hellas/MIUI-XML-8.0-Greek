@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική</string>
-     <string name="abc_action_bar_up_description">Πλοήγηση πάνω</string>
+     <string name="abc_action_bar_up_description">Πλοήγηση προς τα πάνω</string>
      <string name="abc_action_menu_overflow_description">Περισσότερα</string>
      <string name="abc_action_mode_done">Ολοκληρώθηκε</string>
      <string name="abc_action_mode_select_all">Επιλογή όλων</string>

@@ -3,7 +3,7 @@
      <string name="Parse_error_dlg_text">Υπήρξε ένα πρόβλημα αναλύοντας το πακέτο.</string>
      <string name="Parse_error_dlg_title">Σφάλμα ανάλυσης πακέτου</string>
      <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική</string>
-     <string name="abc_action_bar_up_description">Πλοήγηση πάνω</string>
+     <string name="abc_action_bar_up_description">Πλοήγηση προς τα πάνω</string>
      <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
      <string name="abc_action_mode_done">Ολοκληρώθηκε</string>
      <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
@@ -14,8 +14,8 @@
      <string name="abc_searchview_description_search">Αναζήτηση</string>
      <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
      <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
-     <string name="abc_shareactionprovider_share_with">Αναζήτηση με</string>
-     <string name="abc_shareactionprovider_share_with_application">Αναζήτηση με %s</string>
+     <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
+     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
      <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
      <string name="activity_package_delete_confirm_title">Σημαντική Προειδοποίηση</string>
      <string name="additional_permissions">Πρόσθετα διακαιώματα</string>
