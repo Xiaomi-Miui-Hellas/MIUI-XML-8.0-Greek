@@ -812,7 +812,7 @@
      <string name="screenshoting">Λήψη στιγμιότυπου…</string>
      <string name="search">Αναζήτηση</string>
      <string name="search_failed">Αποτυχία αναζήτησης</string>
-     <string name="search_history">Αναζήτηση</string>
+     <string name="search_history">Ιστορικό αναζήτησης</string>
      <string name="search_history_clear">Διαγραφή ιστορικού</string>
      <string name="search_history_empty">Χωρίς ιστορικό αναζήτησης</string>
      <string name="search_more_failed">Η αναζήτηση περισσοτέρων απέτυχε</string>

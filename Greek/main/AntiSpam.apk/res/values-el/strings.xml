@@ -54,7 +54,7 @@
      <string name="antispam_notificaiton_type_show_except_blacklist">Αριθμοί εκτός λίστας</string>
      <string name="antispam_notificaiton_type_show_none">Ποτέ</string>
      <string name="antispam_notification_setting_title">Ειδοποιήσεις φραγών</string>
-     <string name="antispam_xpace_text">Μεταβείτε στον Πρώτο χώρο για να ρυθμίσετε τη Λίστα φραγών</string>
+     <string name="antispam_xpace_text">Μεταβείτε στο Πρώτο προφίλ για να ρυθμίσετε τη Λίστα φραγών</string>
      <string name="app_name">Φρουρός</string>
      <string name="backsound_set_hint">Ρύθμιση τόνου επιστροφής σε %s;</string>
      <string name="baidu_thanks">Υποστηρίζεται από Baidu</string>
@@ -142,6 +142,10 @@
      <string name="mark_agent_block">Επισήμανση ως αντιπρ. πωλήσεων</string>
      <string name="mark_agent_block_large">Μεσάζων</string>
      <string name="mark_agent_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως αντιπρ. πωλήσεων</string>
+     <string name="mark_courier">Courier</string>
+     <string name="mark_courier_block">Αναφέρθηκε ως courier</string>
+     <string name="mark_courier_block_large">Couriers</string>
+     <string name="mark_courier_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως courier</string>
      <string name="mark_fraud">Απάτη</string>
      <string name="mark_fraud_block">Αναφέρθηκε ως απάτη</string>
      <string name="mark_fraud_block_large">Απάτη</string>
@@ -151,6 +155,7 @@
      <string name="mark_harass_block_large">Παρενόχληση</string>
      <string name="mark_harass_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως παρενόχληση</string>
      <string name="mark_number_agent">Αντιπρ. πωλήσεων</string>
+     <string name="mark_number_courier">Courier</string>
      <string name="mark_number_fraud">Απάτη</string>
      <string name="mark_number_harass">Παρενόχληση</string>
      <string name="mark_number_info">"
@@ -252,7 +257,7 @@
      <string name="st_antispam_mode_only_whitelist_sum">Να επιτρέπονται μόνο κλήσεις και μηνύματα από αριθμούς στη λίστα εξαιρέσεων</string>
      <string name="st_antispam_mode_smart">Έξυπνη φραγή</string>
      <string name="st_antispam_mode_smart_sum">" Εφαρμογή λίστας φραγών και φραγή αριθμών που έχουν αναφερθεί από άλλους χρήστες"</string>
-     <string name="st_antispam_notification_sum">Εμφάνιση ειδοποίησης όταν κλήση ή μήνυμα είναι αποκλεισμένη</string>
+     <string name="st_antispam_notification_sum">Εμφάνιση ειδοποίησης όταν κλήση ή μήνυμα είναι αποκλεισμένα</string>
      <string name="st_antispam_title_anoy_incoming">Κλήσεις αγνώστων</string>
      <string name="st_antispam_title_anoy_sms">Μηνύματα αγνώστων</string>
      <string name="st_antispam_title_contact_incoming">Κλήσεις επαφών</string>

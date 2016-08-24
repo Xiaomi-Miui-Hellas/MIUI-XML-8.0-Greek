@@ -15,8 +15,8 @@
      <string name="experimental_validate_username">Όνομα χρήστη</string>
      <string name="experimental_validate_warning">Οι προτάσεις σας βοηθούν στην βελτίωση της MIUI!</string>
      <string name="find_device_turn_off_flight_mode">Απενεργοποιήστε τη λειτουργία πτήσης</string>
-     <string name="fingerprint_enter_second_psw_msg">Εισάγετε τον κωδικό του Δεύτερου χώρου μετά την επανεκκίνηση της συσκευής για να μπορείτε να χρησιμοποιήσετε την αναγνώριση δακτυλικών αποτυπωμάτων</string>
-     <string name="fingerprint_enter_second_psw_title">Εισάγετε τον κωδικό του Δεύτερου χώρου</string>
+     <string name="fingerprint_enter_second_psw_msg">Εισάγετε τον κωδικό του Δεύτερου προφίλ μετά την επανεκκίνηση της συσκευής για να μπορείτε να χρησιμοποιήσετε την αναγνώριση δακτυλικών αποτυπωμάτων</string>
+     <string name="fingerprint_enter_second_psw_title">Εισάγετε τον κωδικό του Δεύτερου προφίλ</string>
      <string name="fingerprint_lockout_msg">Περιμένετε ένα λεπτό και μετά δοκιμάστε πάλι να ξεκλειδώσετε με το δακτυλικό σας αποτύπωμα</string>
      <string name="fingerprint_not_identified_msg">Για να ξεκλειδώσετε τη συσκευή σας, πληκτρολογήστε τον κωδικό πρόσβασής σας.</string>
      <string name="fingerprint_not_identified_title">"Αδυναμία ανάγνωσης δακτυλικού αποτυπώματος"</string>

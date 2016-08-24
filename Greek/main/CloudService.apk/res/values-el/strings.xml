@@ -237,10 +237,10 @@
      <string name="micloud_main_memory_low_message">"Για να συγχρονίσετε, διαγράψετε μερικά στοιχεία που έχετε αποθηκευμένα στο cloud."</string>
      <string name="micloud_main_memory_low_title">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
      <string name="micloud_main_message_not_synced">%s δεδομένα δεν έχουν συγχρονιστεί</string>
-     <string name="micloud_main_multi_user_error_message">"Έχετε συνδεθεί με τον ίδιο λογαριασμό που έχετε στον Πρώτο χώρο και προκλήθηκε ένα σφάλμα Mi Cloud. Αν θέλετε να κάνετε αντίγραφα ασφαλείας των αρχείων:
+     <string name="micloud_main_multi_user_error_message">"Έχετε συνδεθεί με τον ίδιο λογαριασμό που έχετε στο Πρώτο προφίλ και προκλήθηκε ένα σφάλμα Mi Cloud. Αν θέλετε να κάνετε αντίγραφα ασφαλείας των αρχείων:
 
 1. Χρησιμοποιήστε ένα διαφορετικό λογαριασμό.
-2. Μεταφέρετε τα στοιχεία στον Πρώτο χώρο."</string>
+2. Μεταφέρετε τα στοιχεία στο Πρώτο προφίλ."</string>
      <string name="micloud_main_multi_user_error_title">Σφάλμα Mi Cloud</string>
      <string name="micloud_main_network_abnormal">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="micloud_main_network_error">Δεν είναι δυνατή η σύνδεση με το δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και δοκιμάστε ξανά.</string>
@@ -295,7 +295,7 @@
      <string name="micloud_notif_content_depend_wifi">Συνδεθείτε σε Wi‑Fi για να συγχρονίσετε.</string>
      <string name="micloud_notif_content_master_depend_wifi">Συνδεθείτε πρώτα σε Wi‑Fi.</string>
      <string name="micloud_notif_content_memory_low">Δεν υπάρχει αρκετός χώρος αποθήκευσης.</string>
-     <string name="micloud_notif_content_multi_user_error">Έχετε συνδεθεί με τον ίδιο λογαριασμό που έχετε στον Πρώτο χώρο.</string>
+     <string name="micloud_notif_content_multi_user_error">Έχετε συνδεθεί με τον ίδιο λογαριασμό που έχετε στο Πρώτο προφίλ.</string>
      <string name="micloud_notif_content_sync_finish">Λογαριασμός</string>
      <string name="micloud_notif_content_sync_not_finish">Λεπτομέρειες</string>
      <string name="micloud_notif_content_sync_with_off">Πατήστε για συγχρονισμό της συσκευής τώρα.</string>

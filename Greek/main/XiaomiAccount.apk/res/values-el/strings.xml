@@ -139,8 +139,8 @@
      <string name="micloud_space_info">%s διαθέσιμα</string>
      <string name="mili_center">Mi Credits</string>
      <string name="mipay_center">Mi Wallet</string>
-     <string name="multi_user_not_show_sync_activity_message_1">"Φαίνεται ότι χρησιμοποιείτε το λογαριασμό Mi του Αρχικού σας χώρου."</string>
-     <string name="multi_user_not_show_sync_activity_message_2">"Σε αυτή την περίπτωση, όλα τα δεδομένα θα συγχρονιστούν με τον Δεύτερο χώρο σας. Για να αποφευχθεί, αυτό μην ενεργοποιήσετε τον συγχρονισμό με το Mi Cloud"</string>
+     <string name="multi_user_not_show_sync_activity_message_1">"Φαίνεται ότι χρησιμοποιείτε το λογαριασμό Mi του Αρχικού σας προφίλ."</string>
+     <string name="multi_user_not_show_sync_activity_message_2">"Σε αυτή την περίπτωση, όλα τα δεδομένα θα συγχρονιστούν με το Δεύτερο προφίλ σας. Για να αποφευχθεί, αυτό μην ενεργοποιήσετε τον συγχρονισμό με το Mi Cloud"</string>
      <string name="multi_user_not_show_sync_activity_title">"Μην ενεργοποιήσετε το συγχρονισμό Mi Cloud"</string>
      <string name="my_device_title">Τρέχουσα συσκευή</string>
      <string name="no_network_btn">Ανανέωση</string>

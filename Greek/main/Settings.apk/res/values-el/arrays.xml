@@ -240,7 +240,7 @@
         <item>Λειτουργία Παιδιού</item>
         <item>File explorer</item>
         <item>Κλείδωμα εφαρμογής</item>
-        <item>Δεύτερος χώρος</item>
+        <item>Δεύτερο προφίλ</item>
      </string-array>
      <string-array name="data_usage_data_range">
         <item>Τελευταίες 30 ημέρες</item>

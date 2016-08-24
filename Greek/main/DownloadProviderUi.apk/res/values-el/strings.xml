@@ -285,7 +285,7 @@
      <string name="search_clear_history_toast">Το ιστορικό διαγράφηκε</string>
      <string name="search_favorite_empty">Προσθέστε μερικές πηγές στα αγαπημένα</string>
      <string name="search_favorite_title">Αγαπημένα</string>
-     <string name="search_history">Ψάξτε στο ιστορικό</string>
+     <string name="search_history">Ιστορικό αναζήτησης</string>
      <string name="search_history_empty">Χωρίς στοιχεία</string>
      <string name="search_history_month">dd/MM</string>
      <string name="search_history_title">Ιστορικό</string>

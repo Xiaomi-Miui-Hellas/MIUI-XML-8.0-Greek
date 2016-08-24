@@ -707,7 +707,7 @@
      <string name="call_manager_enable_title">Ενεργοποίηση Διαχειριστή Κλήσεων</string>
      <string name="call_manager_summary">%1$s</string>
      <string name="call_manager_title">Διαχειριστής Κλήσεων</string>
-     <string name="call_settings_primary_user_only">Αλλαγή ρυθμίσεων κλήσης στον Πρώτο χώρο</string>
+     <string name="call_settings_primary_user_only">Αλλαγή ρυθμίσεων κλήσης στο Πρώτο προφίλ</string>
      <string name="call_settings_summary">Ρύθμιση τηλεφωνητή προώθησης κλήσεων αναμονής ταυτότητας καλούντος</string>
      <string name="call_settings_title">Ρυθμίσεις κλήσεων</string>
      <string name="calls_title">Κλήσεις</string>
@@ -1437,8 +1437,8 @@
      <string name="fingerprint_last_delete_message">"Δεν θα είστε σε θέση να χρησιμοποιήσετε τα δακτυλικά σας αποτυπώματα για να ξεκλειδώσετε το τηλέφωνο, να εγκρίνετε αγορές, ή να συνδεθείτε σε εφαρμογές με αυτά."</string>
      <string name="fingerprint_last_delete_title">Κατάργηση όλων των δακτυλικών αποτυπωμάτων;</string>
      <string name="fingerprint_list_title">Δακτ.αποτύπωμα</string>
-     <string name="fingerprint_lock_first">Ξεκλείδωμα Πρώτου χώρου</string>
-     <string name="fingerprint_lock_second">Ξεκλείδωμα Δεύτερου χώρου</string>
+     <string name="fingerprint_lock_first">Ξεκλείδωμα Πρώτου προφίλ</string>
+     <string name="fingerprint_lock_second">Ξεκλείδωμα Δεύτερου προφίλ</string>
      <string name="fingerprint_manage_category_title">Διαχείριση δακτυλικών αποτυπωμάτων</string>
      <string name="fingerprint_not_recognized">Μη αναγνωρίσιμο</string>
      <string name="fingerprint_removal_failed">"Αδυναμία αφαίρεσης δακτυλικού αποτυπώματος. Προσπαθήστε ξανά αργότερα"</string>
@@ -1855,16 +1855,16 @@
      <string name="lock_setup">Η εγκατάσταση ολοκληρώθηκε</string>
      <string name="lock_sounds_enable_title">Ήχος κλειδώματος οθόνης</string>
      <string name="lockpassword_cancel_label">Άκυρο</string>
-     <string name="lockpassword_choose_for_second_user">Ορισμός κωδικού Δεύτερου χώρου</string>
+     <string name="lockpassword_choose_for_second_user">Ορισμός κωδικού Δεύτερου προφίλ</string>
      <string name="lockpassword_choose_lock_generic_header">Επιλογή ξεκλειδώματος</string>
      <string name="lockpassword_choose_your_password_header">Επιλέξτε τον κωδικό σας</string>
      <string name="lockpassword_choose_your_password_second_space">"Ορίστε κωδικό 
- για τον Δεύτερο χώρο"</string>
+ για το Δεύτερο προφίλ"</string>
      <string name="lockpassword_choose_your_pattern_header">Επιλέξτε το μοτίβο σας</string>
      <string name="lockpassword_choose_your_pin_header">Επιλέξτε το PIN σας</string>
      <string name="lockpassword_choose_your_pin_header_second_space">"Ορίστε PIN 
- για τον Δεύτερο χώρο"</string>
-     <string name="lockpassword_confirm_for_second_user">Επιβεβαίωση κωδικού Δεύτερου χώρου</string>
+ για το Δεύτερο προφίλ"</string>
+     <string name="lockpassword_confirm_for_second_user">Επιβεβαίωση κωδικού Δεύτερου προφίλ</string>
      <string name="lockpassword_confirm_passwords_dont_match">Οι κωδικοί δε ταιριάζουν</string>
      <string name="lockpassword_confirm_pins_dont_match">Οι PIN δε ταιριάζουν</string>
      <string name="lockpassword_confirm_your_lock_password_header">Επιβεβαίωση κωδικού</string>
@@ -1909,13 +1909,13 @@
      <string name="lockpattern_need_to_unlock_wrong_footer" />
      <string name="lockpattern_pattern_confirmed_header">Το νέο σας μοτίβο ξεκλειδώματος</string>
      <string name="lockpattern_pattern_entered_header">Το μοτίβο έχει καταγραφεί</string>
-     <string name="lockpattern_pattern_same_with_owner">Πρέπει να διαφέρει από τον κωδικό του Πρώτου χώρου</string>
-     <string name="lockpattern_pattern_same_with_security_space">Πρέπει να διαφέρει από τον κωδικό του Δεύτερου χώρου</string>
+     <string name="lockpattern_pattern_same_with_owner">Πρέπει να διαφέρει από τον κωδικό του Πρώτου προφίλ</string>
+     <string name="lockpattern_pattern_same_with_security_space">Πρέπει να διαφέρει από τον κωδικό του Δεύτερου προφίλ</string>
      <string name="lockpattern_recording_incorrect_too_short">Συνδέστε τουλάχιστον %d τελείες Δοκιμάστε ξανά</string>
      <string name="lockpattern_recording_inprogress">Αφήστε το δάχτυλό σας όταν τελειώσετε</string>
      <string name="lockpattern_recording_intro_footer">Πατήστε Μενού για βοήθεια</string>
      <string name="lockpattern_recording_intro_header">Σχεδιάστε ένα μοτίβο ξεκλειδώματος</string>
-     <string name="lockpattern_recording_intro_header_second_space">Σχεδιάστε το μοτίβο ξεκλειδώματος του Δεύτερου χώρου:</string>
+     <string name="lockpattern_recording_intro_header_second_space">Σχεδιάστε το μοτίβο ξεκλειδώματος του Δεύτερου προφίλ:</string>
      <string name="lockpattern_restart_button_text">Επανασχεδίαση</string>
      <string name="lockpattern_retry_button_text">Επανάληψη</string>
      <string name="lockpattern_settings_change_lock_pattern">Αλλαγή μοτίβου ξεκλειδώματος</string>
@@ -2996,7 +2996,7 @@
      <string name="search_screen_on_proximity_sensor_title">Πρόληψη ατυχών κλήσεων</string>
      <string name="search_screen_paper_mode">Λειτουργία ανάγνωσης</string>
      <string name="search_screen_timeout">Χρονικό όριο οθόνης</string>
-     <string name="search_second_space">Δεύτερος χώρος</string>
+     <string name="search_second_space">Δεύτερο προφίλ</string>
      <string name="search_security_passwords_title">Κωδικός</string>
      <string name="search_settings">Αναζήτηση</string>
      <string name="search_settings_summary">Συγχώνευση ρυθμίσεων αναζήτησης και ιστορικού</string>
@@ -3028,7 +3028,7 @@
      <string name="search_wifi_display">οθόνη Wi‑Fi</string>
      <string name="search_xspace">Διπλές εφαρμογές</string>
      <string name="search_zen_mode_option_miui_silent">Αθόρυβη λειτουργία</string>
-     <string name="second_space">Δεύτερος χώρος</string>
+     <string name="second_space">Δεύτερο προφίλ</string>
      <string name="secure_keyguard_business_title">Κωδικός κλειδώματος οθόνης</string>
      <string name="secure_lock_encryption_warning">"Επειδή έχετε ενεργοποιημένη την υπηρεσία προσβασιμότητας, η συσκευή σας δεν θα χρησιμοποιήσει το κλείδωμα οθόνης για βελτίωση της κρυπτογράφησης δεδομένων."</string>
      <string name="security_enable_widgets_disabled_summary">Απενεργοποιήθηκε από το διαχειριστή</string>
