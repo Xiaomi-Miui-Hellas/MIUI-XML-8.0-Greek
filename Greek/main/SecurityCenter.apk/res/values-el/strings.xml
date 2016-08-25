@@ -241,9 +241,15 @@
      <string name="card_main_paysafe_action">Ενεργοποίηση</string>
      <string name="card_main_paysafe_summary">Σάρωση περιβάλλοντος πληρωμών για πιθανούς κινδύνους</string>
      <string name="card_main_paysafe_title">Ασφάλεια πληρωμών</string>
+     <string name="card_main_private_space_action">Δημιουργία</string>
+     <string name="card_main_private_space_summary">Χρησιμοποιώντας Δεύτερο προφίλ είναι σαν να έχετε 2 συσκευές</string>
+     <string name="card_main_private_space_title">Δεύτερο προφίλ</string>
      <string name="card_main_sectool_title">Εργαλεία</string>
      <string name="card_main_speeddetail_title">Ταχύτητα σύνδεσης</string>
      <string name="card_main_speeddetailt_summary">Δείτε την ταχύτητα σύνδεσης μεμονωμένων εφαρμογών</string>
+     <string name="card_main_xspace_action">Δημιουργία</string>
+     <string name="card_main_xspace_summary">Δημιουργήστε διπλούς λογαριασμούς για κάθε εφαρμογή</string>
+     <string name="card_main_xspace_title">Διπλές εφαρμογές</string>
      <string name="celcius_symbol">℃</string>
      <string name="charging_text_battery_full_time">Τελευταία φόρτιση</string>
      <string name="charging_text_battery_nearly_full">Σχεδόν φορτισμένη</string>

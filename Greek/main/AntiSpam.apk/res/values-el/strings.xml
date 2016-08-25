@@ -77,6 +77,7 @@
      <string name="close_callwait">Απενεργοποίηση</string>
      <string name="customizer_mode_user_define_name">Προσαρμογή</string>
      <string name="dlg_add_blacklist">Φραγή αυτού του αριθμού;</string>
+     <string name="dlg_add_blacklist_title">Προσθήκη στη λίστα φραγών</string>
      <string name="dlg_add_blacklist_warn_conflict_content">%1$s και %2$s άλλες επαφές υπάρχουν ήδη στις εξαιρέσεις.</string>
      <string name="dlg_add_blacklist_warn_conflict_title">Προσεκτικά</string>
      <string name="dlg_add_keyword">Προσθήκη λέξεων-κλειδιών</string>
