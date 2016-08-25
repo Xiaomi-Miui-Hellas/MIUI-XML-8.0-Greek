@@ -508,6 +508,7 @@
         <item>Εκκίνηση φωνητικής βοήθειας</item>
         <item>Εκκίνηση του Google now</item>
         <item>Κλείσιμο τρέχουσας εφαρμογής</item>
+        <item>Εκκίνηση Γρήγορης Αναζήτησης</item>
         <item>Εμφάνιση μενού</item>
      </string-array>
      <string-array name="screen_key_long_press_timeout">
