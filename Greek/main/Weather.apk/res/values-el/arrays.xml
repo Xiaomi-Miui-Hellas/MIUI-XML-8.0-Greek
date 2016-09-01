@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="aqi_value">
+        <item>Καλός</item>
+        <item>Ικανοποιητικός</item>
+        <item>Μέτρια ρύπανση</item>
+        <item>Ασθενής ρύπανση</item>
+        <item>Πολύ ασθενής ρύπανση</item>
+        <item>Σοβαρή ρύπανση</item>
+     </string-array>
      <string-array name="indices_car_wash">
         <item>Κατάλληλος</item>
         <item>Ακατάλληλος</item>

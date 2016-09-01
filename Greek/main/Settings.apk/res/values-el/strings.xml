@@ -1463,6 +1463,7 @@
      <string name="font_size_summary1">"
 Δυσαρεστημένοι; Δοκιμάστε "</string>
      <string name="font_size_summary2">Lite mode</string>
+     <string name="forbidden_switch_apn_string">Οι επιλεγμένες ρυθμίσεις APN δεν ταιριάζουν με τον τύπο του τρέχοντος δικτύου</string>
      <string name="force_hw_ui">Εξαναγκασμένη απόδοση GPU</string>
      <string name="force_hw_ui_summary">Χρησιμοποιήστε 2D επιτάχυνση υλικού σε εφαρμογές</string>
      <string name="force_msaa">Εξαναγκασμός 4x MSAA</string>
@@ -1546,6 +1547,7 @@
      <string name="haptic_feedback_enable_title">Δόνηση κατά το άγγιγμα</string>
      <string name="haptic_feedback_level">Επίπεδο δόνησης</string>
      <string name="hardkeyboard_category">Ρυθμίσεις φυσικού πληκτρολογίου</string>
+     <string name="has_screenshot_sound">Ήχος στιγμιότυπου</string>
      <string name="hdcp_checking_dialog_title">Ορισμός HDCP ελέγχου της συμπεριφοράς</string>
      <string name="hdcp_checking_title">HDCP έλεγχος</string>
      <string name="hdmi_3d_display_enable_summary">Ενεργοποιήστε την υποστήριξη για 3D παιχνίδια</string>
@@ -2279,6 +2281,7 @@
      <string name="no_application">Τίποτα</string>
      <string name="no_applications">Δεν υπάρχουν εφαρμογές</string>
      <string name="no_battery_summary">Δεν υπάρχει χρήση μπαταρίας από την τελευταία πλήρη φόρτιση</string>
+     <string name="no_connected_devices">Δεν υπάρχουν συνδεδεμένες συσκευές</string>
      <string name="no_data_usage">Δεν υπάρχει χρήση δεδομένων</string>
      <string name="no_default_apps">Δεν υπάρχουν προεπιλεγμένες εφαρμογές.</string>
      <string name="no_device_admins">Δεν υπάρχουν διαθέσιμοι διαχειριστές</string>
@@ -2500,6 +2503,7 @@
      <string name="preference_change_password_title">Αλλαγή κωδικού</string>
      <string name="preferred_app_settings">Προεπιλογές</string>
      <string name="preferred_app_settings_default">Προεπιλεγμένα</string>
+     <string name="preferred_app_settings_not_selected">Δεν έχει επιλεγεί</string>
      <string name="preferred_app_settings_reset">Επαναφορά προεπιλογών</string>
      <string name="preferred_app_settings_reset_button">Επαναφορά</string>
      <string name="preferred_app_settings_reset_message">Οι προεπιλεγμένες προτιμήσεις των εφαρμογών, θα επανέλθουν στις εργοστασιακές προεπιλογές</string>
@@ -2884,6 +2888,7 @@
      <string name="screensaver_settings_when_to_dream">Πότε να ξεκινήσει</string>
      <string name="screenshot">Στιγμιότυπο</string>
      <string name="screenshot_three_gesture">Σύρετε τρία δάκτυλα ταυτόχρονα για λήψη στιγμιότυπου</string>
+     <string name="screenshot_three_gesture_summary">Οι άλλες χειρονομίες τριών δακτύλων θα απενεργοποιηθούν</string>
      <string name="sd_card_settings_label">Συσκευή αποθήκευσης USB</string>
      <string name="sd_card_storage">Συσκευή αποθήκευσης USB</string>
      <string name="sd_eject">Αποσύνδεση κοινόχρηστου αποθηκευτικού χώρου</string>
@@ -3146,6 +3151,8 @@
      <string name="show_all_anrs">Εμφάνιση όλων των ANRS</string>
      <string name="show_all_anrs_summary">Εμφάνιση διαλόγων για όλες τις εφαρμογές που τρέχουν στο παρασκήνιο</string>
      <string name="show_background_processes">Εμφάνιση αποθηκευμένων διαδικασιών</string>
+     <string name="show_connected_devices_summary">Προβολή συνδεδεμένων συσκευών</string>
+     <string name="show_connected_devices_title">Συνδεδεμένες συσκευές</string>
      <string name="show_cpu_usage">Εμφάνιση χρήσης CPU</string>
      <string name="show_cpu_usage_summary">Προβολή της τρέχουσας χρήσης της CPU</string>
      <string name="show_dev_already">Δεν χρειάζεται, είστε ήδη ένας προγραμματιστής.</string>
@@ -3236,6 +3243,8 @@
      <string name="sim_slot_empty">Δεν υπάρχει κάρτα SIM</string>
      <string name="sim_status_title">Κατάσταση SIM</string>
      <string name="simulate_color_space">Προσομοίωση χρώματος χώρου</string>
+     <string name="single_key_use">Χρήση ενός πλήκτρου</string>
+     <string name="single_key_use_summary">Το πλήκτρο Home αντί των άλλων δύο κουμπιών για κανονική λειτουργία</string>
      <string name="skip_label">Επόμενο</string>
      <string name="skip_lock_screen_confirm_msg">Οι παρακάτω λειτουργίες δεν θα είναι διαθέσιμες στην οθόνη κλειδώματος: ειδοποιήσεις, έλεγχος αναπαραγωγής μουσικής, αριστερό σύρσιμο για πρόσβαση στην κάμερα και δεξί σύρσιμο για πρόσβαση στο Mi Home.</string>
      <string name="skip_step">Παράλειψη</string>
@@ -3299,7 +3308,7 @@
      <string name="status_bar_screen_button_key">Εικονικά πλήκτρα Οθόνης</string>
      <string name="status_bar_screen_key_back">Πλήκτρο Πίσω</string>
      <string name="status_bar_screen_key_home">Πλήκτρο Αρχικής οθόνης</string>
-     <string name="status_bar_screen_key_menu">Πλήκτρο μενού</string>
+     <string name="status_bar_screen_key_menu">Πλήκτρο Μενού</string>
      <string name="status_bar_screen_key_recent_apps">Πλήκτρο πρόσφατων εφαρμ.</string>
      <string name="status_bar_settings">Γραμμή κατάστασης</string>
      <string name="status_bar_settings_advanced">Πρόσθετες ρυθμίσεις</string>
