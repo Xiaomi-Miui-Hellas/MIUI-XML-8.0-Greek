@@ -24,6 +24,8 @@
      <string name="activity_title_uninstall_apps">Εφαρμογές</string>
      <string name="activity_title_video">Διαγραφή βίντεο</string>
      <string name="activity_title_white_list">Εξαιρέσεις</string>
+     <string name="ad_install_success_dialog_lunch">Άνοιγμα</string>
+     <string name="ad_install_success_dialog_title">Επιτυχής εγκατάσταση %1$s. Άνοιγμα τώρα;</string>
      <string name="apk_status_damage">Κατεστραμμένο</string>
      <string name="apk_status_duplicate">Διπλότυπο</string>
      <string name="apk_status_install">Εγκατεστημένο</string>
@@ -44,6 +46,10 @@
      <string name="browser_search_history_desc">Στοιχεία που αναζητήθηκαν</string>
      <string name="btn_text_done">Ολοκληρώθηκε</string>
      <string name="btn_text_quick_cleanup">Καθαρισμός</string>
+     <string name="btn_text_quick_cleanup_apk">Διαγραφή επιλεγμένων APK %1$s</string>
+     <string name="btn_text_quick_cleanup_appdata">Διαγραφή επιλεγμένων δεδομένων %1$s</string>
+     <string name="btn_text_quick_cleanup_large_file">Διαγραφή επιλεγμένων αρχείων %1$s</string>
+     <string name="btn_text_quick_cleanup_video">Διαγραφή επιλεγμένων βίντεο %1$s</string>
      <string name="btn_text_quick_scan">Ανάλυση</string>
      <string name="btn_text_stop">Διακοπή</string>
      <string name="button_optimizer">OK</string>
@@ -96,8 +102,10 @@
      <string name="confirm_auto_cleaner">OK</string>
      <string name="conn_of_function_safe">Ασφαλής σύνδεση δικτύου</string>
      <string name="connecting">Σύνδεση…</string>
+     <string name="deep_clean_completed_tips">Επιτυχής καθαρισμός</string>
      <string name="deep_clean_data_path_clean_title">Ο εσωτερικός χώρος είναι καθαρός</string>
-     <string name="deep_clean_normal_clean_progress_desc">καθαρίστηκαν %1$s αρχεία</string>
+     <string name="deep_clean_normal_clean_progress_desc">Καθαρίστηκαν %1$s αρχεία</string>
+     <string name="deep_clean_uninstall_completed_tips">Επιτυχής απεγκατάσταση</string>
      <string name="deepclean_1_k_clean">Καθαρισμός με ένα πλήκτρο</string>
      <string name="deepclean_apk_content">Διαγράψτε APK ή περιττές εφαρμογές</string>
      <string name="deepclean_apk_summary_empty">Όλα δείχνουν καλά. Δεν υπάρχουν APK για διαγραφή</string>
@@ -107,6 +115,8 @@
      <string name="deepclean_cache_content">Εκκαθάριση δεδομένων που δημιουργούνται από εφαρμογές</string>
      <string name="deepclean_cache_header_left">Αρχεία Cache: %d</string>
      <string name="deepclean_cache_summary_empty">Όλα δείχνουν καλά. Δεν υπάρχουν δεδομένα για διαγραφή</string>
+     <string name="deepclean_empty">Όλα δείχνουν καλά</string>
+     <string name="deepclean_install_info_desc2">Διαγράψτε εφαρμογές για να ελευθερώσετε χώρο</string>
      <string name="deepclean_large_content">Διαγραφή αρχείων μεγαλύτερων από 10MB</string>
      <string name="deepclean_large_summary_empty">Όλα δείχνουν καλά. Δεν υπάρχουν αρχεία για διαγραφή</string>
      <string name="deepclean_list_item_from_app">App store</string>
@@ -132,7 +142,6 @@
      <string name="deepclean_video_summary_empty">Όλα δείχνουν καλά</string>
      <string name="default_cache_type">Αρχεία δεδομένων</string>
      <string name="dialog_content_checkbox_delete_cloud_image">Διαγραφή φωτογραφιών και από το Mi Cloud</string>
-     <string name="dialog_content_delete_image_confirm">Διαγραφή %d φωτογραφιών;</string>
      <string name="dialog_content_select_all_confirm">Να διατηρηθεί ένα αντίγραφο αυτής της φωτογραφίας;</string>
      <string name="dialog_msg_add_white_list_error">"Το αρχείο δεν υποστηρίζει την προσθήκη στις εξαιρέσεις"</string>
      <string name="dialog_msg_backup_and_uninstall_apps">Αποθήκευση και απεγκατάσταση επιλεγμένων εφαρμογών;</string>
@@ -175,7 +184,7 @@
      <string name="grabage_rank_title">Καθαρίστηκαν σήμερα</string>
      <string name="harass_detail">Μπλοκαρίστηκαν %1$d SMS και %2$d κλήσεις</string>
      <string name="header_optimizer">Με τη χρήση αυτής της εφαρμογής, συμφωνείτε με %s.</string>
-     <string name="hint_clean_select_similar_image">Διαγραφή διπλότυπων…</string>
+     <string name="hint_clean_select_items">Διαγραφή διπλότυπων…</string>
      <string name="hints_ad_header_left">Διαφημίσεις</string>
      <string name="hints_apk_header_left">Εφαρμογές</string>
      <string name="hints_apk_version">Έκδοση: %s</string>
@@ -348,6 +357,7 @@
      <string name="safety_rank">Καλύτερα από %d%% χρήστες MIUI από άποψη ασφάλειας</string>
      <string name="sc_allow_network_dialog_button">Επίτρεψε</string>
      <string name="sc_allow_network_dialog_message">Να επιτρέπετε στην εφαρμογή η σύνδεση στο Internet για λήψη ενημερώσεων;</string>
+     <string name="scanning">Σάρωση…</string>
      <string name="search_history">Ιστορικό αναζήτησης</string>
      <string name="see_more">Περισσότερα</string>
      <string name="set_immediately">Ορισμός</string>

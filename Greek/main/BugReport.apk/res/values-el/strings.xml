@@ -7,6 +7,8 @@
      <string name="app_label">Σχόλια</string>
      <string name="app_name">Σχόλια</string>
      <string name="btn_send">Αποστολή</string>
+     <string name="bugreport_dialog_not_show_again">Να μην εμφανιστεί ξανά</string>
+     <string name="bugreport_dialog_submit_content">Η αναφορά σας μπορεί να περιέχει προσωπικές πληροφορίες.</string>
      <string name="bugreport_dump_complete_notification_summary">Πατήστε για να τη δείτε.</string>
      <string name="bugreport_dump_complete_notification_title">Η αναφορά σφάλματος δημιουργήθηκε</string>
      <string name="bugreport_dump_start_notification_summary">Διαρκεί περίπου ένα λεπτό.</string>
@@ -85,6 +87,7 @@
      <string name="feedback_submit_hint2">Πηγαίνετε στο \"Οι αναφορές μου\" για να δείτε λεπτομέρειες</string>
      <string name="feedback_submit_succ">Επιτυχής αποστολή</string>
      <string name="feedback_submit_succ_button">Ολοκληρώθηκε</string>
+     <string name="feedback_submitting">Υποβολή…</string>
      <string name="feedback_suggestion_status_change_notification_desc">%1$s πρόταση \"%2$s\"</string>
      <string name="feedback_title">Τίτλος</string>
      <string name="feedback_title_hint">Περιγράψτε το πρόβλημα εν συντομία</string>
@@ -132,11 +135,11 @@
      <string name="michat_kefu_welcome">Καλωσορίσατε στην online υποστήριξη της Xiaomi!</string>
      <string name="michat_lose_artificial">Παρουσιάστηκε σφάλμα δικτύου. Φύγατε από την συνομιλία</string>
      <string name="michat_menu_copy_text">Αντιγραφή</string>
-     <string name="michat_mesage_resend_error_network">Αδυναμία σύνδεσης στο δίκτυο</string>
-     <string name="michat_mesage_send_error_network">Αδυναμία αποστολής. Ελέγξτε τη σύνδεση δικτύου</string>
      <string name="michat_message_copy_info">Αντιγράφτηκε στο πρόχειρο</string>
+     <string name="michat_message_error_network">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="michat_message_join_again">"Glad you're back!"</string>
      <string name="michat_message_robot_welcome">Το όνομά μου είναι Mi Bunny. Είμαι ένα ρομπότ online υποστήριξης.</string>
+     <string name="michat_message_send_error_network">Αδυναμία αποστολής. Ελέγξτε τη σύνδεση δικτύου</string>
      <string name="michat_motto">Η υποστήριξη Mi είναι έτοιμη να βοηθήσει</string>
      <string name="michat_msg_image_upload_error">Αδυναμία αποστολής εικόνας. Δοκιμάστε ξανά αργότερα</string>
      <string name="michat_msg_input_info">Περιγράψτε το πρόβλημά ας εν συντομία</string>
@@ -241,6 +244,7 @@
      <string name="toast_title_required">Περιγράψτε το πρόβλημά σας</string>
      <string name="topic_author">1#</string>
      <string name="try_again">Προσπαθήστε ξανά</string>
+     <string name="upload_log_failed">Αδυναμία αποστολής αρχείων καταγραφής</string>
      <string name="warning_field_empty">Εισάγετε %1$s</string>
      <string name="warning_field_invalid">Επιλέξτε ένα έγκυρο %1$s</string>
 </resources>
