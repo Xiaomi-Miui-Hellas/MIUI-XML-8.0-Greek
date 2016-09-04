@@ -81,7 +81,7 @@
      <string name="proxy_label">"Proxy: "</string>
      <string name="re_install_notify_message">Οι τρέχουσες ρυθμίσεις των εφαρμογών θα αντικατασταθούν. Συνέχεια;</string>
      <string name="re_install_notify_title">Επιβεβαίωση</string>
-     <string name="received_label">"Ληφθέντα: "</string>
+     <string name="received_label">"Ελήφθη: "</string>
      <string name="refreshing">Ανανέωση…</string>
      <string name="result_failed">Αποτυχία</string>
      <string name="result_success">Επιτυχία</string>

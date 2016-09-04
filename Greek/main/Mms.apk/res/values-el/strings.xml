@@ -455,7 +455,7 @@
      <string name="prvate_contact">Ιδιωτικές επαφές</string>
      <string name="quick_reply">Απάντηση</string>
      <string name="rate_limit_surpassed">OK</string>
-     <string name="received_label">"Λήψεις: "</string>
+     <string name="received_label">"Ελήφθη: "</string>
      <string name="recipient_editor_count_format">%d</string>
      <string name="recipient_label">"Παραλήπτης: "</string>
      <string name="recipients_over_size">Οι παραλήπτες, είναι πάρα πολλοί.</string>
@@ -529,7 +529,7 @@
      <string name="send_to">Προς:</string>
      <string name="send_to_count">Απεσταλμένα %1$s μηνύματα</string>
      <string name="send_to_index_contact">%1$s/%2$s</string>
-     <string name="sent_label">"Απεσταλμένα: "</string>
+     <string name="sent_label">"Απεστάλη: "</string>
      <string name="service_message_not_found">Το Μήνυμα έχει λήξει ή δεν είναι διαθέσιμο</string>
      <string name="service_network_problem">Αδυναμία αποστολής λόγω σφάλματος δικτύου</string>
      <string name="service_not_activated">Η υπηρεσία δεν είναι ενεργοποιημένη στο δίκτυο</string>
