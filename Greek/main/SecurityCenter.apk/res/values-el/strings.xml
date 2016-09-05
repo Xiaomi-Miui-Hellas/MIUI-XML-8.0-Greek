@@ -879,12 +879,12 @@
      <string name="power_save_summary_text">"Ενεργοποίηση Εξοικονόμησης ενέργειας για μείωση δραστηριοτήτων παρασκηνίου των εφαρμογών, διακοπή συγχρονισμού και ελαχιστοποίηση animation συστήματος."</string>
      <string name="power_save_title_text">Εξοικονόμηση μπαταρίας</string>
      <string name="power_screen">Οθόνη</string>
-     <string name="power_settings_category_title">Δείκτης μπαταρίας</string>
+     <string name="power_settings_category_title">Ένδειξη μπαταρίας</string>
      <string name="power_settings_number">Ποσοστό</string>
      <string name="power_settings_saver_title">Εξοικονόμηση ενέργειας</string>
      <string name="power_settings_shape">Γραφικά</string>
      <string name="power_settings_title">Ρύθμιση</string>
-     <string name="power_settings_top">Γραμμική μπάρα</string>
+     <string name="power_settings_top">Μπάρα στην κορυφή</string>
      <string name="power_wifi">Wi‑Fi</string>
      <string name="pref_about">Σχετικά</string>
      <string name="pref_about_traffic_title">Ρυθμίσεις χρήσης δεδομένων</string>

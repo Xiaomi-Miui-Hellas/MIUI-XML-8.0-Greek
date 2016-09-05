@@ -159,8 +159,8 @@
         <item>Το πολύ 4 διαδικασίες</item>
      </string-array>
      <string-array name="battery_indicator_style_entries">
-        <item>Γραφική</item>
-        <item>Ποσοστιαία</item>
+        <item>Γραφικά</item>
+        <item>Ποσοστό</item>
         <item>Μπάρα στην κορυφή</item>
      </string-array>
      <string-array name="bearer_entries">

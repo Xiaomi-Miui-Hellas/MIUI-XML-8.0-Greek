@@ -24,7 +24,7 @@
      <string name="app_size">%1$s</string>
      <string name="auth_activity_title">Λογαριασμός Xunlei</string>
      <string name="auth_fail">"Αδυναμία λήψης έγκρισης"</string>
-     <string name="bind_xunlei_account">Προσθήκη λογαριασμού Xunlei %1$s</string>
+     <string name="bind_xunlei_account">Προσθήκη λογαριασμού Xunlei</string>
      <string name="bt_download">Λήψη</string>
      <string name="bt_path_not_exit">Αυτή η διαδρομή δεν υπάρχει</string>
      <string name="bt_restart_dialog_message">Επανέναρξη όλων των λήψεων στο φάκελο BT;</string>
