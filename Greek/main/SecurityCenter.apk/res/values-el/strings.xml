@@ -976,8 +976,8 @@
      <string name="preferred_app_entries_launcher">Επιφάνεια εργασίας</string>
      <string name="preferred_app_entries_messaging">Μηνύματα</string>
      <string name="preferred_app_entries_music">Μουσική</string>
-     <string name="privacy_declare_dialog_message">Με τη χρήση αυτής της υπηρεσίας, συμφωνείτε με Opera &lt;a href=%s> Όρους και προϋποθέσεις&lt;/a>.</string>
-     <string name="privacy_declare_dialog_title">Όροι και Προϋποθέσεις</string>
+     <string name="privacy_declare_dialog_message">Με τη χρήση αυτής της υπηρεσίας, συμφωνείτε με τους &lt;a href=%s> Όρους Χρήσης&lt;/a> Opera.</string>
+     <string name="privacy_declare_dialog_title">Όροι Χρήσης</string>
      <string name="privacy_mode_dialog_title">Λειτουργία επισκέπτη</string>
      <string name="privacy_prompt_tc_sms_report_message">Ο αριθμός τηλεφώνου σας και τα στοιχεία του παρόχου σας θα φορτωθούν κρυπτογραφημένα στους διακομιστές της Mi προκειμένου να ενημερωθούν οι πληροφορίες χρήσης δεδομένων κινητής.</string>
      <string name="privacy_prompt_traffic_adjust_message">Αυτή η λειτουργία χρειάζεται να κρυπτογραφήσει και να στείλει το IMEI της συσκευής σας, τον αριθμό τηλεφώνου και τα στοιχεία του παρόχου στους διακομιστές της Mi προκειμένου να πάρετε τα στατιστικά χρήσης δεδομένων από τον πάροχό σας.</string>

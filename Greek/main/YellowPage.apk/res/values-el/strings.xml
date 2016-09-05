@@ -372,8 +372,8 @@
      <string name="upload_and_verify_fraud_num_off">Αυτό το χαρακτηριστικό έχει κλείσει</string>
      <string name="upload_and_verify_fraud_num_on">Μοιραστείτε τις πληροφορίες μπλοκαρισμένων τηλεπωλητών</string>
      <string name="uploads_disabled">Η αποστολή αρχείων είναι απενεργοποιημένη</string>
-     <string name="user_agreement2">" Συμφωνία χρήστη"</string>
-     <string name="user_agreement4">Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
+     <string name="user_agreement2">" Όροι Χρήσης"</string>
+     <string name="user_agreement4">Πολιτική Απορρήτου</string>
      <string name="user_notice_identify_summary_format">Το τηλέφωνό σας θα χρησιμοποιεί τη βάση δεδομένων MIUI για να μπλοκάρει τις ανεπιθύμητες κλήσεις, όταν συνδέεται σε WLAN. Πατώντας \"Συμφωνώ\" συμφωνείτε με Mi %1$s και %2$s.</string>
      <string name="user_notice_identify_summary_format_cta">Το τηλέφωνό σας θα χρησιμοποιεί τη βάση δεδομένων MIUI για να μπλοκάρει τις ανεπιθύμητες κλήσεις, όταν συνδέεται σε WLAN. Πατώντας \"Συμφωνώ\" συμφωνείτε με Mi %1$s και %2$s.</string>
      <string name="user_notice_title">Σημείωση για τους χρήστες</string>
