@@ -2971,7 +2971,6 @@
      <string name="search_local_auto_backup_section_title">Αυτόματα αντίγραφα</string>
      <string name="search_local_backup_section_title">Τοπικά αντίγραφα</string>
      <string name="search_location_settings_title">Τοποθεσία</string>
-     <string name="search_location_settings_title">Τοποθεσία;Υπηρεσίες τοποθεσίας;GPS</string>
      <string name="search_lock_sounds_enable_title">Ήχος κλειδώματος οθόνης</string>
      <string name="search_manage_device_admin">Διαχειριστές συσκευής</string>
      <string name="search_manage_notification_access_title">Πρόσβαση στις ειδοποιήσεις</string>
