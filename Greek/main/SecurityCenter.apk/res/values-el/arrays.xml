@@ -84,12 +84,6 @@
         <item>Μόνο για τις εξαιρέσεις</item>
         <item>Ποτέ</item>
      </string-array>
-     <string-array name="traffic_saving_compress_level_string_array">
-        <item>Κανένα</item>
-        <item>Χαμηλό</item>
-        <item>Μέτριο</item>
-        <item>Υψηλό</item>
-     </string-array>
      <string-array name="traffic_setting_sms_template">
         <item>Αυτόματη λήψη</item>
         <item>Ορισμός χειροκίνητα</item>

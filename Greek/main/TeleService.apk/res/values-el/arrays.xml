@@ -69,7 +69,7 @@
         <item>GSM/WCDMA αυτόματο</item>
         <item>Μόνο WCDMA</item>
         <item>Μόνο GSM</item>
-        <item>Προτιμώμενο GSM/WCDMA</item>
+        <item>Προτιμώμενο το GSM/WCDMA</item>
      </string-array>
      <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>

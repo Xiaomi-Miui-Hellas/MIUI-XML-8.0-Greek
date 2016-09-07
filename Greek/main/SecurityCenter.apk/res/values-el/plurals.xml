@@ -69,22 +69,6 @@
         <item quantity="other">Χωρίς παρακολούθηση χρήσης δεδομένων για %d εφαρμογές</item>
         <item quantity="one">Χωρίς παρακολούθηση χρήσης δεδομένων για %d εφαρμογή</item>
      </plurals>
-     <plurals name="hints_traffic_saving_disable_title">
-        <item quantity="other">%d εφαρμογές δεν χρησιμοποιούν την εξοικονόμηση δεδομένων</item>
-        <item quantity="one">%d εφαρμογή δεν χρησιμοποιεί την εξοικονόμηση δεδομένων</item>
-     </plurals>
-     <plurals name="hints_traffic_saving_enable_title">
-        <item quantity="other">%d εφαρμογές χρησιμοποιούν την εξοικονόμηση δεδομένων</item>
-        <item quantity="one">%d εφαρμογή χρησιμοποιεί την εξοικονόμηση δεδομένων</item>
-     </plurals>
-     <plurals name="hints_traffic_saving_need_optimize">
-        <item quantity="other">%d εφαρμογές μπορούν να βελτιστοποιηθούν</item>
-        <item quantity="one">%d εφαρμογή μπορεί να βελτιστοποιηθεί</item>
-     </plurals>
-     <plurals name="hints_traffic_saving_optimized">
-        <item quantity="other">%d εφαρμογές βελτιστοποιήθηκαν</item>
-        <item quantity="one">%d εφαρμογή βελτιστοποιήθηκε</item>
-     </plurals>
      <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d γράμματα.</item>
         <item quantity="one">"Ο κωδικός πρέπει να περιέχει τουλάχιστον 1 γράμμα. "</item>
@@ -130,12 +114,12 @@
         <item quantity="one">"%d ημέρα "</item>
      </plurals>
      <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d ώρες "</item>
-        <item quantity="one">"%d ώρα "</item>
+        <item quantity="other">"%dω "</item>
+        <item quantity="one">"%dω "</item>
      </plurals>
      <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d λεπτά "</item>
-        <item quantity="one">"%d λεπτό "</item>
+        <item quantity="other">"%dλ "</item>
+        <item quantity="one">"%dλ "</item>
      </plurals>
      <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d προβλήματα μπαταρίας</item>

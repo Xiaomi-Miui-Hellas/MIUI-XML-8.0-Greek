@@ -30,7 +30,7 @@
      <string name="other_settings">Πρόσθετες ρυθμίσεις</string>
      <string name="other_settings_location">Τοποθεσία</string>
      <string name="other_settings_location_summary">Επιτρέψτε στις εφαρμογές να έχουν πρόσβαση στην τοποθεσία σας</string>
-     <string name="other_settings_user_experience">Πρόγραμμα εμπειρίας χρηστών</string>
+     <string name="other_settings_user_experience">Πρόγραμμα Εμπειρίας Χρηστών</string>
      <string name="other_settings_user_experience_summary">Βοηθήστε στην βελτίωση του MIUI με την αποστολή ανώνυμων δεδομένων χρήσης (%s)</string>
      <string name="other_settings_user_experience_summary1">Προβολή Πολιτικής Απορρήτου</string>
      <string name="pref_title_data_slot">Προεπιλεγμένη SIM δεδομένων</string>
