@@ -522,7 +522,7 @@
         <item>2 δευτερόλεπτα</item>
      </string-array>
      <string-array name="screen_key_position_action">
-        <item>Πλήκτρο Μενού στα αριστερά. πλήκτρο Πίσω στα δεξιά</item>
+        <item>Πλήκτρο Μενού στα αριστερά, πλήκτρο Πίσω στα δεξιά</item>
         <item>Πλήκτρο Πίσω στα αριστερά, πλήκτρο Μενού στα δεξιά</item>
      </string-array>
      <string-array name="screen_key_press_action">
@@ -643,14 +643,6 @@
         <item>Χρόνος χρήσης</item>
         <item>Καταμέτρηση έναρξης</item>
         <item>Όνομα εφαρμογής</item>
-     </string-array>
-     <string-array name="usb_configuration_titles">
-        <item>@string/usb_use_charging_only</item>
-        <item>MTP (Μεταφορά αρχείων)</item>
-        <item>PTP (Μεταφορά φωτογραφιών)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Πηγή ήχου</item>
-        <item>MIDI</item>
      </string-array>
      <string-array name="usb_connection_mode_entries">
         <item>Ερώτηση κατά τη σύνδεση</item>
