@@ -42,9 +42,11 @@
      <string name="backup_title">Αντίγραφα ασφαλείας βίντεο WeChat</string>
      <string name="big5_summary">Παραδοσιακή Κινέζικη κωδικοποίηση Windows</string>
      <string name="big5_title">BIG5</string>
+     <string name="bind">Προσθήκη</string>
      <string name="bind_account">Συγχρονισμός υπάρχοντος λογαριασμού</string>
      <string name="bind_account_summary">Συγχρονίστε τον KuaiPan λογαριασμό σας με το λογαριασμό της Mi</string>
      <string name="bind_failed_tip">"Αδυναμία προσθήκης"</string>
+     <string name="bind_need_to_login">Σύνδεση</string>
      <string name="bind_phone_dialog_bind">Προσθήκη τώρα</string>
      <string name="bind_phone_dialog_cancle">"Μην προσθέσεις"</string>
      <string name="bind_phone_dialog_tip">"Το βίντεό σας μπορεί να συμμετάσχει στις βαθμολογίες και να κερδίσει βραβεία. Σε περίπτωση που κερδίσει κάτι, δεν θα είμαστε σε θέση να επικοινωνήσουμε μαζί σας, εκτός και αν προσθέσετε τον αριθμό του τηλεφώνου σας."</string>
@@ -93,7 +95,8 @@
      <string name="clean_message">%1$s χώρου ελευθερώθηκαν.</string>
      <string name="clean_title">Διαγραφή αρχείων παλαιότερων από 30 μέρες από τον κάδο ανακύκλωσης</string>
      <string name="clean_trash_box">Άδειασμα κάδου ανακύκλωσης</string>
-     <string name="click_to_switch_volume">Πατήστε εδώ για εναλλαγή μεταξύ της εσωτερικής αποθήκευσης και της κάρτας SD</string>
+     <string name="click_to_switch_volume">Πατήστε για εναλλαγή μεταξύ εσωτερικού χώρου και κάρτας SD</string>
+     <string name="click_to_switch_volume_pad">Πατήστε για εναλλαγή μεταξύ εσωτερικού χώρου και κάρτας SD</string>
      <string name="close">Κλείσιμο</string>
      <string name="comment_delete_message">Το σχόλιο θα διαγραφεί μόνιμα.</string>
      <string name="comment_delete_title">Διαγραφή σχολίου</string>
@@ -159,6 +162,8 @@
      <string name="delete_video_dialog_title">Διαγραφή βίντεο</string>
      <string name="delete_video_success">Επιτυχής διαγραφή</string>
      <string name="des_running_trans">%1$d αρχεία δεν μεταφέρθηκαν.</string>
+     <string name="dialog_logout_message">Αποσύνδεση τώρα;</string>
+     <string name="dialog_logout_title">Αποσύνδεση</string>
      <string name="dialog_select_type">Επιλογή τύπου αρχείου</string>
      <string name="dialog_type_audio">Ήχος</string>
      <string name="dialog_type_image">Εικόνα</string>
@@ -208,6 +213,7 @@
      <string name="favorite_photo">Φωτογραφία</string>
      <string name="favorite_ringtone">Ήχος Κλήσης</string>
      <string name="favorite_screen_cap">Στιγμιότυπο MIUI</string>
+     <string name="female">Γυναίκα</string>
      <string name="fileSizeSuffix">%1$s%2$s</string>
      <string name="file_already_downlaoded">Το αρχείο αποθηκεύτηκε στο \"%1$s\"</string>
      <string name="file_info_canread">Αναγνώσιμο :</string>
@@ -326,6 +332,7 @@
      <string name="make_private_msg_1">Απόκρυψη αυτού του αρχείου;</string>
      <string name="make_private_msg_2">Απόκρυψη αυτών των αρχείων;</string>
      <string name="make_private_msg_3">Όλα τα αρχεία σε αυτόν το φάκελο θα είναι κρυφά.</string>
+     <string name="male">Άνδρας</string>
      <string name="megabyteShort">MB</string>
      <string name="menu_item_cleanup">Καθαρισμός</string>
      <string name="menu_item_ftp">FTP</string>
@@ -389,6 +396,7 @@
      <string name="move_icon_to_desktop_hint">Δημιουργήστε μια συντόμευση για τον Explorer στην Αρχική οθόνη, για να διαχειριστείτε τα αρχεία πιο αποτελεσματικά.</string>
      <string name="move_icon_to_desktop_success">Τώρα μπορείτε να βρείτε την συντόμευση του Explorer στην Αρχική οθόνη.</string>
      <string name="move_to">Μετακίνηση σε…</string>
+     <string name="msg_notify_setting">Ρυθμίσεις ειδοποιήσεων</string>
      <string name="msg_set_password">Ορίστε πρώτα τον κωδικό πρόσβασης</string>
      <string name="multi_select_title">%1$s επιλέχθηκαν</string>
      <string name="my_app">Δεδομένα εφαρμογών</string>
@@ -455,8 +463,6 @@
      <string name="no_message">Χωρίς μηνύματα</string>
      <string name="no_more_space">Λίγος χώρος</string>
      <string name="no_network_retry">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεση και προσπαθήστε ξανά."</string>
-     <string name="no_network_str">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεση δικτύου σας και δοκιμάστε ξανά."</string>
-     <string name="no_network_tip">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεση και προσπαθήστε ξανά."</string>
      <string name="no_new_content_tip">Όλα τα στοιχεία είναι ενημερωμένα</string>
      <string name="no_recent_files">Δεν υπάρχουν πρόσφατα αρχεία</string>
      <string name="no_tasks">Χωρίς εργασίες</string>
@@ -485,6 +491,7 @@
      <string name="notify_private_folder_title">Προστατέψτε τα προσωπικά σας αρχεία</string>
      <string name="oauth_failed_tip">"Αδυναμία ολοκλήρωσης εξουσιοδότησης"</string>
      <string name="oauth_success_tip">Επιτυχής εξουσιοδότηση</string>
+     <string name="one_account_bind_needed">Προσθέστε τουλάχιστον ένα λογαριασμό</string>
      <string name="online_not_support">"Δεν μπορείτε να δείτε αυτό το αρχείο στο διαδίκτυο αυτή τη στιγμή."</string>
      <string name="only_wifi">Λήψη όταν συνδεθείτε σε Wi‑Fi</string>
      <string name="open_app">Άνοιγμα</string>
@@ -540,9 +547,8 @@
      <string name="operation_unfavorite">Αφαίρεση από τα Αγαπημένα</string>
      <string name="operation_unlike">Κατάργηση αγαπημένου</string>
      <string name="origin_name">%1$s: </string>
-     <string name="other_user_follow_title">Άτομα που ακολουθώ</string>
      <string name="other_user_liked_topic_tip">Δεν ακολουθείτε κάποιο από τα θέματα τώρα</string>
-     <string name="other_user_liked_video_title">Αγαπημένα βίντεο</string>
+     <string name="other_user_liked_video_tab">Αγαπημένα</string>
      <string name="other_user_no_follow_tip">"Δεν ακολουθείτε κάποιον ακόμα."</string>
      <string name="other_user_no_liked_video_tip">Δεν υπάρχουν αγαπημένα βίντεο.</string>
      <string name="other_user_topic_tab">Θέματα</string>
@@ -564,6 +570,7 @@
      <string name="phone_get_code_tip">Πάρα πολλές προσπάθειες για λήψη κωδικού σήμερα</string>
      <string name="phone_has_used_tip">Αυτό το τηλέφωνο συνδέεται με έναν υπάρχοντα λογαριασμό. Δοκιμάστε ένα διαφορετικό.</string>
      <string name="phone_login_title">Τηλέφωνο</string>
+     <string name="phone_num">Αριθμός τηλεφώνου</string>
      <string name="phone_num_et_hint">Εισάγετε αριθμό τηλεφώνου</string>
      <string name="phone_num_format_tip">Μη έγκυρος αριθμός τηλεφώνου</string>
      <string name="phone_send_code">Λήψη κωδικού</string>
@@ -625,11 +632,14 @@
      <string name="request_timeout">Τέλος χρόνου αιτήματος δικτύου</string>
      <string name="reset_password">Επαναφορά κωδικού πρόσβασης</string>
      <string name="restoring">Επαναφορά…</string>
+     <string name="rlv_closing">Κλείσιμο…</string>
      <string name="rlv_last_loading_time">Τελευταία ανανέωση: %1$s</string>
      <string name="rlv_last_refreshing_time">Ενημερώθηκε %1$s</string>
      <string name="rlv_loading_more">Μισό λεπτό…</string>
+     <string name="rlv_pull_to_close">Σύρετε προς τα κάτω για κλείσιμο</string>
      <string name="rlv_pull_to_refresh">Σύρετε για ανανέωση</string>
      <string name="rlv_refreshing">Σάρωση αρχείων…</string>
+     <string name="rlv_release_to_close">Αφήστε για κλείσιμο</string>
      <string name="rlv_release_to_refresh">Αφήστε για ανανέωση</string>
      <string name="save_to_local">Λήψη</string>
      <string name="sd_card_available">Διαθέσιμα: %1$s</string>
@@ -688,6 +698,8 @@
      <string name="server_control_settings">Ρυθμίσεις</string>
      <string name="server_error">Σφάλμα διακομιστή. Δοκιμάστε ξανά αργότερα. (Σφάλμα %s)</string>
      <string name="setting">Ρυθμίσεις</string>
+     <string name="setting_account_bind">Προσθήκη λογαριασμού</string>
+     <string name="setting_message_notify">Ειδοποιήσεις</string>
      <string name="share_box">Διαμοιρασμένα</string>
      <string name="share_box_receive">Ληφθέντα</string>
      <string name="share_box_send">Απεσταλμένα</string>
@@ -754,6 +766,7 @@
      <string name="tab_storage">ΑΠΟΘΗΚΕΥΣΗ</string>
      <string name="tag_weixin_video">Μικρά βίντεο</string>
      <string name="terabyteShort">TB</string>
+     <string name="tip">Προσοχή</string>
      <string name="title_album">Άλμπουμ</string>
      <string name="title_app_tags">Εφαρμογές</string>
      <string name="title_enable_documentsui">Ενεργοποιήστε τα Έγγραφα</string>
@@ -786,8 +799,19 @@
      <string name="ui_main_toast_favorite_added">Προστέθηκε στα αγαπημένα</string>
      <string name="ui_main_toast_favorite_removed">Κατάργηση αγαπημένου</string>
      <string name="ui_main_toast_operation_failed">Αποτυχία αγαπημένου %1$s</string>
+     <string name="unbind">Διαγραφή</string>
+     <string name="unbind_account">Διαγραφή %s;</string>
+     <string name="unbind_fail">Αδυναμία διαγραφής</string>
+     <string name="unbind_success">Επιτυχής διαγραφή</string>
+     <string name="unlogin">Συνδεθείτε πρώτα</string>
      <string name="unmount_inform_text">Αποσύνδεση USB χώρου;</string>
      <string name="unreviewed_video_cannot_share">Τα βίντεο θα πρέπει να ελεγχθούν πριν την κοινοποίηση</string>
+     <string name="update_failed">Αδυναμία αποθήκευσης. Προσπαθήστε ξανά</string>
+     <string name="update_loading">Αποθήκευση…</string>
+     <string name="upload_avatar_camera">Κάμερα</string>
+     <string name="upload_avatar_failed">Αδυναμία αποστολής. Προσπαθήστε ξανά</string>
+     <string name="upload_avatar_loading">Αποστολή…</string>
+     <string name="upload_avatar_local">Άλμπουμ</string>
      <string name="upload_external_action_hint">Επικόλληση URL</string>
      <string name="upload_external_notification_failed">Αδυναμία δημοσίευσης</string>
      <string name="upload_external_notification_success">Επιτυχής δημοσίευση</string>
@@ -803,6 +827,7 @@
      <string name="upload_notification_success">Επιτυχής αποστολή</string>
      <string name="upload_notification_success_content">"Το βίντεό σας θα πρέπει να ελεγχθεί πριν κοινοποιηθεί σε άλλα άτομα"</string>
      <string name="upload_notification_title">Αποστολή βίντεο</string>
+     <string name="upload_user_photo">Αποστολή</string>
      <string name="upload_video">Κοινή χρήση βίντεο</string>
      <string name="upload_video_dialog_message">"Το βίντεο σας θα εμφανίζεται στα δημοφιλή βίντεο μετά την επαλήθευσή του."</string>
      <string name="upload_video_dialog_title">Το βίντεο διαμοιράστηκε επιτυχώς</string>
@@ -815,6 +840,7 @@
      <string name="usb_label">USB</string>
      <string name="used">Σε χρήση</string>
      <string name="user_agreement">Συμφωνία Χρήστη</string>
+     <string name="user_cancel">Ακυρώθηκε</string>
      <string name="user_center_title">Αρχική</string>
      <string name="user_follow_me_title">Οι θαυμαστές μου</string>
      <string name="user_follow_title">Άτομα που ακολουθώ</string>
@@ -827,6 +853,8 @@
      <string name="user_guide_save_file">Αποθήκευση των αρχείων και φωτογραφιών σας στο Kuaipan.</string>
      <string name="user_guide_summary">Μια σύντομη επισκόπηση</string>
      <string name="user_guide_upload_to_kuaipan">Αποθηκεύστε αντικείμενα στο Kuaipan από το τηλέφωνό σας</string>
+     <string name="user_icon">Φωτογραφία προφίλ</string>
+     <string name="user_info_setting">Επεξεργασία πληροφοριών</string>
      <string name="user_like_text">Αγαπημένα</string>
      <string name="user_liked_video_title">Αγαπημένα βίντεο</string>
      <string name="user_login_dialog_cancle">Ακύρωση</string>
@@ -834,6 +862,8 @@
      <string name="user_login_dialog_title">Σύνδεση</string>
      <string name="user_message_text">Μηνύματα</string>
      <string name="user_msg_text">Μηνύματα</string>
+     <string name="user_nickname">Ψευδώνυμο</string>
+     <string name="user_nickname_limit">Το ψευδώνυμο πρέπει να περιέχει 4–20 χαρακτήρες</string>
      <string name="user_no_fans_tip">Δεν υπάρχουν θαυμαστές</string>
      <string name="user_no_follow_topic">"Δεν ακολουθείτε κανένα θέμα ακόμα."</string>
      <string name="user_no_follow_user">"Δεν ακολουθείτε κάποιον ακόμα."</string>
@@ -848,12 +878,15 @@
      <string name="user_setting_follow_new_msg_tip">Λήψη ειδοποιήσεων σχετικά με νέα βίντεο</string>
      <string name="user_setting_followed_msg">Ειδοποιήσεις σχετικά με τους ακόλουθους</string>
      <string name="user_setting_followed_msg_tip">Λήψη ειδοποιήσεων όταν κάποιος αρχίσει να σας ακολουθεί</string>
+     <string name="user_setting_logout">Αποσύνδεση</string>
      <string name="user_setting_new_comment">Ειδοποιήσεις σχετικά με τα σχόλια</string>
      <string name="user_setting_new_comment_tip">Λήψη ειδοποιήσεων σχετικά με νέα σχόλια.</string>
      <string name="user_setting_new_liked">Ειδοποιήσεις σχετικά με τα like</string>
      <string name="user_setting_new_liked_tip">Λήψη ειδοποιήσεων όταν σε κάποιους αρέσουν τα βίντεο σας</string>
      <string name="user_setting_topic_new_msg">Ειδοποιήσεις σχετικά με νέα βίντεο</string>
      <string name="user_setting_topic_new_msg_tip">λήψη ειδοποιήσεων όταν δημοσιεύονται βίντεο στα θέματα που ακολουθείτε.</string>
+     <string name="user_sex">Φύλο</string>
+     <string name="user_sign">Υπογραφή</string>
      <string name="user_topic_btn_text">Δείτε περισσότερα θέματα</string>
      <string name="user_topic_text">Τα θέματά μου</string>
      <string name="user_upload_text">Απεσταλμένα</string>
@@ -906,6 +939,7 @@
      <string name="wait_wifi">Αναμονή για Wi‑Fi…</string>
      <string name="waiting">Αναμονή…</string>
      <string name="wangpan_root_path">Kuaipan</string>
+     <string name="wechat_btn_bind">WeChat</string>
      <string name="wechat_btn_str">WeChat</string>
      <string name="wechat_platform">WeChat</string>
      <string name="wechat_video">Βίντεο %s</string>
@@ -917,9 +951,11 @@
      <string name="wx_title3">Δείτε πολύ διαδεδομένα βίντεο από όλο τον κόσμο!</string>
      <string name="wxcircle_platform">Στιγμές</string>
      <string name="xiaomi_account">Λογαριασμός Mi</string>
+     <string name="xiaomi_btn_bind">Λογαριασμός Mi</string>
      <string name="xiaomi_btn_str">Mi</string>
      <string name="year_month_day_format">dd MMM, yyyy</string>
      <string name="yes">Ναι</string>
      <string name="yesterday">Χθες</string>
+     <string name="zero">0</string>
      <string name="zero_comment">Χωρίς σχόλια</string>
 </resources>

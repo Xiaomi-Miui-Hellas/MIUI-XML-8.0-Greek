@@ -35,4 +35,8 @@
         <item quantity="other">Διαγραφή %1$d στοιχείων από το ιστορικό;</item>
         <item quantity="one">Διαγραφή %1$d στοιχείου από το ιστορικό;</item>
      </plurals>
+     <plurals name="video_subtitle_last_message">
+        <item quantity="other">Απομένουν %d λεπτά</item>
+        <item quantity="one">Απομένει 1 λεπτό</item>
+     </plurals>
 </resources>

@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="alert_message_clear_records">Διαγραφή επιλεγμένων εγγραφών;</string>
      <string name="alert_message_delete_record">Διαγραφή επιλεγμένων εγγραφών;</string>
      <string name="alert_message_delete_record_title">Διαγραφή εγγραφής;</string>
      <string name="app_name">Ηχογράφηση</string>
      <string name="back">Πίσω</string>
+     <string name="btn_clear_records">Διαγραφή εγγραφών(%d στοιχεία)</string>
      <string name="button_queue_for_wifi">Αναμονή</string>
      <string name="button_start_now">Λήψη</string>
      <string name="call_record">Ηχογραφημένες κλήσεις</string>
-     <string name="cloud_record">%d συγχρονισμένα</string>
+     <string name="choose_call_records_count">%d στοιχεία</string>
+     <string name="clear_records">Διαγραφή συγχρονισμένων εγγραφών</string>
      <string name="cloud_record_open">Συγχρονισμός εγγραφών</string>
      <string name="cloud_record_tip">Συγχρονισμός εγγραφών με το Mi Cloud.</string>
      <string name="cloud_status_full_dialog_cancel">Όχι τώρα</string>
@@ -35,7 +38,6 @@
      <string name="error_sdcard_access">Αδυναμία πρόσβασης στο χώρο αποθήκευσης</string>
      <string name="error_sdcard_unmounted">Εισάγετε μια κάρτα SD τώρα</string>
      <string name="export_to_note">Εξαγωγή στις Σημειώσεις</string>
-     <string name="fm_record">Εγγραφές FM (%d)</string>
      <string name="invalid_argument">Μη έγκυρη παράμετρος</string>
      <string name="low_battery_error">Απομένει λιγότερο από 5% μπαταρία. Για να εξασφαλιστεί ότι η εγγραφή σας δεν θα χαθεί, η Ηχογράφηση είναι σε παύση και το αρχείο έχει αποθηκευτεί.</string>
      <string name="mark_point_list_title">Ετικέτες</string>
@@ -49,6 +51,7 @@
      <string name="notification_stopped">Η ηχογράφηση σταμάτησε</string>
      <string name="notification_title_all_paused">Λήψη σε παύση</string>
      <string name="notification_warning">Μη επαρκής χώρος, (λιγότερο από %d λεπτά)</string>
+     <string name="path_soundrecorder_setting">Εφαρμογές συστήματος/Ηχογράφηση</string>
      <string name="pause">Παύση</string>
      <string name="playback_delete_records">Διαγραφή εγγραφής</string>
      <string name="playback_share_records">Κοινή χρήση εγγραφής</string>

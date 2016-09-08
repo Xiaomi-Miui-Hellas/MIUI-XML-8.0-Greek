@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="abort_backup_confirm">"Το αντίγραφο δεν ολοκληρώθηκε. Διακοπή ούτως ή άλλως;"</string>
+     <string name="abort_restore_confirm">"Η επαναφορά δεν ολοκληρώθηκε. Διακοπή ούτως ή άλλως;"</string>
      <string name="account_contact_backup_info">Δεδομένα (Αντίγραφο πληροφοριών Mi και Gmail)</string>
      <string name="account_login">Είσοδος</string>
      <string name="account_summary">Δημιουργία αντιγράφων για τους λογαριασμούς Gmail E-mail και Mi</string>

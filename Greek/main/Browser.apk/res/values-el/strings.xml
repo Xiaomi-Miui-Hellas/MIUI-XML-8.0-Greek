@@ -75,14 +75,14 @@
      <string name="app_new_version">Έχετε ήδη λάβει την τελευταία έκδοση</string>
      <string name="app_update_install">Νέα έκδοση έχει ληφθεί και αναμένει εγκατάσταση</string>
      <string name="application_name">Πλοηγός</string>
-     <string name="aqi_quality_index_break">AQI %1$s</string>
-     <string name="aqi_quality_index_dangerous">AQI %1$s</string>
-     <string name="aqi_quality_index_good">AQI %1$s</string>
-     <string name="aqi_quality_index_hazardous">AQI %1$s</string>
-     <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
-     <string name="aqi_quality_index_moderate">AQI %1$s</string>
-     <string name="aqi_quality_index_pure">AQI %1$s</string>
-     <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+     <string name="aqi_quality_index_break">Άκρως επικίνδυνος</string>
+     <string name="aqi_quality_index_dangerous">Επικίνδυνος</string>
+     <string name="aqi_quality_index_good">Καλός</string>
+     <string name="aqi_quality_index_hazardous">Επικίνδυνος</string>
+     <string name="aqi_quality_index_light_pollution">Ελαφριά μόλυνση</string>
+     <string name="aqi_quality_index_moderate">Μέτριος</string>
+     <string name="aqi_quality_index_pure">Εξαιρετικός</string>
+     <string name="aqi_quality_index_unhealthy">Ανθυγιεινός</string>
      <string name="autofill_popup_content_description">Εμφάνιση αυτόματης συμπλήρωσης</string>
      <string name="autologin_bar_error">"Αδύνατη σύνδεση."</string>
      <string name="autologin_bar_hide_text">Απόκρυψη</string>
@@ -228,6 +228,16 @@
      <string name="dialog_queued_body">Αυτό το αρχείο είναι στην ουρά για μελλοντική λήψη.</string>
      <string name="dialog_title_not_available">"Αδυναμία λήψης"</string>
      <string name="dialog_title_queued_body">Το αρχείο δεν είναι ακόμα διαθέσιμο</string>
+     <string name="document_download_background_btn">Λήψη στο παρασκήνιο</string>
+     <string name="document_download_cancel_btn">Ακύρωση</string>
+     <string name="document_download_failed">Αδυναμία λήψης</string>
+     <string name="document_download_official">Λήψη επίσημης έκδοσης</string>
+     <string name="document_download_open_direct">Άνοιγμα άμεσα</string>
+     <string name="document_download_title">Λήψεις</string>
+     <string name="document_open_file">Άνοιγμα %s</string>
+     <string name="document_open_message">Για να βελτιώσετε την εμπειρία ανάγνωσης και να εξασφαλίσετε την ασφάλεια, χρησιμοποιήστε την προσαρμοσμένη έκδοση WPS</string>
+     <string name="document_open_other">Άλλες εφαρμογές</string>
+     <string name="document_open_title">Άνοιγμα με</string>
      <string name="dont_remind_again">Θυμήσου την επιλογή</string>
      <string name="download_btn_select_all">Επιλογή όλων</string>
      <string name="download_btn_select_none">Αποεπιλογή όλων</string>
@@ -241,12 +251,14 @@
      <string name="download_dialog_file_length_nolength_txt">Υπολογισμός μεγέθους αρχείου</string>
      <string name="download_failed">Αποτυχία λήψης</string>
      <string name="download_filter_all">Όλα</string>
+     <string name="download_filter_apk">Apk</string>
      <string name="download_filter_application">Εφαρμογές</string>
      <string name="download_filter_audio">Μουσική</string>
      <string name="download_filter_image">Φωτογραφίες</string>
      <string name="download_filter_others">Άλλα</string>
      <string name="download_filter_text">Αρχεία</string>
      <string name="download_filter_video">Βίντεο</string>
+     <string name="download_filter_zip">Zip</string>
      <string name="download_in_process">Λήψη…</string>
      <string name="download_list_open_xl_ok">OK</string>
      <string name="download_memory_info_avai">" διαθέσιμα %s|"</string>
@@ -311,6 +323,7 @@
      <string name="geolocation_settings_page_title">Καθαρισμός πρόσβασης τοποθεσίας</string>
      <string name="go_supermarket_button">Πήγαινε</string>
      <string name="go_supermarket_title">Περισσότερες εφαρμογές, μεγαλύτερη ταχύτητα και λιγότερη χρήση δεδομένων στο App Store</string>
+     <string name="gold_medals">Χρυσά μετάλλια</string>
      <string name="google_bookmarks">"Google: "</string>
      <string name="have_sent_bookmark_to_home_screen">Σελιδοδείκτης στάλθηκε στην αρχική οθόνη</string>
      <string name="history_saved_webpage">Αποθήκευση σελίδας</string>
@@ -330,6 +343,7 @@
      <string name="is_last_tab">Αυτή είναι η τελευταία καρτέλα</string>
      <string name="is_page_bottom">"Φτάσατε στο τέλος της σελίδας"</string>
      <string name="is_page_top">"Είσαστε στην κορυφή της σελίδας"</string>
+     <string name="isreplace">Το αρχείο υπάρχει ήδη. Αντικατάσταση;</string>
      <string name="js_dialog_before_unload">"%s 
 
 Είστε σίγουροι ότι θέλετε να φύγετε από αυτή τη σελίδα;"</string>
@@ -447,6 +461,7 @@
      <string name="network_show_wifi_setting_tip_dialog_title">Διαθέσιμο τοπικό δίκτυο Wi‑Fi</string>
      <string name="new_folder_name_lable">Όνομα ομάδας</string>
      <string name="next_button_label">Επόμενο</string>
+     <string name="no_app_open_document">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
      <string name="no_matches">Δεν υπάρχουν εγγραφές</string>
      <string name="no_space_alert_cancel">Αργότερα</string>
      <string name="no_space_alert_clean">Ελευθερώστε χώρο</string>
@@ -513,7 +528,7 @@
      <string name="pref_file_downlaod_save_reset_default_settings">Επαναφορά προκαθορισμένων</string>
      <string name="pref_file_download_default_path_prefix">Προεπιλεγμένη διαδρομή: %s</string>
      <string name="pref_file_download_save_modify_default_path">Αλλαγή τοποθεσίας φακέλου λήψεων</string>
-     <string name="pref_file_download_save_title">Λήψη και αποθήκευση αρχείου</string>
+     <string name="pref_file_download_save_title">Λήψεις</string>
      <string name="pref_fling_on_border_enabled">Σύρσιμο από τα άκρα</string>
      <string name="pref_fling_on_border_enabled_title_summary">Σύρσιμο από την αριστερή ή δεξιά πλευρά για να κάνετε εναλλαγή μεταξύ καρτελών</string>
      <string name="pref_font_size_category">Μέγεθος κειμένου</string>
@@ -577,7 +592,6 @@
      <string name="profiler_stopped_toast">Ολοκλήρωση Profiler. Τα αποτελέσματα είναι στο %1$s.</string>
      <string name="progress_dialog_setting_wallpaper">Ορίζεται φόντο…</string>
      <string name="pull_to_refresh_pull_label">Τραβήξτε για ανανέωση</string>
-     <string name="pull_to_refresh_refreshing_label">Φόρτωση…</string>
      <string name="pull_to_refresh_release_label">Αφήστε για ανανέωση</string>
      <string name="qr_code_title">Κωδικός QR</string>
      <string name="quicklink_bookmark_save">Αποθήκευση σε</string>
@@ -611,6 +625,7 @@
      <string name="remove_history_item">Αφαίρεση από ιστορικό</string>
      <string name="remove_snapshot">Διαγραφή αποθηκευμένης σελίδας</string>
      <string name="removed_from_bookmarks">Αφαιρέθηκε από σελιδοδείκτες.</string>
+     <string name="replace">Αντικατάσταση</string>
      <string name="reply_comment_title">απάντηση: %s</string>
      <string name="resume_download">Έναρξη</string>
      <string name="retry_after_network_available">"Αδυναμία σύνδεσης στο δίκτυο"</string>
@@ -625,6 +640,7 @@
      <string name="same_folder_name_warning">Ο φάκελος υπάρχει ήδη</string>
      <string name="save_button_text">Αποθήκευση</string>
      <string name="save_dialog_title">Αποθήκευση</string>
+     <string name="save_file">Αποθήκευση %s αρχείων</string>
      <string name="save_file_already_exist_alert_message">Το αρχεία υπάρχει, θέλετε να το αντικαταστήσετε;</string>
      <string name="save_file_already_exist_alert_title">Το αρχείο υπάρχει!</string>
      <string name="save_form_data_confirm_message">Η απενεργοποίηση αυτής της λειτουργίας μπορεί να επηρεάσει τη χρήση.</string>
@@ -640,7 +656,7 @@
      <string name="save_to_camera">Σώσε στην κάμερα</string>
      <string name="save_to_camera_failed">"Αδυναμία αποθήκευσης εικόνας"</string>
      <string name="save_to_camera_success">Σώθηκε στην κάμερα</string>
-     <string name="sdcard_error">Ελέγξτε την SD card</string>
+     <string name="sdcard_error">Ελέγξτε την κάρτα SD</string>
      <string name="search">Αναζήτηση</string>
      <string name="search_baidu">Baidu</string>
      <string name="search_bing">Bing</string>
@@ -649,13 +665,16 @@
      <string name="search_easou">Easou</string>
      <string name="search_google">Google</string>
      <string name="search_hint">Αναζήτηση ή εισαγωγή URL</string>
+     <string name="search_keyword_browser">Πλοηγός</string>
      <string name="search_label">Αναζήτηση</string>
+     <string name="search_path_browser">Ρυθμίσεις/Εφαρμογές/Πλοηγός</string>
      <string name="search_s139">139</string>
      <string name="search_settings_description">Σελιδοδείκτες και ιστορικό πλοήγησης</string>
      <string name="search_shipin">Βίντεο</string>
      <string name="search_sm">SM</string>
      <string name="search_sogou">Sogou</string>
      <string name="search_taobao">Taobao</string>
+     <string name="search_title_browser">Πλοηγός</string>
      <string name="search_tupian">Image</string>
      <string name="search_yahoo">Yahoo</string>
      <string name="search_yicha">Yicha</string>
@@ -707,12 +726,17 @@
      <string name="suggest_access_item_singer_albums">%d άλμπουμ</string>
      <string name="suggest_access_item_singer_pop">%d δημοφιλή τραγούδια</string>
      <string name="suggest_access_music">Mi Music</string>
+     <string name="suggest_item_delete_text">Διαγραφή</string>
      <string name="suggest_open_app_failed">"Αδυναμία ανοίγματος αυτής της εφαρμογής"</string>
      <string name="switch_proxy_dialog_msg">"Ανιχνεύτηκε προσπάθεια παραβίασης δικτύου. Χρησιμοποιήστε την ενσωματωμένη εφαρμογή Ασφαλείας της MIUI ή αναφέρετέ το στην εταιρεία κινητής τηλεφωνίας σας."</string>
      <string name="switch_proxy_dialog_title">Παραβίαση δικτύου</string>
      <string name="tab_hotpage">Δημοφιλή</string>
      <string name="tab_quicklinks">Γρήγοροι σύνδεσμοι</string>
      <string name="tab_yellowpage">Δημοφιλή</string>
+     <string name="tae_sdk_login_qr_icon_close"></string>
+     <string name="tae_sdk_login_qr_icon_taobao"></string>
+     <string name="tae_sdk_qr_login_icon_password"></string>
+     <string name="tae_sdk_qr_login_icon_scan"></string>
      <string name="time_picker_dialog_am">ΠΜ</string>
      <string name="time_picker_dialog_hour_minute_separator">:</string>
      <string name="time_picker_dialog_minute_second_separator">:</string>
@@ -738,8 +762,8 @@
      <string name="url_suggest_indicator_mostvisited">Ποιο γνωστά</string>
      <string name="use_cellular_network_alert_message">Μη διαθέσιμο WLAN，χρήση δικτύου κινητής;</string>
      <string name="use_cellular_network_alert_title">Συναγερμός δικτύου</string>
-     <string name="user_defined_webpage">Πρόσθεση ιστοσελίδας</string>
-     <string name="user_defined_webpage_title">Πρόσθεση ιστοσελίδας στην αρχική σελίδα</string>
+     <string name="user_defined_webpage">Προσθήκη ιστοσελίδας</string>
+     <string name="user_defined_webpage_title">Προσθήκη ιστοσελίδας στην αρχική σελίδα</string>
      <string name="username">Όνομα</string>
      <string name="v5_deselect_all">Αποεπιλογή όλων</string>
      <string name="v5_edit_mode_title_empty">0 επιλεγμένα</string>
@@ -770,6 +794,7 @@
      <string name="video_download_exists">Η λήψη υπάρχει ήδη.</string>
      <string name="video_download_fail">Απέτυχε</string>
      <string name="video_download_failed">"Αδυναμία λήψης"</string>
+     <string name="video_download_finding_address">Αναζήτηση URL λήψης</string>
      <string name="video_download_pause">Παύση</string>
      <string name="video_download_start">Λήψη…</string>
      <string name="video_download_success">Ολοκληρώθηκε</string>
@@ -790,6 +815,7 @@
      <string name="video_group_noupdates_list">NoUpdates</string>
      <string name="video_group_updates_list">Ενημερώσεις</string>
      <string name="video_history_empty">Δεν υπάρχει ιστορικό</string>
+     <string name="video_manager_action_bar_end_view">Βίντεο</string>
      <string name="video_play_error">"Αδυναμία αναπαραγωγής βίντεο"</string>
      <string name="video_project_button">Διακοπή</string>
      <string name="video_project_msg">Προβολή στο %s</string>
@@ -797,9 +823,13 @@
      <string name="video_push_multi_message">Υπάρχουν %1$d ενημερώσεις</string>
      <string name="video_push_multi_title">Υπάρχουν ενημερώσεις</string>
      <string name="video_push_single_message">Ενημέρωση σε %1$d</string>
-     <string name="video_subtitle_prefix_message">"Προβλήθηκαν: "</string>
+     <string name="video_subtitle_last_message1">Απομένει λιγότερο από 1 λεπτό</string>
+     <string name="video_subtitle_prefix1">Προβλήθηκαν</string>
+     <string name="video_subtitle_prefix2">"Προβλήθηκαν "</string>
      <string name="video_title_prefix_message">"Offline: "</string>
+     <string name="video_unknown_duration">Άγνωστη διάρκεια</string>
      <string name="view_certificate">Προβολή πιστοποιητικού</string>
+     <string name="view_document_downloaded_files">Δείτε τα ληφθέντα αρχεία στις Λήψεις</string>
      <string name="voice_sub_title">"Δεν ξέρετε τι να πείτε; Δοκιμάστε το mi.com!"</string>
      <string name="voice_title">Εκφωνήστε εντολή…</string>
      <string name="voice_title_distinguish">Επεξεργασία…</string>

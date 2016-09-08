@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="confirm_delete_conversation">
-        <item quantity="other">Διαγραφή &lt;g id="number" example="15">%1$s&lt;/g> επιλεγμένων συνομιλιών;</item>
+        <item quantity="other">Διαγραφή %1$s επιλεγμένων συνομιλιών;</item>
         <item quantity="one">Διαγραφή αυτής της συνομιλίας;</item>
      </plurals>
 </resources>

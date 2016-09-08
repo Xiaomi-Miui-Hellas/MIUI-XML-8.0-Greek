@@ -18,8 +18,8 @@
         <item quantity="one">Μία εφαρμογή μπορεί να ανοίξει συνδέσμους υποστήριξης</item>
      </plurals>
      <plurals name="high_power_count">
-        <item quantity="other">%d εφαρμογές επιτρέπεται να αγνοούν την βελτιστοποίηση μπαταρίας</item>
-        <item quantity="one">1 εφαρμογή επιτρέπεται να αγνοεί την βελτιστοποίηση μπαταρίας</item>
+        <item quantity="other">%d εφαρμογές επιτρέπεται να αγνοούν τη βελτιστοποίηση μπαταρίας</item>
+        <item quantity="one">1 εφαρμογή επιτρέπεται να αγνοεί τη βελτιστοποίηση μπαταρίας</item>
      </plurals>
      <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Ο κωδικός πρέπει να περιέχει τουλάχιστον %d γράμματα.</item>
