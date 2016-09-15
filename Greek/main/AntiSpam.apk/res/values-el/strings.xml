@@ -344,7 +344,7 @@
      <string name="tab_sms">SMS</string>
      <string name="tab_title">AntiSpam</string>
      <string name="toast_keyword_blank">Πρέπει να εισάγετε μία λέξη-κλειδί</string>
-     <string name="toast_keyword_exist">Η λέξη-κλειδί υπάρχει ήδη</string>
+     <string name="toast_keyword_exist">Η λέξη-κλειδί προστέθηκε</string>
      <string name="toast_keyword_invalid">Άκυρη λέξη-κλειδί</string>
      <string name="two_address_choose_hint">%1$s και %2$s2</string>
      <string name="user_define_title">Προσθήκη κανόνων</string>
