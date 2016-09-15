@@ -128,6 +128,7 @@
      <string name="download_file_fail">Πρόσβαση στο τοπικό αρχείο απέτυχε, ίσως δεν υπάρχει χώρος στην κάρτα SD</string>
      <string name="download_finished">Ολοκληρώθηκε</string>
      <string name="download_geturl_fail">Αποτυχία λήψης διεύθυνσης, ελέγξτε το δίκτυο και προσπαθήστε ξανά.</string>
+     <string name="download_insufficient_space">Ανεπαρκής χώρος</string>
      <string name="download_is_in_tasklist">Βρίσκεται στην λίστα caching</string>
      <string name="download_paused">Σε παύση</string>
      <string name="download_percent_hint">Λήψη %d%%</string>
@@ -156,6 +157,7 @@
      <string name="file_error">Σφάλμα αρχείου</string>
      <string name="file_not_exist">Το αρχείο δεν υπάρχει</string>
      <string name="filter">Φιλτράρισμα</string>
+     <string name="finish_install">Επιτυχής εγκατάσταση</string>
      <string name="forecast">Πρόγνωση</string>
      <string name="forecast_empty_hint">Χωρίς πρόγραμμα</string>
      <string name="forecasts">Πρόγνωση</string>
@@ -301,6 +303,7 @@
      <string name="reload_sub_title">Πατήστε για επανάληψη</string>
      <string name="reload_title">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="reload_title_ep">"Αδυναμία λήψης όλης της σειράς"</string>
+     <string name="replay">Επανάληψη</string>
      <string name="retry">Επανάληψη</string>
      <string name="router">Remote offline</string>
      <string name="router_download_task_with">%d εργασίες</string>
@@ -458,7 +461,7 @@
      <string name="vp_mplayer_error_timed_out">Λήξη χρονικού ορίου λειτουργίας</string>
      <string name="vp_newest_ep">Πιο πρόσφατα</string>
      <string name="vp_next_ci">Το Επόμενο επεισόδιο</string>
-     <string name="vp_notify_apk_installed">Επιτυχής εγκατάσταση εφαρμογής %1$s</string>
+     <string name="vp_notify_apk_installed">Επιτυχής εγκατάσταση εφαρμογής</string>
      <string name="vp_offline">Αποσυνδεδεμένος</string>
      <string name="vp_offline_status_done">Ολοκληρώθηκε</string>
      <string name="vp_offline_status_dowloading">Κατεβαίνει</string>
@@ -481,6 +484,7 @@
      <string name="vp_select_ep">Επιλέξτε επεισόδιο</string>
      <string name="vp_select_function">Επιλέξτε τη λειτουργία</string>
      <string name="vp_select_source">Επιλέξτε την πηγή</string>
+     <string name="vp_select_tv">Κανάλια</string>
      <string name="vp_select_video_definition">Επιλέξτε σαφήνεια</string>
      <string name="vp_select_video_source">Επιλέξτε την πηγή</string>
      <string name="vp_skip">Παράλειψη εισαγωγής</string>

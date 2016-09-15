@@ -39,6 +39,7 @@
      <string name="notification_rec_title">Πατήστε για να δείτε την εγγραφή</string>
      <string name="pre_station">Προηγούμενος σταθμός</string>
      <string name="record_completed">Ολοκλήρωση εγγραφής</string>
+     <string name="runtime_permission_ungranted">Αδυναμία χρήσης της Ηχογράφησης λόγω ανεπαρκών δικαιωμάτων</string>
      <string name="search_dialog_title">Σάρωση σταθμών</string>
      <string name="set">Θέσε</string>
      <string name="station_check_favorite">Προσθήκη στις μνήμες</string>

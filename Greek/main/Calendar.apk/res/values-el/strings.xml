@@ -222,12 +222,16 @@
      <string name="no_network_btn">Δοκιμάστε ξανά</string>
      <string name="no_syncable_calendars">Χωρίς ημερολόγια</string>
      <string name="no_title_label">(Χωρίς τίτλο)</string>
+     <string name="no_visiable_calendar_message">Θα πρέπει να επιλέξετε ένα λογαριασμό ημερολογίου. Πατήστε Επιλογή λογαριασμού για να συνεχίσετε.</string>
+     <string name="no_visiable_calendar_select_account">Επιλογή λογαριασμού</string>
+     <string name="no_visiable_calendar_title">Επιλέξτε ένα λογαριασμό ημερολογίου</string>
      <string name="not_synced">ασυγχρόνιστο</string>
      <string name="online_calendar_activity_label">Εγγραφείτε στο ημερολόγιο</string>
      <string name="online_reminder_change_text">Τροποποίηση υπενθύμισης</string>
      <string name="online_reminder_header_text">υπενθύμιση</string>
      <string name="online_reminder_minutes_text">Ώρα υπενθύμισης</string>
      <string name="online_reminder_slider_text">Ενεργή υπενθύμιση</string>
+     <string name="path_calendar">Εφαρμογές συστήματος/Ημερολόγιο/Ρυθμίσεις</string>
      <string name="prefDialogTitle_vibrateWhen">Δόνηση</string>
      <string name="pref_error_no_ringtone_select">Καμία επιλογή</string>
      <string name="pref_title_alarm_remind">Ήχος υπενθύμισης</string>
