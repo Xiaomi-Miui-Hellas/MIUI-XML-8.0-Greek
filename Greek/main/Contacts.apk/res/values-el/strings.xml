@@ -959,7 +959,7 @@
      <string name="preference_contacts_recovery_introduction">Ανάκτηση επαφών</string>
      <string name="preference_dial_pad_touch_tone_default">Προκαθορισμένο</string>
      <string name="preference_dial_pad_touch_tone_human">Φωνή</string>
-     <string name="preference_dial_pad_touch_tone_piano">Πλήκτρα του πιάνου</string>
+     <string name="preference_dial_pad_touch_tone_piano">Πλήκτρα πιάνου</string>
      <string name="preference_dial_pad_touch_tone_switch">Ήχοι πληκτρολογίου</string>
      <string name="preference_dial_pad_touch_tone_title">Ήχοι πληκτρολογίου</string>
      <string name="preference_display">Προβολή</string>
