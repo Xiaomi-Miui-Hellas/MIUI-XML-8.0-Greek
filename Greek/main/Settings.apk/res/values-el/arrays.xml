@@ -472,6 +472,14 @@
         <item>Εσωτερικός χώρος</item>
         <item>Εξωτερικός χώρος</item>
      </string-array>
+     <string-array name="privacy_password_function_specfication_names">
+        <item>Μηνύματα</item>
+        <item>Φωτογραφίες</item>
+        <item>Αρχεία</item>
+        <item>Σημειώσεις</item>
+        <item>Κλείδωμα εφαρμογής</item>
+        <item>Λειτουργία Παιδιού</item>
+     </string-array>
      <string-array name="proc_stats_memory_states">
         <item>Κανονική</item>
         <item>Μέτρια</item>
@@ -500,6 +508,10 @@
         <item>Χαμηλή</item>
         <item>Κρίσιμη</item>
         <item>\?</item>
+     </string-array>
+     <string-array name="screen_button_style">
+        <item>Για Αριστερόχειρες</item>
+        <item>Για Δεξιόχειρες</item>
      </string-array>
      <string-array name="screen_color_title">
         <item>Θερμό</item>

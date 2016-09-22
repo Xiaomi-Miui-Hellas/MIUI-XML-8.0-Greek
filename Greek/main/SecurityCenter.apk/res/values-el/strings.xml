@@ -161,6 +161,12 @@
      <string name="battery_status_unknown">Άγνωστο σφάλμα</string>
      <string name="battery_temperature_title">Θερμοκρασία</string>
      <string name="begin_date">Ημερομηνία μηδενισμού χρήσης</string>
+     <string name="bind_xiaomi_account_cancel">Άκυρο</string>
+     <string name="bind_xiaomi_account_confirm">Προσθήκη</string>
+     <string name="bind_xiaomi_account_dialog_summery">Είστε έτοιμοι να προσθέσετε το λογαριασμό Mi %s. Εάν ξεχάσετε τον κωδικό σας, μπορείτε να χρησιμοποιήσετε αυτό το λογαριασμό για να τον επαναφέρετε. Ο λογαριασμός θα αφαιρεθεί αυτόματα αν αποσυνδεθείτε.</string>
+     <string name="bind_xiaomi_account_success">Επιτυχής προσθήκη λογαριασμού Mi</string>
+     <string name="bind_xiaomi_account_summary">Χρησιμοποιείστε το λογαριασμό Mi για επαναφορά του κωδικού σας</string>
+     <string name="bind_xiaomi_account_title">Προσθήκη λογαριασμού Mi</string>
      <string name="boot_reminder">Ενεργοποίηση της συσκευής σε μια προκαθορισμένη ώρα</string>
      <string name="boot_time">Η συσκευή θα ενεργοποιηθεί στις %1$s</string>
      <string name="boot_time_day">Η συσκευή θα ενεργοποιηθεί σε %1$dη στις %2$s</string>
@@ -263,6 +269,7 @@
      <string name="cmcc_app_check_dialog_negative">Αργότερα</string>
      <string name="cmcc_app_check_dialog_positive">Επανεκκίνηση τώρα</string>
      <string name="cmcc_app_check_dialog_title">Το σύστημα επιδιορθώθηκε</string>
+     <string name="confirm_bind_xiaomi_account_dialog_title">Προσθήκη λογαριασμού Mi…</string>
      <string name="confirm_fingerprint_msg">Τοποθετήστε το δάχτυλό σας στον αναγνώστη δακτυλικών αποτυπωμάτων</string>
      <string name="confirm_reject_all_permission">Περιορισμός όλων των εφαρμογών από τη χρήση αυτής της λειτουργίας;</string>
      <string name="connect_internet_by_mobiledata">Σύνδεση δεδομένων κινητής</string>
@@ -659,6 +666,7 @@
      <string name="menu_text_antispam">Λίστα φραγών</string>
      <string name="menu_text_antivirus">Anti-virus</string>
      <string name="menu_text_garbage_cleanup">Καθαρισμός</string>
+     <string name="menu_text_garbage_cleanup_danger">%s over</string>
      <string name="menu_text_license_manager">Δικαιώματα</string>
      <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
      <string name="menu_text_networkassistants_danger">%s υπέρβαση</string>
@@ -794,6 +802,11 @@
      <string name="package_setted_error_notification_titile">Αδυναμία ρύθμισης προγράμματος δεδομένων</string>
      <string name="packages_subtitle">Συμπεριλαμβανόμενα πακέτα</string>
      <string name="passwordIncorrect">Λανθασμένο όνομα χρήστη ή κωδικός πρόσβασης</string>
+     <string name="password_promotion_button_text">Το κατάλαβα</string>
+     <string name="password_promotion_message">Το Κλείδωμα εφαρμογής αναβαθμίζεται σε κωδικός Προσωπικής προστασίας. Μπορείτε να χρησιμοποιήσετε τον τρέχοντα λογαριασμό Mi για να τον επαναφέρετε.</string>
+     <string name="password_promotion_not_login_xiaomi_account_message">Το Κλείδωμα εφαρμογής αναβαθμίζεται σε κωδικός Προσωπικής προστασίας. Μπορείτε να χρησιμοποιήσετε τον τρέχοντα λογαριασμό Mi για να τον επαναφέρετε. Προσθέστε τον Mi λογαριασμό σας για να μπορείτε να το κάνετε αυτό.</string>
+     <string name="password_promotion_postbutton_text">Πηγαίνετε στις Ρυθμίσεις</string>
+     <string name="password_promotion_title">Κωδικός Προσωπικής προστασίας</string>
      <string name="path_antispam">Εφαρμογές συστήματος/Ασφάλεια/Λίστα φραγών</string>
      <string name="path_antivirus">Εφαρμογές συστήματος/Ασφάλεια/Virus scan</string>
      <string name="path_cleanmaster">Εφαρμογές συστήματος/Ασφάλεια/Καθαρισμός</string>
@@ -1099,6 +1112,8 @@
      <string name="security_scan_optimizing">Βελτιστοποίηση…</string>
      <string name="see_detail">Λεπτομέρειες</string>
      <string name="select_pattern">Επιλέξτε μοτίβο</string>
+     <string name="set_applock_password">Ορισμός κωδικού</string>
+     <string name="setting_privacy_password">Ορισμός κωδικού Προσωπικής προστασίας</string>
      <string name="setting_traffic_pkg">Ορισμός πακέτου δεδομένων</string>
      <string name="settings">Ρυθμίσεις χρήσης δεδομένων</string>
      <string name="settings_battery_consume_abnormal_summary">Λήψη ειδοποιήσεων όταν η μπαταρία αδειάζει γρήγορα</string>
@@ -1170,6 +1185,7 @@
      <string name="summary_flow_purchase_left">Έχετε μόνο %sMB δεδομένα υπόλοιπο για αυτό το μήνα</string>
      <string name="summary_flow_verify">Δεν έχετε συγχρονίσει τα στατιστικά στοιχεία με τον φορέα σας εδώ και %d ημέρες</string>
      <string name="summary_flow_verify_failed">Βαθμονόμηση</string>
+     <string name="summary_garbage_clean">Καθαρίστε την cache για να ελευθερώσετε χώρο</string>
      <string name="summary_garbage_lib">Χρησιμοποιήστε τους πιο πρόσφατους ορισμούς για την αφαίρεση spyware, adware, και άλλα ανεπιθύμητα σκουπίδια</string>
      <string name="summary_install_virus">Ελέγξτε τις εφαρμογές πριν από την εγκατάσταση</string>
      <string name="summary_live_talk_purchase">Μόνο ¥ 0.05 το λεπτό για εγχώριες κλήσεις.</string>
@@ -1235,6 +1251,8 @@
      <string name="tc_sms_report_get_sms">Λήψη SMS</string>
      <string name="tc_sms_report_get_sms2">Λήψη SMS</string>
      <string name="tc_sms_report_get_sms_again">Ανανέωση SMS</string>
+     <string name="tc_sms_report_get_sms_bill">Λήψη SMS</string>
+     <string name="tc_sms_report_get_sms_calltime">Λήψη SMS</string>
      <string name="tc_sms_report_get_sms_failure">Αδυναμία λήψης φόρμας SMS χρήσης δεδομένων</string>
      <string name="tc_sms_report_get_sms_successs">Η φόρμα SMS χρήσης δεδομένων ενημερώθηκε</string>
      <string name="tc_sms_report_get_sms_timeout">Λήξη χρονικού ορίου αίτησης</string>
@@ -1256,6 +1274,8 @@
      <string name="tc_sms_report_tips_dialog_message">Η χρήση δεδομένων χρησιμοποιεί ένα ειδικά διαμορφωμένο SMS για να πάρει τα νεότερα στοιχεία χρήσης δεδομένων από τον φορέα σας. Εάν αυτή η λειτουργία δεν λειτουργεί κανονικά, δοκιμάστε να ενημερώσετε τη φόρμα SMS χρήσης δεδομένων. Στη συνέχεια, η νέα ενημερωμένη φόρμα θα ανέβει στους server μας.</string>
      <string name="tc_sms_report_tips_dialog_title">SMS χρήσης δεδομένων</string>
      <string name="tc_sms_report_title">Αναφορά σφάλματος χρήσης δεδομένων</string>
+     <string name="tc_sms_report_title_bill">Αναφορά σφάλματος χρήσης δεδομένων</string>
+     <string name="tc_sms_report_title_calltime">Αναφορά σφάλματος χρήσης δεδομένων</string>
      <string name="tc_sms_report_toast_text">Λήψη πληροφοριών…</string>
      <string name="tc_sms_report_upload_success">Το SMS αναφοράς χρήσης δεδομένων έχει υποβληθεί. Θα το κοιτάξουμε αμέσως!</string>
      <string name="tc_sms_report_upload_when_net">Σας ευχαριστούμε για τα σχόλιά σας!</string>
@@ -1293,6 +1313,7 @@
      <string name="title_flow_rank">Χρήση δεδομένων κινητής</string>
      <string name="title_flow_verify">Σύγκριση στοιχείων</string>
      <string name="title_flow_verify_failed">"Αδυναμία βαθμονόμησης για 5 συνεχόμενες ημέρες"</string>
+     <string name="title_garbage_clean">Το μέγεθος cache της εφαρμογής είναι %s</string>
      <string name="title_garbage_lib">Αυτόματες ενημερώσεις</string>
      <string name="title_install_virus_no">Ανενεργή η παρακολούθηση εγκαταστάσεων</string>
      <string name="title_install_virus_yes">Ενεργή η παρακολούθηση εγκαταστάσεων</string>

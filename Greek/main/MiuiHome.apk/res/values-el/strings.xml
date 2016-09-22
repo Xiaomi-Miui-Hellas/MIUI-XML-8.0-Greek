@@ -182,6 +182,8 @@
      <string name="multi_selecting_tips">Για να πάρετε μια εφαρμογή, πατήστε το εικονίδιό της</string>
      <string name="no_detail_page">Δεν υπάρχουν λεπτομέρειες</string>
      <string name="normal_wallpaper">Ταπετσαρία</string>
+     <string name="notification_installed">Επιτυχής εγκατάσταση</string>
+     <string name="notification_open_button">Άνοιγμα</string>
      <string name="online_wallpaper">Online</string>
      <string name="out_of_space">Δεν υπάρχει χώρος σε αυτή την οθόνη.</string>
      <string name="permdesc_install_shortcut">Επιτρέπει σε μια εφαρμογή την προσθήκη συντομεύσεων χωρίς την παρέμβαση του χρήστη.</string>
