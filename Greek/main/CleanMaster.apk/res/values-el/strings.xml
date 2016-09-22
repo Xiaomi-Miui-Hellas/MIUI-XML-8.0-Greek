@@ -391,7 +391,7 @@
      <string name="tips_of_package_set">Ρυθμίστε το πρόγραμμα δεδομένων σας και ελέγξτε το ποσό της κίνησης που χρησιμοποιείτε</string>
      <string name="tips_of_traffic_notification">Δείτε τα στατιστικά δεδομένων κινητής στη μπάρα ειδοποιήσεων</string>
      <string name="tips_of_traffic_pack_threshold">"Αγοράστε περισσότερα δεδομένα όταν πλησιάζετε το όριο κίνησής σας"</string>
-     <string name="tips_of_virus_scan">Σαρώστε τη συσκευή σας για ιούς τακτικά για να κρατήσετε ασφαλή</string>
+     <string name="tips_of_virus_scan">Σαρώστε τη συσκευή σας για ιούς τακτικά για να την κρατήσετε ασφαλή</string>
      <string name="title_auto_cleaner">Αυτόματος καθαρισμός;</string>
      <string name="title_delete_cache">Διαγραφή δεδομένων cache;</string>
      <string name="title_delete_clipboard">Περιεχόμενα προχείρου</string>
