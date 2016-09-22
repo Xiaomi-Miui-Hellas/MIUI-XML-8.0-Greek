@@ -25,7 +25,7 @@
         <item quantity="one">Προβολή %d πλοηγού</item>
      </plurals>
      <plurals name="view_all_devices">
-        <item quantity="other">Προβολή και τις %d συσκευών</item>
+        <item quantity="other">Προβολή και των %d συσκευών</item>
         <item quantity="one">Προβολή %d συσκευής</item>
      </plurals>
 </resources>
