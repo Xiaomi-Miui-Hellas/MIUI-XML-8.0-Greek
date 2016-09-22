@@ -40,6 +40,8 @@
      <string name="export_to_note">Εξαγωγή στις Σημειώσεις</string>
      <string name="invalid_argument">Μη έγκυρη παράμετρος</string>
      <string name="low_battery_error">Απομένει λιγότερο από 5% μπαταρία. Για να εξασφαλιστεί ότι η εγγραφή σας δεν θα χαθεί, η Ηχογράφηση είναι σε παύση και το αρχείο έχει αποθηκευτεί.</string>
+     <string name="low_battery_error_confirm">OK</string>
+     <string name="low_battery_error_title">Χαμηλή μπαταρία</string>
      <string name="mark_point_list_title">Ετικέτες</string>
      <string name="message_file_size_error">Η εγγραφή έχει φτάσει το μέγιστο επιτρεπόμενο μήκος που υποστηρίζεται από %s</string>
      <string name="new_record_name">Νέα εγγραφή</string>

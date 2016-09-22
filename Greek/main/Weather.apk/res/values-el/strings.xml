@@ -17,7 +17,6 @@
      <string name="activity_main_alert" />
      <string name="activity_main_clickable">></string>
      <string name="activity_main_one_alert" />
-     <string name="activity_main_refresh_fail">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="activity_main_time_format">dd/MM</string>
      <string name="activity_main_update_time">Ενημέρωση %1$s</string>
      <string name="activity_main_update_time_right_now">Τώρα</string>
@@ -56,6 +55,7 @@
      <string name="button_not_allow">Ακύρωση</string>
      <string name="button_sure_abandon">Απόρριψη αλλαγών;</string>
      <string name="close">Κλείσιμο</string>
+     <string name="common_loading_text">Φόρτωση…</string>
      <string name="daily_forcast_drawer_on_bottom">Απόκρυψη</string>
      <string name="daily_forcast_drawer_on_top">Πρόβλεψη %1$s ημερών</string>
      <string name="daily_forcast_no_stable_direction">Άπνοια</string>
@@ -74,6 +74,7 @@
      <string name="empty">" "</string>
      <string name="first_start_network_msg">Για να πάρετε τις πληροφορίες καιρού, θα πρέπει να συνδεθείτε στο Internet.</string>
      <string name="first_start_network_title">Ειδοποίηση σύνδεσης</string>
+     <string name="global_aqi" />
      <string name="gps_hint">Τρέχουσα Θέση</string>
      <string name="hide_topic">Απόκρυψη</string>
      <string name="hour_minute_time_format">HH:mm</string>
@@ -130,6 +131,7 @@
      <string name="realtime_aqi_title">Δείκτης Ποιότητας Αέρα</string>
      <string name="realtime_humidity_title">Σχετική Υγρασία</string>
      <string name="realtime_wind_default_title">Άνεμος</string>
+     <string name="refresh_fail">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="retry">Προσπαθήστε ξανά</string>
      <string name="set">Ρυθμίσεις</string>
      <string name="set_degree_centigrade">°C</string>

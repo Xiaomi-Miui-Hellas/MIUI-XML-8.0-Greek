@@ -45,7 +45,8 @@
      <string name="friday">Παρασκευή</string>
      <string name="friday_short">Παρ</string>
      <string name="friday_shortest">Π</string>
-     <string name="hybrid_provider">Η ιστοσελίδα παρέχεται από %1$s .</string>
+     <string name="hybrid_provider">Παρέχεται από %1$s</string>
+     <string name="instruction">Οδηγίες</string>
      <string name="label">MIUI SDK</string>
      <string name="midnight">ΠΜ</string>
      <string name="monday">Δευτέρα</string>
