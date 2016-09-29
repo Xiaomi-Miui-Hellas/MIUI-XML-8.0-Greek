@@ -38,7 +38,7 @@
      <string name="other_settings_upload_debug_log_summary">Τα διαγνωστικά δεδομένα μπορεί να περιλαμβάνουν πληροφορίες σχετικά με τη χρήση του υλικού σας, το λειτουργικό σύστημα και τις εφαρμογές. Τα δεδομένα θα χρησιμοποιηθούν για τον εντοπισμό και την ανάλυση των προβλημάτων στο σύστημα και δεν πρόκειται ποτέ να χρησιμοποιηθούν για την αναγνώρισή σας προσωπικά.</string>
      <string name="other_settings_upload_debug_log_title">Αυτόματη αποστολή διαγνωστικών δεδομένων</string>
      <string name="other_settings_user_experience">Πρόγραμμα Εμπειρίας Χρηστών</string>
-     <string name="other_settings_user_experience_summary">Βοηθήστε στην βελτίωση του MIUI με την αποστολή ανώνυμων δεδομένων χρήσης (%s)</string>
+     <string name="other_settings_user_experience_summary">Βοηθήστε μας να βελτιώσουμε τα προϊόντα και τις υπηρεσίες μας αποστέλλοντας ανώνυμα δεδομένα χρήσης.</string>
      <string name="other_settings_user_experience_summary1">Προβολή Πολιτικής Απορρήτου</string>
      <string name="pref_title_data_slot">Προεπιλεγμένη SIM δεδομένων</string>
      <string name="pref_title_voice_slot">Προεπιλεγμένη SIM φωνής</string>
