@@ -182,7 +182,6 @@
      <string name="camera_disconnected">Η κάμερα αποσυνδέθηκε.</string>
      <string name="camera_folder_display_name">Φωτογραφίες κάμερας</string>
      <string name="camera_needs_auto_backup_tip">Το άλμπουμ της κάμερας πρέπει να γίνει backup</string>
-     <string name="camera_path">/DCIM/Camera</string>
      <string name="camera_setas_wallpaper">Ταπετσαρία</string>
      <string name="camera_view_none_message">Εδώ θα εμφανίζονται οι φωτογραφίες σας.</string>
      <string name="cancel">Άκυρο</string>
