@@ -142,19 +142,19 @@
      <string name="create_contact_using">"Δημιουργία επαφής
 με τη χρήση του %s"</string>
      <string name="cut">Αποκοπή</string>
-     <string name="data_usage_3g_limit_snoozed_title">Ξεπεράστηκε το όριο δεδομ. 2G-3G</string>
-     <string name="data_usage_3g_limit_title">Τα δεδ. 2G-3G απενεργοποιήθηκαν</string>
-     <string name="data_usage_4g_limit_snoozed_title">Ξεπεράστηκε το όριο δεδομένων 4G</string>
-     <string name="data_usage_4g_limit_title">Τα δεδομένα 4G απενεργοποιήθηκαν</string>
+     <string name="data_usage_3g_limit_snoozed_title">Υπέρβαση ορίου δεδομένων 2G-3G</string>
+     <string name="data_usage_3g_limit_title">Φτάσατε το όριο χρήσης δεδομένων 2G-3G</string>
+     <string name="data_usage_4g_limit_snoozed_title">Υπέρβαση ορίου δεδομένων 4G</string>
+     <string name="data_usage_4g_limit_title">Φτάσατε το όριο χρήσης δεδομένων 4G</string>
      <string name="data_usage_limit_body">Αγγίξτε για ενεργοποίηση</string>
      <string name="data_usage_limit_snoozed_body">%s πάνω από το καθορισμένο όριο.</string>
-     <string name="data_usage_mobile_limit_snoozed_title">Ξεπεράστηκε το όριο δεδομένων κινητής τηλεφωνίας</string>
-     <string name="data_usage_mobile_limit_title">Τα δεδομ. κιν. τηλεφ. απενεργοπ.</string>
-     <string name="data_usage_restricted_body">Αγγίξτε για κατάργ. περιορισμού.</string>
-     <string name="data_usage_restricted_title">Περ.δεδομ.παρασκ.</string>
+     <string name="data_usage_mobile_limit_snoozed_title">Υπέρβαση ορίου δεδομένων</string>
+     <string name="data_usage_mobile_limit_title">Φτάσατε το όριο χρήσης δεδομένων</string>
+     <string name="data_usage_restricted_body">Αγγίξτε για κατάργηση περιορισμού.</string>
+     <string name="data_usage_restricted_title">Περιορισμός δεδομένων παρασκηνίου</string>
      <string name="data_usage_warning_body">Αγγίξτε για προβολή χρήσης/ρυθμ.</string>
      <string name="data_usage_warning_title">Προειδοποίηση χρήσης δεδομένων</string>
-     <string name="data_usage_wifi_limit_snoozed_title">Υπέρβ. ορίου Wi‑Fi</string>
+     <string name="data_usage_wifi_limit_snoozed_title">Υπέρβαση ορίου δεδομένων Wi‑Fi</string>
      <string name="data_usage_wifi_limit_title">Wi‑Fi ανενεργό</string>
      <string name="date_picker_decrement_day_button">Μείωση ημέρας</string>
      <string name="date_picker_decrement_month_button">Μείωση μήνα</string>
@@ -1487,7 +1487,6 @@ Attempts Remaining :"</string>
      <string name="webviewchromium_color_picker_dialog_title">Επιλογή χρώματος</string>
      <string name="webviewchromium_color_picker_hue">Απόχρωση</string>
      <string name="webviewchromium_color_picker_saturation">Κορεσμός</string>
-     <string name="webviewchromium_color_picker_value">Τιμή</string>
      <string name="webviewchromium_copy_to_clipboard_failure_message">Αποτυχία αντιγραφής στο πρόχειρο</string>
      <string name="webviewchromium_date_picker_dialog_clear">Διαγραφή</string>
      <string name="webviewchromium_date_picker_dialog_other_button_label">Άλλο</string>
