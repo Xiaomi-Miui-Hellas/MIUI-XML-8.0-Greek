@@ -125,7 +125,6 @@
      <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit giveaway.</string>
      <string name="giftcard_record">Οι κάρτες δώρων μου</string>
      <string name="giftcard_title">Κάρτα δώρου MiCredit</string>
-     <string name="giftcard_value">(%1$s-MiCredit κάρτα δώρο)</string>
      <string name="hfb_app_name">UMPay</string>
      <string name="hfb_complete">Αγοράστηκαν με επιτυχία!</string>
      <string name="hfb_confirm">Επιβεβαίωση</string>
@@ -293,8 +292,6 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
      <string name="recharge_push_notification_prime_title">%1$d προστέθηκαν %2$s MiCredits στο λογαριασμό σας</string>
      <string name="recharge_push_notification_sub_title">Ανανέωση ολοκληρώθηκε.</string>
      <string name="recharge_tenpay_title">Tenpay</string>
-     <string name="recharge_value_money">Επαναφόρτιση RMB %s</string>
-     <string name="recharge_value_money_with_tip">"Αγορά Mi Credits αξίας %s RMB &lt;font color=red>(Δεν μπορείτε να ξοδέψετε Mi Credits στο Mi.com)&lt;/font>"</string>
      <string name="recharge_voucher_title">MiCredit κάρτα</string>
      <string name="scan_prompt_number">Σάρωση %1$s Αριθμού προπληρωμένης κάρτας</string>
      <string name="scan_prompt_password">Σάρωση %1$s κωδικού πρόσβασης της προπληρωμένης κάρτας</string>
@@ -325,7 +322,6 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
      <string name="title_sms_code">Παρακαλώ εισάγετε τον κωδικό επαλήθευσης του κινητού τηλεφώνου</string>
      <string name="title_visible_pattern">Κάντε το μοτίβο ορατό</string>
      <string name="unit">Mi Credit</string>
-     <string name="unit_value">%1$s Mi Credit</string>
      <string name="voucher_card_text">Παρακαλώ ξύστε την επικάλυψη</string>
      <string name="voucher_error_password">Μη έγκυρος κωδικός κουπονιού!</string>
      <string name="voucher_input_password_prompt">Εισάγετε τον κωδικό</string>

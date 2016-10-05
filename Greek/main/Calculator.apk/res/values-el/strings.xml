@@ -21,7 +21,6 @@
      <string name="convertion_unit_weight">Μετατροπέας βάρους/μάζας</string>
      <string name="cos">cos</string>
      <string name="cosDesc">συνημίτονο</string>
-     <string name="cos_mathematical_value">cos</string>
      <string name="currency_update_time_format">Οι συναλλαγματικές ισοτιμίες παρέχονται από hexun.com (%s)</string>
      <string name="del">DEL</string>
      <string name="digit0">0</string>
@@ -40,7 +39,6 @@
      <string name="dotDesc">point</string>
      <string name="e">e</string>
      <string name="eDesc">"Αριθμός Euler's"</string>
-     <string name="e_mathematical_value">e</string>
      <string name="enter">↓</string>
      <string name="equal">=</string>
      <string name="equalDesc">ίσον</string>
@@ -70,10 +68,8 @@
      <string name="leftParenDesc">αριστερή παρένθεση</string>
      <string name="lg">log</string>
      <string name="lgDesc">λογάριθμος</string>
-     <string name="lg_mathematical_value">lg</string>
      <string name="ln">ln</string>
      <string name="lnDesc">φυσικός λογάριθμος</string>
-     <string name="ln_mathematical_value">ln</string>
      <string name="loan_edittext_hint_commercial">Εισάγετε το ποσό</string>
      <string name="loan_edittext_hint_commercial_combined">Εμπορικό</string>
      <string name="loan_edittext_hint_fund">Εισάγετε το ποσό</string>
@@ -133,12 +129,10 @@
      <string name="rightParenDesc">δεξιά παρένθεση</string>
      <string name="sin">sin</string>
      <string name="sinDesc">ημίτονο</string>
-     <string name="sin_mathematical_value">sin</string>
      <string name="sqrt">√</string>
      <string name="sqrtDesc">τετραγωνική ρίζα</string>
      <string name="tan">tan</string>
      <string name="tanDesc">εφαπτόμενη</string>
-     <string name="tan_mathematical_value">tan</string>
      <string name="tax_accumulation_fund">Ταμείο Πρόνοιας</string>
      <string name="tax_annual_bonus_hint">Εισάγετε το μπόνους σας προ φόρων</string>
      <string name="tax_cal_method_annual">Υπολογισμός ετήσιου μπόνους</string>

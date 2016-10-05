@@ -24,18 +24,6 @@
         <item>Αυτό &amp; μελλοντικά γεγονότα</item>
         <item>Όλα τα γεγονότα</item>
      </string-array>
-     <string-array name="miui_preferences_default_reminder_labels">
-        <item>Χωρίς υπενθύμιση</item>
-        <item>0 λεπτά</item>
-        <item>5 λεπτά</item>
-        <item>10 λεπτά</item>
-        <item>15 λεπτά</item>
-        <item>30 λεπτά</item>
-        <item>1 ώρα</item>
-        <item>1 ημέρα</item>
-        <item>2 ημέρες</item>
-        <item>1 εβδομάδα</item>
-     </string-array>
      <string-array name="miui_reminder_minutes_labels">
         <item>Χωρίς υπενθύμιση</item>
         <item>0 λεπτά</item>
@@ -60,29 +48,11 @@
         <item>Μόνο όταν είναι σε σίγαση</item>
         <item>Ποτέ</item>
      </string-array>
-     <string-array name="preferences_default_reminder_labels">
-        <item>Χωρίς υπενθύμιση</item>
-        <item>0 λεπτά</item>
-        <item>5 λεπτά</item>
-        <item>10 λεπτά</item>
-        <item>15 λεπτά</item>
-        <item>30 λεπτά</item>
-        <item>1 ώρα</item>
-        <item>1 ημέρα</item>
-        <item>2 ημέρες</item>
-        <item>1 εβδομάδα</item>
-     </string-array>
      <string-array name="preferences_week_start_day_labels">
         <item>Τοπική Προεπιλογή</item>
         <item>Σάββατο</item>
         <item>Κυριακή</item>
         <item>Δευτέρα</item>
-     </string-array>
-     <string-array name="quick_response_defaults">
-        <item>Έχω αργήσει μερικά λεπτά.</item>
-        <item>Θα είμαι εκεί σε περίπου 10 λεπτά.</item>
-        <item>Ξεκινήστε χωρίς εμένα.</item>
-        <item>Συγνώμη, δεν θα τα καταφέρω. Θα πρέπει να το επαναπρογραμματίσουμε.</item>
      </string-array>
      <string-array name="reminder_methods_labels">
         <item>Ειδοποίηση</item>

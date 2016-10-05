@@ -9,7 +9,6 @@
   <string name="alarm_summary_12h">hh:mm a</string>
   <string name="alarm_summary_24h">kk:mm</string>
   <string name="alarm_time">Ώρα </string>
-  <string name="alarm_value">Συναγερμός %s%%</string>
   <string name="app">Έναρξη εφαρμ.</string>
   <string name="app_center">Κέντρο εφαρμ.</string>
   <string name="app_name">PonPonTile</string>
@@ -105,7 +104,6 @@
   <string name="input_password_gain">Παρακαλούμε, εισάγετε ξανά τον κωδικό πρόσβασης</string>
   <string name="input_password_warning">"Ο κωδικός πρόσβασης θα γραφτεί στην ετικέτα, μην το ξεχνάτε!"</string>
   <string name="local_app">ΛΗΦΘΕΝΤΑ</string>
-  <string name="media_value">Πολυμέσα %s%%</string>
   <string name="meeting_mode">Λειτουργία Συνάντησης</string>
   <string name="miui_ringer_mode">Λειτουργία Ring</string>
   <string name="mode">Λειτουργία</string>
@@ -118,7 +116,6 @@
   <string name="no_available_networks_summary">Δοκιμάστε ξανά μετά την σύνδεση σε WLAN</string>
   <string name="no_available_xiaomi_shop">Απέτυχε το άνοιγμα της αγοράς Xiaomi</string>
   <string name="not_save_btn">Όχι</string>
-  <string name="notification_value">Ειδοποιήσεις %s%%</string>
   <string name="null_task">Δεν υπάρχουν καθήκοντα</string>
   <string name="off">Off</string>
   <string name="on">On</string>
@@ -146,7 +143,6 @@
   <string name="ringer_mode">Λειτουργία Κουδουνιού</string>
   <string name="ringer_normal">Κουδούνι</string>
   <string name="ringer_silent">Αθόρυβο</string>
-  <string name="ringer_value">Κουδούνι %s%%</string>
   <string name="running">τρέχει</string>
   <string name="save_alert">Αποθήκευση αυτού του έργου;</string>
   <string name="save_btn">Αποθήκευση</string>
@@ -200,7 +196,6 @@
   <string name="vibrate_mode">Δόνηση</string>
   <string name="vibrate_off">Δόνηση off</string>
   <string name="vibrate_on">Δόνηση on</string>
-  <string name="voice_call_value">Ένταση κλήσης %s%%</string>
   <string name="volume">Ήχος</string>
   <string name="web_label">Ετικέτα Web (προαιρετική)</string>
   <string name="web_url">URL</string>

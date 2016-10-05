@@ -302,7 +302,6 @@
      <string name="quick_yellow_page_tab_phones">Τηλέφωνο</string>
      <string name="recharge_actual_price">Τιμή:</string>
      <string name="recharge_charge_range">Τιμή: RMB %1$s-%2$s</string>
-     <string name="recharge_charge_value">Τιμή: RMB %s</string>
      <string name="recharge_follow_name">Επαναφόρτιση</string>
      <string name="recharge_history">Ιστορικό επαναφορτίσεων</string>
      <string name="recharge_history_empty">Δεν υπάρχει ιστορικό</string>

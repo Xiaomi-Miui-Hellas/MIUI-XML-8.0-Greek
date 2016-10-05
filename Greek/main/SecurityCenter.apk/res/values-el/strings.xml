@@ -560,7 +560,6 @@
      <string name="lock_screen_warning_category">Ειδοποιήσεις οθόνης κλειδώματος</string>
      <string name="lock_screen_warning_switch_summary">Εμφάνιση προειδοποίησης στην οθόνη κλειδώματος όταν η χρήση των δεδομένων υπερβαίνει ένα ορισμένο ποσό</string>
      <string name="lock_screen_warning_switch_title">Εμφάνιση ειδοποιήσεων στην οθόνη κλειδώματος</string>
-     <string name="lock_screen_warning_value">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="lock_settings_title">Κλείδωμα οθόνης και κωδικός</string>
      <string name="lockpassword_confirm_your_password_header">Επιβεβαίωση κωδικού</string>
      <string name="lockpassword_confirm_your_pattern_header">Επιβεβαίωση μοτίβου</string>
@@ -979,7 +978,6 @@
      <string name="pref_title_traffic_speed_state">Εμφάνιση ταχύτητας δικτύου</string>
      <string name="pref_title_update_notification">Ειδοποιήσεις χρήσης δεδομένων</string>
      <string name="pref_version">Έκδοση %s</string>
-     <string name="pref_warning_values">Επίπεδο προειδοποίησης χρήσης δεδομένων</string>
      <string name="pref_whitelist_setting">Εξαιρέσεις περιαγωγής δεδομένων</string>
      <string name="preferred_app_entries_browser">Πλοηγός</string>
      <string name="preferred_app_entries_camera">Κάμερα</string>
@@ -1012,8 +1010,6 @@
      <string name="quick_optimize_no_issue_subtitle">Όλα είναι εντάξει</string>
      <string name="quick_optimize_no_issue_title">"Δεν υπάρχουν προβλήματα με την μπαταρία"</string>
      <string name="quick_optimize_sub_summary_text">Προστέθηκαν %s διάρκεια μπαταρίας</string>
-     <string name="reach_daily_limit_value_body">Μειώστε τη χρήση δεδομένων κινητής.</string>
-     <string name="reach_daily_limit_value_title">Το ημερήσιο όριο δεδομένων έχει επιτευχθεί</string>
      <string name="recently_reject_message">Απορρίφθηκε η εγκατάσταση του %1$s και %2$d άλλων εφαρμογών</string>
      <string name="recently_reject_message_one">Απορρίφθηκαν %1$s αιτήσεις εγκατάστασης</string>
      <string name="recommend_app">Συνιστώμενες εφαρμογές</string>

@@ -4,11 +4,6 @@
         <item>Μόνο το τοπικό σύστημα</item>
         <item>Αυτόματο</item>
      </string-array>
-     <string-array name="clir_display_values">
-        <item>Προεπιλογή δικτύου</item>
-        <item>Απόκρυψη αριθμού</item>
-        <item>Εμφάνιση αριθμού</item>
-     </string-array>
      <string-array name="gsm_umts_network_preferences_choices">
         <item>2G/3G (αυτόματο)</item>
         <item>Μόνο 3G</item>

@@ -586,8 +586,6 @@
      <string name="bluetooth_pb_remember_choice">Να μην ερωτηθώ ξανά</string>
      <string name="bluetooth_permission_request">Αίτημα άδειας Bluetooth</string>
      <string name="bluetooth_phonebook_request">Αναζήτηση βιβλίου επαφών</string>
-     <string name="bluetooth_pin_values_hint">Συνήθως 0000 ή 1234</string>
-     <string name="bluetooth_pin_values_hint_16_digits">Πρέπει να είναι 16 ψηφία</string>
      <string name="bluetooth_preference_connected_devices">Συνδεδεμένες συσκευές</string>
      <string name="bluetooth_preference_device_settings">Ρυθμίσεις συσκευής</string>
      <string name="bluetooth_preference_found_devices">Διαθέσιμες συσκευές</string>
@@ -1634,12 +1632,8 @@
      <string name="input_method">Μέθοδος εισαγωγής</string>
      <string name="input_method_selector">Επιλογή μεθόδου εισόδου</string>
      <string name="input_method_selector_always_hide_title">Απόκρυψη πάντα</string>
-     <string name="input_method_selector_always_hide_value">2</string>
      <string name="input_method_selector_always_show_title">Εμφάνιση πάντα</string>
-     <string name="input_method_selector_always_show_value">1</string>
      <string name="input_method_selector_show_automatically_title">Αυτόματα</string>
-     <string name="input_method_selector_show_automatically_value">0</string>
-     <string name="input_method_selector_visibility_default_value">0</string>
      <string name="input_method_settings">Ρυθμίσεις</string>
      <string name="input_method_settings_button">Ρυθμίσεις</string>
      <string name="input_methods_and_subtype_enabler_title">Επιλέξτε δραστικές μεθόδους εισαγωγής</string>
@@ -1676,7 +1670,6 @@
      <string name="internal_storage">Εσωτερικός χώρος</string>
      <string name="internal_storage_sentence">Εσωτερικός χώρος αποθήκευσης</string>
      <string name="invalid_location">Η τοποθεσία εγκατάστασης δεν είναι έγκυρη</string>
-     <string name="invalid_size_value">Αδύνατος ο υπολογισμός του μεγέθους</string>
      <string name="ipaddr_label">IPaddr:</string>
      <string name="join_many_items_first">%1$s, %2$s</string>
      <string name="join_many_items_last">%1$s και %2$s</string>

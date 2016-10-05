@@ -381,7 +381,6 @@
     <string name="client_must_be_wifi_network_to_goto_smarthome">Προσωρινά δεν μπορείτε να δείτε, ενεργοποιήστε το WiFi για να δείτε τις έξυπνες συσκευές σας</string>
     <string name="client_no_adequate_info_to_call_smarthome">Ανεπαρκής πληροφορίες για ενεργοποίηση της Smart Home εφαρμογής</string>
     <string name="client_qos_choose_priority">Επιλέξτε προτεραιότητα</string>
-    <string name="client_qos_custom_band_max_value">Ορίσατε το upload και download bandwidth στο μέγιστο επιτρεπτό</string>
     <string name="client_qos_device_list">Λίστα συσκευών</string>
     <string name="client_qos_download_band">Βandwidth λήψης</string>
     <string name="client_qos_download_band_x">Βandwidth λήψης: %s</string>
@@ -390,8 +389,7 @@
     <string name="client_qos_input_cannot_be_negative">"Δεν μπορεί να είναι αρνητικό!"</string>
     <string name="client_qos_input_chars_invalid">Μπορείτε να καταχωρήσετε μόνο νούμερα!</string>
     <string name="client_qos_input_must_be_positive">Πρέπει να είναι μεγαλύτερο από το 0!</string>
-    <string name="client_qos_input_out_of_bound">ΠΟλύ μεγάλο νούμερο (περισσότερο από %d)!</string>
-    <string name="client_qos_input_value">Καταχωρήστε μία τιμή</string>
+    <string name="client_qos_input_out_of_bound">Πολύ μεγάλο νούμερο (περισσότερο από %d)!</string>
     <string name="client_qos_manual_prompt">Χωρίς όριο ταχύτητας αν είναι κενό</string>
     <string name="client_qos_max_download_band">Μέγιστη λήψη</string>
     <string name="client_qos_max_upload_band">Μέγιστη αποστολή</string>

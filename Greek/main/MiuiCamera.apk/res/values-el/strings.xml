@@ -190,9 +190,6 @@
      <string name="pref_camera_snap_entry_off">Ανενεργό</string>
      <string name="pref_camera_snap_entry_take_movie">Όταν η οθόνη είναι ανενεργή, πατήστε &amp; κρατήστε πατημένο το κουμπί μείωσης έντασης (Volume -) για να ξεκινήσει η εγγραφή βίντεο. Αφήστε το για να σταματήσει.</string>
      <string name="pref_camera_snap_entry_take_picture">Όταν η οθόνη είναι ανενεργή, πατήστε &amp; κρατήστε πατημένο το κουμπί μείωσης έντασης (Volume -) για να ξεκινήσει η λήψη ριπής φωτογραφιών. Αφήστε το για να σταματήσει.</string>
-     <string name="pref_camera_snap_value_off">Ανενεργό</string>
-     <string name="pref_camera_snap_value_take_movie">Ταινία</string>
-     <string name="pref_camera_snap_value_take_picture">Εικόνα</string>
      <string name="pref_camera_sound_title">Ήχοι κάμερας</string>
      <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
      <string name="pref_camera_touchafaec_entry_off">Ανενεργό</string>

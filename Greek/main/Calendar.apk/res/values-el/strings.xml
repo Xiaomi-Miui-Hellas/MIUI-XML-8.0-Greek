@@ -250,7 +250,6 @@
      <string name="preferences_clear_search_history_summary">"Αφαίρεση όλων των αναζητήσεών σας"</string>
      <string name="preferences_clear_search_history_title">Καθαρισμός ιστορικού αναζήτησης</string>
      <string name="preferences_default_reminder_default">10</string>
-     <string name="preferences_default_reminder_default_value">10</string>
      <string name="preferences_default_reminder_dialog">Προκαθορισμένος χρόνος υπενθύμισης</string>
      <string name="preferences_default_reminder_title">Προκαθορισμένος χρόνος υπενθύμισης</string>
      <string name="preferences_general_title">Ρυθμίσεις προβολής ημερολογίου</string>

@@ -43,7 +43,6 @@
      <string name="hide_mode_ultimate_desc">Μέγιστη λειτουργία ενεργή. Οι εφαρμογές στο παρασκήνιο, θα παγώσουν. Απενεργοποιήστε την εξοικονόμηση μπαταρίας για να βγείτε από τη Μέγιστη λειτουργία.</string>
      <string name="high">Επιδόσεις</string>
      <string name="hints_loading_text">Μισό λεπτό…</string>
-     <string name="invalid_size_value">"Δεν είναι δυνατό να προσδιοριστεί το μέγεθος του πακέτου."</string>
      <string name="location_disable_description">Οι εφαρμογές δεν θα έχουν πρόσβαση στην τοποθεσία σας στο παρασκήνιο</string>
      <string name="location_disable_title">Απενεργοποίηση</string>
      <string name="location_enable_description">Η εφαρμογές μπορούν να έχουν πρόσβαση στην τοποθεσία σας στο παρασκήνιο</string>

@@ -79,8 +79,6 @@
      <string name="mipay_bill_query_credit_card_bill_from_mail">Έρευνα λογαριασμού από το γραμματοκιβώτιο</string>
      <string name="mipay_bill_repay_date">Ημερομηνία αποπληρωμής</string>
      <string name="mipay_bill_repay_remind">Υπενθύμιση αποπληρωμής</string>
-     <string name="mipay_bill_rmb_bill_value">| ￥%1$s</string>
-     <string name="mipay_bill_usd_bill_value">| $%1$s</string>
      <string name="mipay_button_call">Κλήση</string>
      <string name="mipay_button_cancel">Ακύρωση</string>
      <string name="mipay_button_close_count_down">Κλείσιμο(%1$s)</string>
@@ -188,7 +186,6 @@
      <string name="mipay_order_change">Αντικατάσταση</string>
      <string name="mipay_order_choose">Χρήση:</string>
      <string name="mipay_order_denom">Τιμή:</string>
-     <string name="mipay_order_denom_value">￥%1$s</string>
      <string name="mipay_order_id">Παραγγελία:</string>
      <string name="mipay_order_title">Προϊόν:</string>
      <string name="mipay_pass_err_find">Εύρεση κωδικού</string>

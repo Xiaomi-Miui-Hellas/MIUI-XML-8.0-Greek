@@ -411,7 +411,6 @@
      <string name="title_system_resource">Τοπικά</string>
      <string name="title_system_wallpaper_resource">Ταπετσαρίες συστήματος</string>
      <string name="to_activate_the_account">Ενεργοποίηση του Mi λογαριασμού σας τώρα</string>
-     <string name="vip_level_value">LV%d</string>
      <string name="wallpaper_crop">Περικοπή</string>
      <string name="wallpaper_decoded_error">Αποτυχία αποκωδικοποίησης</string>
      <string name="wallpaper_loading_text">Φορτώνει…</string>

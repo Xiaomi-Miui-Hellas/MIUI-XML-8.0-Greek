@@ -18,10 +18,6 @@
      <string name="cit_audio_cali_playing">Πατήστε το κουμπί για να κάνετε βαθμονόμηση</string>
      <string name="cit_audio_cali_summary">Βαθμονόμηση ενισχυτή Ηχείου</string>
      <string name="cit_audio_cali_title">Δοκιμή βαθμονόμησης ενισχυτή Ηχείου</string>
-     <string name="cit_audio_cali_valueC">Μετρητής:</string>
-     <string name="cit_audio_cali_valueF0">F0:</string>
-     <string name="cit_audio_cali_valueR">Σύνθετη αντίσταση:</string>
-     <string name="cit_audio_cali_valueT">tCoef:</string>
      <string name="cit_audio_calibrating">Η βαθμονόμηση είναι σε εξέλιξη…</string>
      <string name="cit_audio_lb_backmic_to_speaker_title">Πίσω μικρόφωνο</string>
      <string name="cit_audio_lb_frontmic_to_speaker_title">Μπροστινό μικρόφωνο</string>
