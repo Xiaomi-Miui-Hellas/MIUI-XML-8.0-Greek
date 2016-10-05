@@ -568,11 +568,6 @@
         <item>10 λεπτά</item>
         <item>Ποτέ</item>
      </string-array>
-     <string-array name="security_settings_premium_sms_values">
-        <item>Ερώτηση</item>
-        <item>Να μην επιτρέπεται ποτέ</item>
-        <item>Να επιτρέπεται πάντα</item>
-     </string-array>
      <string-array name="select_logd_size_summaries">
         <item>64K ανά buffer καταγραφής</item>
         <item>256K ανά buffer καταγραφής</item>
