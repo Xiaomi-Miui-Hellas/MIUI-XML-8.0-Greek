@@ -193,7 +193,6 @@
      <string name="permlab_accessNote">Access your notes</string>
      <string name="picker_title">Επιλογή εφαρμογής</string>
      <string name="pin_operation_failed">Η λειτουργία PIN απέτυχε.</string>
-     <string name="pincode_set_to_default_msg">Έγινε επαναφορά κωδικού PIN σε 1234. Παρακαλώ αλλάξτε τον εδώ.</string>
      <string name="private_num">Απόρρητος αριθμός</string>
      <string name="puk_operation_failed">Η λειτουργία PUK απέτυχε.</string>
      <string name="reboot_confirm">Το τηλέφωνο θα επανεκκινήσει</string>

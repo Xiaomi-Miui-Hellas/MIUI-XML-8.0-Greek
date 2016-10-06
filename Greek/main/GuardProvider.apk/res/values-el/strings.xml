@@ -35,7 +35,6 @@
      <string name="avl_dialog_policy">δείτε την Πολιτική Απορρήτου</string>
      <string name="avl_dialog_title">"Πολιτική Απορρήτου AVL"</string>
      <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
-     <string name="default_sdcard_volume_path" />
      <string name="hello_world">Hello world!</string>
      <string name="menu_settings">Ρυθμίσεις</string>
      <string name="tencent_dialog_cloudscan">Ανέβασε και σάρωσε τα ονόματα και τις λεπτομέρειες των εφαρμογών με την online βάση ιών.</string>

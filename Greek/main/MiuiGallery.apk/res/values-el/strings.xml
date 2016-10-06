@@ -132,7 +132,6 @@
      <string name="baby_album_new_photo_page_title">"%1$s άλμπουμ"</string>
      <string name="baby_album_new_photo_remind">Υπάρχουν νέες φωτογραφίες στο άλμπουμ του μωρού σας.</string>
      <string name="baby_album_no_share_user_tip">Δεν υπάρχουν ακόλουθοι  προς το παρόν</string>
-     <string name="baby_album_picker_default_title">"Επιλέξτε το πρόσωπο του %1$s"</string>
      <string name="baby_album_setting_title">Πληροφορίες μωρού</string>
      <string name="baby_album_sharer_accept_dialog_msg">"Οι %1$s %2$s,
 %3$s %4$s μοιράστηκαν το άλμπουμ του %5$s μαζί σας"</string>
@@ -815,9 +814,7 @@
      <string name="send_too_many_files_error">"Αδυναμία αποστολής τόσων πολλών στοιχείων (μέχρι και %d στοιχεία)."</string>
      <string name="sepia">Σέπια</string>
      <string name="set_as_baby_lock_wallpaper">Ορισμός ως ταπετσαρία οθόνης κλειδώματος</string>
-     <string name="set_baby_icon_picker_default_title">Ορισμός εικονιδίου μωρού</string>
      <string name="set_bg_file_exist_message">Αυτό το στοιχείο υπάρχει ήδη</string>
-     <string name="set_bg_picker_default_title">Ορισμός μικρογραφίας</string>
      <string name="set_bg_unknow_reasons">Άγνωστο σφάλμα</string>
      <string name="set_face_group_toast_msg_new_user">Κρατήστε ένα πρόσωπο για να το συγχωνεύσετε ή να το αγνοήσετε.</string>
      <string name="set_face_group_toast_msg_old_user">"Κρατήστε τη φωτογραφία ενός ατόμου για να δημιουργήσετε ομάδες (Π.χ. Οικογένεια, Φίλοι, Συμμαθητές, κλπ.)"</string>

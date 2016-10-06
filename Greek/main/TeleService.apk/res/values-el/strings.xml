@@ -553,10 +553,6 @@
      <string name="ims_set_wifi_calling_preference_failed">Αποτυχία ορισμού προτίμησης κλήσεων Wi‑Fi</string>
      <string name="ims_settings">Ρυθμίσεις IMS</string>
      <string name="in_search_femtocell_networks_wait_tip">Αναζήτηση…</string>
-     <string name="incall_default_activity">com.android.incallui.InCallActivity</string>
-     <string name="incall_default_class">com.android.incallui.CallHandlerService</string>
-     <string name="incall_default_package">com.android.incallui</string>
-     <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
      <string name="incall_error_call_failed">Αδυναμία κλήσης.</string>
      <string name="incall_error_emergency_only">Δεν έχετε εγγραφεί στο δίκτυο.</string>
      <string name="incall_error_local_low_battery">Η κλήση απέτυχε λόγω χαμηλής μπαταρίας!!!.</string>
@@ -778,7 +774,6 @@
      <string name="msim_not_set_summary">Δεν ορίστηκε</string>
      <string name="msim_pref_title_data">Internet</string>
      <string name="msim_pref_title_voice">Κλήση</string>
-     <string name="msim_select_default_time_left">(%d s)</string>
      <string name="msim_set_icc_card_error">Σφάλμα κάρτας ICC</string>
      <string name="msim_set_sub_not_supported_phone_in_call">Αδύνατο κατά τη διάρκεια κλήσης</string>
      <string name="msim_set_sub_not_supported_slot_id_error">Σφάλμα κάρτας SIM</string>
@@ -1410,7 +1405,6 @@
      <string name="tty_mode_option_title">Λειτουργία TTY</string>
      <string name="turnover_mute_summary">Όταν το τηλέφωνο βρίσκεται σε οριζόντια θέση, αναποδογυρίστε το για σίγαση</string>
      <string name="turnover_mute_title">Αναποδογυρίστε για σίγαση</string>
-     <string name="ui_default_package">com.android.dialer</string>
      <string name="unable_dial_livetalk">"Αδυναμία ολοκλήρωσης κλήσης"</string>
      <string name="unblock_pin2">Ξεμπλοκάρισμα PIN2</string>
      <string name="undefined">Απροσδιόριστο</string>
@@ -1445,7 +1439,6 @@
      <string name="voicemail_default">Προεπιλογή</string>
      <string name="voicemail_notification_ringtone_title">Ήχος</string>
      <string name="voicemail_notification_vibarte_when_dialog_title">Δόνηση</string>
-     <string name="voicemail_notification_vibrate_when_default">ποτέ</string>
      <string name="voicemail_notification_vibrate_when_title">Δόνηση</string>
      <string name="voicemail_number_not_set">&lt;δεν έχει οριστεί></string>
      <string name="voicemail_provider">Υπηρεσία τηλεφωνητή</string>

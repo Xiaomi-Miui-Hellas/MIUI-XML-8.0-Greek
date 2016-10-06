@@ -5,6 +5,5 @@
     <string name="svi_enable_title">Ενεργοποίηση SVI προβολής</string>
     <string name="svi_enable_summary_on">Ενίσχυση της προβολής με βάση την κατάσταση του περιβάλλοντος</string>
     <string name="svi_enable_summary_off">Η οπτική εμπειρία δεν θα ενισχυθεί για τις συνθήκες του περιβάλλοντος</string>
-    <string name="svi_info_default">Άγνωστη</string>
     <string name="svi_version_title">SVI Έκδοση</string>
 </resources>

@@ -383,7 +383,6 @@
      <string name="theme_precast_create_notification_title">Ενημερώθηκε σε MIUI 7</string>
      <string name="theme_precast_update_notification_content">Πατήστε για να εξερευνήσετε τις ενημερώσεις</string>
      <string name="theme_precast_update_notification_title">Τα θέματα για MIUI 7 ενημερώθηκαν</string>
-     <string name="theme_provision_default_theme_title">Προεπιλογή</string>
      <string name="theme_provision_loading_tips">Μισό λεπτό…</string>
      <string name="theme_provision_oper_button_next">Επόμενο</string>
      <string name="theme_provision_title">Επιλέξτε ένα θέμα</string>

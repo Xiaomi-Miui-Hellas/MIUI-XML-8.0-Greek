@@ -146,7 +146,6 @@
      <string name="mipay_my_balance">Υπόλοιπο</string>
      <string name="mipay_nfc_balance_limit_title">Όριο υπολοίπου E-Cash</string>
      <string name="mipay_nfc_bank_card_details_title">Τραπεζική κάρτα</string>
-     <string name="mipay_nfc_bank_card_name_default">Μια Τράπεζα</string>
      <string name="mipay_nfc_bind_card">Σύνδεση κάρτας</string>
      <string name="mipay_nfc_bind_card_dialog_title">Σύνδεση κάρτας…</string>
      <string name="mipay_nfc_cancel_bind_card">Ακύρωση σύνδεσης κάρτας</string>
@@ -170,7 +169,6 @@
      <string name="mipay_nfc_per_limit_title">Όριο ανά συναλλαγή</string>
      <string name="mipay_nfc_record_empty">Δεν υπάρχουν εγγραφές</string>
      <string name="mipay_nfc_record_title">Εγγραφές</string>
-     <string name="mipay_nfc_shop_name_default">Κανένα όνομα</string>
      <string name="mipay_nfc_support_list_tip"><u>Υποστηριζόμενες κάρτες</u></string>
      <string name="mipay_nfc_support_tip">Χρησιμοποιήστε την Mi συσκευή σας οπουδήποτε υποστηρίζεται το NFC. Από τα ΑΤΜ ως τα μέσα μαζικής μεταφοράς.</string>
      <string name="mipay_nfc_tail_num_hint">Tail Num: %1$s</string>

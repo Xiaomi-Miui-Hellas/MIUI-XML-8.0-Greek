@@ -148,7 +148,6 @@
     <string name="block_device_danger_level">Βαθμού κινδύνου</string>
     <string name="block_device_dangerous_device">Επικίνδυνη συσκευή</string>
     <string name="block_device_dangerous_device_blocked">Παρακολουθούν τις συνδέσεις του δικτύου</string>
-    <string name="block_device_default_device_type">Μπορεί να είναι για τις κινητές συσκευές</string>
     <string name="block_device_description">Η συσκευή αποκλείστηκε λόγω πολλαπλών προσπαθειών εισόδου</string>
     <string name="block_device_device_type">Συσκευή τύπου</string>
     <string name="block_device_disable_block_wifi_mechanism">Η απεκλεισμένη συσκευή απενεργοποίησε μηχανισμό wifi</string>
@@ -232,8 +231,6 @@
     <string name="bootstrap_check_wan_mode_failed">Η αυτόματη ανίχνευση του WAN απέτυχε</string>
     <string name="bootstrap_check_wan_mode_loading">Ανίχνευση τύπου WAN...</string>
     <string name="bootstrap_check_wan_mode_tip">Αυτόματη ανίχνευση τύπου WAN</string>
-    <string name="bootstrap_default_mode">Default λειτουργία</string>
-    <string name="bootstrap_default_mode_tip">Χειροκίνητη σύνδεση με το διαδίκτυο</string>
     <string name="bootstrap_dhcp_failed">Αποτυχία DHCP, ξαναδοκιμάστε</string>
     <string name="bootstrap_dhcp_loading">Ενεργοποίηση DHCP, παρακαλώ περιμένετε...</string>
     <string name="bootstrap_get_relay_wifi_failed">Αποτυχία σύνδεσης με WiFi</string>
@@ -721,7 +718,6 @@
     <string name="file_media_type_others">Άλλο</string>
     <string name="file_media_type_videos">Βίντεο</string>
     <string name="file_menu_cancel_share">Ακύρωση κοινής χρήση</string>
-    <string name="file_menu_create_folder_default_name">Νέος φάκελος</string>
     <string name="file_menu_create_folder_name_empty">Ο φάκελος δεν μπορεί να είναι κενός</string>
     <string name="file_menu_create_folder_name_too_long">Όνομα φακέλου πολύ μακρύ</string>
     <string name="file_menu_create_new_folder">Προσθήκη νέου φακέλου</string>

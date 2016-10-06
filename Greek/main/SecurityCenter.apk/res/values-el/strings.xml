@@ -899,7 +899,6 @@
      <string name="power_save_mode_ontime_enabled">Χρονοδιάγραμμα λειτουργίας Εξοικονόμησης ενέργειας</string>
      <string name="power_save_mode_start_time">Έναρξη</string>
      <string name="power_save_mode_summary">Παρακολούθηση διεργασιών παρασκηνίου, απενεργοποίηση συγχρονισμού και απόκρυψη animation συστήματος. Η Εξοικονόμηση μπαταρίας θα απενεργοποιηθεί αυτόματα όταν η μπαταρία φορτίσει στο 60%.</string>
-     <string name="power_save_on_time_default_time_na">00:00</string>
      <string name="power_save_on_time_end_time_summary_na">Έως</string>
      <string name="power_save_on_time_start_time_summary_na">Από</string>
      <string name="power_save_summary_text">"Ενεργοποίηση Εξοικονόμησης ενέργειας για μείωση δραστηριοτήτων παρασκηνίου των εφαρμογών, διακοπή συγχρονισμού και ελαχιστοποίηση animation συστήματος."</string>
@@ -1211,9 +1210,6 @@
      <string name="tc_diagnostic_brand_error_notification_summary">Πατήστε για να ρυθμίσετε τον τύπο δικτύου</string>
      <string name="tc_diagnostic_brand_error_notification_title">Λάθος τύπος δικτύου</string>
      <string name="tc_diagnostic_complete">Ολοκληρώθηκε</string>
-     <string name="tc_diagnostic_fragment_default">"Σχετικά με τα διαγνωστικά
-1. Η συσκευή θα συνδεθεί με το δίκτυο του φορέα, θα στείλει ένα δωρεάν μήνυμα και θα περιμένει την απάντηση του φορέα. Αυτό μπορεί να διαρκέσει έως και 5 λεπτά.
-2. Μπορείτε να φύγετε από αυτή τη σελίδα κατά τη διάρκεια των διαγνωστικών. Θα πραγματοποιηθούν στο παρασκήνιο."</string>
      <string name="tc_diagnostic_location_error_notification_summary">Πατήστε για να ρυθμίσετε την τοποθεσία</string>
      <string name="tc_diagnostic_location_error_notification_title">Λάθος τοποθεσία</string>
      <string name="tc_diagnostic_notification_sumarry">Πατήστε για να δείτε τα αποτελέσματα</string>

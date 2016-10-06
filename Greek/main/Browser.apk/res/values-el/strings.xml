@@ -350,7 +350,6 @@
      <string name="js_dialog_before_unload_positive_button">Φύγετε από αυτή τη Σελίδα</string>
      <string name="js_dialog_before_unload_title">Επιβεβαίωση Περιήγησης</string>
      <string name="js_dialog_title">Η σελίδα στο \" %s \" αναφέρει:</string>
-     <string name="js_dialog_title_default">JavaScript</string>
      <string name="js_disable_confirm_message">Η απενεργοποίηση του JavaScript μπορεί να προκαλέσει προβλήματα σε μερικές σελίδες.</string>
      <string name="js_disable_confirm_title">Απενεργοποίηση JavaScript;</string>
      <string name="keep_queued_download">Διατήρηση</string>

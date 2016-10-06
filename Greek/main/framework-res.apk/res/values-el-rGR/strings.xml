@@ -176,7 +176,6 @@
      <string name="default_audio_route_name_dock_speakers">Ηχεία βάσης σύνδεσης</string>
      <string name="default_audio_route_name_headphones">Ακουστικά</string>
      <string name="default_media_route_name_hdmi">HDMI</string>
-     <string name="default_text_encoding">Latin-1</string>
      <string name="delete">Διαγραφή</string>
      <string name="deleteText">Διαγραφή</string>
      <string name="deny">Άρνηση</string>
@@ -283,7 +282,6 @@
      <string name="granularity_label_line">γραμμή</string>
      <string name="granularity_label_link">σύνδεσμος</string>
      <string name="granularity_label_word">λέξη</string>
-     <string name="gsm_alphabet_default_charset" />
      <string name="hardware">Υλικό</string>
      <string name="heavy_weight_notification">Η εφαρμογή %1$s εκτελείται</string>
      <string name="heavy_weight_notification_detail">Αγγίξτε για εναλλαγή σε εφαρμογή</string>
@@ -1517,8 +1515,6 @@ Attempts Remaining :"</string>
      <string name="weeks">εβδομάδες</string>
      <string name="whichApplication">Ολοκλήρωση ενέργειας με τη χρήση</string>
      <string name="whichHomeApplication">Επιλέξτε μια εφαρμογή από την αρχική οθόνη</string>
-     <string name="widget_default_class_name" />
-     <string name="widget_default_package_name" />
      <string name="wifi_available_sign_in">Σύνδεση στο δίκτυο Wi‑Fi</string>
      <string name="wifi_display_notification_connected_message">Συνδέθηκε με το %1$s</string>
      <string name="wifi_display_notification_connected_title">Μετάδοση οθόνης</string>

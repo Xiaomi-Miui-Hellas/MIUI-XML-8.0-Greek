@@ -342,7 +342,6 @@
     <string name="dream_name">Rocket Launcher</string>
     <string name="folder_hint_text">Unnamed Folder</string>
     <string name="workspace_description_format">Home screen %1$d</string>
-    <string name="default_scroll_format">Page %1$d of %2$d</string>
     <string name="workspace_scroll_format">Home screen %1$d of %2$d</string>
     <string name="apps_customize_apps_scroll_format">Apps page %1$d of %2$d</string>
     <string name="apps_customize_widgets_scroll_format">Widgets page %1$d of %2$d</string>
@@ -466,7 +465,6 @@
     <string name="status_repair">ΕΝΗΜΕΡΩΣΗ</string>
     <string name="status_disk_info">%S είναι διαθέσιμο</string>
     <string name="installed_plugin">%D στοιχεία</string>
-    <string name="status_check_hint_default">Έναρξη εντοπισμού δικτύου</string>
     <string name="status_check_hint_wire">Δοκιμή τις συνδέσεις δικτύου...</string>
     <string name="status_check_hint_network">Εντοπίσει τη σύνδεση στο Internet...</string>
     <string name="status_check_hint_hardware">Ανιχνεύει το υλικό...</string>
@@ -651,7 +649,6 @@
     <string name="file_menu_paste">Επικόληση</string>
     <string name="file_menu_cancel">"Άκυρο"</string>
     <string name="file_menu_create_folder_title">Παρακαλούμε, εισάγετε ένα όνομα φακέλου</string>
-    <string name="file_menu_create_folder_default_name">Δημιουργήστε νέο φάκελο</string>
     <string name="file_menu_create_folder_name_empty">Όνομα αρχείου δεν μπορεί να είναι κενό</string>
     <string name="file_menu_create_folder_name_too_long">Όνομα αρχείου είναι πολύ μεγάλη</string>
     <string name="file_category_tab_list">Κατάλογος</string>
@@ -1423,7 +1420,6 @@
     <string name="smarthome_scene_offline">Δεν είναι ενεργοποιημένη</string>
     <string name="smarthome_scene_detail">Σενάριο λεπτομέρειες</string>
     <string name="smarthome_aircon_temperature">%d°</string>
-    <string name="smarthome_aircon_temperature_default">--</string>
     <string name="complete">Ολοκλήρωση</string>
     <string name="edit">Επεξεργασία</string>
     <string name="delete">Διαγραφή</string>

@@ -292,9 +292,6 @@
      <string name="date_message_received">%1$s, %2$s</string>
      <string name="date_message_received_today">Σήμερα, %1$s</string>
      <string name="default_">ΠΡΟΕΠΙΛΕΓΜΕΝΕΣ</string>
-     <string name="default_exchange">ΑΝΤΑΛΛΑΓΗ</string>
-     <string name="default_imap">IMAP</string>
-     <string name="default_pop3">POP3</string>
      <string name="default_setup">ΠΡΟΕΠΙΛΕΓΜΕΝΕΣ ΡΥΘΜΙΣΕΙΣ</string>
      <string name="default_signature">Αποστολή μέσω Mi</string>
      <string name="del_account_questionnair_hint">"Μπορείτε να μας πείτε γιατί διαγράφετε αυτόν τον λογαριασμό;"</string>
@@ -745,7 +742,6 @@
      <string name="ser_resp_err_map_serclosed">Ο διακομιστής %s έκλεισε</string>
      <string name="ser_resp_err_map_ssl">"Παρακαλώ δοκιμάστε να επιλέξετε 'SSL/TLS (Αποδοχή όλων των πιστοποιητικών)' στο 'τύπος ασφαλείας'"</string>
      <string name="set_network">Ρύθμιση δικτύου</string>
-     <string name="setting_default_lable" />
      <string name="settings_activity_title">Ρυθμίσεις</string>
      <string name="share_choose">Παρακαλώ επιλέξτε</string>
      <string name="sharing">Κοινή χρήση</string>

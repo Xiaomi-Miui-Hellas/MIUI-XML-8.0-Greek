@@ -116,9 +116,6 @@
      <string name="confirm">ΟΚ</string>
      <string name="copy">Αντιγραφή</string>
      <string name="copy_succeed">Επιτυχημένη αντιγραφή</string>
-     <string name="default_action_title">Προκαθορισμένη ενέργεια</string>
-     <string name="default_toolbar_items">.CapturePhotoAction,.FlashlightAction,.AudioRecorderAction,0,0,0</string>
-     <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_confirm">Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την ενέργεια;</string>
      <string name="delete_gesture">Διαγραφή ρυθμίσεων κουμπιών του Mikey;</string>
@@ -226,7 +223,6 @@
      <string name="setting_proximity_desc">Χρήση του αισθητήρα προσέγγισης, για να αποφευχθεί η λάθος χρήση στην τσέπη σας, λόγο τριβής με το ύφασμα.</string>
      <string name="setting_proximity_text">Αποτροπή λάθους</string>
      <string name="setting_silent_mode">Λειτουργία σίγασης</string>
-     <string name="setting_silent_mode_default">Λειτουργία ακουστικών (επιλογή MiKey)</string>
      <string name="setting_silent_mode_desc">Εάν θέλετε να συνδέσετε το ακουστικό, επιλέξτε τη λειτουργία ακουστικού και αποσυνδέστε το Mikey. Διαφορετικά, η έξοδος ήχου δεν θα λειτουργήσει σωστά.</string>
      <string name="setting_silent_mode_dust_cap">Λειτουργία σύνδεσης</string>
      <string name="setting_speed_desc">Ταχύτητα κλικ πλήκτρου</string>

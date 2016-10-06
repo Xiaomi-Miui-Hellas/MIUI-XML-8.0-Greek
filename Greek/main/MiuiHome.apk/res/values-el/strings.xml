@@ -61,13 +61,10 @@
      <string name="current_preview">Προεπισκόπηση</string>
      <string name="current_wallpaper">Τωρινή ταπετσαρία</string>
      <string name="custom_wallpaper_picker">Αναζήτηση</string>
-     <string name="default_folder_title_claro">Claro</string>
      <string name="default_folder_title_game">Παιχνίδια</string>
      <string name="default_folder_title_recommend">Προτάσεις</string>
      <string name="default_folder_title_security">Ασφάλεια</string>
-     <string name="default_folder_title_telcel">Telcel</string>
      <string name="default_folder_title_tools">Εργαλεία</string>
-     <string name="default_shortcut_title_10086">10086.cn</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_screen">Διαγραφή οθόνης</string>
      <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
