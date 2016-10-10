@@ -10,8 +10,6 @@
      <string name="contact_your_admin_for_more_info">Επικοινωνήστε με το διαχειριστή σας για περισσότερες πληροφορίες, συμπεριλαμβανομένων των πολιτικών απορρήτου του οργανισμού σας.</string>
      <string name="continue_provisioning_notify_text">Πατήστε για να συνεχίσετε τη ρύθμιση του προφίλ εργασίας σας</string>
      <string name="continue_provisioning_notify_title">Ολοκλήρωση κρυπτογράφησης</string>
-     <string name="default_managed_profile_name">Προφίλ εργασίας</string>
-     <string name="default_owned_device_username">Χρήστης της συσκευής εργασίας</string>
      <string name="delete_profile">Διαγραφή</string>
      <string name="device_owner_cancel_cancel">Άκυρο</string>
      <string name="device_owner_cancel_message">Είστε βέβαιοι ότι θέλετε να σταματήσετε τη ρύθμιση και να διαγράψετε τα δεδομένα της συσκευής σας;</string>
