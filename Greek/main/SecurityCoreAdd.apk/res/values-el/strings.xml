@@ -235,7 +235,7 @@
      <string name="wating">Μισό λεπτό…</string>
      <string name="xspace_chocie">Υποστήριξη διπλών εφαρμογών</string>
      <string name="xspace_creating">Δημιουργία διπλής εφαρμογής…</string>
-     <string name="xspace_description">Δημιουργήστε διπλές εφαρμογές για να τις χρησιμοποιήσετε ξεχωριστά. Οι διπλές εφαρμογές θα έχουν ειδικά εικονίδια Αρχική οθόνη.</string>
+     <string name="xspace_description">Δημιουργήστε διπλές εφαρμογές για να τις χρησιμοποιήσετε ξεχωριστά. Οι διπλές εφαρμογές θα έχουν ειδικά εικονίδια στην Αρχική οθόνη.</string>
      <string name="xspace_header">Διπλές εφαρμογές</string>
      <string name="xspace_install_completed">Το εικονίδιο προστέθηκε στην Αρχική οθόνη</string>
      <string name="xspace_install_failed">Αδυναμία δημιουργίας</string>

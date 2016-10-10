@@ -1146,8 +1146,8 @@
      <string name="disconnect">Αποσύνδεση</string>
      <string name="display_auto_rotate_rotate">Ενεργό</string>
      <string name="display_auto_rotate_stay_in_current">Ανενεργό</string>
-     <string name="display_auto_rotate_stay_in_landscape">Κλείδωμα σε landscape</string>
-     <string name="display_auto_rotate_stay_in_portrait">Κλείδωμα σε portrait</string>
+     <string name="display_auto_rotate_stay_in_landscape">Κλείδωμα οριζόντια</string>
+     <string name="display_auto_rotate_stay_in_portrait">Κλείδωμα κάθετα</string>
      <string name="display_auto_rotate_title">Αυτόματη περιστροφή οθόνης</string>
      <string name="display_font_size_label">Μέγεθος γραμματοσειράς:</string>
      <string name="display_label">Εμφάνιση</string>

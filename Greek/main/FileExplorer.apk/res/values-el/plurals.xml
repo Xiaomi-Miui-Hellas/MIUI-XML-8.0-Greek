@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="backup_message_wechat_video">
-        <item quantity="other">Θα διαγραφούν %1$d προσωρινά αρχεία βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφα ασφαλείας;</item>
-        <item quantity="zero">Θα διαγραφεί %1$d προσωρινό αρχείο βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφα ασφαλείας;</item>
-        <item quantity="one">Θα διαγραφεί %1$d προσωρινό αρχείο βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφο ασφαλείας;</item>
-        <item quantity="two">Θα διαγραφούν %1$d προσωρινά αρχεία βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφο ασφαλείας;</item>
-        <item quantity="few">Θα διαγραφούν %1$d προσωρινά αρχεία βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφα ασφαλείας;</item>
-        <item quantity="many">Θα διαγραφούν %1$d προσωρινά αρχεία βίντεο του WeChat. Θέλετε να κρατήσετε αντίγραφα ασφαλείας;</item>
+        <item quantity="other">%1$d βίντεο στις συνομιλίες WeChat πρόκειται να λήξουν. Δημιουργία αντιγράφου ασφαλείας στην εσωτερική μνήμη της συσκευής;</item>
+        <item quantity="zero">%1$d βίντεο στις συνομιλίες WeChat πρόκειται να λήξουν. Δημιουργία αντιγράφου ασφαλείας στην εσωτερική μνήμη της συσκευής;</item>
+        <item quantity="one">%1$d βίντεο στις συνομιλίες WeChat πρόκειται να λήξει. Δημιουργία αντιγράφου ασφαλείας στην εσωτερική μνήμη της συσκευής;</item>
+        <item quantity="two">%1$d βίντεο στις συνομιλίες WeChat πρόκειται να λήξουν. Δημιουργία αντιγράφου ασφαλείας στην εσωτερική μνήμη της συσκευής;</item>
+        <item quantity="few">%1$d βίντεο στις συνομιλίες WeChat πρόκειται να λήξουν. Δημιουργία αντιγράφου ασφαλείας στην εσωτερική μνήμη της συσκευής;</item>
+        <item quantity="many">%1$d βίντεο στις συνομιλίες WeChat πρόκειται να λήξουν. Δημιουργία αντιγράφου ασφαλείας στην εσωτερική μνήμη της συσκευής;</item>
      </plurals>
      <plurals name="days">
         <item quantity="other">%1$d ημέρες</item>
@@ -189,12 +189,12 @@
         <item quantity="one">%1$s σχόλιο</item>
      </plurals>
      <plurals name="remote_video_update">
-        <item quantity="other">Found %1$d νέα βίντεο</item>
-        <item quantity="zero">Found %1$d νέα βίντεο</item>
-        <item quantity="one">Found %1$d νέο βίντεο</item>
-        <item quantity="two">Found %1$d νέα βίντεο</item>
-        <item quantity="few">Found %1$d νέα βίντεο</item>
-        <item quantity="many">Found %1$d νέα βίντεο</item>
+        <item quantity="other">Βρέθηκαν %1$d νέα βίντεο</item>
+        <item quantity="zero">Βρέθηκαν %1$d νέα βίντεο</item>
+        <item quantity="one">Βρέθηκε %1$d νέο βίντεο</item>
+        <item quantity="two">Βρέθηκαν %1$d νέα βίντεο</item>
+        <item quantity="few">Βρέθηκαν %1$d νέα βίντεο</item>
+        <item quantity="many">Βρέθηκαν %1$d νέα βίντεο</item>
      </plurals>
      <plurals name="search_head_hint_app">
         <item quantity="other">%1$s σχετικά αρχεία εφαρμογής (%2$d στοιχεία)</item>
@@ -228,30 +228,6 @@
         <item quantity="few">%1$d δευτερόλεπτα</item>
         <item quantity="many">%1$d δευτερόλεπτα</item>
      </plurals>
-     <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">%1$d αρχεία έμειναν για λήψη</item>
-        <item quantity="zero">%1$d αρχεία έμειναν για λήψη</item>
-        <item quantity="one">%1$d αρχείο έμεινε για λήψη</item>
-        <item quantity="two">%1$d αρχεία έμειναν για λήψη</item>
-        <item quantity="few">%1$d αρχεία έμειναν για λήψη</item>
-        <item quantity="many">%1$d αρχεία έμειναν για λήψη</item>
-     </plurals>
-     <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">%1$d αρχεία έμειναν για αποστολή</item>
-        <item quantity="zero">%1$d αρχεία έμειναν για αποστολή</item>
-        <item quantity="one">%1$d αρχείο έμεινε για αποστολή</item>
-        <item quantity="two">%1$d αρχεία έμειναν για αποστολή</item>
-        <item quantity="few">%1$d αρχεία έμειναν για αποστολή</item>
-        <item quantity="many">%1$d αρχεία έμειναν για αποστολή</item>
-     </plurals>
-     <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">%1$d αρχεία έμειναν για αποστολή</item>
-        <item quantity="zero">%1$d αρχεία έμειναν για αποστολή</item>
-        <item quantity="one">%1$d αρχείο έμεινε για αποστολή</item>
-        <item quantity="two">%1$d αρχεία έμειναν για αποστολή</item>
-        <item quantity="few">%1$d αρχεία έμειναν για αποστολή</item>
-        <item quantity="many">%1$d αρχεία έμειναν για αποστολή</item>
-     </plurals>
      <plurals name="user_follow_me_items">
         <item quantity="other">ακόλουθοι</item>
         <item quantity="zero">ακόλουθοι</item>
@@ -273,12 +249,12 @@
         <item quantity="many">βίντεο</item>
      </plurals>
      <plurals name="video_ad_download_tip">
-        <item quantity="other"> λήψεις</item>
-        <item quantity="zero"> λήψεις</item>
-        <item quantity="one"> λήψη</item>
-        <item quantity="two"> λήψεις</item>
-        <item quantity="few"> λήψεις</item>
-        <item quantity="many"> λήψεις</item>
+        <item quantity="other"> Λήψεις</item>
+        <item quantity="zero"> Λήψεις</item>
+        <item quantity="one"> Λήψη</item>
+        <item quantity="two"> Λήψεις</item>
+        <item quantity="few"> Λήψεις</item>
+        <item quantity="many"> Λήψεις</item>
      </plurals>
      <plurals name="video_count">
         <item quantity="other">%1$s βίντεο</item>
@@ -297,11 +273,11 @@
         <item quantity="many">%1$s βίντεο</item>
      </plurals>
      <plurals name="video_play_num">
-        <item quantity="other">έπαιξε %1$s φορές</item>
-        <item quantity="zero">έπαιξε %1$s φορές</item>
-        <item quantity="one">έπαιξε %1$s φορά</item>
-        <item quantity="two">έπαιξε %1$s φορές</item>
-        <item quantity="few">έπαιξε %1$s φορές</item>
-        <item quantity="many">έπαιξε %1$s φορές</item>
+        <item quantity="other">%1$s προβολές</item>
+        <item quantity="zero">%1$s προβολές</item>
+        <item quantity="one">%1$s προβολή</item>
+        <item quantity="two">%1$s προβολές</item>
+        <item quantity="few">%1$s προβολές</item>
+        <item quantity="many">%1$s προβολές</item>
      </plurals>
 </resources>
