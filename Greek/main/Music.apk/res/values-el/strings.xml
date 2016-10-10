@@ -344,7 +344,7 @@
      <string name="impunity_declaration_positive_text">OK και συνέχεια</string>
      <string name="impunity_declaration_settings">Ειδοποίηση σε κάθε χρήση δικτύου</string>
      <string name="impunity_declaration_summary">Κατά την είσοδο στη μουσική, θα εμφανίζεται ένα παράθυρο υπενθύμισης</string>
-     <string name="impunity_declaration_title"> Δήλωση και όροι</string>
+     <string name="impunity_declaration_title">Όροι Χρήσης</string>
      <string name="in_searching_please_wait">Αναζήτηση, παρακαλώ περιμένετε</string>
      <string name="input_hint_prefix">Παρακαλώ εισάγετε %1$s</string>
      <string name="insufficient_space">"Δεν υπάρχει αρκετός χώρος στον εσωτερικό χώρο αποθήκευσης της συσκευής"</string>

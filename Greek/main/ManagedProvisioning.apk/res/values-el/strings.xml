@@ -44,7 +44,7 @@
      <string name="provisioning_error_title">Ωχ!</string>
      <string name="set_up">Ρύθμιση</string>
      <string name="setting_up_workspace">Ρύθμιση του προφίλ εργασίας σας…</string>
-     <string name="setup_device">Ρυθμίστε τη συσκευής σας</string>
+     <string name="setup_device">Ρυθμίστε τη συσκευή σας</string>
      <string name="setup_work_space">Ρυθμίστε το προφίλ σας</string>
      <string name="sure_you_want_to_delete_profile">Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το προφίλ εργασίας; Όλα τα δεδομένα του θα διαγραφούν.</string>
      <string name="the_following_is_your_mdm">Η παρακάτω εφαρμογή θα χρειαστεί πρόσβαση σε αυτό το προφίλ:</string>
