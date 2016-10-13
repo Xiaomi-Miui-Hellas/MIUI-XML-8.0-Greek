@@ -375,7 +375,7 @@
      <string name="local_page_song_download">Τοπικά</string>
      <string name="local_page_song_favorite">Αγαπημένα</string>
      <string name="local_tracks_short">Τοπική Μουσική</string>
-     <string name="login_first">Πρέπει να συνδεθείτε στον λογαριασμός σας στην Mi Account πρώτα</string>
+     <string name="login_first">Πρέπει πρώτα να συνδεθείτε στο Mi λογαριασμό σας</string>
      <string name="lrc_search_failed">Δεν βρέθηκαν στίχοι!</string>
      <string name="lrc_searching">Αναζήτηση στίχων…</string>
      <string name="lyric">Στίχοι</string>
