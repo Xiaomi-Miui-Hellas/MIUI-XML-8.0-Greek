@@ -909,7 +909,6 @@
      <string name="wait_for_manual_sync_body">"Αυτός ο λογαριασμός δεν έχει ρυθμιστεί για τον αυτόματο συγχρονισμό.
 Πιέστε "<b>Συγχρονισμός τώρα</b> για συγχρονισμό αλληλογραφίας μία φορά, ή <b>Αλλαγή ρυθμίσεων συγχρονισμού</b> να δημιουργήσει αυτόν το λογαριασμό για αυτόματο συγχρονισμό αλληλογραφίας."</string>
      <string name="wait_for_sync_title">Αναμονή για συγχρονισμό</string>
-     <string name="wait_help_context">περιμένετε</string>
      <string name="widget_all_mail">όλα τα μηνύματα</string>
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Άλλο</string>
