@@ -222,6 +222,8 @@
      <string name="HIPS_Perm_background_start_activity_Desc">να ξεκινά στο παρασκήνιο</string>
      <string name="HIPS_Perm_get_accounts">Πρόσβαση λογαριασμών στη συσκευή</string>
      <string name="HIPS_Perm_get_accounts_Desc">πρόσβαση σε όλους τους λογαριασμούς που είναι αποθηκευμένοι στη συσκευή</string>
+     <string name="HIPS_Perm_get_tasks">Προβολή εργασιών</string>
+     <string name="HIPS_Perm_get_tasks_Desc">να εμφανίζει εργασίες</string>
      <string name="HIPS_Perm_install_shortcut">Συντομεύσεις Αρχικής Οθόνης</string>
      <string name="HIPS_Perm_install_shortcut_Desc">να προσθέσει συντομεύσεις στην Αρχική Οθόνη</string>
      <string name="HIPS_Perm_process_nfc">NFC</string>

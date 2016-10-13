@@ -3030,7 +3030,7 @@
      <string name="sd_eject">Αποσύνδεση κάρτας SD</string>
      <string name="sd_eject_summary">Αποσυνδέσετε την κάρτα SD ώστε να την αφαιρέσετε με ασφάλεια</string>
      <string name="sd_ejecting_summary">Αποσύνδεση σε εξέλιξη</string>
-     <string name="sd_ejecting_title">Αποσύνδεση…</string>
+     <string name="sd_ejecting_title">Αποσύνδεση</string>
      <string name="sd_format">Διαγραφή συσκευής αποθήκευσης USB</string>
      <string name="sd_format_summary">Διαγράφει όλα τα δεδομένα της συσκευής αποθήκευσης USB όπως μουσική και φωτογραφίες</string>
      <string name="sd_insert_summary">Εισάγετε μια συσκευή αποθήκευσης USB για σύνδεση</string>

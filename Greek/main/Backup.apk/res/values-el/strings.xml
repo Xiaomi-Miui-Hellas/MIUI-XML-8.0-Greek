@@ -154,7 +154,9 @@
      <string name="notif_restore_content">Επαναφορά δεδομένων χρήστη</string>
      <string name="notif_restore_title">Επαναφορά δεδομένων</string>
      <string name="notif_trans_receiving_completed">Επιτυχής λήψη δεδομένων</string>
+     <string name="notif_trans_receiving_failed">Αποτυχία λήψης δεδομένων</string>
      <string name="notif_trans_sending_completed">Επιτυχής αποστολή δεδομένων</string>
+     <string name="notif_trans_sending_failed">Αποτυχία αποστολής δεδομένων</string>
      <string name="page_loading">Μισό λεπτό…</string>
      <string name="progress_backup_hint">Αντιγραφή </string>
      <string name="progress_restore_hint">Επαναφορά </string>

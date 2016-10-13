@@ -33,7 +33,7 @@
      <string name="notif_receive_progress">Λήψη %1$s αρχείων…</string>
      <string name="notif_receive_success">%1$s ελήφθησαν</string>
      <string name="notif_send_cancel">Η μεταφορά προς %1$s διακόπηκε</string>
-     <string name="notif_send_cancel_multi">Η μεταφορά προς %1$s+%2$ διακόπηκε</string>
+     <string name="notif_send_cancel_multi">Η μεταφορά προς %1$s+%2$d διακόπηκε</string>
      <string name="notif_send_progress">Αποστολή προς %1$s…</string>
      <string name="notif_send_success">Αποστολή προς %1$s</string>
      <string name="notif_send_success_multi">Αποστολή προς %1$d άτομα</string>
@@ -61,8 +61,8 @@
      <string name="receiver_succeed_ok">OK</string>
      <string name="receiver_succeed_view">Προβολή αρχείου</string>
      <string name="receiver_transfer_interrupt">"Η μεταφορά διακόπηκε. Μην απενεργοποιείτε το Wi‑Fi hotspot κατά τη μεταφορά"</string>
-     <string name="receiver_video_file_current">Receiving %2$d​ videos from %1$s</string>
-     <string name="receiver_video_file_num">%2$d​ videos from %1$s</string>
+     <string name="receiver_video_file_current">Λήψη %2$d​ βίντεο από %1$s</string>
+     <string name="receiver_video_file_num">%2$d​ βίντεο από %1$s</string>
      <string name="runtime_permission_ungranted">Αδυναμία χρήσης του Mi Drop λόγω ανεπαρκών δικαιωμάτων</string>
      <string name="send_file_time_format_m">m:s</string>
      <string name="send_file_time_format_s">s</string>

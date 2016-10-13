@@ -79,6 +79,7 @@
      <string name="button_text_unselect_pic">Αποεπιλογή</string>
      <string name="button_text_view_detail">Λεπτομέρειες</string>
      <string name="button_text_view_file">Αρχείο</string>
+     <string name="buy_a_new_phone">Αναβάθμιση αποθ.χώρου</string>
      <string name="buy_immediately">Αγορά</string>
      <string name="buy_traffic_pack">Αγοράστε περισσότερα δεδομένα</string>
      <string name="byteShort">B</string>
@@ -262,7 +263,7 @@
      <string name="login_immediately">Σύνδεση</string>
      <string name="long_click_dialog_summary">Πατήστε παρατεταμένα για προσθήκη στις εξαιρέσεις.</string>
      <string name="long_click_dialog_title">Ειδοποίηση</string>
-     <string name="low_memory_clean_dialog_msg">Πρέπει πρώτα να καθαρίσετε τουλάχιστον %1$s αρχεία</string>
+     <string name="low_memory_clean_dialog_msg">Πρέπει πρώτα να καθαρίσετε τουλάχιστον 100MB αρχεία</string>
      <string name="low_memory_clean_dialog_ok_button">OK</string>
      <string name="low_memory_clean_dialog_title">Ανεπαρκής χώρος</string>
      <string name="low_memory_warning_dialog_cancel_button">Ακύρωση</string>
@@ -325,6 +326,7 @@
      <string name="pref_title_auto_clean_content_choose">Επιλέξτε στοιχεία για καθαρισμό</string>
      <string name="pref_title_auto_update_cleanup_db">Αυτόματη ενημέρωση</string>
      <string name="pref_title_choose_engine">Βάση ιών</string>
+     <string name="pref_title_clean_alert">Αυτόματος καθαρισμός</string>
      <string name="pref_title_cleanup_white_list">Εξαιρέσεις</string>
      <string name="pref_title_expand_cache_group">Εμφάνιση στοιχείων λίστας Cache</string>
      <string name="pref_title_garbage_auto_clean_content">Επιλέξτε στοιχεία για καθαρισμό</string>

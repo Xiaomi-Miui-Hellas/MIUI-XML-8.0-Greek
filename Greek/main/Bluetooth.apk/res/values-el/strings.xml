@@ -23,10 +23,10 @@
      <string name="bluetooth_map_email_settings_app_icon">Εικονίδιο εφαρμογής</string>
      <string name="bluetooth_map_email_settings_cancel">Ακύρωση</string>
      <string name="bluetooth_map_email_settings_count">Θέσεις που απομένουν:</string>
-     <string name="bluetooth_map_email_settings_intro">Επιλέξτε τους λογαριασμούς email που θέλετε να γίνει κοινή χρήση μέσω Bluetooth. Και πάλι θα πρέπει να αποδέχεστε οποιαδήποτε πρόσβαση στους λογαριασμούς όταν γίνεται σύνδεση.</string>
+     <string name="bluetooth_map_email_settings_intro">Επιλέξτε τους λογαριασμούς email που θέλετε να μοιραστείτε μέσω Bluetooth. Και πάλι θα πρέπει να αποδέχεστε οποιαδήποτε πρόσβαση στους λογαριασμούς όταν γίνεται σύνδεση.</string>
      <string name="bluetooth_map_email_settings_no_account_slots_left">Αδυναμία επιλογής λογαριασμού. 0 θέσεις απομένουν</string>
      <string name="bluetooth_map_email_settings_save">Αποθήκευση</string>
-     <string name="bluetooth_map_email_settings_title">Ρυθμίσεις μηνύματος Κοινής Χρήσης Bluetooth</string>
+     <string name="bluetooth_map_email_settings_title">Ρυθμίσεις κοινής χρήσης μηνυμάτων Bluetooth</string>
      <string name="bluetooth_map_settings_app_icon">Εικονίδιο εφαρμογής</string>
      <string name="bluetooth_map_settings_cancel">Ακύρωση</string>
      <string name="bluetooth_map_settings_count">Θέσεις που απομένουν:</string>

@@ -334,8 +334,8 @@
      <string name="homepage_more_sites">Περισσότερες ιστοσελίδες</string>
      <string name="homepage_search_hint">Αναζήτηση</string>
      <string name="homepage_top_card_menu">Κορυφή</string>
-     <string name="in_incognito">Η λειτουργία σελίδας πλοηγού είναι ενεργή, δεν θα κρατηθεί κανένα ιστορικό πλοήγησης.</string>
-     <string name="in_secureaccess">Ο Πλοηγός γύρισε σε ασφαλή λειτουργία</string>
+     <string name="in_incognito">Είστε ανώνυμοι! Οι ιστοσελίδες που επισκέπτεστε σε αυτήν την καρτέλα δεν θα εμφανίζονται στο ιστορικό περιήγησης.</string>
+     <string name="in_secureaccess">Εναλλαγή σε Ασφαλή λειτουργία</string>
      <string name="is_first_history_item">Αυτό είναι το πρώτο αντικείμενο ιστορικού</string>
      <string name="is_first_tab">Αυτή είναι η πρώτη καρτέλα</string>
      <string name="is_last_history_item">Αυτό είναι το τελευταίο αντικείμενο ιστορικού</string>
@@ -365,6 +365,7 @@
      <string name="media_error_action_replace_video_source">Αντικατάσταση Πηγής Βίντεο</string>
      <string name="media_error_failure">Αποτυχία αναπαραγωγής βίντεο</string>
      <string name="media_error_format">Λάθος μορφή βίντεο</string>
+     <string name="media_error_network_unreachable">Το δίκτυο δεν είναι προσβάσιμο</string>
      <string name="media_error_nomemory">Η μνήμη του κινητού τηλεφώνου είναι πλήρης</string>
      <string name="media_error_source">Σφάλμα πηγής βίντεο</string>
      <string name="media_error_timeout">Λήξη χρονικού ορίου μετάδοσης δικτύου</string>
@@ -466,6 +467,7 @@
      <string name="no_space_alert_text">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
      <string name="no_space_alert_title">Λήψη σε παύση</string>
      <string name="no_space_clean_failed">Αδυναμία ελευθέρωσης χώρου στη συσκευή σας​</string>
+     <string name="not_allowed_open">Αδυναμία χρήσης του προγράμματος περιήγησης</string>
      <string name="not_remind_again">Απομνημόνευση της επιλογής μου</string>
      <string name="notif_install_successful">Λήψη ολοκληρώθηκε</string>
      <string name="ok">ΟΚ</string>
