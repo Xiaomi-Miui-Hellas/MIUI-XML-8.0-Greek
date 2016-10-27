@@ -687,7 +687,7 @@
      <string name="policy_password_expiration">Απαιτείται ημερομηνία λήξης των κωδικών</string>
      <string name="policy_password_history">Απαγόρευση της χρήσης πρόσφατων κωδικών</string>
      <string name="policy_require_encryption">Απαιτείται κρυπτογράφηση συσκευής</string>
-     <string name="policy_require_manual_sync_roaming">Να επιτρέπεται χειροκίνητος συγχρονισμός όταν σε roaming</string>
+     <string name="policy_require_manual_sync_roaming">Να επιτρέπεται μόνο χειροκίνητος συγχρονισμός κατά την περιαγωγή</string>
      <string name="policy_require_password">Απαιτείται κωδικός συσκευής</string>
      <string name="policy_require_sd_encryption">Απαιτεί κρυπτογράφηση κάρτας SD</string>
      <string name="policy_require_smime">Χρειάζεται SMIME μηνύματα</string>

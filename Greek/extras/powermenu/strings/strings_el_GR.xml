@@ -2,8 +2,8 @@
     <string name="label_airplane_mode">Πτήση</string>
     <string name="label_silent_mode">Αθόρυβο</string>
     <string name="label_reboot">Επανεκκίνηση</string>
-    <string name="label_shutdown">Κλείσιμο</string>
-    <string name="label_alert_reboot">Η συσκευή θα επανεκκινήσει</string>
-    <string name="label_alert_shutdown">Η συσκευή θα κλείσει</string>
+    <string name="label_shutdown">Απενεργοποίηση</string>
+    <string name="label_alert_reboot">Πατήστε για Επανεκκίνηση</string>
+    <string name="label_alert_shutdown">Πατήστε για Απενεργοποίηση</string>
     <string name="label_blank">Πίσω</string>
 </resources>

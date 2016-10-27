@@ -358,7 +358,7 @@
      <string name="safety_check_detail">%1$d φορές, αποκτήθηκαν %2$d πόντοι</string>
      <string name="safety_rank">Καλύτερα από %d%% χρήστες MIUI από άποψη ασφάλειας</string>
      <string name="sc_allow_network_dialog_button">Επίτρεψε</string>
-     <string name="sc_allow_network_dialog_message">Να επιτρέπετε στην εφαρμογή η σύνδεση στο Internet για λήψη ενημερώσεων;</string>
+     <string name="sc_allow_network_dialog_message">Να επιτρέπεται στην εφαρμογή η σύνδεση στο Internet για λήψη ενημερώσεων;</string>
      <string name="scanning">Σάρωση…</string>
      <string name="search_history">Ιστορικό αναζήτησης</string>
      <string name="see_more">Περισσότερα</string>

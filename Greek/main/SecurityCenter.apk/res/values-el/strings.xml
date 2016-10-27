@@ -54,6 +54,10 @@
      <string name="activity_title_virus_detail">Πληροφορίες Ιών</string>
      <string name="activity_title_virus_settings">Ρυθμίσεις</string>
      <string name="adb_install_no_network">Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά</string>
+     <string name="adb_install_open">Παραχώρηση…</string>
+     <string name="adb_install_open_error">Δεν επιτράπηκε. Ελέγξτε τη σύνδεση δικτύου</string>
+     <string name="adb_install_reject_notiy">Δεν επιτράπηκε η εγκατάσταση του %s μέσω USB</string>
+     <string name="adb_install_reject_notiy_desc">Μπορείτε να επιτρέψετε την εγκατάσταση μέσω USB μέσω των Επιλογών για προγραμματιστές</string>
      <string name="adb_login_xiaomi_account">Συνδεθείτε πρώτα στο Mi λογαριασμό σας</string>
      <string name="add_miservice_dialog_content">Το %s απαιτεί να προσθέσετε το πλαίσιο υπηρεσιών MIUI στη λίστα εξαιρέσεων. Μπορεί να λάβετε ειδοποιήσεις από τις ενσωματωμένες εφαρμογές MIUI και άλλες εφαρμογές τρίτων.</string>
      <string name="add_miservice_dialog_title">Πλαίσιο υπηρεσιών MIUI</string>
@@ -574,7 +578,7 @@
      <string name="input_traffic_pkg">Εισάγετε το όριο χρήσης</string>
      <string name="input_used_hint">Εισάγετε το όριο χρήσης</string>
      <string name="input_used_max_hint">Εισάγετε τη χρήση δεδομένων (λιγότερο από %s)</string>
-     <string name="install_sucess">επιτυχής εγκατάσταση %s</string>
+     <string name="install_sucess">Επιτυχής εγκατάσταση %s</string>
      <string name="install_title">Εγκατάσταση μέσω USB</string>
      <string name="installed">Εγκαταστάθηκε</string>
      <string name="installing">Εγκατάσταση…</string>

@@ -105,6 +105,7 @@
      <string name="stat_repeat_weekends">Σαββατοκύριακο</string>
      <string name="stopwatch_lap_empty_text">Χωρίς περίοδο</string>
      <string name="stopwatch_title">Χρονόμετρο</string>
+     <string name="symbol_colon">:</string>
      <string name="system_time_setting">Ρυθμίσεις</string>
      <string name="time">Ώρα</string>
      <string name="timer_alarm_alert_pad">%s</string>
@@ -128,6 +129,8 @@
      <string name="tomorrow">Αύριο</string>
      <string name="turn_off_a_repeat_alarm">Απενεργ. επανάληψης αφύπνισης</string>
      <string name="turn_off_this_repeat_alarm">Απενεργ. επαναλαμβανόμενης αφύπνισης</string>
+     <string name="upcoming_alarm">Επερχόμενη αφύπνιση</string>
+     <string name="upcoming_alarm_hint">Μπορείτε να κλείσετε αυτή την αφύπνιση εκ των προτέρων</string>
      <string name="vibrate_pref_summary">Δόνηση όταν ηχεί το ξυπνητήρι</string>
      <string name="vibrate_when_ringing">Ενεργή δόνηση</string>
      <string name="volume_button_setting_summary">Ορίστε τις ενέργειες των κουμπιών, κατά την διάρκεια της αφύπνισης</string>

@@ -570,7 +570,7 @@
      <string name="pref_privacy_security_title">Ιδιωτικότητα &amp; ασφάλεια</string>
      <string name="pref_save_bandwidth_mode_title">Μείωση δεδομένων κινητής</string>
      <string name="pref_security_accept_cookies">Αποδοχή cookies</string>
-     <string name="pref_security_accept_cookies_summary">Να επιτρέπετε σε σελίδες να επεξεργάζονται cookies</string>
+     <string name="pref_security_accept_cookies_summary">Να επιτρέπεται σε σελίδες να επεξεργάζονται cookies</string>
      <string name="pref_security_passwords_title">Κωδικοί</string>
      <string name="pref_security_remember_passwords">Αποθήκευση κωδικών</string>
      <string name="pref_security_remember_passwords_summary">Αποθήκευση ονομάτων χρηστών και κωδικών για σελίδες</string>

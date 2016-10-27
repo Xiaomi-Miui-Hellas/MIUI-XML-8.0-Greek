@@ -3,6 +3,7 @@
      <string name="accessibility_enter_lock_wallpaper">Πατήστε για να ανοίξετε τις Καθημερινές Ταπετσαρίες</string>
      <string name="click_to_enter_text">Πατήστε για να ξεκλειδώσετε</string>
      <string name="confirm_pin_msg">Εισάγετε το PIN ξανά</string>
+     <string name="custom_lock_wallpaper_enter">Εισαγωγή</string>
      <string name="default_lockscreen_unlock_hint_text">Σύρετε για ξεκλείδωμα</string>
      <string name="delete">Διαγραφή</string>
      <string name="emergency_call_string">Κλήση έκτακτης ανάγκης</string>
@@ -38,6 +39,7 @@
      <string name="left_action_default_hint_text">Mi Remote</string>
      <string name="lock_screen_date">EEEE d MMMM</string>
      <string name="lock_screen_date_12">EEEE d MMMM</string>
+     <string name="lock_wallpaper_enter">Εισαγωγή</string>
      <string name="lock_wallpaper_learn_more">Μάθετε περισσότερα ></string>
      <string name="lock_wallpaper_see_more">Δείτε περισσότερα ></string>
      <string name="lockscreen_access_pattern_cell_added">Το μοτίβο προστέθηκε</string>
@@ -63,6 +65,7 @@
      <string name="phone_locked_string">Συσκευή κλειδωμένη</string>
      <string name="phone_locked_timeout_minutes_string">Παρακαλώ δοκιμάστε ξανά σε %s λεπτά</string>
      <string name="phone_locked_timeout_seconds_string">Παρακαλώ δοκιμάστε ξανά σε %s δευτερόλεπτα</string>
+     <string name="symbol_colon">:</string>
      <string name="unlock_sim_string">Ξεκλειδώστε</string>
      <string name="unlock_string">Ξεκλειδώστε</string>
      <string name="unlocking_sim_card">Ξεκλείδωμα κάρτας SIM</string>

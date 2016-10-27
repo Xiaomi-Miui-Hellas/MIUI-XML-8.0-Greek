@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_name">Καθημερινές Ταπετσαρίες</string>
+     <string name="apply">Εφαρμογή</string>
      <string name="at_least_one">Επιλέξτε τουλάχιστον μία κατηγορία</string>
      <string name="auto_interval">Αυτόματα</string>
      <string name="cancel">Ακύρωση</string>
@@ -11,20 +12,32 @@
      <string name="declaration">Λάβετε δωρεάν κάθε μέρα νέες ταπετσαρίες κατευθείαν στην οθόνη κλειδώματός σας.</string>
      <string name="declaration_lockscreen_title">Καθημερινές Ταπετσαρίες</string>
      <string name="declaration_title">Όροι και Προϋποθέσεις</string>
+     <string name="dislike">Διαγραφή</string>
+     <string name="from_migallerylockscreen">" "</string>
      <string name="hour_1">Κάθε ώρα</string>
      <string name="hour_3">Κάθε 3 ώρες</string>
+     <string name="like">Αγαπημένο</string>
+     <string name="liked">Αγαπημένα</string>
      <string name="lockscreen_magazine_summary">Κατηγορίες</string>
      <string name="lockscreen_magazine_system_title">Τοπικά</string>
      <string name="lockscreen_magazine_title">Καθημερινές Ταπετσαρίες</string>
+     <string name="lockscreen_wallpaper_changed">Η ταπετσαρία άλλαξε</string>
      <string name="minutes_15">Κάθε 15 λεπτά</string>
      <string name="no_long_show">"Να μην εμφανιστεί ξανά"</string>
      <string name="ok_enable_network_prov">Συμφωνώ</string>
      <string name="ok_international">Συμφωνώ</string>
      <string name="ok_lockscreen">OK</string>
      <string name="ok_network">Συμφωνώ</string>
+     <string name="platform_unavailable_qq">Παρακαλώ εγκαταστήστε το QQ</string>
+     <string name="platform_unavailable_qzone">Παρακαλώ εγκαταστήστε το Qzone</string>
+     <string name="platform_unavailable_wechat">Παρακαλώ εγκαταστήστε το wechat</string>
+     <string name="platform_unavailable_wechatmoment">Παρακαλώ εγκαταστήστε το wechat</string>
+     <string name="platform_unavailable_weibo">Παρακαλώ εγκαταστήστε το weibo</string>
      <string name="resource_apply">Εφαρμογή</string>
      <string name="resource_no_network_text">"Αδυναμία σύνδεσης στο δίκτυο."</string>
      <string name="setting_head">Ρυθμίσεις</string>
+     <string name="settings">Ρυθμίσεις</string>
+     <string name="share">Κοινή χρήση</string>
      <string name="sst_favor_desc">Δείτε τις αγαπημένες ταπετσαρίες</string>
      <string name="sst_favor_title">Αγαπημένα</string>
      <string name="sst_grid_view_select_all">Επιλογή όλων</string>
