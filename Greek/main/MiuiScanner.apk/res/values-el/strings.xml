@@ -113,9 +113,9 @@
      <string name="previous">Πίσω</string>
      <string name="qr_code_details">Λεπτομέρειες κωδικού QR:</string>
      <string name="recognition_error_download_cancel">Αργότερα</string>
-     <string name="recognition_error_download_data_msg">Λήψη μηχανής αναγνώρισης για σάρωση καρτών. Το μέγεθός της είναι 15 MΒ. Χρήση δεδομένων κινητής για τη λήψη;</string>
+     <string name="recognition_error_download_data_msg">Λήψη μηχανής αναγνώρισης για σάρωση καρτών. Το μέγεθός της είναι 15 MB. Χρήση δεδομένων κινητής για τη λήψη;</string>
      <string name="recognition_error_download_fail">Αδυναμία λήψης μηχανής αναγνώρισης</string>
-     <string name="recognition_error_download_msg">Λήψη μηχανής αναγνώρισης για σάρωση καρτών. Το μέγεθός της είναι 15 MΒ.</string>
+     <string name="recognition_error_download_msg">Λήψη μηχανής αναγνώρισης για σάρωση καρτών. Το μέγεθός της είναι 15 MB.</string>
      <string name="recognition_error_download_no_network">Αδυναμία λήψης. Βεβαιωθείτε ότι είστε συνδεδεμένοι στο δίκτυο.</string>
      <string name="recognition_error_download_ok">Λήψη</string>
      <string name="recognition_error_download_success">Επιτυχής λήψη</string>

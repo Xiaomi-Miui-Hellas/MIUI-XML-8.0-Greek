@@ -240,6 +240,7 @@
      </string-array>
      <string-array name="common_password_business_names">
         <item>Κλείδωμα οθόνης</item>
+        <item>Κωδικός Απορρήτου</item>
         <item>Λειτουργία Παιδιού</item>
         <item>File explorer</item>
         <item>Κλείδωμα εφαρμογής</item>
@@ -477,7 +478,6 @@
         <item>Φωτογραφίες</item>
         <item>Αρχεία</item>
         <item>Σημειώσεις</item>
-        <item>Κλείδωμα εφαρμογής</item>
         <item>Λειτουργία Παιδιού</item>
      </string-array>
      <string-array name="proc_stats_memory_states">
