@@ -51,6 +51,9 @@
         <item>Μετά την έξοδο από την εφαρμογή</item>
         <item>Σε 1 λεπτό μετά την έξοδο από την εφαρμογή</item>
      </string-array>
+     <string-array name="long_add_menu">
+        <item>Προσθήκη στις εξαιρέσεις</item>
+     </string-array>
      <string-array name="mi_service_traffic_type">
         <item>"Χρήση δεδομένων "</item>
         <item>"Χρήση Wi‑Fi "</item>

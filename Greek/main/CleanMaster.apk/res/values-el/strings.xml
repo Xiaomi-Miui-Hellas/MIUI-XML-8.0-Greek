@@ -151,6 +151,7 @@
      <string name="dialog_msg_load_cleanup_engine_error">Η εφαρμογή Cleaner είναι κατεστραμμένη</string>
      <string name="dialog_msg_stop_scan">"Διακοπή σάρωσης σκουπιδιών πριν τελειώσει;"</string>
      <string name="dialog_msg_uninstall_apps">Κατάργηση αυτών των εφαρμογών;</string>
+     <string name="dialog_msg_uninstall_apps_xspace">Απεγκατάσταση αυτών των εφαρμογών;(συμπεριλαμβάνονται και οι αντίστοιχες Διπλές εφαρμογές)</string>
      <string name="dialog_ok_add_white_list_error">Το κατάλαβα</string>
      <string name="dialog_title_add_white_list_error">Προσοχή</string>
      <string name="dialog_title_backup_and_uninstall_apps">Αποθήκευση και απεγκατάσταση</string>
@@ -172,6 +173,7 @@
      <string name="empty_title_garbage_white_list">Δεν υπάρχουν εξαιρέσεις</string>
      <string name="empty_title_installed_apps">Κενό</string>
      <string name="empty_title_large_files">Κενό</string>
+     <string name="empty_title_photos">Δεν βρέθηκαν φωτογραφίες</string>
      <string name="empty_title_residual">Δεν βρέθηκαν υπολείμματα</string>
      <string name="empty_title_video">Δεν υπάρχουν βίντεο για διαγραφή</string>
      <string name="flow_rank_title">Χρήση δεδομένων</string>
@@ -180,7 +182,7 @@
      <string name="garbage_cleanup_detail">%1$d φορές, καθαρίστηκαν %2$s</string>
      <string name="garbage_month">Καθαρίστηκαν %s αυτό το μήνα</string>
      <string name="gigabyteShort">GB</string>
-     <string name="go_to">Συνέχεια</string>
+     <string name="go_to">Μετάβαση</string>
      <string name="goto_set">Ορισμός</string>
      <string name="grabage_rank_title">Καθαρίστηκαν σήμερα</string>
      <string name="harass_detail">Μπλοκαρίστηκαν %1$d SMS και %2$d κλήσεις</string>
@@ -201,7 +203,7 @@
      <string name="hints_finish_quick_scan">Ολοκλήρωση σάρωσης</string>
      <string name="hints_garbage_cleanup_result_danger">Καθαρισμός σκουπιδιών τώρα</string>
      <string name="hints_garbage_cleanup_result_risk">Καθαρισμός σκουπιδιών τώρα</string>
-     <string name="hints_garbage_cleanup_result_safe">Όλα είναι εντάξει</string>
+     <string name="hints_garbage_cleanup_result_safe">Όλα είναι καλά</string>
      <string name="hints_garbage_handle_item_content">%1$d στοιχεία, %2$s</string>
      <string name="hints_garbage_handle_item_empty_content">Κενό</string>
      <string name="hints_header_left">%d</string>
@@ -314,7 +316,7 @@
      <string name="pref_section_auto_clean_and_alert">Αυτόματος καθαρισμός</string>
      <string name="pref_summary_auto_clean_and_alert">Ρυθμίστε το Cleaner να τρέχει αυτόματα</string>
      <string name="pref_summary_auto_update_cleanup_db">Τελευταία Ενημέρωση: %s</string>
-     <string name="pref_summary_cleanup_white_list">Εξαίρεση των επιλεγμένων εφαρμογών από τον καθαρισμό</string>
+     <string name="pref_summary_cleanup_white_list">Αποτρέψτε τον καθαρισμό των επιλεγμένων εφαρμογών</string>
      <string name="pref_summary_expand_cache_group">Αυτόματη ανάπτυξη στοιχείων λίστας Cache</string>
      <string name="pref_summary_garbage_auto_clean_content">Επιλέξτε ποια στοιχεία θα καθαριστούν αυτόματα</string>
      <string name="pref_summary_garbage_cleanup_check_size">Αυτόματος καθαρισμός αν τα σκουπίδια υπερβαίνουν το καθορισμένο μέγεθος</string>
@@ -381,8 +383,8 @@
      <string name="summary_optimizer">Αυτή η λειτουργία ανεβάζει τα ονόματα των φακέλων για ενημέρωση της online βάσης του Cheetah Mobile και απαιτεί το ID της συσκευής σας.</string>
      <string name="terabyteShort">TB</string>
      <string name="text_optimizer">Αποστολή ονομάτων φακέλων</string>
-     <string name="there_is_no">Όλα δείχνουν καλά. Επιστρέψτε αργότερα</string>
-     <string name="tips_of_app_manage">Διαγραφή εφαρμογών με σπάνια χρήση για εξοικονόμηση χώρου</string>
+     <string name="there_is_no">Όλα είναι καλά. Επιστρέψτε αργότερα</string>
+     <string name="tips_of_app_manage">Διαγράψτε εφαρμογές με σπάνια χρήση για εξοικονόμηση χώρου</string>
      <string name="tips_of_auto_launch_manage">Αποτρέψτε την αυτόματη εκκίνηση εφαρμογών με σπάνια χρήση</string>
      <string name="tips_of_cloud_service">Συνδεθείτε με τον Mi λογαριασμό σας για να κάνετε χρήση περισσότερων υπηρεσιών Mi</string>
      <string name="tips_of_connect">Συνδεθείτε στο Internet για να χρησιμοποιήσετε το πλήρες σύνολο των χαρακτηριστικών Ασφαλείας</string>
@@ -418,7 +420,7 @@
      <string name="toast_backup_uninstall_success">Ολοκλήρωση λήψης αντιγράφου ασφαλείας και απεγκατάστασης</string>
      <string name="toast_delete_select_image_succeed">Διαγράφηκαν</string>
      <string name="toast_garbage_cleanup_success">Ολοκλήρωση καθαρισμού</string>
-     <string name="toast_garbage_list_empty">Όλα είναι εντάξει!</string>
+     <string name="toast_garbage_list_empty">Όλα είναι καλά!</string>
      <string name="toast_must_select_before_restore">Επιλέξτε φωτογραφίες για επαναφορά</string>
      <string name="toast_network_eror">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="toast_network_switch">Αυτή η εφαρμογή μπορεί να συνδεθεί στο Internet</string>
