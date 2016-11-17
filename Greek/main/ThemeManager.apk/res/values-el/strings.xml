@@ -101,6 +101,10 @@
      <string name="lockstyle_personal_settings">Προσαρμογή</string>
      <string name="long_ringtone_resource">Μακρύς</string>
      <string name="mi_wallpaper">MIUI ταπετσαρία</string>
+     <string name="multi_sim_ringtone_settings_dialog_message">Ο ήχος κλήσης εφαρμόστηκε στην κάρτα SIM 1 και κάρτα SIM 2 ταυτόχρονα.</string>
+     <string name="multi_sim_ringtone_settings_dialog_ok">Το κατάλαβα</string>
+     <string name="multi_sim_ringtone_settings_dialog_remind_never">ΝΑ μην εμφανιστεί ξανά</string>
+     <string name="multi_sim_ringtone_settings_dialog_title">Προβλήματα συμβατότητας</string>
      <string name="my_gifts">Δώρα</string>
      <string name="my_gifts_purchased">Αγορασμένα</string>
      <string name="my_gifts_received">Ληφθέντα</string>
@@ -115,6 +119,7 @@
      <string name="provision_second_title">Επιλέξτε ένα από τα 5 προεπιλεγμένα θέματα</string>
      <string name="provision_title">Επιλέξτε ένα θέμα</string>
      <string name="purchased_list">Λίστα αγορασμένων</string>
+     <string name="purchased_list_current">MIUI 8</string>
      <string name="purchased_list_format">Αγορασμένα %1$s</string>
      <string name="reload">Προσπαθήστε ξανά</string>
      <string name="resource_account_abnormal_state">Σφάλμα λογαριασμού. Δοκιμάστε ξανά αργότερα.</string>
@@ -248,6 +253,7 @@
      <string name="resource_price_format">(%1$s)</string>
      <string name="resource_price_free">Δωρεάν</string>
      <string name="resource_price_unit"> Mi Credits</string>
+     <string name="resource_purchase_common_error">Παρουσιάστηκε σφάλμα. Δοκιμάστε ξανά</string>
      <string name="resource_purchase_getting_order">Ανάκτηση πληροφοριών παραγγελίας…</string>
      <string name="resource_purchase_verifying_payment">Επαλήθευση Πληροφοριών πληρωμής…</string>
      <string name="resource_purchase_waiting_payment">Αναμονή για πληροφορίες πληρωμών…</string>

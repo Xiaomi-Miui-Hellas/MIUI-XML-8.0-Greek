@@ -16,4 +16,8 @@
         <item quantity="other">Χωρίς σύνδεση δεδομένων για %s λεπτά</item>
         <item quantity="one">Χωρίς σύνδεση δεδομένων για %s λεπτό</item>
      </plurals>
+     <plurals name="remove_numbers_confirm">
+        <item quantity="other">%d αριθμοί θα διαγραφούν.</item>
+        <item quantity="one">%d αριθμός θα διαγραφεί.</item>
+     </plurals>
 </resources>

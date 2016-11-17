@@ -38,7 +38,10 @@
      <string name="attach_take_photo">Λήψη εικόνας</string>
      <string name="attach_video">Βίντεο</string>
      <string name="audio_download_failed">η λήψη ήχου απέτυχε</string>
+     <string name="audio_message_expired">Αυτό το φωνητικό μήνυμα έχει λήξει.</string>
+     <string name="audio_message_mx_offline">Αδυναμία λήψης ήχου. Το Mi Message είναι εκτός λειτουργίας ή δεν είναι διαθέσιμο</string>
      <string name="audio_playing_seconds">%d\"</string>
+     <string name="audio_sim_card_mismatching">Δεν υπάρχει δίκτυο ή έχετε εισάγει λάθος κάρτα SIM. Τοποθετήστε την κάρτα SIM από την οποία στάλθηκε το μήνυμα και συνδεθείτε στο δίκτυο.</string>
      <string name="back_to_message_list">Πίσω στη λίστα μηνυμάτων</string>
      <string name="batch_adding_progress_message">Προσθήκη…</string>
      <string name="batch_delete_confirm_dialog_message">Διαγραφή %1$s μηνυμάτων;</string>
@@ -196,6 +199,7 @@
      <string name="found_wild_messages_guide_sync_not_started">Ο συγχρονισμός δεν έχει ξεκινήσει ακόμα</string>
      <string name="found_wild_messages_title">Λήψη μηνυμάτων</string>
      <string name="from_label">"Από: "</string>
+     <string name="from_pkg_name">Από την εφαρμογή:</string>
      <string name="group_message">Ομαδικό μήνυμα</string>
      <string name="group_message_failed_title">Αδυναμία αποστολής σε %d επαφές</string>
      <string name="group_resend_message">Αποστολή ξανά (%d)</string>
@@ -391,6 +395,7 @@
      <string name="pref_show_blocked_messages_summary">Εμφάνιση φραγμένων SMS στη λίστα των συζητήσεων</string>
      <string name="pref_show_sms_template_in_summary">Αυτόματος εντοπισμός OTP σε μηνύματα SMS</string>
      <string name="pref_show_sms_template_summary">Αυτόματη αντιγραφή και συμπλήρωση κωδικών επαλήθευσης</string>
+     <string name="pref_smart_messages_settings">Έξυπνα μηνύματα</string>
      <string name="pref_sms_theme_title">Εμφάνιση</string>
      <string name="pref_summary_allow_si_sl_push">Να επιτρέπεται στα μηνύματα να φορτώνουν περιεχόμενο από ιστοσελίδες</string>
      <string name="pref_summary_delete_limit">%1$s μηνύματα ανά συνομιλία</string>
@@ -447,6 +452,14 @@
      <string name="priority_low">Χαμηλή</string>
      <string name="priority_normal">Κανονική</string>
      <string name="privacy_mode_hint">Δεν μπορείτε να στείλετε μηνύματα σε λειτουργία επισκέπτη</string>
+     <string name="privacy_password_message1">Ο κωδικός Προσωπικής προστασίας λειτουργεί για φωτογραφίες, σημειώσεις και κρυφούς φακέλους.</string>
+     <string name="privacy_password_message2">Χρησιμοποιείστε τον κωδικό Προσωπικής προστασίας. Λειτουργεί για μηνύματα, φωτογραφίες και κρυφούς φακέλους.</string>
+     <string name="privacy_password_message3">Ο κωδικός μηνυμάτων θα αντικατασταθεί με τον κωδικό Προσωπικής προστασίας ο οποίος λειτουργεί για μηνύματα, φωτογραφίες και κρυφούς φακέλους.</string>
+     <string name="privacy_password_set_password">Ορισμός</string>
+     <string name="privacy_password_title1">Ορισμός κωδικού</string>
+     <string name="privacy_password_title2">Χρήση κωδικού Προσωπικής προστασίας</string>
+     <string name="privacy_password_title3">Αναβαθμίστε τον κωδικό σας</string>
+     <string name="privacy_password_title4">Ο κωδικός αναβαθμίστηκε</string>
      <string name="private_message">Προσωπικό μήνυμα</string>
      <string name="private_new_notification">Ειδοποιήσεις μηνυμάτων</string>
      <string name="private_protect">Κωδικοί πρόσβασης</string>
@@ -495,9 +508,12 @@
      <string name="search">Μηνύματα</string>
      <string name="search_empty">Καμία αντιστοιχία</string>
      <string name="search_hint">Αναζήτηση μηνυμάτων</string>
+     <string name="search_keyword_mms">Μηνύματα;SMS;MMS;Κείμενο;Μηνύματα;Μήνυμα;Μηνύματα</string>
      <string name="search_label">Μηνύματα</string>
+     <string name="search_path_mms">Ρυθμίσεις/Εφαρμογές συστήματος/Μηνύματα</string>
      <string name="search_setting_description">Κείμενο στα μηνύματά σας</string>
      <string name="search_show_more_results">Δείτε περισσότερα</string>
+     <string name="search_title_mms">Μηνύματα</string>
      <string name="second_mms_introduction">Πηγαίνετε στο Δεύτερο χώρο</string>
      <string name="second_mms_switch">Αλλαγή</string>
      <string name="secs">δευτερόλεπτα</string>

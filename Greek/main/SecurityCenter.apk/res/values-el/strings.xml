@@ -604,6 +604,7 @@
      <string name="keywords_networkassistant_4">Σύνδεση;Internet;Δοκιμή</string>
      <string name="keywords_permcenter">Αυτόματη έναρξη;Δικαιώματα;ROOT;τοποθεσία;Πρόσβαση στις επαφές</string>
      <string name="keywords_powercenter">Εξοικ.μπαταρίας;Θερμοκρασία;Ενεργοποίηση;απενεργοποίηση;Μπαταρία;Κατανάλωση</string>
+     <string name="keywords_powercenter_powerrank">Χρήση μπαταρίας</string>
      <string name="keywords_securitycenter">Ασφάλεια;Έλεγχος;Σάρωση</string>
      <string name="keywords_securitycenter_settings">Χρήση μπαταρίας;Δικαιώματα;Λίστα φραγών;Χρήση δεδομένων;Ρύθμιση προγράμματος δεδομένων;Δοκιμή δικτύου;Κλείδωμα εφαρμογών;Εξοικ.μπαταρίας;Θερμοκρασία;Ενεργοποίηση;Απενεργοποίηση;Μπαταρία;Κατανάλωση;Αυτόματη έναρξη;ROOT;Τοποθεσία;Πρόσβαση στις επαφές;Φραγή;Λίστα φραγών;Έξυπνη λίστα φραγών;Απάτη;Πωλήσεις;Τηλεπωλητής;Αντιπρ. πωλήσεων;Δεδομένα;Κίνηση;Ρύθμιση;Σύνδεση;Internet;Δοκιμή;Κωδικός;Ιδιωτικότητα;Πρόσβαση;Προστασία</string>
      <string name="kilobyteShort">KB</string>
@@ -836,6 +837,7 @@
      <string name="notify_weekly_traffic_title_for_slotnum">%1$s χρησιμοποιήθηκαν %2$s αυτή την εβδομάδα</string>
      <string name="ok">OK</string>
      <string name="ok_button">OK</string>
+     <string name="old_sdk_deny_warning">Η εφαρμογή δεν είναι συμβατή με τις τελευταίες απαιτήσεις αδειών Android. Η άρνηση δικαιωμάτων μπορεί να επηρεάσει τον τρόπο λειτουργίας της.</string>
      <string name="open">Άνοιγμα</string>
      <string name="open_app">Άνοιγμα</string>
      <string name="open_browser">Άνοιγμα στο πρόγραμμα περιήγησης</string>
@@ -898,6 +900,7 @@
      <string name="path_networkassistant_4">Εφαρμογές συστήματος/Ασφάλεια/Χρήση δεδομένων/Δοκιμή δικτύου</string>
      <string name="path_permcenter">Εφαρμογές συστήματος/Ασφάλεια/Δικαιώματα</string>
      <string name="path_powercenter">Εφαρμογές συστήματος/Ασφάλεια/Χρήση μπαταρίας</string>
+     <string name="path_powercenter_powerrank">Μπαταρία/Χρήση μπαταρίας</string>
      <string name="path_securitycenter">Εφαρμογές συστήματος/Ασφάλεια</string>
      <string name="path_securitycenter_settings">Εφαρμογές συστήματος/Ασφάλεια</string>
      <string name="pay_charge">Αγορά επιπλέον δεδομένων</string>
@@ -1119,6 +1122,7 @@
      <string name="resource_networkassistant_4">Δοκιμή δικτύου</string>
      <string name="resource_permcenter">Δικαιώματα</string>
      <string name="resource_powercenter">Εξοικονόμηση μπαταρίας</string>
+     <string name="resource_powercenter_powerrank">Μπαταρία</string>
      <string name="resource_securitycenter">Ασφάλεια</string>
      <string name="resource_securitycenter_settings">Ασφάλεια</string>
      <string name="result_autoscan_header">Παρακολούθηση πληρωμών</string>
@@ -1231,6 +1235,15 @@
      <string name="sorted_button">Ταξινόμηση κατά</string>
      <string name="sorted_dialog_title">Ταξινόμηση κατά</string>
      <string name="sp_back_title_text_zero">Ασφαλές</string>
+     <string name="sp_background_risk_dialog_summary">, παρακαλώ κάντε λεπτομερή έλεγχο και διορθώστε τους κινδύνους πληρωμών</string>
+     <string name="sp_background_risk_dialog_title">Επικίνδυνο</string>
+     <string name="sp_background_risk_type_messaging">Η εφαρμογή μηνυμάτων του συστήματος έχει αντικατασταθεί</string>
+     <string name="sp_background_risk_type_root">Το σύστημα είναι root</string>
+     <string name="sp_background_risk_type_sign">Εκτελείται ανεπίσημη εφαρμογή</string>
+     <string name="sp_background_risk_type_virus">Εκτελείται εφαρμογή με ιό</string>
+     <string name="sp_background_risk_type_wifi">Η σύνδεση Wi‑Fi είναι επικίνδυνη</string>
+     <string name="sp_button_text_ignore_alert_title">Να αγνοηθεί αυτό το στοιχείο;</string>
+     <string name="sp_empty_title_sign_exception">Κρατήστε την εφαρμογή για να την προσθέσετε στις εξαιρέσεις</string>
      <string name="sp_monitored_apps_count_zero">Καμία εφαρμογή πληρωμών δεν προστατεύεται</string>
      <string name="sp_monitored_apps_list_title">Ρυθμίσεις παρακολούθησης</string>
      <string name="sp_network_privacy_dialog_message">Η εφαρμογή  Ασφάλεια, δεν μπορεί να ελέγξει τις πληρωμές επειδή έχετε περιορίσει την πρόσβαση στο Internet. Να επιτρέπεται στην Ασφάλεια η πρόσβαση στο Internet;</string>
@@ -1238,6 +1251,15 @@
      <string name="sp_safe_score_text">Ασφάλεια πληρωμών</string>
      <string name="sp_scan_item_monitor">Παρακολούθηση πληρωμών</string>
      <string name="sp_scan_item_url_antispam">Προστασία κακόβουλων URL</string>
+     <string name="sp_settings_check_item_summary_sign_exception">Διαχείριση εξαιρέσεων υπογραφής</string>
+     <string name="sp_settings_check_item_summary_virus_exception">Διαχείριση εξαιρέσεων ιών</string>
+     <string name="sp_settings_check_item_title_root">Root</string>
+     <string name="sp_settings_check_item_title_sign_exception">Εξαιρέσεις υπογραφής</string>
+     <string name="sp_settings_check_item_title_update">Ενημερώσεις συστήματος</string>
+     <string name="sp_settings_check_item_title_virus_exception">Εξαιρέσεις ιών</string>
+     <string name="sp_settings_check_item_title_wifi">Wi‑Fi</string>
+     <string name="sp_settings_exception_count_zero">Χωρίς στοιχεία</string>
+     <string name="sp_settings_group_title_check_item">Έλεγχος πολλαπλών ρυθμίσεων</string>
      <string name="sp_settings_group_title_ime">Ρυθμίσεις ασφαλούς πληκτρολόγησης</string>
      <string name="sp_settings_group_title_omit">Παραλειπόμενα στοιχεία</string>
      <string name="sp_settings_info_input_method">Χρήση πληκτρολογίου συστήματος σε εφαρμογές πληρωμών</string>
@@ -1246,9 +1268,11 @@
      <string name="sp_settings_plugin_monitor_title">Παρακολούθηση plug-in πληρωμών</string>
      <string name="sp_settings_root_title_omit">Έλεγχος ROOT</string>
      <string name="sp_settings_title_input_method">Ασφαλής πληκτρολόγηση</string>
+     <string name="sp_toast_removed_from_sign_white_list">Αφαιρέθηκε από τις εξαιρέσεις. Το στοιχείο θα σαρωθεί την επόμενη φορά.</string>
      <string name="spinner_title">%1$s - Δεδομ.κινητής: %2$s</string>
      <string name="st_title_mode_choose_group">Επιλέξτε προφίλ</string>
      <string name="start_diagnostic_botton">Έναρξη</string>
+     <string name="start_downloading_app">Έναρξη λήψης: %1$s</string>
      <string name="start_install">Εγκατάσταση τώρα</string>
      <string name="stop_app_button">Διακοπή</string>
      <string name="suffix_pay_risk_count_bottom">κίνδυνοι</string>
