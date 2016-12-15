@@ -39,7 +39,7 @@
      <string name="device_edit_title">Μετονομασία τηλεφώνου</string>
      <string name="device_hongmi">Redmi</string>
      <string name="device_name">Όνομα συσκευής</string>
-     <string name="device_name_input_error">Αποτυχία αποθήκευσης ονόματος συσκευής</string>
+     <string name="device_name_input_error">Αδυναμία αποθήκευσης ονόματος συσκευής</string>
      <string name="device_name_input_hint">Πληκτρολογήστε το όνομα</string>
      <string name="device_name_tip">Κλικ για να πάτε στο μενού "Σχετικά με το τηλέφωνο" και να αλλάξετε το όνομα της συσκευής.</string>
      <string name="device_name_usage_point">Αυτό το όνομα θα είναι ορατό σε άλλες συσκευές με δυνατότητα Bluetooth στην περιοχή σας</string>

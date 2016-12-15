@@ -7,6 +7,7 @@
      <string name="cal_text_copied">Το κείμενο αντιγράφτηκε</string>
      <string name="choose_currency">Επιλέξτε νόμισμα</string>
      <string name="choose_unit">Επιλέξτε μονάδα</string>
+     <string name="city">Πόλη</string>
      <string name="clear">C</string>
      <string name="clearDesc">καθαρισμός</string>
      <string name="clear_history">>Καθαρισμός ιστορικού</string>
@@ -22,6 +23,8 @@
      <string name="cos">cos</string>
      <string name="cosDesc">συνημίτονο</string>
      <string name="currency_update_time_format">Οι συναλλαγματικές ισοτιμίες παρέχονται από hexun.com (%s)</string>
+     <string name="dateformat">dd/MM/yyyy</string>
+     <string name="day">ημέρα</string>
      <string name="del">DEL</string>
      <string name="digit0">0</string>
      <string name="digit1">1</string>
@@ -50,6 +53,7 @@
      <string name="from_unit">Χμ/ω</string>
      <string name="from_unit_en">Χιλιόμετρα ανά ώρα</string>
      <string name="from_unit_short">Χμ/ω</string>
+     <string name="home_title_calculator">Αριθμομηχανή</string>
      <string name="item_title_area_conversion">Επιφάνεια</string>
      <string name="item_title_calculator">Αριθμομηχανή</string>
      <string name="item_title_currency">Νόμισμα</string>
@@ -124,6 +128,21 @@
      <string name="plusDesc">πρόσθεση</string>
      <string name="power">^</string>
      <string name="powerDesc">δύναμη</string>
+     <string name="preference_about_calculator">Σχετικά με την αριθμομηχανή</string>
+     <string name="preference_alert_follow_wechat">Αντιγραφή και επικόλληση στο WeChat για να ακολουθήσετε</string>
+     <string name="preference_alert_follow_wechat_button">Αντιγραφή</string>
+     <string name="preference_check_update_title">Έλεγχος για ενημερώσεις</string>
+     <string name="preference_feedback_title">FAQ</string>
+     <string name="preference_follow_us">Ακολουθήστε μας</string>
+     <string name="preference_follow_web_summary">www.miui.com</string>
+     <string name="preference_follow_web_title">Επίσημη ιστοσελίδα</string>
+     <string name="preference_follow_wechat_summary">MIUI</string>
+     <string name="preference_follow_wechat_title">WeChat</string>
+     <string name="preference_follow_weibo_summary">\@MIUI</string>
+     <string name="preference_follow_weibo_title">Sina Weibo</string>
+     <string name="preference_settings">Ρυθμίσεις</string>
+     <string name="preference_use_degress_summary">Αντικατάσταση ακτινίων με μοίρες στις τριγωνομετρικές συναρτήσεις</string>
+     <string name="preference_use_degress_title">Χρήση μοιρών</string>
      <string name="rate_data_provider">Οι τιμές επιτοκίων παρέχονται από hexun.com</string>
      <string name="rightParen">)</string>
      <string name="rightParenDesc">δεξιά παρένθεση</string>
@@ -135,9 +154,12 @@
      <string name="tanDesc">εφαπτόμενη</string>
      <string name="tax_accumulation_fund">Ταμείο Πρόνοιας</string>
      <string name="tax_annual_bonus_hint">Εισάγετε το μπόνους σας προ φόρων</string>
+     <string name="tax_annual_bonus_number">Μπόνους</string>
+     <string name="tax_birth">Γέννηση</string>
      <string name="tax_cal_method_annual">Υπολογισμός ετήσιου μπόνους</string>
      <string name="tax_cal_method_fixed_salary">Υπολογισμός φόρου εισοδήματος</string>
      <string name="tax_city">Πόλη</string>
+     <string name="tax_city_error">Εισάγετε τη σωστή πόλη</string>
      <string name="tax_city_located">Τοποθεσία</string>
      <string name="tax_city_picker">Πόλη</string>
      <string name="tax_endowment">Συνταξιοδοτικό ταμείο</string>
@@ -150,11 +172,18 @@
      <string name="tax_income_type_fixed_monthly_salary">Μηνιαίος μισθός</string>
      <string name="tax_individual_income_tax">Φόρος ατομικού εισοδήματος</string>
      <string name="tax_individual_income_tax_result">Αποτελέσματα</string>
+     <string name="tax_injury">Ζημιές</string>
+     <string name="tax_insurance_and_fund">Ασφάλιση</string>
+     <string name="tax_last_salary_hint">εισάγετε το εισόδημα σας</string>
+     <string name="tax_last_salary_number">Εισόδημα</string>
+     <string name="tax_medical">Ιατρικά</string>
+     <string name="tax_param_error">Εισάγετε τα σωστά ασφαλιστικά ποσοστά</string>
      <string name="tax_result_real_get">Μετά φόρων</string>
      <string name="tax_social_insurance">Κοινωνική ασφάλιση</string>
      <string name="tax_thershold_foreign">%s (Ξένοι υπήκοοι)</string>
+     <string name="tax_thershold_native">%s (Ηπειρωτική Κίνα)</string>
      <string name="tax_unemployment">Ανεργία</string>
-     <string name="text_copied_toast">Το κείμενο αντιγράφτηκε.</string>
+     <string name="tax_update_time_format">Τα δεδομένα για το έτος %s, παρέχονται από HeXun</string>
      <string name="title_bar">Μετατροπέας μήκους</string>
      <string name="unit_data_display_area_sq.cm">Τετραγωνικό εκατοστό</string>
      <string name="unit_data_display_area_sq.dm">Τετραγωνικό δεκατόμετρο</string>
@@ -165,18 +194,24 @@
      <string name="unit_data_display_area_sq.m">Τετραγωνικό μέτρο</string>
      <string name="unit_data_display_area_sq.mi">Τετραγωνικό μίλι</string>
      <string name="unit_data_display_area_sq.mm">Τετραγωνικό χιλιοστόμετρο</string>
+     <string name="unit_data_display_area_sq.um">Τετραγωνικό μικρόμετρο</string>
      <string name="unit_data_display_area_sq.yd">Τετραγωνική γιάρδα</string>
+     <string name="unit_data_display_length_au">Αστρονομική μονάδα</string>
      <string name="unit_data_display_length_cm">Εκατοστόμετρο</string>
+     <string name="unit_data_display_length_dm">Δεκατόμετρο</string>
      <string name="unit_data_display_length_ft">Πόδι</string>
      <string name="unit_data_display_length_gongli">Χιλιόμετρο</string>
      <string name="unit_data_display_length_in">Ίντσα</string>
      <string name="unit_data_display_length_km">Χιλιόμετρο</string>
+     <string name="unit_data_display_length_ld">Απόσταση σελήνης</string>
      <string name="unit_data_display_length_ly">Έτος φωτός</string>
      <string name="unit_data_display_length_m">Μέτρο</string>
      <string name="unit_data_display_length_mi">Μίλι</string>
      <string name="unit_data_display_length_mm">Χιλιοστόμετρο</string>
      <string name="unit_data_display_length_nm">Νανόμετρο</string>
      <string name="unit_data_display_length_nmi">Ναυτικό μίλι</string>
+     <string name="unit_data_display_length_pm">Πικόμετρο</string>
+     <string name="unit_data_display_length_um">Μικρόμετρο</string>
      <string name="unit_data_display_length_yd">Γιάρδα</string>
      <string name="unit_data_display_temperature_c">Κελσίου</string>
      <string name="unit_data_display_temperature_f">Φαρενάιτ</string>
@@ -195,6 +230,7 @@
      <string name="unit_data_display_velocity_inps">Ίντσες ανά δευτερόλεπτο</string>
      <string name="unit_data_display_velocity_kmph">Χιλιόμετρα ανά ώρα</string>
      <string name="unit_data_display_velocity_kmps">Χιλιόμετρα ανά δευτερόλεπτο</string>
+     <string name="unit_data_display_velocity_mach">Mach</string>
      <string name="unit_data_display_velocity_mileph">Μίλια ανά ώρα</string>
      <string name="unit_data_display_velocity_mps">Μέτρα ανά δευτερόλεπτο</string>
      <string name="unit_data_display_velocity_nmiph">Κόμβος</string>
@@ -205,6 +241,7 @@
      <string name="unit_data_display_volume_cu.in">Κυβική ίντσα</string>
      <string name="unit_data_display_volume_cu.m">Κυβικό μέτρο</string>
      <string name="unit_data_display_volume_cu.mm">Κυβικό χιλιοστόμετρο</string>
+     <string name="unit_data_display_volume_cu.um">Κυβικό μικρόμετρο</string>
      <string name="unit_data_display_volume_cu.yd">Κυβική γιάρδα</string>
      <string name="unit_data_display_volume_dl">Δεκατόλιτρο</string>
      <string name="unit_data_display_volume_hl">Εκατόλιτρο</string>
@@ -220,7 +257,15 @@
      <string name="unit_data_display_weight_ug">Μικρογραμμάριο</string>
      <string name="unit_myriads">×10K</string>
      <string name="unit_percentage">%</string>
-     <string name="unit_times" />
      <string name="unit_year">Y</string>
      <string name="unit_year_format">Έτος %s</string>
+     <string name="xiaomi_connect_download_manager_fail">Αποτυχία σύνδεσης Διαχειριστή Λήψεων. Παρακαλώ ελέγξτε την κατάσταση του Διαχειριστή Λήψεων στη Διαχείριση Εφαρμογών.</string>
+     <string name="xiaomi_external_storage_unavailable">Ο χώρος αποθήκευσης δεν είναι διαθέσιμος. Παρακαλώ ελέγξτε την κάρτα SD.</string>
+     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+     <string name="xiaomi_megabytes_unit">%1$sMB</string>
+     <string name="xiaomi_update_dialog_message">"Σας παρουσιάζουμε την έκδοση %1$s
+Μέγεθος: %2$s"</string>
+     <string name="xiaomi_update_dialog_message_diff">"Σας παρουσιάζουμε την έκδοση %1$s
+Μέγεθος ενημέρωσης Delta: %2$s"</string>
+     <string name="xiaomi_update_dialog_title">%1$s νέα έκδοση!</string>
 </resources>

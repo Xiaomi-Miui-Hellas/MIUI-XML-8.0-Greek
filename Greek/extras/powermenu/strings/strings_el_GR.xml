@@ -6,4 +6,5 @@
     <string name="label_alert_reboot">Πατήστε για Επανεκκίνηση</string>
     <string name="label_alert_shutdown">Πατήστε για Απενεργοποίηση</string>
     <string name="label_blank">Πίσω</string>
+    <string name="label_emergency_call">Κλήση έκτακτης ανάγκης</string>
 </resources>

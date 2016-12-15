@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Πριν 1 ώρα</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Πριν μισή ώρα</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Σε 1 ώρα</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Σε μισή ώρα</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Άμεσα</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Σε %d λεπτά</item>
+        <item quantity="one">Σε 1 λεπτό</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">μόλις τώρα</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Πριν %d λεπτά</item>
+        <item quantity="one">Πριν 1 λεπτό</item>
+     </plurals>
      <plurals name="batch_delete_msg">
         <item quantity="other">Διαγραφή %d επαφών;</item>
         <item quantity="one">Διαγραφή %d επαφής;</item>
@@ -85,6 +111,10 @@
      <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d επαφές με τηλέφωνα</item>
         <item quantity="one">1 επαφή με τηλέφωνο</item>
+     </plurals>
+     <plurals name="livetalk_unit">
+        <item quantity="other">Λεπτά</item>
+        <item quantity="one">Λεπτό</item>
      </plurals>
      <plurals name="merge_info">
         <item quantity="other">συγχωνεύθηκαν από %0$d πηγές</item>

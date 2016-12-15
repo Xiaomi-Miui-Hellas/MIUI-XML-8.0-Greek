@@ -1217,6 +1217,7 @@
      <string name="toast_making_personal_copy">Δημιουργώντας ένα προσωπικό αντίγραφο…</string>
      <string name="toast_text_copied">Το κείμενο έχει αντιγραφεί</string>
      <string name="today">Σήμερα</string>
+     <string name="tomorrow">Αύριο</string>
      <string name="transfer_accounts">Μεταφορά λογαριασμών</string>
      <string name="type_incoming">Εισερχόμενη κλήση</string>
      <string name="type_missed">Αναπάντητη κλήση</string>
@@ -1300,5 +1301,6 @@
      <string name="yellowpage_navigation_send_to_desktop_succeeded">Προστέθηκε στην Αρχική οθόνη</string>
      <string name="yellowpage_search_the_yellowpage">Αναζήτηση στον κατάλογο</string>
      <string name="yellowpage_user_profile">Προφίλ</string>
+     <string name="yesterday">Χθες</string>
      <string name="zero_items_selected">Επιλέξτε στοιχεία</string>
 </resources>
