@@ -7,7 +7,6 @@
      <string name="all_resources">Όλα</string>
      <string name="all_ringtone_resource">Όλα</string>
      <string name="app_name">Θέματα</string>
-     <string name="apply_default_font_tip">Συνέχιση χρήσης της τρέχουσας γραμματοσειράς συστήματος;</string>
      <string name="apply_font_btn_exclude">Εφαρμογή χωρίς γραμματοσειρά</string>
      <string name="apply_font_btn_reboot">Εφαρμογή και επανεκκίνηση</string>
      <string name="apply_font_tip">Το Θέμα περιέχει γραμματοσειρά. Απαιτείται επανεκκίνηση.</string>
@@ -114,7 +113,6 @@
      <string name="payment_info">MiCredits</string>
      <string name="present_local_themes">Ληφθέντα</string>
      <string name="present_online_themes">Online</string>
-     <string name="provision_default_theme_title">Προεπιλογή</string>
      <string name="provision_loading_tips">Μισό λεπτό…</string>
      <string name="provision_second_title">Επιλέξτε ένα από τα 5 προεπιλεγμένα θέματα</string>
      <string name="provision_title">Επιλέξτε ένα θέμα</string>
@@ -128,7 +126,6 @@
      <string name="resource_account_login_before_action">Συνδεθείτε στον Mi λογαριασμό σας τώρα</string>
      <string name="resource_account_login_title">Σύνδεση</string>
      <string name="resource_account_switch">Αλλαγή</string>
-     <string name="resource_alarm_default">Ξυπνητήρι</string>
      <string name="resource_app_name">Πλοηγός Πόρων</string>
      <string name="resource_apply">Εφαρμογή</string>
      <string name="resource_apply_trial">Δοκιμάστε τώρα</string>
@@ -150,7 +147,6 @@
      <string name="resource_comment_date">%1$02d-%2$02d</string>
      <string name="resource_comment_edit_comment">Προσθέστε σχόλια</string>
      <string name="resource_comment_edit_comment_waiting">Έλεγχος ιστορικού…</string>
-     <string name="resource_comment_edit_text_default">Γράψτε ένα σχόλιο</string>
      <string name="resource_comment_edit_title">Επεξεργασία σχολίου: %1$s</string>
      <string name="resource_comment_entry_tips">Σχόλια (%1$s)</string>
      <string name="resource_comment_expand_full_text">Αναπτύξτε το πλήρες κείμενο▼</string>
@@ -158,7 +154,6 @@
      <string name="resource_comment_good_comments">Θετικά</string>
      <string name="resource_comment_invalid">Πατήστε τα αστέρια για να βαθμολογήσετε το θέμα</string>
      <string name="resource_comment_loading_list">Φόρτωση…</string>
-     <string name="resource_comment_name_default">Χρήστης %1$s</string>
      <string name="resource_comment_no_average_score">N/A</string>
      <string name="resource_comment_no_comment">Δεν υπάρχουν σχόλια</string>
      <string name="resource_comment_publish">Καταχώριση</string>
@@ -175,8 +170,6 @@
      <string name="resource_comment_upload_success">Σχόλιο εστάλη! Θα εμφανιστεί μετά από μια σύντομη ανασκόπηση.</string>
      <string name="resource_continue">Επόμενο</string>
      <string name="resource_data_empty">Το περιεχόμενο είναι κενό.</string>
-     <string name="resource_default">Προεπιλεγμένος ήχος κλήσης</string>
-     <string name="resource_default_name">Πόρος</string>
      <string name="resource_delete">Διαγραφή</string>
      <string name="resource_delete_all">Διαγραφή %1$d επιλεγμένων πόρων;</string>
      <string name="resource_delete_confirm">Διαγραφή  αυτών των πόρων;</string>
@@ -241,7 +234,6 @@
      <string name="resource_no_match_app">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια.</string>
      <string name="resource_no_network_text">"Αδυναμία σύνδεσης στο δίκτυο."</string>
      <string name="resource_no_result">Κανένα αποτέλεσμα</string>
-     <string name="resource_notification_default">Ειδοποιήσεις</string>
      <string name="resource_on_trial">Σε δοκιμή: %1$s</string>
      <string name="resource_online">Online</string>
      <string name="resource_pack_confirm">"Παρότι έχετε ήδη αγοράσει %1$d στοιχεία αυτού του θέματος, είναι φθηνότερο να αγοράσετε το πλήρες πακέτο"</string>
@@ -260,7 +252,6 @@
      <string name="resource_ranking">Δημοφιλή</string>
      <string name="resource_ranking_free">Δωρεάν</string>
      <string name="resource_ranking_purchase">Πληρωμένα</string>
-     <string name="resource_ringtone_default">Ήχοι κλήσης</string>
      <string name="resource_ringtone_playing_error">σφάλμα αναπαραγωγής</string>
      <string name="resource_ringtone_volume_mute">Ο ήχος κλήσης σας είναι σε σίγαση</string>
      <string name="resource_save_to_note">Αποθήκευση στις σημειώσεις</string>
@@ -368,7 +359,6 @@
      <string name="theme_component_title_wallpaper">Ταπετσαρία</string>
      <string name="theme_current_using_has_update">Το τρέχον θέμα έχει ενημερωθεί, κάντε κλικ εδώ για να το εφαρμόσετε</string>
      <string name="theme_description_title_customized">Προσαρμοσμένα</string>
-     <string name="theme_description_title_default">Προκαθορισμένο</string>
      <string name="theme_empty_redirect">Επιστροφή στα θέματα</string>
      <string name="theme_favorite_add_fail">Αδυναμία επισήμανσης θέματος</string>
      <string name="theme_favorite_add_success">Το θέμα επισημάνθηκε</string>
