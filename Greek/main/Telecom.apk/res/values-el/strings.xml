@@ -3,9 +3,6 @@
      <string name="accessibility_call_muted">Κλήση σε σίγαση.</string>
      <string name="accessibility_speakerphone_enabled">Μεγάφωνο ενεργό.</string>
      <string name="add_vm_number_str">Προσθήκη αριθμού</string>
-     <string name="change_default_dialer_dialog_title">Αλλαγή προεπιλεγμένης εφαρμογής κλήσεων;</string>
-     <string name="change_default_dialer_no_previous_app_set_text">Χρήση %s ως προεπιλεγμένης εφαρμογής κλήσεων;</string>
-     <string name="change_default_dialer_with_previous_app_set_text">Χρήση %1$s αντί %2$s ως προεπιλεγμένης εφαρμογής κλήσεων;</string>
      <string name="dial_conference_fail_prompt">"Δεν είναι δυνατή η κλήση συνδιάσκεψης άμεσα, διότι τρέχον δίκτυο δεν υποστηρίζει VoLTE."</string>
      <string name="dial_vt_fail_prompt">"Το τρέχον δίκτυο δεν υποστηρίζει VoLTE. Εναλλαγή σε κανονική κλήση ομιλίας;"</string>
      <string name="duplicate_video_call_not_allowed">Η κλήση δεν μπορεί να προστεθεί αυτή τη στιγμή.</string>
@@ -33,7 +30,6 @@
      <string name="respond_via_sms_canned_response_4">"Δεν μπορώ να μιλήσω τώρα. Θα με καλέσετε αργότερα;"</string>
      <string name="respond_via_sms_confirmation_format">Το μήνυμα εστάλη σε %s.</string>
      <string name="respond_via_sms_edittext_dialog_title">Γρήγορη απάντηση</string>
-     <string name="respond_via_sms_menu_reset_default_activity">Επαναφορά προεπιλεγμένης εφαρμογής</string>
      <string name="respond_via_sms_setting_summary" />
      <string name="respond_via_sms_setting_title">Γρήγορες απαντήσεις</string>
      <string name="respond_via_sms_setting_title_2">Επεξεργασία γρήγορων απαντήσεων</string>

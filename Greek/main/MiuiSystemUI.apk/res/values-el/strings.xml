@@ -176,7 +176,6 @@
      <string name="kilobyte_per_second">K/s</string>
      <string name="label_view">Προβολή</string>
      <string name="list_delimeter">", "</string>
-     <string name="lockscreen_carrier_default">(χωρίς δίκτυο)</string>
      <string name="long_screenshot_not_support_msg">"Η τρέχουσα εφαρμογή δεν μπορεί να τραβήξει μακρύτερο στιγμιότυπο."</string>
      <string name="long_screenshot_out_of_memory_error">Απέτυχε επειδή η εικόνα είναι μεγάλη</string>
      <string name="long_screenshot_processing">Επεξεργασία…</string>

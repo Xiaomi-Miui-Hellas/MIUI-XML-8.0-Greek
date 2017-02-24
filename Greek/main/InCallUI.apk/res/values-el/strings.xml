@@ -133,7 +133,6 @@
      <string name="modify_call_option_vt_tx">Μετάδοση βίντεο</string>
      <string name="modify_call_prompt_no">Όχι</string>
      <string name="modify_call_prompt_yes">Ναι</string>
-     <string name="msim_select_default_time_left">(%d s)</string>
      <string name="network_error_message">Προσπαθήστε να πραγματοποιήσετε μια κανονική κλήση. Θα χρεωθεί από τον πάροχό σας.</string>
      <string name="network_error_title">Σφάλμα δικτύου</string>
      <string name="no_balance_message">Δεν υπάρχει αρκετό υπόλοιπο στο πακέτο top-up. Μπορείτε να δοκιμάσετε να πραγματοποιήσετε μια κανονική κλήση αντί αυτού.</string>

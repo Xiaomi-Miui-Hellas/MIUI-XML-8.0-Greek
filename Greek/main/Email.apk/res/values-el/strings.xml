@@ -118,7 +118,6 @@
      <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (αποδοχή όλων των πιστοποιητικών)</string>
      <string name="account_setup_incoming_server_label">Διακομιστής</string>
      <string name="account_setup_incoming_username_label">Όνομα</string>
-     <string name="account_setup_incoming_username_label_default_hint">Μπορεί να περιλαμβάνει τον τομέα</string>
      <string name="account_setup_need_password_verification">Ο λογαριασμός σας έχει ανοίξει ταυτότητας δευτερεύοντα κωδικό πρόσβασης, απαιτείται έλεγχος ταυτότητας</string>
      <string name="account_setup_options_mail_check_frequency_10min">Κάθε 10 λεπτά</string>
      <string name="account_setup_options_mail_check_frequency_12hour">Κάθε 12 ώρες</string>
@@ -134,7 +133,6 @@
      <string name="account_setup_options_mail_window_3days">Τελευταίες τρεις μέρες</string>
      <string name="account_setup_options_mail_window_all">Όλα</string>
      <string name="account_setup_options_mail_window_auto">Αυτόματα</string>
-     <string name="account_setup_options_mail_window_default">Χρήση προκαθορισμένων ρυθμίσεων λογαριασμού</string>
      <string name="account_setup_options_mail_window_label">Μέρες για συγχρονισμό</string>
      <string name="account_setup_options_mail_window_label_imap_or_pop3">Κρατήστε για</string>
      <string name="account_setup_options_title">Ρυθμίσεις λογαριασμού</string>
@@ -273,7 +271,6 @@
      <string name="contact_in_filter_call_phone_str">κλήση: %s</string>
      <string name="contact_in_filter_title">Προέρχεται από τον(την).</string>
      <string name="contact_info_string">Εμφάνιση πληροφοριών επαφής για %1$s</string>
-     <string name="contact_info_string_default">Εμφάνιση πληροφοριών επαφής</string>
      <string name="contact_list_add_btn">Προσθήκη</string>
      <string name="contact_list_search_hint">Αναζήτηση για επαφές</string>
      <string name="contact_list_title">Λίστα Επαφών</string>
@@ -311,9 +308,6 @@
      <string name="date_heading">"Ημερομηνία: "</string>
      <string name="date_message_received">%1$s, %2$s</string>
      <string name="date_message_received_today">Σήμερα, %1$s</string>
-     <string name="default_">ΠΡΟΕΠΙΛΕΓΜΕΝΕΣ</string>
-     <string name="default_setup">ΠΡΟΕΠΙΛΕΓΜΕΝΕΣ ΡΥΘΜΙΣΕΙΣ</string>
-     <string name="default_signature">Αποστολή μέσω Mi</string>
      <string name="del_account_questionnair_hint">"Μπορείτε να μας πείτε γιατί διαγράφετε αυτόν τον λογαριασμό;"</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_message_flow">Διαγραφή ροής μηνυμάτων</string>
@@ -537,7 +531,6 @@
      <string name="meeting_where">Που: %s</string>
      <string name="megabytes">%s mb</string>
      <string name="menu_att_mgr">Συνημμένα</string>
-     <string name="menu_att_mgr_order_default">Προκαθορισμένο</string>
      <string name="menu_att_mgr_order_mime">Ταξινόμηση κατά μορφή</string>
      <string name="menu_att_mgr_order_name">Ταξινόμηση με βάση το όνομα</string>
      <string name="menu_att_mgr_order_rev_date">Ταξινόμηση κατά το χρόνο</string>

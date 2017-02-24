@@ -109,8 +109,6 @@
     <string name="wifi_display_wfd_off_bt_on">Η ασύρματη οθόνη θα απενεργοποιηθεί όταν ενεργοποιήσετε το Bluetooth. Θέλετε να συνεχίσετε;</string>
     <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Η τρέχουσα σύνδεση Wi-Fi Direct θα αποσυνδεθεί όταν συνδεθείτε στη συσκευή ασύρματης οθόνης. Θέλετε να συνεχίσετε;</string>
     <string name="sdcard_ready_title">SD κάρτα είναι έτοιμη</string>
-    <string name="sdcard_select_default_path">Θέλετε να αλλάξετε το προεπιλεγμένο δίσκο εγγραφής;</string>
-    <string name="sdcard_default_path_change">Ο προεπιλεγμένος δίσκος εγγραφής έχει αλλάξει.</string>
     <string name="simlock_slot_locked_message">Η υποδοχή της κάρτας SIM έχει κλειδώσει οριστικά</string>
     <string name="simlock_entersimmelock">Εισαγωγή κλειδώματος κάρτας SIM ME</string>
     <string name="slot_id">Υποδοχή %d:</string>
@@ -162,7 +160,6 @@
     <string name="for_second_simcard">Για τη δεύτερη SIM</string>
     <string name="for_third_simcard">Για την τρίτη κάρτα SIM</string>
     <string name="for_fourth_simcard">Για την τέταρτη κάρτα SIM</string>
-    <string name="default_sim_setting_prompt">Τώρα, οι προεπιλεγμένες ρυθμίσεις SIM είναι:</string>
     <string name="keyguard_video_call">Κλήση βίντεο:</string>
     <string name="dm_prompt">Το τερματικό έχει κλειδωθεί ήδη</string>
     <string name="keyguard_domestic_zone_name">Πεκίνο</string>
@@ -251,7 +248,6 @@
     <string name="find_next">επόμενο</string>
     <string name="tethered_notification_message_for_hotspot">%1$d έχουν συνδεθεί, %2$d έχουν αποκλειστεί</string>
     <string name="tethered_notification_message_bandwidth_set">Το εύρος ζώνης έχει οριστεί</string>
-    <string name="default_wallpaper_name">Προεπιλογή</string>
     <string name="keyguard_accessibility_alarm_unlock">Συναγερμός απενεργοποίησης</string>
     <string name="alarm_alert_dismiss_text">Παράβλεψη</string>
     <string name="description_direction_right">Ολίσθηση δεξιά για παράλειψη</string>
@@ -262,7 +258,6 @@
     <string name="every_day">Κάθε ημέρα</string>
     <string name="never">Ποτέ</string>
     <string name="day_concat">", "</string>
-    <string name="default_label">Ξυπνητήρι</string>
     <string name="dismiss_power_on">Παράβλεψη και ενεργοποίηση</string>
     <string name="dismiss_power_off">Παράβλεψη και απενεργοποίηση</string>
     <string name="voice_unlock_service_error">Σφάλμα υπηρεσίας φωνητικού ξεκλειδώματος.</string>

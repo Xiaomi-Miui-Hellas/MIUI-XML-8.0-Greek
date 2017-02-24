@@ -2,7 +2,6 @@
 <resources>
     <string name="calendar_storage">Χώρος ημερολογίου</string>
     <string name="upgrade_msg">Αναβάθμιση βάσης ημερολογίου.</string>
-    <string name="calendar_default_name">Προεπιλογή</string>
     <string name="calendar_info">Πληροφ. ημερολογίου</string>
     <string name="calendar_info_error">Σφάλμα</string>
     <string name="calendar_info_no_calendars">Χωρίς ημερολόγια</string>

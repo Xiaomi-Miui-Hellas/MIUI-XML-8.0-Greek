@@ -23,7 +23,6 @@
      <string name="button_new_note">Νέα σημείωση</string>
      <string name="call_folder_name">Σημειώσεις κλήσεων</string>
      <string name="call_record_folder_name">Κλήση σημείωσης</string>
-     <string name="default_folder_name">Σημειώσεις</string>
      <string name="delete_folder_dialog_tile">Διαγραφή φακέλου</string>
      <string name="dlg_btn_set_password">Ορισμός κωδικού</string>
      <string name="dlg_check_reminder">Να μην εμφανιστεί ξανά</string>
@@ -140,7 +139,6 @@
      <string name="sns_choose_quality_high">Υψηλή (%1$s)</string>
      <string name="sns_choose_quality_low">Χαμηλή</string>
      <string name="sns_choose_quality_title">Επιλέξτε την ποιότητα της εικόνας</string>
-     <string name="sns_content_default">Μοιραστείτε την εικόνα</string>
      <string name="sns_desc_image_preview">Προεπισκόπηση μηνύματος</string>
      <string name="sns_desc_preview_wechat">Προεπισκόπηση μηνύματος WeChat</string>
      <string name="sns_desc_preview_weibo">Προεπισκόπηση μηνύματος Weibo</string>
@@ -158,7 +156,6 @@
      <string name="theme_title_blue">Μπλε</string>
      <string name="theme_title_candy">Ζαχαρωτά</string>
      <string name="theme_title_dark">Σκοτεινό</string>
-     <string name="theme_title_default">Προεπιλογή</string>
      <string name="theme_title_green">Πράσινο</string>
      <string name="theme_title_invitation">Πρόσκληση</string>
      <string name="theme_title_red">Κόκκινο</string>

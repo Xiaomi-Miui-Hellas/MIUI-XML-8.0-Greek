@@ -11,7 +11,6 @@
      <string name="debug_dump_email_subject">Επισύναψη Βάσης επαφών</string>
      <string name="debug_dump_start_button">Έναρξη</string>
      <string name="debug_dump_title">Αντιγραφή επαφών της βάσης δεδομένων</string>
-     <string name="default_directory">Επαφές</string>
      <string name="edit_contact">Προσθήκη στις επαφές</string>
      <string name="local_invisible_directory">Άλλο</string>
      <string name="pound_search_tip">Εισαγωγή αριθμού μετά το # για αναζήτηση επαφών</string>

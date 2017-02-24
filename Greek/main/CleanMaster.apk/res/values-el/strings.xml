@@ -141,7 +141,6 @@
      <string name="deepclean_title_uninstall_apps">Εφαρμογές με σπάνια χρήση</string>
      <string name="deepclean_video_content">Διαγραφή όσων έχετε ήδη δει ή περιττών βίντεο</string>
      <string name="deepclean_video_summary_empty">Όλα δείχνουν καλά</string>
-     <string name="default_cache_type">Αρχεία δεδομένων</string>
      <string name="dialog_content_checkbox_delete_cloud_image">Διαγραφή φωτογραφιών και από το Mi Cloud</string>
      <string name="dialog_content_select_all_confirm">Να διατηρηθεί ένα αντίγραφο αυτής της φωτογραφίας;</string>
      <string name="dialog_msg_add_white_list_error">"Το αρχείο δεν υποστηρίζει την προσθήκη στις εξαιρέσεις"</string>
@@ -273,7 +272,6 @@
      <string name="low_memory_warning_dialog_ok_button">Καθαρίστε</string>
      <string name="low_memory_warning_dialog_title">Ανεπαρκής χώρος</string>
      <string name="mainbtn_text_quick_cleanup">Καθαρισμός %s</string>
-     <string name="mainbtn_text_quick_cleanup_default">Καθαρισμός</string>
      <string name="megabyteShort">MB</string>
      <string name="memeory_check_content">%1$d εφαρμογές, μνήμη %2$s</string>
      <string name="month_day_format">dd MMM</string>

@@ -61,10 +61,6 @@
      <string name="current_preview">Προεπισκόπηση</string>
      <string name="current_wallpaper">Τωρινή ταπετσαρία</string>
      <string name="custom_wallpaper_picker">Αναζήτηση</string>
-     <string name="default_folder_title_game">Παιχνίδια</string>
-     <string name="default_folder_title_recommend">Προτάσεις</string>
-     <string name="default_folder_title_security">Ασφάλεια</string>
-     <string name="default_folder_title_tools">Εργαλεία</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_screen">Διαγραφή οθόνης</string>
      <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
@@ -212,7 +208,6 @@
      <string name="preferences_general_title">Γενικές ρυθμίσεις</string>
      <string name="preferences_title">Ρυθμίσεις Launcher</string>
      <string name="process" />
-     <string name="recommend_apps_default_title">Κενό</string>
      <string name="recommend_apps_notice">Προτεινόμενες εφαρμογές</string>
      <string name="recommend_apps_notice_nodata">Προτεινόμενες Εφαρμογές (χωρίς στοιχεία)</string>
      <string name="recommend_apps_switch_title">Προτεινόμενες εφαρμογές</string>

@@ -35,9 +35,6 @@
      <string name="day">1 ημέρα</string>
      <string name="day_concat">,</string>
      <string name="days">%s ημέρες</string>
-     <string name="default_alarm_alert">Επιλέξτε τον προεπιλεγμένο ήχο</string>
-     <string name="default_alarm_title">Προεπιλογή ήχου</string>
-     <string name="default_label">Αφύπνιση</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_alarm">Διαγραφή αφύπνισης</string>
      <string name="delete_alarm_confirm">Διαγραφή αυτής της αφύπνισης;</string>

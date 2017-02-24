@@ -6,7 +6,6 @@
      <string name="activate_auto_sms_notification_desc_2_cards">Αποστολή SMS από την κάρτα SIM %s για την ενεργοποίηση του \"Εύρεση συσκευής\"</string>
      <string name="activate_auto_sms_notification_title">Ενεργοποίηση κάρτας SIM</string>
      <string name="activate_feature_call_log_sync">Συγχρονισμός αρχείου κλήσεων</string>
-     <string name="activate_feature_default_name">Υπηρεσίες Mi</string>
      <string name="activate_feature_find_device">Αναζήτηση συσκευής</string>
      <string name="activate_feature_live_talk">Πακέτο Top-up τηλεφώνου</string>
      <string name="activate_feature_mms_sync">Συγχρονισμός SMS</string>

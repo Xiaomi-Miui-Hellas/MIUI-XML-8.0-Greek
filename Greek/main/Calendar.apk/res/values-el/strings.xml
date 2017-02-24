@@ -52,7 +52,6 @@
      <string name="birthday_event_description_day_before_yesterday">Προχθές</string>
      <string name="birthday_event_description_days_ago">Πριν %1$s ημέρες</string>
      <string name="birthday_event_description_days_later">Μετά από %1$s ημέρες</string>
-     <string name="birthday_event_description_default">"%1$s %2$s%3$s%4$s"</string>
      <string name="birthday_event_description_detail_leap" />
      <string name="birthday_event_description_detail_smart" />
      <string name="birthday_event_description_special">"%1$s είναι του/ης %2$s %3$s%4$s%5$s"</string>
@@ -95,7 +94,6 @@
      <string name="date_time_fmt" formatted="false">%s, %s</string>
      <string name="day_view">Ημέρα</string>
      <string name="day_view_new_event_hint">Νέο γεγονός</string>
-     <string name="default_reminder_mode">Προκαθορισμένη λειτουργία υπενθύμισης</string>
      <string name="delete_calendar">Διαγραφή</string>
      <string name="delete_label">Διαγραφή</string>
      <string name="delete_recurring_event_title">Διαγραφή %s;</string>
@@ -249,14 +247,10 @@
      <string name="preferences_category_general_title">Γενικά</string>
      <string name="preferences_clear_search_history_summary">"Αφαίρεση όλων των αναζητήσεών σας"</string>
      <string name="preferences_clear_search_history_title">Καθαρισμός ιστορικού αναζήτησης</string>
-     <string name="preferences_default_reminder_default">10</string>
-     <string name="preferences_default_reminder_dialog">Προκαθορισμένος χρόνος υπενθύμισης</string>
-     <string name="preferences_default_reminder_title">Προκαθορισμένος χρόνος υπενθύμισης</string>
      <string name="preferences_general_title">Ρυθμίσεις προβολής ημερολογίου</string>
      <string name="preferences_hide_declined_title">Απόκρυψη απορριφθέντων γεγονότων</string>
      <string name="preferences_history_events">Εμφάνιση ιστορικού γεγονότων</string>
      <string name="preferences_holidays">Εμφάνιση αργιών</string>
-     <string name="preferences_home_tz_default">Αμερική/Λος Άντζελες</string>
      <string name="preferences_home_tz_title">Τοπική ζώνη ώρας</string>
      <string name="preferences_notification_ringtone_title">Ήχος</string>
      <string name="preferences_reminder_title">Ειδοποιήσεις &amp; υπενθυμίσεις</string>

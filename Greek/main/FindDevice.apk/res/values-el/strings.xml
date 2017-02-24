@@ -5,8 +5,6 @@
      <string name="app_name">Εύρεση συσκευής</string>
      <string name="captcha">Captcha</string>
      <string name="change_find_device_status_failed">"Αδυναμία ξεκλειδώματος. %s."</string>
-     <string name="default_lock_msg_words">Γεια σας! Έχασα το τηλέφωνό μου. Θα επικοινωνήσω μαζί σας αργότερα. Σας ευχαριστώ για την κατανόηση!</string>
-     <string name="default_lock_msg_words_with_phone">Γεια σας! Έχασα το τηλέφωνό μου. Θα μπορούσατε σας παρακαλώ να επικοινωνήσετε μαζί μου; Ευχαριστώ!</string>
      <string name="device_locked">Αυτή η συσκευή είναι κλειδωμένη</string>
      <string name="device_lost">Αυτή η συσκευή έχει χαθεί</string>
      <string name="disable_find_device_error">"Αδυναμία απενεργοποίησης του Εύρεση συσκευής. %1$s"</string>

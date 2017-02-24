@@ -275,7 +275,6 @@
      <string name="SysOpt_Boost_Receiver">Παρασκήνιο</string>
      <string name="app_name">Διαχείριση δικαιωμάτων</string>
      <string name="current_permission_template">%1$s από %2$s</string>
-     <string name="default_permission_description">να εκτελέσει μια άγνωστη ενέργεια</string>
      <string name="grant_confirm_question">Θέλετε να χορηγηθούν τα ακόλουθα δικαιώματα; Θα έχει πρόσβαση σε:</string>
      <string name="grant_dialog_button_allow">Επίτρεψε</string>
      <string name="grant_dialog_button_deny">Απόρριψη</string>

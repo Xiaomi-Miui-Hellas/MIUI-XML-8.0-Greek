@@ -43,7 +43,6 @@
      <string name="action_bar_up_description">Πλοήγηση προς τα επάνω</string>
      <string name="action_menu_overflow_description">Περισσότερες επιλογές</string>
      <string name="action_mode_done">Τέλος</string>
-     <string name="activity_chooser_view_dialog_title_default">Επιλογή δραστηριότητας</string>
      <string name="activity_chooser_view_see_all">Εμφάνιση όλων</string>
      <string name="activity_list_empty">Δεν βρέθηκαν δραστηριότητες που να συμφωνούν με τα κριτήρια.</string>
      <string name="activity_resolver_use_always">Πάντα</string>
@@ -169,13 +168,6 @@
      <string name="day">ημέρα</string>
      <string name="days">ημέρες</string>
      <string name="decline">Απόρριψη</string>
-     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-     <string name="defaultVoiceMailAlphaTag">Αυτόματος τηλεφωνητής</string>
-     <string name="default_audio_route_category_name">Σύστημα</string>
-     <string name="default_audio_route_name">Τηλέφωνο</string>
-     <string name="default_audio_route_name_dock_speakers">Ηχεία βάσης σύνδεσης</string>
-     <string name="default_audio_route_name_headphones">Ακουστικά</string>
-     <string name="default_media_route_name_hdmi">HDMI</string>
      <string name="delete">Διαγραφή</string>
      <string name="deleteText">Διαγραφή</string>
      <string name="deny">Άρνηση</string>
@@ -321,7 +313,6 @@
      <string name="imTypeHome">Οικία</string>
      <string name="imTypeOther">Άλλο</string>
      <string name="imTypeWork">Εργασία</string>
-     <string name="ime_action_default">Εκτέλεση</string>
      <string name="ime_action_done">Τέλος</string>
      <string name="ime_action_go">Μετάβαση</string>
      <string name="ime_action_next">Επόμενο</string>
@@ -344,7 +335,6 @@
      <string name="js_dialog_before_unload_positive_button">Αποχώρηση από αυτήν τη σελίδα</string>
      <string name="js_dialog_before_unload_title">Επιβεβαίωση πλοήγησης</string>
      <string name="js_dialog_title">Η σελίδα στον τίτλο \"%s\" λέει:</string>
-     <string name="js_dialog_title_default">JavaScript</string>
      <string name="keyboard_headset_required_to_hear_password">Συνδέστε ακουστικά για να ακούσετε τα πλήκτρα του κωδικού πρόσβασης να εκφωνούνται.</string>
      <string name="keyboard_password_character_no_headset">Τελεία.</string>
      <string name="keyboardview_keycode_alt">Alt</string>
@@ -452,7 +442,6 @@
      <string name="lockscreen_access_pattern_start">Έναρξη μοτίβου</string>
      <string name="lockscreen_airplane_mode_on">Airplane Mode</string>
      <string name="lockscreen_battery_short">%d%%</string>
-     <string name="lockscreen_carrier_default">Καμία υπηρεσία.</string>
      <string name="lockscreen_charged">Μπαταρία πλήρης</string>
      <string name="lockscreen_emergency_call">Κλήση έκτακτης ανάγκης</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Μετά από %d προσπάθειες, το τηλέφωνο θα επαναφερθεί στις εργοστασιακές ρυθμίσεις και όλα τα δεδομένα χρήστη θα χαθούν.</string>
@@ -1260,8 +1249,6 @@ Attempts Remaining :"</string>
      <string name="restr_pin_incorrect">Εσφαλμένο</string>
      <string name="restr_pin_try_later">Δοκιμάστε ξανά αργότερα</string>
      <string name="revoke">Ανάκληση</string>
-     <string name="ringtone_default">Προεπιλεγμένος ήχος κλήσης</string>
-     <string name="ringtone_default_with_actual">Προεπιλεγμένος ήχος κλήσης (%1$s)</string>
      <string name="ringtone_picker_title">Ήχοι κλήσης</string>
      <string name="ringtone_silent">Κανένας</string>
      <string name="ringtone_unknown">Άγνωστος ήχος κλήσης</string>
@@ -1533,7 +1520,6 @@ Attempts Remaining :"</string>
      <string name="wifi_p2p_show_pin_message">PIN:</string>
      <string name="wifi_p2p_to_message">Προς:</string>
      <string name="wifi_p2p_turnon_message">Ξεκινήστε τη λειτουργία Wi‑Fi Direct. Θα απενεργοποιηθεί η λειτουργία πελάτη/φορητού σημείου πρόσβασης Wi‑Fi.</string>
-     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
      <string name="wifi_watchdog_network_disabled">Δεν είναι δυνατή η σύνδεση στο Wi‑Fi</string>
      <string name="wifi_watchdog_network_disabled_detailed">" έχει κακή σύνδεση στο Διαδίκτυο."</string>
      <string name="wireless_display_route_description">Ασύρματη οθόνη</string>

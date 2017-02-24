@@ -2,7 +2,6 @@
 <resources>
      <string name="accessibility_calllog_detail">Λεπτομέρειες αρχείου κλήσης</string>
      <string name="account_container_title">Εισήχθη από</string>
-     <string name="account_default">Τηλέφωνο</string>
      <string name="account_phone">Μόνο στο τηλέφωνο, χωρίς συγχρονισμό</string>
      <string name="account_sim">Κάρτα SIM</string>
      <string name="account_sim2">Κάρτα SIM %d</string>
@@ -159,7 +158,6 @@
      <string name="clearFrequentsConfirmation_title">Εκκαθάριση συχνών επαφών;</string>
      <string name="clearFrequentsProgress_title">Εκκαθάριση συχνών επαφών…</string>
      <string name="clear_copy_number_description">Διαγραφή αντιγραμμένου αριθμού</string>
-     <string name="clear_default">Εκκαθάριση προεπιλεγμένων</string>
      <string name="clear_digits">Καθαρισμός αριθμού τηλεφώνου</string>
      <string name="click_close">Πατήστε για να κλείσετε</string>
      <string name="clip_dialog_title">Κλήση αντιγραμμένου αριθμού;</string>
@@ -274,7 +272,6 @@
      <string name="date_picker_label">Θύμισε μου 3 μέρες πριν και πάλι την ημέρα της</string>
      <string name="date_time_set">Ορισμός</string>
      <string name="date_year_toggle">Δώστε ένα έτος</string>
-     <string name="default_ringtone">Προεπιλεγμένος ήχος κλήσης</string>
      <string name="deleteConfirmation">Αυτή η επαφή θα διαγραφεί.</string>
      <string name="deleteConfirmationDetail">Διαγραφή \"%s\";</string>
      <string name="deleteConfirmation_title">Διαγραφή</string>
@@ -957,7 +954,6 @@
      <string name="preference_contacts_filter">Διαμόρφωση λίστας επαφών</string>
      <string name="preference_contacts_more">Οργάνωση επαφών</string>
      <string name="preference_contacts_recovery_introduction">Ανάκτηση επαφών</string>
-     <string name="preference_dial_pad_touch_tone_default">Προκαθορισμένο</string>
      <string name="preference_dial_pad_touch_tone_human">Φωνή</string>
      <string name="preference_dial_pad_touch_tone_piano">Πλήκτρα πιάνου</string>
      <string name="preference_dial_pad_touch_tone_switch">Ήχοι πληκτρολογίου</string>
@@ -1102,7 +1098,6 @@
      <string name="service_provider">Φάκελοι</string>
      <string name="service_provider_detail">Λεπτομέρειες καταλόγου</string>
      <string name="set_data_package">Ρυθμίστε πρώτα το πρόγραμμα δεδομένων</string>
-     <string name="set_default">Ορισμός προεπιλογών</string>
      <string name="set_photo_failed_msg">Αποτυχία εκχώρησης εικόνας.</string>
      <string name="share_error">"Η επαφή αυτή δεν μπορεί να διαμοιραστεί"</string>
      <string name="share_over_limit">"Πάνω από το όριο. Δεν μπορεί να μοιραστεί"</string>
@@ -1246,7 +1241,6 @@
      <string name="vcard_import_failed">"Δεν ήταν δυνατή η εισαγωγή %s vCard."</string>
      <string name="vcard_import_request_rejected_message">Η αίτηση εισαγωγής vCard έχει απορριφθεί. Δοκιμάστε ξανά αργότερα.</string>
      <string name="vcard_import_will_start_message">%s θα εισαχθεί σύντομα.</string>
-     <string name="vcard_import_will_start_message_with_default_name">Το αρχείο θα εισαχθεί σύντομα.</string>
      <string name="vcard_info_send_error">Αδυναμία αποστολής λόγω σφάλματος vCard</string>
      <string name="vcard_unknown_filename">επαφή</string>
      <string name="video_call">Κλήση βίντεο</string>

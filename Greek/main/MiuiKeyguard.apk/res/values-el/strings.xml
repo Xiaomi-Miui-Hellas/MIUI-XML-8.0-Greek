@@ -4,7 +4,6 @@
      <string name="click_to_enter_text">Πατήστε για να ξεκλειδώσετε</string>
      <string name="confirm_pin_msg">Εισάγετε το PIN ξανά</string>
      <string name="custom_lock_wallpaper_enter">Εισαγωγή</string>
-     <string name="default_lockscreen_unlock_hint_text">Σύρετε για ξεκλείδωμα</string>
      <string name="delete">Διαγραφή</string>
      <string name="emergency_call_string">Κλήση έκτακτης ανάγκης</string>
      <string name="experimental_try_string">Δοκιμάστε</string>
@@ -36,7 +35,6 @@
      <string name="invalid_sim_pin_hint">Πληκτρολογήστε ένα PIN από 4 έως 8 αριθμούς</string>
      <string name="invalid_sim_puk_hint">Ο κωδικός PUK θα πρέπει να είναι 8 ή περισσότεροι αριθμοί</string>
      <string name="keyguard_torch_cover_text">Για να διατηρήσετε to φακό αναμμένο, πατήστε το κουμπί λειτουργίας</string>
-     <string name="left_action_default_hint_text">Mi Remote</string>
      <string name="lock_screen_date">EEEE d MMMM</string>
      <string name="lock_screen_date_12">EEEE d MMMM</string>
      <string name="lock_wallpaper_enter">Εισαγωγή</string>

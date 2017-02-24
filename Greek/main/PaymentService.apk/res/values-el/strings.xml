@@ -243,7 +243,6 @@ SMS επιβεβαίωσης και κάντε κλικ στο 'αγορά ολ�
      <string name="prepaid_picker_hint_2_1">2.</string>
      <string name="prepaid_picker_hint_2_2_a">Επιλεγμένα ονομαστικής αξίας πρέπει να είναι συνεπής με εκείνη της προπληρωμένης κάρτας. Επιλέγοντας άλλη τιμή θα ακυρώσει την κάρτα. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.</string>
      <string name="prepaid_picker_hint_2_2_b">Εάν η ονομαστική αξία της προπληρωμένης κάρτας δεν είναι &lt;font color=red>￥%1$s&lt;/font>, η κάρτα θα είναι άκυρη. Η Mi δεν είναι υπεύθυνη για οποιαδήποτε νομισματική απώλεια που συμβαίνει ως αποτέλεσμα σφαλμάτων του χρήστη.</string>
-     <string name="prepaid_picker_title_default">Επιλέξτε ποσό</string>
      <string name="prepaid_picker_title_selected">ποσό</string>
      <string name="process_expired">Πού πήγατε; Αυτή η λειτουργία έχει λήξει.</string>
      <string name="progress_bankcall_card_creating">Δημιουργία παραγγελίας…</string>

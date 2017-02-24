@@ -30,7 +30,6 @@
      <string name="activity_title_auto_start_manager">Αυτόματη έναρξη</string>
      <string name="activity_title_create_shortcut">Διαχείριση συντομεύσεων</string>
      <string name="activity_title_deep_clean">Βαθύς καθαρισμός</string>
-     <string name="activity_title_default_apps_manager">Προεπιλογή εφαρμογών</string>
      <string name="activity_title_garbage_cleanup">Καθαρισμός</string>
      <string name="activity_title_license_manager">Δικαιώματα</string>
      <string name="activity_title_memory">Μνήμη</string>
@@ -119,7 +118,6 @@
      <string name="apps_item_sign_dialog_content">Η υπογραφή του \"%s\" είναι διαφορετική από την έκδοση στο App Store. Διαγραφή της εφαρμογής και εγκατάσταση της επίσημης έκδοσης; Σημείωση: εγκαθιστώντας μια εφαρμογή με αντιφατική υπογραφή μπορεί να οδηγήσει σε απώλεια δεδομένων.</string>
      <string name="apps_item_sign_dialog_title">Εγκατάσταση επίσημης έκδοσης εφαρμογής</string>
      <string name="apps_item_sign_install_button_text">Αντικατάσταση</string>
-     <string name="apps_item_sms_default_set_success">Επιτυχής ρύθμιση!</string>
      <string name="apps_item_sms_reset_button_text">Επαναφορά προεπιλογών</string>
      <string name="apps_item_sms_title">Ρυθμίσεις προεπιλογής μηνυμάτων</string>
      <string name="apps_item_summary_sms">Το %s έχει πρόσβαση στα μηνύματά σας. Μπορεί να δημιουργήσει προβλήματα ασφάλειας</string>
@@ -569,7 +567,6 @@
      <string name="hints_virus_app_list_item_summary">Ιός (app)</string>
      <string name="hints_virus_app_summary">%s (app)</string>
      <string name="hints_virus_descx_title">Περιγραφή:</string>
-     <string name="hints_virus_lib_update_default_summary">Τελευταία ενημέρωση: άγνωστη</string>
      <string name="hints_virus_name_title">Ιός:</string>
      <string name="hints_virus_scan_result_descx">Αυτή η εφαρμογή είναι μια σημαντική απειλή για την ασφάλεια του τηλεφώνου σας</string>
      <string name="history_details_title">Λεπτομέρειες ιστορικού</string>
@@ -614,7 +611,6 @@
      <string name="last_check_date_yesterday">Τελευταία ανάλυση χθες</string>
      <string name="last_check_never_checked">Σύσταση ανάλυσης (1η φορά)</string>
      <string name="last_checked_date2">Η τελευταία ανάλυση ήταν πριν %d ημέρες</string>
-     <string name="last_checked_default">Προηγούμενη σάρωση πριν %s ημέρες</string>
      <string name="left_precent">60%</string>
      <string name="legal_workday">Αργίες</string>
      <string name="legal_workday_invalidate">Τα δεδομένα έληξαν(Προς το παρόν χτυπάει από Δευτέρα έως Παρασκευή)</string>
@@ -866,10 +862,7 @@
      <string name="optimize_result_button_to_set">Ρύθμιση</string>
      <string name="optimize_result_button_update_now">Ενημέρωση</string>
      <string name="optimize_result_summary_sucurity_risk">Ορισμένες λειτουργίες ασφαλείας είναι ανενεργές. Ενεργοποιείστε τες για να κάνετε τη συσκευή σας πιο ασφαλή:</string>
-     <string name="optimize_result_summary_system_default_settings">"Χρησιμοποιώντας τις προεπιλεγμένες εφαρμογές MIUI, αυξάνετε το επίπεδο σταθερότητας και ασφάλειας του συστήματος."</string>
      <string name="optimize_result_title_sucurity_risk">Βρέθηκαν κίνδυνοι ασφαλείας</string>
-     <string name="optimize_result_title_system_default_settings">Οι προεπιλεγμένες ρυθμίσεις έχουν αλλάξει</string>
-     <string name="optimize_result_toast_system_default_settings">Επαναφορά προεπιλεγμένων ρυθμίσεων</string>
      <string name="optimize_result_toast_system_no_item_selected">Δεν έχουν επιλεγεί στοιχεία</string>
      <string name="optmizingbar_optimize_done">Βελτιστοποιήθηκε</string>
      <string name="optmizingbar_ready">Βελτιστοποίηση…</string>
@@ -1162,7 +1155,6 @@
      <string name="safe_result_item_info_app_sign">Δεν υπάρχουν ανεπίσημες εφαρμογές</string>
      <string name="safe_result_item_info_app_virus">Δεν υπάρχουν ιοί και επικίνδυνες εφαρμογές</string>
      <string name="safe_result_item_info_sms_auth">Περιορισμός πρόσβασης εφαρμογών τρίτων στους κωδικούς επαλήθευσης</string>
-     <string name="safe_result_item_info_sms_default">Επαναφορά προεπιλεγμένης εφαρμογής μηνυμάτων</string>
      <string name="safe_result_item_info_sms_url">Προστασία από κακόβουλα URL στα μηνύματα</string>
      <string name="safe_result_item_info_system_antivirus">Προστασία από ιούς</string>
      <string name="safe_result_item_info_system_root">Το σύστημα δεν είναι Root</string>
@@ -1290,7 +1282,6 @@
      <string name="summary_cmcc_app_check">Μερικές εφαρμογές δεν ήταν δυνατό να επαληθευτούν</string>
      <string name="summary_consume_power">Βρέθηκαν προβλήματα θερμοκρασίας. Μπορεί να επηρεάσουν τη διάρκεια ζωής της μπαταρίας</string>
      <string name="summary_data_flow">Αποφύγετε να ξεπεράσετε το μηνιαίο όριο δεδομένων του φορέα σας</string>
-     <string name="summary_default_app">Το %s δεν έχει οριστεί ως προεπιλεγμένη εφαρμογή συστήματος</string>
      <string name="summary_dev">Αποφύγετε την κλοπή προσωπικών δεδομένων</string>
      <string name="summary_find_device">Εντοπίστε και κλειδώσετε τη συσκευή σας από οπουδήποτε</string>
      <string name="summary_flow_notification">Εμφάνιση μηνιαίων στατιστικών στοιχείων χρήσης των δεδομένων σας στη μπάρα ειδοποιήσεων</string>
@@ -1366,7 +1357,6 @@
      <string name="tc_diagnostic_upload_success">Ευχαριστούμε για τα σχόλιά σας!</string>
      <string name="tc_sms_report_direction">Κωδικός ερωτήματος SMS</string>
      <string name="tc_sms_report_do_report">Αποστολή</string>
-     <string name="tc_sms_report_get_default">Δεν θα επιβαρυνθείτε με χρεώσεις για μηνύματα SMS που χρησιμοποιούνται για τη λήψη υπολοίπου χρήσης δεδομένων από το φορέα σας.</string>
      <string name="tc_sms_report_get_sms">Λήψη SMS</string>
      <string name="tc_sms_report_get_sms2">Λήψη SMS</string>
      <string name="tc_sms_report_get_sms_again">Ανανέωση SMS</string>
@@ -1431,7 +1421,6 @@
      <string name="title_consume_power">Βρέθηκαν προβλήματα μπαταρίας</string>
      <string name="title_consume_power_rank">Χρήση μπαταρίας</string>
      <string name="title_data_flow">Ορίστε μια προειδοποίηση χρήσης δεδομένων</string>
-     <string name="title_default_app">MIUI %s δεν έχει οριστεί ως προεπιλογή</string>
      <string name="title_dev_no">Ενεργοποίηση επιλογών για προγραμματιστές</string>
      <string name="title_dev_yes">Απενεργοποίηση επιλογών για προγραμματιστές</string>
      <string name="title_find_device">Ενεργοποίηση του Εύρεση συσκευής</string>
@@ -1475,7 +1464,6 @@
      <string name="toast_add_virus_white_list_success">Προστέθηκε στις Εξαιρέσεις. Δείτε τα στοιχεία στις ρυθμίσεις.</string>
      <string name="toast_auto_traffic_correct">Αυτόματη βαθμονόμηση ενεργή</string>
      <string name="toast_cleaner_cloudscan">Το Cleaner θα χρησιμοποιήσει την online βάση ιών</string>
-     <string name="toast_default_app">%1$s ορισμός ως προεπιλογή συστήματος %2$s</string>
      <string name="toast_flow_notification">Ενεργοποίηση ειδοποιήσεων για χρήση δεδομένων</string>
      <string name="toast_garbage_lib">Ενεργοποίηση αυτόματων ενημερώσεων για Cleaner</string>
      <string name="toast_lockscreen_glogin_empty_password">Απαιτείται κωδικός</string>

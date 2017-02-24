@@ -52,7 +52,6 @@
      <string name="apn_settings">Ονόματα σημείου πρόσβασης</string>
      <string name="area_code_preference_be_set_summary">Τρέχουσα τοποθεσία: %s</string>
      <string name="area_code_preference_summary">Αυτόματη κλήση κωδικού περιοχής</string>
-     <string name="areacode_set_default">Προεπιλογή</string>
      <string name="atr_disable">Αναφορές κυκλοφορίας ανενεργές</string>
      <string name="atr_enable">Αναφορές κυκλοφορίας ενεργές</string>
      <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -135,7 +134,6 @@
      <string name="callFailed_userBusy">Κατειλημμένη γραμμή</string>
      <string name="callUnanswered_forwarded">Αναπάντητες και προωθημένες κλήσεις</string>
      <string name="call_advanced_setting_title">Προχωρημένες ρυθμίσεις</string>
-     <string name="call_background_default">Προεπιλεγμένη εικόνα</string>
      <string name="call_background_lock_wallpaper">Ταπετσαρία Οθόνης κλειδώματος</string>
      <string name="call_background_setting">Φόντο κλήσεων</string>
      <string name="call_barring">Φραγή κλήσεων</string>
@@ -230,7 +228,6 @@
      <string name="cb_channel_dialog_channel_number">Αριθμός καναλιού (0-65534)</string>
      <string name="cb_channel_dialog_channel_state">Ενεργοποιήστε το κανάλι</string>
      <string name="cb_channel_dialog_edit_channel">Επεξεργασία καναλιού</string>
-     <string name="cb_default_new_channel_name">Νέο κανάλι</string>
      <string name="cb_dialog_title_language_choice">Επιλέξτε γλώσσα</string>
      <string name="cb_error_channel_id_exist">Ο αριθμός καναλιού υπάρχει ήδη.</string>
      <string name="cb_error_channel_name">Το μήκος του ονόματος καναλιού δεν είναι σωστό(1-10 χαρακτήρες).</string>
@@ -271,8 +268,6 @@
      <string name="cfnry_title">Προώθηση όταν δεν απαντάω</string>
      <string name="cfu_title">Προώθηση πάντα</string>
      <string name="change_data_preference_4g_only_prompt">Φαίνεται ότι έχετε μια 4G κάρτα SIM. Να οριστεί ως προεπιλογή για δεδομένα κινητής;</string>
-     <string name="change_default_data_card">Προεπιλεγμένη SIM δεδομένων</string>
-     <string name="change_default_data_card_summary">Φαίνεται ότι αλλάξατε κάρτες SIM. Ορισμός αυτής της κάρτας ως προεπιλεγμένη SIM για σύνδεση δεδομένων;</string>
      <string name="change_num">Ενημέρωση</string>
      <string name="change_password">Αλλαγή κωδικού φραγής</string>
      <string name="change_pin">Αλλαγή PIN κάρτας SIM</string>
@@ -280,7 +275,6 @@
      <string name="chose_product_summary">Καλέστε φθηνότερα</string>
      <string name="chose_product_title">Πακέτο Top-up</string>
      <string name="clir_choices_hide_number">Απόκρυψη αριθμού</string>
-     <string name="clir_choices_network_default">Προεπιλογή δικτύου</string>
      <string name="clir_choices_show_number">Εμφάνιση αριθμού</string>
      <string name="close_dialog">OK</string>
      <string name="close_profile">Κλείσιμο</string>
@@ -289,7 +283,6 @@
      <string name="command_error_fdn_failure">Θα πρέπει να απενεργοποιήσετε πρώτα το FDN</string>
      <string name="common_problem_message">Μάθετε περισσότερα στο %1$s, ή καλέστε την εξυπηρέτηση πελατών μας στο 400-100-5678</string>
      <string name="common_setting">Γενικές ρυθμίσεις</string>
-     <string name="config_default_data_sim">Ρυθμίσεις</string>
      <string name="config_dialing_emergency_number_suffix" />
      <string name="confirm">Επιβεβαίωση</string>
      <string name="confirmPin2Label">Επιβεβαίωση νέου PIN2</string>
@@ -303,7 +296,6 @@
      <string name="connect_disconnect_vibrate_title">Δόνηση όταν το σηκώνετε</string>
      <string name="connect_disconnect_vibrate_weak">Ελαφρύ</string>
      <string name="connect_later">Δεν είναι δυνατή η σύνδεση σε αυτό το δίκτυο τώρα. Δοκιμάστε ξανά αργότερα.</string>
-     <string name="connection_service_default_label">Ενσωματωμένη υπηρεσία σύνδεσης</string>
      <string name="contactAddFailed">Αποτυχία προσθήκης επαφής στην κάρτα SIM.</string>
      <string name="contactAddSuccess">Η επαφή προστέθηκε στην κάρτα SIM.</string>
      <string name="contactPhoto">φωτογραφία επαφής</string>
@@ -320,11 +312,6 @@
      <string name="data_enable_summary">Ενεργοποίηση πρόσβασης δεδομένων μέσω δικτύου κινητής τηλεφωνίας</string>
      <string name="data_enabled">Δεδομένα ενεργά</string>
      <string name="deactivate_all">Ακύρωση όλων</string>
-     <string name="default_area_code_setting">Προεπιλεγμένος κωδικός περιοχής</string>
-     <string name="default_areacode">Προεπιλεγμένος κωδικός περιοχής</string>
-     <string name="default_call_type">CSVoice</string>
-     <string name="default_notification_description">Προεπιλεγμένος ήχος (%1$s)</string>
-     <string name="default_preference_summary">&lt;Δεν έχει οριστεί></string>
      <string name="delete">Διαγραφή</string>
      <string name="deleteAllSimEntries">Διαγραφή επαφών SIM</string>
      <string name="deleteSimContacts">Διαγραφή επαφών SIM…</string>
@@ -607,7 +594,6 @@
      <string name="invalid_puk2">Πληκτρολογήστε ένα PUK2 που αποτελείται από 8 αριθμούς.</string>
      <string name="ip_dial_error_toast_for_no_ip_prefix_number">Παρακαλώ εισάγετε πρώτα τον αριθμό προθέματος IP στις ρυθμίσεις φωνητικών κλήσεων.</string>
      <string name="ip_dial_error_toast_for_sip_call_selected">Η Λειτουργία κλήσης IP δεν είναι εφαρμόσιμη σε κλήσεις μέσω Internet.</string>
-     <string name="ip_prefix_edit_default_sum">Εισάγετε τον αριθμό προθέματος κλήσης για IP</string>
      <string name="ip_prefix_setting">Αριθμός προθέματος IP</string>
      <string name="ip_prefix_setting_sum">Ρυθμίσεις αριθμού προθέματος IP</string>
      <string name="ivr_mo_area_code_settings">Τρέχων κωδικός περιοχής</string>
@@ -769,10 +755,7 @@
      <string name="mobile_network_settings_not_available">Οι ρυθμίσεις δικτύου κινητής δεν είναι διαθέσιμες για αυτόν τον χρήστη</string>
      <string name="mobile_networks">Δίκτυα κινητής τηλεφωνίας</string>
      <string name="msim_apn_not_set">Δεν ορίστηκε</string>
-     <string name="msim_default_setting">Προεπιλεγμένες ρυθμίσεις</string>
      <string name="msim_disable_sim_card_btn_text">OK</string>
-     <string name="msim_disable_sim_card_summary_default_card">"Αυτή η κάρτα έχει οριστεί ως η προεπιλεγμένη σας SIM. Εάν σταματήσετε να τη χρησιμοποιείτε, δεν θα μπορείτε να πραγματοποιήσετε κλήσεις ή να χρησιμοποιήσετε τη σύνδεση δεδομένων κινητής τηλεφωνίας. Μπορείτε να σταματήσετε αυτήν την κάρτα SIM αφού πρώτα ορίσετε άλλη κάρτα SIM ως προεπιλογή."</string>
-     <string name="msim_disable_sim_card_summary_non_default_card">Δεν θα μπορείτε να πραγματοποιήσετε κλήσεις ή να χρησιμοποιήσετε τη σύνδεση δεδομένων κινητής τηλεφωνίας. Απενεργοποίηση της %s κάρτας SIM;</string>
      <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">Να μην περιοριστεί η δευτερεύουσα κάρτα SIM σε περίπτωση κλήσης έκτακτης ανάγκης.</string>
      <string name="msim_disable_sim_card_title">Απενεργοποίηση κάρτας SIM</string>
      <string name="msim_enable_sim">Ενεργοποίηση</string>
@@ -1062,7 +1045,6 @@
      <string name="preference_category_ringtone">Ήχος κλήσης &amp; Δόνηση</string>
      <string name="preference_data_usage_summary">Ρυθμίστε το πρόγραμμα δεδομένων σας για τον έλεγχο της χρήσης των δεδομένων κινητής</string>
      <string name="preference_data_usage_title">Ρύθμιση προγράμματος δεδομένων</string>
-     <string name="preference_dial_pad_touch_tone_default">Προεπιλογή</string>
      <string name="preference_dial_pad_touch_tone_off">Ανενεργό</string>
      <string name="preference_dial_pad_touch_tone_piano">Πλήκτρα πιάνου</string>
      <string name="preference_dial_pad_touch_tone_title">Ήχοι πληκτρολογίου</string>
@@ -1211,7 +1193,6 @@
      <string name="respond_via_sms_cannot_empty">Τα μηνύματα απόρριψης δεν μπορεί να είναι άδεια</string>
      <string name="respond_via_sms_confirmation_format">Το μήνυμα εστάλη σε %s.</string>
      <string name="respond_via_sms_edittext_dialog_title">Γρήγορη απάντηση</string>
-     <string name="respond_via_sms_menu_reset_default_activity">Επαναφορά προεπιλογών</string>
      <string name="respond_via_sms_setting_summary">Επεξεργασία προεπιλεγμένων απαντήσεων κειμένου</string>
      <string name="respond_via_sms_setting_title">Γρήγορες απαντήσεις</string>
      <string name="response_error">Απροσδόκητη ανταπόκριση από το δίκτυο.</string>
@@ -1279,7 +1260,6 @@
      <string name="sim_card_summary_no_sim_card">Παρακαλώ εισάγετε την κάρτα SIM</string>
      <string name="sim_contact_name">Όνομα</string>
      <string name="sim_contact_number">Αριθμός</string>
-     <string name="sim_description_default">Κάρτα SIM, υποδοχή: %s</string>
      <string name="sim_description_emergency_calls">Μόνο κλήσεις έκτακτης ανάγκης</string>
      <string name="sim_label_emergency_calls">Κλήσεις έκτακτης ανάγκης</string>
      <string name="sim_ndp_dismiss_text">Απόρριψη</string>
@@ -1339,7 +1319,6 @@
      <string name="sum_cfu_enabled_no_number">Ο αριθμός δεν είναι διαθέσιμος</string>
      <string name="sum_cw_disabled">Κατά τη διάρκεια μιας κλήσης, ειδοποίησέ με για εισερχόμενες κλήσεις</string>
      <string name="sum_cw_enabled">Κατά τη διάρκεια μιας κλήσης, ειδοποίησέ με για εισερχόμενες κλήσεις</string>
-     <string name="sum_default_caller_id">Χρήση των προεπιλεγμένων ρυθμίσεων ώστε να εμφανίζεται ο αριθμός μου σε εξερχόμενες κλήσεις</string>
      <string name="sum_fdn">Διαχείριση Σταθερών Αριθμών Κλήσης</string>
      <string name="sum_fdn_change_pin">Αλλαγή PIN για πρόσβαση FDN</string>
      <string name="sum_fdn_manage_list">Διαχείριση λίστας σταθερών αριθμών κλήσης</string>
@@ -1455,7 +1434,6 @@
      <string name="voice_report_unknown_num">Άγνωστος αριθμός</string>
      <string name="voicemail">Τηλεφωνητής</string>
      <string name="voicemail_abbreviated">ΑΤ:</string>
-     <string name="voicemail_default">Προεπιλογή</string>
      <string name="voicemail_notification_ringtone_title">Ήχος</string>
      <string name="voicemail_notification_vibarte_when_dialog_title">Δόνηση</string>
      <string name="voicemail_notification_vibrate_when_title">Δόνηση</string>

@@ -48,7 +48,6 @@
      <string name="caller_app">Καλών: %1$s</string>
      <string name="cancel">Άκυρο</string>
      <string name="current_permission_template">%1$s από %2$s</string>
-     <string name="default_permission_description">εκτελέσει μια άγνωστη ενέργεια</string>
      <string name="devicePerms">Πρόσβαση συσκευής</string>
      <string name="dlg_app_replacement_statement">"Η εφαρμογή που εγκαθιστάτε θα αντικαταστήσει μια άλλη εφαρμογή. Όλα τα προηγούμενα δεδομένα χρήστη θα αποθηκευτούν."</string>
      <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) θα αντικαταστήσει την τρέχουσα έκδοση (%3$s). Το περιεχόμενο του χρήστη θα διατηρηθεί. Είστε σίγουροι ότι θέλετε να την εγκαταστήσετε;"</string>

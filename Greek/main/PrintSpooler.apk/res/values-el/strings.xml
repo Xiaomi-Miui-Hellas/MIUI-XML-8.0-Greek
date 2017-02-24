@@ -33,7 +33,6 @@
      <string name="print_add_printer">Προσθήκη εκτυπωτή</string>
      <string name="print_button">Εκτύπωση</string>
      <string name="print_dialog">Πλαίσιο διαλόγου εκτύπωσης</string>
-     <string name="print_error_default_message">Δυστυχώς, αυτό δεν λειτούργησε. Δοκιμάστε ξανά.</string>
      <string name="print_error_printer_unavailable">Αυτός ο εκτυπωτής δεν είναι διαθέσιμος αυτήν τη στιγμή.</string>
      <string name="print_error_retry">Δοκιμάστε ξανά</string>
      <string name="print_forget_printer">Διαγραφή εκτυπωτή</string>

@@ -242,8 +242,6 @@
      <string name="download_btn_select_none">Αποεπιλογή όλων</string>
      <string name="download_complete">Λήψη ολοκληρώθηκε</string>
      <string name="download_completed">Ληφθέντα</string>
-     <string name="download_default_path_txt">Θυμήσου την επιλογή</string>
-     <string name="download_dialog_default_path_invalid">Λάθος φάκελος λήψης, θα χρησιμοποιηθεί ο προκαθορισμένος φάκελος</string>
      <string name="download_dialog_file_length_hint_txt">Μέγεθος αρχείου:</string>
      <string name="download_dialog_file_length_lessthan1kb">Λιγότερο από 1kb</string>
      <string name="download_dialog_file_length_nolength_error_txt">Αποτυχία υπολογισμού μεγέθους αρχείου</string>
@@ -517,17 +515,9 @@
      <string name="pref_enable_news">Ειδήσεις</string>
      <string name="pref_enable_novels">Βιβλία</string>
      <string name="pref_enable_videos">Βίντεο</string>
-     <string name="pref_extras_reset_default">Επαναφορά στα προκαθορισμένα</string>
-     <string name="pref_extras_reset_default_dlg">Επαναφορά στις προκαθορισμένες ρυθμίσεις;</string>
-     <string name="pref_extras_reset_default_summary">Επαναφορά προκαθορισμένων ρυθμίσεων</string>
-     <string name="pref_extras_reset_default_title">Επαναφορά προκαθορισμένων</string>
      <string name="pref_extras_send_feedback">Αποστολή σχολίων</string>
      <string name="pref_extras_title">Προηγμένα</string>
      <string name="pref_extras_title_version">Έκδοση</string>
-     <string name="pref_file_downlaod_save_is_reset_default_settings">Επαναφορά προκαθορισμένου φακέλου λήψης και ρυθμίσεων τοποθεσίας</string>
-     <string name="pref_file_downlaod_save_reset_default_settings">Επαναφορά προκαθορισμένων</string>
-     <string name="pref_file_download_default_path_prefix">Προεπιλεγμένη διαδρομή: %s</string>
-     <string name="pref_file_download_save_modify_default_path">Αλλαγή τοποθεσίας φακέλου λήψεων</string>
      <string name="pref_file_download_save_title">Λήψεις</string>
      <string name="pref_fling_on_border_enabled">Σύρσιμο από τα άκρα</string>
      <string name="pref_fling_on_border_enabled_title_summary">Σύρσιμο από την αριστερή ή δεξιά πλευρά για να κάνετε εναλλαγή μεταξύ καρτελών</string>
@@ -600,7 +590,6 @@
      <string name="quicklink_saved_before">Σελίδα προστέθηκε στην αρχική οθόνη</string>
      <string name="quicklink_user_define_webpage_title">Όνομα</string>
      <string name="quicklink_user_define_webpage_url">URL</string>
-     <string name="quicklinks_group_default_subtitle">Άδειο</string>
      <string name="quicklinks_management">Γρήγοροι σύνδεσμοι</string>
      <string name="quicklinks_most_visited">Προσθήκη των δημοφιλών σελίδων στην αρχική οθόνη</string>
      <string name="quicklinks_most_visited_subtitle">Εμφάνιση των δημοφιλών σελίδων σε Νέα Καρτέλα</string>
@@ -769,7 +758,6 @@
      <string name="v5_edit_mode_title_empty">0 επιλεγμένα</string>
      <string name="v5_select_all">Επιλογή όλων</string>
      <string name="version_check_button_checking">Έλεγχος</string>
-     <string name="version_check_button_default">Έλεγχος για ενημερώσεις</string>
      <string name="version_check_button_download_failed">Συνέχιση λήψης</string>
      <string name="version_check_button_downloading">Λήψη</string>
      <string name="version_check_button_install">Εγκατάσταση</string>

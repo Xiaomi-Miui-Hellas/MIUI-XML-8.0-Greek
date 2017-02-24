@@ -38,7 +38,6 @@
      <string name="pref_category_quick_pay">Γρήγορη πληρωμή</string>
      <string name="pref_category_quick_settings">Γρήγορες Ρυθμίσεις</string>
      <string name="pref_category_system">Ρυθμίσεις συστήματος</string>
-     <string name="restore_default">Επαναφορά προεπιλογών</string>
      <string name="restore_intro">Επαναφορά στις προεπιλεγμένες ρυθμίσεις, οι οποίες περιλαμβάνουν λειτουργίες και εντολές. Αυτό δεν θα διαγράψει τα δεδομένα στο τηλέφωνό σας.</string>
      <string name="show_on_keyguard">Εμφάνιση στην οθόνη κλειδώματος</string>
      <string name="theme_manager_not_supported">Τα Θέματα δεν υποστηρίζονται.</string>

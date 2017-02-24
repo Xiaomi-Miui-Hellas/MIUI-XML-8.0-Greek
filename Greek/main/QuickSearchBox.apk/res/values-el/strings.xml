@@ -4,7 +4,6 @@
      <string name="application_desc">Εφαρμογή</string>
      <string name="applications_search_label">Εφαρμογές</string>
      <string name="apps_search_activity" />
-     <string name="baidu_search_url_from_default">https://www.google.gr/search?q=%s&amp;tn=ins</string>
      <string name="baidu_search_url_from_input">https://www.google.gr/search?q=%s&amp;tn=ins</string>
      <string name="baidu_search_url_from_launcher">https://www.google.gr/search?q=%s&amp;tn=ins</string>
      <string name="baidu_search_url_from_minus_one">https://www.google.gr/search?q=%s&amp;tn=ins</string>
@@ -33,8 +32,6 @@
      <string name="cta_declaration_negative_text">Έξοδος</string>
      <string name="cta_declaration_positive_text">Επίτρεψε</string>
      <string name="cta_declaration_title">Όροι Χρήσης</string>
-     <string name="default_hint">Ψάξτε Εφαρμογές, Μουσική, Βίντεο, Βιβλία…</string>
-     <string name="default_search_domain">.google.com</string>
      <string name="device_settings_category_title">Καθαρισμός συντομεύσεων</string>
      <string name="distance_unit_kilometer">Χμ</string>
      <string name="distance_unit_meter">μ</string>
