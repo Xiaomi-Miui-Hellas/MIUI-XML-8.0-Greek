@@ -951,8 +951,6 @@
      <string name="power_consume_rank_hardware">Υλικό</string>
      <string name="power_consume_rank_software">Εφαρμογές</string>
      <string name="power_consume_rank_title">Χρήση μπαταρίας</string>
-     <string name="power_consume_total_hardware">Υλικό: %1$d%%</string>
-     <string name="power_consume_total_software">Εφαρμογές: %1$d%%</string>
      <string name="power_customize_giveup_change">Ακύρωση των αλλαγών;</string>
      <string name="power_dialog_cancel">Ακύρωση</string>
      <string name="power_dialog_ok">OK</string>
