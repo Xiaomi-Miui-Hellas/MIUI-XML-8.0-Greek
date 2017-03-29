@@ -83,7 +83,7 @@
      <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">να ενεργοποιεί/απενεργοποιεί το Bluetooth</string>
      <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s εφαρμογές μπορούν να ενεργοποιήσουν ή να απενεργοποιήσουν το Bluetooth</string>
      <string name="HIPS_Perm_Body_Sensors">Αισθητήρες σώματος</string>
-     <string name="HIPS_Perm_Body_Sensors_Desc">Αισθητήρες σώματος (πχ αισθητήρας καρδιακού ρυθμού)</string>
+     <string name="HIPS_Perm_Body_Sensors_Desc">αισθητήρες σώματος (πχ αισθητήρας καρδιακού ρυθμού)</string>
      <string name="HIPS_Perm_Calendar">Πρόσβαση στο ημερολόγιο</string>
      <string name="HIPS_Perm_Calendar_Desc">πρόσβαση στις καταχωρήσεις του ημερολογίου σας</string>
      <string name="HIPS_Perm_Calendar_Hint">%1$s εφαρμογές μπορούν να διαβάσουν τις καταχωρήσεις του ημερολογίου σας</string>

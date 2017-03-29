@@ -143,10 +143,6 @@
      <string name="mark_agent_block">Επισήμανση ως αντιπρ. πωλήσεων</string>
      <string name="mark_agent_block_large">Μεσάζων</string>
      <string name="mark_agent_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως αντιπρ. πωλήσεων</string>
-     <string name="mark_courier">Courier</string>
-     <string name="mark_courier_block">Αναφέρθηκε ως courier</string>
-     <string name="mark_courier_block_large">Couriers</string>
-     <string name="mark_courier_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως courier</string>
      <string name="mark_fraud">Απάτη</string>
      <string name="mark_fraud_block">Αναφέρθηκε ως απάτη</string>
      <string name="mark_fraud_block_large">Απάτη</string>
@@ -156,7 +152,6 @@
      <string name="mark_harass_block_large">Παρενόχληση</string>
      <string name="mark_harass_time_setting">Φραγή αριθμών που έχουν αναφερθεί ορισμένες φορές ως παρενόχληση</string>
      <string name="mark_number_agent">Αντιπρ. πωλήσεων</string>
-     <string name="mark_number_courier">Courier</string>
      <string name="mark_number_fraud">Απάτη</string>
      <string name="mark_number_harass">Παρενόχληση</string>
      <string name="mark_number_info">"Σημειώστε ότι μερικές φορές, αυτές οι κλήσεις μπορεί να σας φανούν χρήσιμες (πχ εάν ψάχνετε για σπίτι). Μπλοκάρετε μόνο τους αριθμούς, για τους οποίους δεν θέλετε να λαμβάνετε κλήσεις."</string>
