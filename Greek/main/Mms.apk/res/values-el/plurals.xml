@@ -13,6 +13,10 @@
         <item quantity="other">Διαγραφή επιλεγμένων %1$s συνομιλιών;</item>
         <item quantity="one">Διαγραφή αυτής της συζήτησης;</item>
      </plurals>
+     <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d επιλεγμένα</item>
+        <item quantity="zero">Επιλέξτε στοιχεία</item>
+     </plurals>
      <plurals name="message_count">
         <item quantity="other">%1$s μηνύματα</item>
         <item quantity="one">%1$s μήνυμα</item>

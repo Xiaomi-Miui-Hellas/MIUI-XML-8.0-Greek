@@ -278,10 +278,10 @@
      <string name="fingerprint_error_timeout">Λήξη χρονικού ορίου δακτυλικού αποτυπώματος. Δοκιμάστε ξανά.</string>
      <string name="fingerprint_error_unable_to_process">Δοκιμάστε ξανά.</string>
      <string name="fingerprint_icon_content_description">Εικονίδιο δακτυλικών αποτυπωμάτων</string>
-     <string name="fingerprint_name_template">Δάχτυλο %d</string>
+     <string name="fingerprint_name_template">Δάκτυλο %d</string>
      <string name="fingerprints">Αποτυπώματα</string>
-     <string name="floating_toolbar_close_overflow_description">Close overflow</string>
-     <string name="floating_toolbar_open_overflow_description">More options</string>
+     <string name="floating_toolbar_close_overflow_description">Κλείσιμο επικάλυψης γραμμής εργαλείων</string>
+     <string name="floating_toolbar_open_overflow_description">Περισσότερες επιλογές</string>
      <string name="force_close">ΟΚ</string>
      <string name="format_error">Δεν ήταν δυνατή η διαγραφή της κάρτας SD.</string>
      <string name="forward_intent_to_owner">Χρησιμοποιείτε αυτήν την εφαρμογή εκτός του προφίλ εργασίας σας</string>
@@ -293,7 +293,7 @@
      <string name="global_action_lock">Κλείδωμα οθόνης</string>
      <string name="global_action_lockdown">Κλείδωμα τώρα</string>
      <string name="global_action_power_off">Απενεργοποίηση</string>
-     <string name="global_action_reboot">Reboot</string>
+     <string name="global_action_reboot">Επανεκκίνηση</string>
      <string name="global_action_settings">Ρυθμίσεις</string>
      <string name="global_action_silent_mode_off_status">Ο ήχος είναι ενεργοποιημένος</string>
      <string name="global_action_silent_mode_on_status">Ο ήχος είναι απενεργοποιημένος</string>

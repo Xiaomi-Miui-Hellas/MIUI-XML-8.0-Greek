@@ -21,6 +21,7 @@
      <string name="app_category_sport">Αθλητισμός</string>
      <string name="app_category_tools">Εργαλεία</string>
      <string name="app_category_travel">Ταξίδια</string>
+     <string name="app_category_vr">VR</string>
      <string name="application_name">MiHome</string>
      <string name="apply">Εφαρμογή</string>
      <string name="apply_action">Εφαρμογή</string>
@@ -61,6 +62,11 @@
      <string name="current_preview">Προεπισκόπηση</string>
      <string name="current_wallpaper">Τωρινή ταπετσαρία</string>
      <string name="custom_wallpaper_picker">Αναζήτηση</string>
+     <string name="default_folder_title_game">Παιχνίδια</string>
+     <string name="default_folder_title_microsoft">Microsoft</string>
+     <string name="default_folder_title_recommend">Περισσότερες εφαρμογές</string>
+     <string name="default_folder_title_security">Σύστημα</string>
+     <string name="default_folder_title_tools">Εργαλεία</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_screen">Διαγραφή οθόνης</string>
      <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
@@ -76,6 +82,7 @@
      <string name="editing_mode_enter_tip_text">Αγγίξτε για επεξεργασία Αρχικής Οθόνης</string>
      <string name="editing_mode_title">%1$d επιλεγμένα</string>
      <string name="editing_mode_title_empty">Επιλέξτε κάτι</string>
+     <string name="editing_set_screen_layout_cells">Επιλέξτε εφέ διάταξης οθόνης</string>
      <string name="editing_set_transition_effect_tips">Επιλέξτε το εφέ μετάβασης οθόνης</string>
      <string name="editing_set_wallpaper_tips">Επιλογή ταπετσαρίας</string>
      <string name="editing_tips">Προσθήκη ή επεξεργασία widget</string>
@@ -107,6 +114,7 @@
      <string name="gadget_calendar_label">Ημερολόγιο</string>
      <string name="gadget_clear_button_label">Καθαρισμός εργασιών</string>
      <string name="gadget_clock_12_label">Ρολόι 2x1</string>
+     <string name="gadget_clock_14_label">Ρολόι 4x1</string>
      <string name="gadget_clock_22_label">Ρολόι 2x2</string>
      <string name="gadget_clock_24_label">Ρολόι 4x2</string>
      <string name="gadget_clock_label">Ρολόι</string>
@@ -147,6 +155,7 @@
      <string name="invalid_contact_shortcut">Λανθασμένη συντόμευση επαφής</string>
      <string name="is_setting_wallpaper_message">Εφαρμογή ταπετσαρίας…</string>
      <string name="is_system_wallpaper_message">Δεν είναι δυνατή η διαγραφή πόρων του συστήματος</string>
+     <string name="launcher_not_exist">Παρουσιάστηκε σφάλμα. Πηγαίνετε πίσω στην Αρχική οθόνη και δοκιμάστε ξανά.</string>
      <string name="like">Αγαπημένο</string>
      <string name="liked">Αγαπημένο</string>
      <string name="loading_desktop">Μισό λεπτό…</string>
@@ -208,11 +217,13 @@
      <string name="preferences_general_title">Γενικές ρυθμίσεις</string>
      <string name="preferences_title">Ρυθμίσεις Launcher</string>
      <string name="process" />
+     <string name="recommend_apps_default_title">Κενό</string>
      <string name="recommend_apps_notice">Προτεινόμενες εφαρμογές</string>
      <string name="recommend_apps_notice_nodata">Προτεινόμενες Εφαρμογές (χωρίς στοιχεία)</string>
      <string name="recommend_apps_switch_title">Προτεινόμενες εφαρμογές</string>
      <string name="recommend_apps_tips">"Για αυτή τη λειτουργία, πρέπει να συνδεθείτε στο Internet για να λειτουργήσει κανονικά. Για να την απενεργοποιήσετε, αγγίξτε το όνομα του τρέχοντος φακέλου."</string>
      <string name="reset_scene_prompt">H σκηνή θα επανέλθει στην προεπιλεγμένη διάταξη</string>
+     <string name="screen_locked_toast">Η διάταξη Αρχική οθόνης είναι κλειδωμένη</string>
      <string name="screen_number">Η %d οθόνη</string>
      <string name="scroll_tip_format_when_announce_accessibility">Σελίδα %1$d, %2$d εφαρμογές</string>
      <string name="select_all">Επιλογή όλων</string>
@@ -236,6 +247,7 @@
      <string name="status_pending">σε αναμονή</string>
      <string name="title_select_live_folder">Επιλογή φακέλου</string>
      <string name="title_select_shortcut">Επιλογή συντόμευσης</string>
+     <string name="toast_screen_icons_misplaced">Έγινε επαναφορά από άλλη πηγή. Ορισμένα εικονίδια μπορεί να είναι σε λάθος θέση</string>
      <string name="toggle_select_title">Επιλογή κουμπιού</string>
      <string name="toggle_title">Κουμπιά</string>
      <string name="transformation_type_classic">Κλασικό</string>
