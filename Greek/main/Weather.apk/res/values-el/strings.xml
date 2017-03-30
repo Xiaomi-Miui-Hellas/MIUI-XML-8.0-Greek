@@ -19,6 +19,7 @@
      <string name="activity_main_one_alert" />
      <string name="activity_main_time_format">dd/MM</string>
      <string name="activity_main_update_time">Ενημέρωση %1$s</string>
+     <string name="activity_main_update_time_expire">Τα δεδομένα έληξαν</string>
      <string name="activity_main_update_time_right_now">Τώρα</string>
      <string name="activity_weathermain_locationg">Εντοπισμός…</string>
      <string name="activity_weathermain_locationg_error">Αδυναμία εντοπισμού</string>
@@ -27,6 +28,8 @@
      <string name="ads_install_num" />
      <string name="ads_score_title" />
      <string name="alert_warning">Ειδοποιήσεις καιρού</string>
+     <string name="already_voted">Ψηφίσατε</string>
+     <string name="already_voted_toast">Έχετε ήδη ψηφίσει σήμερα</string>
      <string name="app_name">Καιρός</string>
      <string name="aqi_data_source">Υποστηρίζεται από Caiyun Weather</string>
      <string name="aqi_desc">Δείκτης Ποιότητας Αέρα</string>
@@ -54,8 +57,10 @@
      <string name="button_exit">Έξοδος</string>
      <string name="button_not_allow">Ακύρωση</string>
      <string name="button_sure_abandon">Απόρριψη αλλαγών;</string>
-     <string name="close">Κλείσιμο</string>
+     <string name="card_vote_item_vs">VS</string>
+     <string name="change_alert">Ελέγξτε τη σύνδεση δικτύου και προσπαθήστε ξανά</string>
      <string name="common_loading_text">Φόρτωση…</string>
+     <string name="connect_fail">Η σύνδεση δικτύου δεν είναι φυσιολογική. Παρακαλώ δοκιμάστε ξανά αργότερα.</string>
      <string name="daily_forcast_drawer_on_bottom">Απόκρυψη</string>
      <string name="daily_forcast_drawer_on_top">Πρόβλεψη %1$s ημερών</string>
      <string name="daily_forcast_no_stable_direction">Άπνοια</string>
@@ -66,8 +71,11 @@
      <string name="daily_forcast_weather_transfer">%1$s transfer %2$s</string>
      <string name="daily_forcast_whirl_wind">Ανεμοστρόβιλος</string>
      <string name="daily_forcast_wind_connect">%1$s %2$s</string>
+     <string name="daily_forecast_detail">Λεπτομέρειες πρόβλεψης</string>
      <string name="daily_forecast_detail_date">d/M</string>
      <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
+     <string name="daily_forecast_no_data">"Αδυναμία λήψης πληροφοριών καιρού
+Τραβήξτε προς τα κάτω για ανανέωση ή ελέγξτε τις ρυθμίσεις δικτύου"</string>
      <string name="data_source_timezone">GMT%1$s</string>
      <string name="edit_alert_city_title">Διαχείριση ειδοποιήσεων</string>
      <string name="edit_city">Αλλαγή</string>
@@ -76,11 +84,15 @@
      <string name="first_start_network_title">Ειδοποίηση σύνδεσης</string>
      <string name="global_aqi" />
      <string name="gps_hint">Τρέχουσα Θέση</string>
-     <string name="hide_topic">Απόκρυψη</string>
      <string name="hour_minute_time_format">HH:mm</string>
      <string name="hourly_forcast_now">Τώρα</string>
      <string name="hourly_forecast_title">Ωριαία Πρόγνωση</string>
+     <string name="index_item_experience_now">Εγκατάσταση τώρα</string>
+     <string name="index_item_install_dialog" />
+     <string name="index_item_install_dialog_cancel" />
+     <string name="index_item_install_dialog_open" />
      <string name="index_item_install_now">Εγκατάσταση τώρα</string>
+     <string name="index_item_installing">Εγκατάσταση…</string>
      <string name="indices_desc_Precip1hr">%1$smm</string>
      <string name="indices_desc_feel">Αίσθηση σαν %1$s°C</string>
      <string name="indices_desc_feel_without_pic">%1$s°C</string>
@@ -95,10 +107,11 @@
      <string name="indices_title_feel">Αίσθηση σαν</string>
      <string name="indices_title_humidity">Υγρασία</string>
      <string name="indices_title_pressure">Πίεση</string>
-     <string name="indices_title_restriction">Car limit</string>
+     <string name="indices_title_restriction">Κυκλοφοριακά προβλήματα</string>
      <string name="indices_title_sport">Αθλητισμός</string>
      <string name="indices_title_uv">Δείκτης UV</string>
      <string name="indices_title_visibility">Ορατότητα</string>
+     <string name="information_manager_default_weather_bg">Προεπιλεγμένο φόντο καιρού</string>
      <string name="information_manager_information">Πληροφορίες καιρού</string>
      <string name="information_manager_wlan">Φόρτωση μόνο με σύνδεση Wi‑Fi</string>
      <string name="information_menu_title" />
@@ -106,6 +119,7 @@
      <string name="information_time_source">%1$s | %2$s</string>
      <string name="information_views" />
      <string name="install">Εγκατάσταση</string>
+     <string name="install_progress">%1$s%%</string>
      <string name="international_detail_menu_title">Λεπτομέρειες</string>
      <string name="international_details_pressure_title">ΠΙΕΣΗ</string>
      <string name="international_details_real_feel_title">ΑΙΣΘΗΣΗ ΣΑΝ®</string>
@@ -117,6 +131,7 @@
 Πατήστε στην οθόνη για χειροκίνητη προσθήκη ή αλλαγή πόλης"</string>
      <string name="location_management">Πόλεις</string>
      <string name="location_tag">Εντοπισμός</string>
+     <string name="lunar_calendar" />
      <string name="menu_add_city">Επεξεργασία τοποθεσιών</string>
      <string name="menu_location">Πόλεις</string>
      <string name="mi_pad2">latte</string>
@@ -125,13 +140,21 @@
      <string name="network_unavailable">Αδυναμία σύνδεσης στο δίκτυο.</string>
      <string name="no_data">--</string>
      <string name="no_network_btn">Δοκιμάστε ξανά</string>
+     <string name="no_vote_num">%1$s άτομα | </string>
+     <string name="no_vote_ratio">Κατά %1$s%%</string>
      <string name="open">Άνοιγμα</string>
      <string name="open_browser">Άνοιγμα στο πρόγραμμα περιήγησης</string>
+     <string name="open_now">Άνοιγμα τώρα</string>
+     <string name="other">Άλλα</string>
      <string name="pressure_connect">%1$s MB</string>
      <string name="realtime_aqi_title">Δείκτης Ποιότητας Αέρα</string>
      <string name="realtime_humidity_title">Σχετική Υγρασία</string>
+     <string name="realtime_temperature_no_data">N/A</string>
+     <string name="realtime_wind_default_title">Wind</string>
      <string name="refresh_fail">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="retry">Προσπαθήστε ξανά</string>
+     <string name="search_weather">Καιρός</string>
+     <string name="search_weather_keywords">Θερμοκρασία;Πρόγνωση Καιρού;Καιρός;Ποιότητα Αέρα;Βαθμός Ρύπανσης;Υγρασία</string>
      <string name="set">Ρυθμίσεις</string>
      <string name="set_degree_centigrade">°C</string>
      <string name="set_fahrenheit">°F</string>
@@ -158,6 +181,7 @@
      <string name="top_pollution_pm10">PM10</string>
      <string name="top_pollution_pm25">PM2.5</string>
      <string name="top_pollution_so2">SO2</string>
+     <string name="total_voted_num_text">"&lt;font color='#20a7ff'>%1$s&lt;/font> άτομα ψήφισαν"</string>
      <string name="traffic_control_daty_after_tomorrow_numbers">Μεθαύριο: %1$s</string>
      <string name="traffic_control_today_numbers">Σήμερα: %1$s</string>
      <string name="traffic_control_tomorrow_numbers">Αύριο: %1$s</string>
@@ -182,6 +206,9 @@
      <string name="view_indexes_item_today">Σήμερα</string>
      <string name="view_indexes_item_tommorrow">Αύριο</string>
      <string name="weather_alert">Ειδοποιήσεις καιρού</string>
+     <string name="wind_direction_no_data">Άνεμος</string>
      <string name="wind_miles_unit">%1$smph</string>
      <string name="wind_unit">%1$sΧμ/ω</string>
+     <string name="yes_vote_num"> | %1$s άτομα</string>
+     <string name="yes_vote_ratio">Υπέρ %1$s%%</string>
 </resources>
