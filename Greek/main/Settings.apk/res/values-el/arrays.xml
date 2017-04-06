@@ -411,7 +411,7 @@
      </string-array>
      <string-array name="network_speed_slow_summary">
         <item>Αργό δίκτυο ή πολύ μεγάλη κίνηση</item>
-        <item>Αργό δίκτυο λόγο αδύναμου σήματος</item>
+        <item>Αργό δίκτυο λόγω αδύναμου σήματος</item>
         <item>Μεταφορά…</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">

@@ -100,7 +100,7 @@
      <string name="account_setup_failed_dlg_unknown_auth_message">Άγνωστο σφάλμα.</string>
      <string name="account_setup_failed_ioerror">Αδυναμία σύνδεσης με το διακομιστή.</string>
      <string name="account_setup_failed_protocol_unsupported">"Εισάγατε μια λάθος διεύθυνση διακομιστή ή ο διακομιστής απαιτεί μια έκδοση πρωτοκόλλου που το Email δεν υποστηρίζει."</string>
-     <string name="account_setup_failed_security">Αδυναμία σύνδεσης με το διακομιστή λόγο σφάλματος ασφάλειας.</string>
+     <string name="account_setup_failed_security">Αδυναμία σύνδεσης με το διακομιστή λόγω σφάλματος ασφάλειας.</string>
      <string name="account_setup_failed_security_policies_unsupported">"Ο διακομιστής αυτός απαιτεί δυνατότητες ασφαλείας που δεν υποστηρίζει η συσκευή σας, συμπεριλαμβανομένων: %s"</string>
      <string name="account_setup_failed_tls_required">Απαιτείται TLS, αλλά δεν υποστηρίζεται από τον διακομιστή.</string>
      <string name="account_setup_failed_too_many_partnerships">Η σύνδεση απέτυχε. Ο μέγιστος αριθμός των επιτρεπόμενων συνδέσεων διακομιστή έχει επιτευχθεί.</string>
@@ -782,7 +782,7 @@
      <string name="security_notification_content_change_title">Οι πολιτικές ασφάλειας έχουν αλλάξει</string>
      <string name="security_notification_content_unsupported_title">"Δεν συμπίπτουν οι πολιτικές ασφάλειας"</string>
      <string name="security_notification_content_update_title">Απαιτείτε αναβάθμιση ασφάλειας</string>
-     <string name="security_unsupported_ticker_fmt">"Ο λογαριασμός \"%s\" δεν συγχρονίζει λόγο απαιτήσεων ασφαλείας."</string>
+     <string name="security_unsupported_ticker_fmt">"Ο λογαριασμός \"%s\" δεν συγχρονίζει λόγω απαιτήσεων ασφαλείας."</string>
      <string name="select_attachment_type">Επιλογή τύπου συνημμένου</string>
      <string name="select_no_file">Δεν υπάρχει επιλεγμένο συνημμένο να μοιραστείτε</string>
      <string name="selected_lable">Επιλεγμένο</string>

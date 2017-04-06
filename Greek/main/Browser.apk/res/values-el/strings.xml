@@ -47,9 +47,10 @@
      <string name="action_menu_useful_page">Στα χρήσιμα</string>
      <string name="action_menu_useful_page_added">Προστέθηκε</string>
      <string name="actionbar_share">Κοινή χρήση</string>
+     <string name="actionbar_textselection_title">Επιλογή κειμένου</string>
      <string name="actionbar_web_search">Αναζήτηση ιστού</string>
      <string name="adblock_force_updating_rules_toast">Ενημέρωση Ad blocker</string>
-     <string name="adblock_notification">μπλοκ %d διαφημίσεων</string>
+     <string name="adblock_notification">%d διαφημίσεις αποκλείστηκαν</string>
      <string name="adblock_rules_not_updated_toast">Αδυναμία ενημέρωσης</string>
      <string name="adblock_rules_restore">Άρση αποκλεισμού</string>
      <string name="adblock_rules_updated_toast">Επιτυχής ενημέρωση</string>
@@ -57,6 +58,7 @@
      <string name="adblock_websites_settings_title">Αποκλεισμένες Ιστοσελίδες</string>
      <string name="add_bookmark_group">Προσθήκη ομάδας</string>
      <string name="add_bookshelf_popup_text">Προστέθηκε στη βιβλιοθήκη</string>
+     <string name="add_favorites_to">Προσθήκη στα αγαπημένα</string>
      <string name="add_new_bookmark">Προσθήκη σελιδοδείκτη</string>
      <string name="add_new_quicklink">Προσθήκη συνδέσμου</string>
      <string name="add_ql_bm_title">Σώσε</string>
@@ -83,6 +85,7 @@
      <string name="aqi_quality_index_moderate">Μέτριος</string>
      <string name="aqi_quality_index_pure">Εξαιρετικός</string>
      <string name="aqi_quality_index_unhealthy">Ανθυγιεινός</string>
+     <string name="autofill_keyboard_accessory_content_description">Διαθέσιμες προτάσεις</string>
      <string name="autofill_popup_content_description">Εμφάνιση αυτόματης συμπλήρωσης</string>
      <string name="autologin_bar_error">"Αδύνατη σύνδεση."</string>
      <string name="autologin_bar_hide_text">Απόκρυψη</string>
@@ -139,7 +142,7 @@
      <string name="close_cloud_tab_tip">Κλείσιμο των καρτελών στο %s;</string>
      <string name="cloud_loading_tips">Σύρτε κάτω για συγχρονισμό</string>
      <string name="cloud_no_new_data_toast">Χωρίς νέα δεδομένα, προσπαθήστε αργότερα</string>
-     <string name="cloud_sync_closed_toast">"Αδυναμία ενημέρωσης λόγο απενεργοποιημένου συγχρονισμού"</string>
+     <string name="cloud_sync_closed_toast">"Αδυναμία ενημέρωσης λόγω απενεργοποιημένου συγχρονισμού"</string>
      <string name="cloud_sync_failed_toast">"Αδυναμία ενημέρωσης"</string>
      <string name="cloud_tab">Καρτέλα Cloud</string>
      <string name="cloud_time_tips">Τελευτ. συγχρονισμός</string>
@@ -159,6 +162,7 @@
      <string name="color_picker_hue">Χροιά</string>
      <string name="color_picker_saturation">Κορεσμός</string>
      <string name="comment_app_menu">σχόλιο</string>
+     <string name="comment_hint">Σχόλιο</string>
      <string name="comment_menu">σχόλιο</string>
      <string name="common_use_phrase_bottom_bar_cn_txt">.gr</string>
      <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
@@ -181,6 +185,7 @@
      <string name="contextmenu_openlink">Άνοιγμα</string>
      <string name="contextmenu_openlink_newwindow">Άνοιγμα σε νέα καρτέλα</string>
      <string name="contextmenu_openlink_newwindow_background">Άνοιγμα νέα καρτέλα παρασκηνίου</string>
+     <string name="contextmenu_recognise_qr_code">Σάρωση κωδικού QR</string>
      <string name="contextmenu_savelink">Αποθήκευση συνδέσμου</string>
      <string name="contextmenu_send_mail">Αποστολή email</string>
      <string name="contextmenu_set_wallpaper">Ορισμός ως φόντο</string>
@@ -242,6 +247,8 @@
      <string name="download_btn_select_none">Αποεπιλογή όλων</string>
      <string name="download_complete">Λήψη ολοκληρώθηκε</string>
      <string name="download_completed">Ληφθέντα</string>
+     <string name="download_default_path_txt">Απομνημόνευση επιλογής</string>
+     <string name="download_dialog_default_path_invalid">"Η τοποθεσία λήψης που επιλέξατε δεν είναι έγκυρη. Αποθήκευση στην προεπιλεγμένη τοποθεσία…"</string>
      <string name="download_dialog_file_length_hint_txt">Μέγεθος αρχείου:</string>
      <string name="download_dialog_file_length_lessthan1kb">Λιγότερο από 1kb</string>
      <string name="download_dialog_file_length_nolength_error_txt">Αποτυχία υπολογισμού μεγέθους αρχείου</string>
@@ -276,6 +283,7 @@
      <string name="edit">Επεξεργασία</string>
      <string name="edit_bookmark">Επεξεργασία σελιδοδείκτη</string>
      <string name="edit_quicklink">Επεξεργασία</string>
+     <string name="empty_app_name">άλλη εφαρμογή</string>
      <string name="empty_bookmark">Άδειο</string>
      <string name="empty_history_hint">Κενό</string>
      <string name="empty_snapshot_hint">Κενό</string>
@@ -286,10 +294,10 @@
      <string name="error_console_eval_text_hint">Αξιολόγηση JavaScript </string>
      <string name="error_console_header_text_maximized">JavaScript κονσόλα </string>
      <string name="error_console_header_text_minimized">Εμφάνιση JavaScript κονσόλας</string>
-     <string name="error_forbidden">Ο συγχρονισμός απενεργοποιήθηκε λόγο προβλημάτων με τον λογαριασμό σας.</string>
+     <string name="error_forbidden">Ο συγχρονισμός απενεργοποιήθηκε λόγω προβλημάτων με τον λογαριασμό σας.</string>
      <string name="error_not_acceptable">Ο συγχρονισμός έχει απενεργοποιηθεί.</string>
      <string name="error_title">"Αδυναμία συγχρονισμού"</string>
-     <string name="error_unauthorized">Ο συγχρονισμός απενεργοποιήθηκε λόγο πολλών προσπαθειών σύνδεσης.</string>
+     <string name="error_unauthorized">Ο συγχρονισμός απενεργοποιήθηκε λόγω πολλών προσπαθειών σύνδεσης.</string>
      <string name="exit_browser_warning">Κλείσιμο πλοηγού;</string>
      <string name="file_dir">Φάκελος</string>
      <string name="file_name">Όνομα αρχείου</string>
@@ -303,6 +311,7 @@
      <string name="find_on_page_next">Επόμενο</string>
      <string name="find_on_page_prev">Επιστροφή</string>
      <string name="find_previous">Εύρεση προηγούμενου</string>
+     <string name="fling_on_border_gesture_hint">Μπορείτε να επιλέξετε την λειτουργία αυτής της χειρονομίας στις Ρυθμίσεις</string>
      <string name="force_quick_search_title">Αναζήτηση</string>
      <string name="force_touch_bookmark_history_title">Σελιδοδείκτες &amp; ιστορικό</string>
      <string name="force_touch_infoflow_title">Ειδήσεις</string>
@@ -323,6 +332,7 @@
      <string name="gold_medals">Χρυσά μετάλλια</string>
      <string name="google_bookmarks">"Google: "</string>
      <string name="have_sent_bookmark_to_home_screen">Σελιδοδείκτης στάλθηκε στην αρχική οθόνη</string>
+     <string name="hint">Υπόδειξη</string>
      <string name="history_saved_webpage">Αποθήκευση σελίδας</string>
      <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
      <string name="homepage_delete_card_menu">Διαγραφή</string>
@@ -334,13 +344,13 @@
      <string name="homepage_top_card_menu">Κορυφή</string>
      <string name="in_incognito">Είστε ανώνυμοι! Οι ιστοσελίδες που επισκέπτεστε σε αυτήν την καρτέλα δεν θα εμφανίζονται στο ιστορικό περιήγησης.</string>
      <string name="in_secureaccess">Εναλλαγή σε Ασφαλή λειτουργία</string>
+     <string name="isReplacePage">Το αρχείο υπάρχει ήδη. Αντικατάσταση;</string>
      <string name="is_first_history_item">Αυτό είναι το πρώτο αντικείμενο ιστορικού</string>
      <string name="is_first_tab">Αυτή είναι η πρώτη καρτέλα</string>
      <string name="is_last_history_item">Αυτό είναι το τελευταίο αντικείμενο ιστορικού</string>
      <string name="is_last_tab">Αυτή είναι η τελευταία καρτέλα</string>
      <string name="is_page_bottom">"Φτάσατε στο τέλος της σελίδας"</string>
      <string name="is_page_top">"Είσαστε στην κορυφή της σελίδας"</string>
-     <string name="isreplace">Το αρχείο υπάρχει ήδη. Αντικατάσταση;</string>
      <string name="js_dialog_before_unload">"%s 
 
 Είστε σίγουροι ότι θέλετε να φύγετε από αυτή τη σελίδα;"</string>
@@ -356,7 +366,8 @@
      <string name="loading_tips">Σύρετε κάτω για ανανέωση</string>
      <string name="local_bookmarks">Τοπικά</string>
      <string name="login_failed_toast">Αποτυχία σύνδεσης. Ανανεώστε τη σελίδα.</string>
-     <string name="low_memory_error">Αδυναμία ολοκλήρωσης της λειτουργίας λόγο χαμηλής μνήμης</string>
+     <string name="low_memory_error">Αδυναμία ολοκλήρωσης της λειτουργίας λόγω χαμηλής μνήμης</string>
+     <string name="low_memory_toast">Αδυναμία χρήσης του Πλοηγού λόγω χαμηλής μνήμης</string>
      <string name="max_tabs_warning">Χωρίς άλλες διαθέσιμες καρτέλες</string>
      <string name="maximum_input_alert">Μέγιστη εισαγωγή 2048 χαρακτήρες</string>
      <string name="media_error_action_refresh">Ανανέωση</string>
@@ -380,7 +391,7 @@
      <string name="menu_preferences">Ρυθμίσεις</string>
      <string name="menu_theme_setting">Ρυθμίσεις Θέματος</string>
      <string name="menu_title_clear_all">Καθαρισμός όλων</string>
-     <string name="menu_title_open_file_management">Άνοιγμα File Explorer</string>
+     <string name="menu_title_open_file_management">Άνοιγμα εφαρμογής Αρχεία</string>
      <string name="menu_title_pause_all">Παύση όλων</string>
      <string name="menu_title_resume_all">Έναρξη όλων</string>
      <string name="miui_autologin_bar_error">"Αδυναμία εισόδου, προσπαθήστε πάλι"</string>
@@ -405,6 +416,7 @@
      <string name="miuichromium_error_page_airplane_mode_on">Απενεργοποιήστε τη λειτουργία πτήσης για να συνδεθείτε</string>
      <string name="miuichromium_error_page_btn_close">Κλείσιμο</string>
      <string name="miuichromium_error_page_btn_refresh">Ανανέωση</string>
+     <string name="miuichromium_error_page_btn_report_issue">Αναφορά προβλήματος</string>
      <string name="miuichromium_error_page_diagnose">Διαγνωστικά δικτύου</string>
      <string name="miuichromium_error_page_diagnose_banner">Διαγνωστικά δικτύου</string>
      <string name="miuichromium_error_page_diagnose_certificate">"Αδυναμία επαλήθευσης πρωτοκόλλου δικτύου"</string>
@@ -470,6 +482,7 @@
      <string name="notif_install_successful">Λήψη ολοκληρώθηκε</string>
      <string name="ok">ΟΚ</string>
      <string name="older">Παλαιότερα</string>
+     <string name="open_app_confirm_message">Να επιτραπεί στη σελίδα να ανοίξει το %s;</string>
      <string name="open_file_explorer_failed">"Αδυναμία ανοίγματος του File Explorer"</string>
      <string name="opening_file_error">"Αδυναμία ανοίγματος αρχείου"</string>
      <string name="page_info">Πληροφορίες σελίδας</string>
@@ -484,6 +497,8 @@
      <string name="paused_waiting_to_retry">Αναμονή για επανάληψη…</string>
      <string name="pay_failed_toast">Αδυναμία ολοκλήρωσης πληρωμής</string>
      <string name="pay_success_toast">Επιτυχής πληρωμή</string>
+     <string name="permission_alert_window">Επιτρέπει στα αναδυόμενα παράθυρα τη χρήση αυτής της λειτουργίας</string>
+     <string name="permission_unknown">Άγνωστη ενέργεια</string>
      <string name="popup_window_attempt">Να επιτραπεί στη σελίδα να ανοίξει αναδυόμενο παράθυρο;</string>
      <string name="positive_confirm_message">Απενεργοποίηση ούτως ή άλλως</string>
      <string name="pref_accessibility">Προσβασιμότητα</string>
@@ -515,12 +530,20 @@
      <string name="pref_enable_news">Ειδήσεις</string>
      <string name="pref_enable_novels">Βιβλία</string>
      <string name="pref_enable_videos">Βίντεο</string>
+     <string name="pref_extras_reset_default">Επαναφορά προεπιλογών</string>
+     <string name="pref_extras_reset_default_dlg">Επαναφορά ρυθμίσεων στις προεπιλεγμένες τιμές;</string>
+     <string name="pref_extras_reset_default_summary">Επαναφορά προεπιλεγμένων ρυθμίσεων</string>
+     <string name="pref_extras_reset_default_title">Άλλα</string>
      <string name="pref_extras_send_feedback">Αποστολή σχολίων</string>
      <string name="pref_extras_title">Προηγμένα</string>
      <string name="pref_extras_title_version">Έκδοση</string>
+     <string name="pref_file_downlaod_save_is_reset_default_settings">Αποθήκευση αρχείων στην προεπιλεγμένη τοποθεσία του Πλοηγού</string>
+     <string name="pref_file_downlaod_save_reset_default_settings">Επαναφορά προεπιλεγμένης τοποθεσίας</string>
+     <string name="pref_file_download_default_path_prefix">Default location: %s</string>
+     <string name="pref_file_download_save_modify_default_path">Downloads location</string>
      <string name="pref_file_download_save_title">Λήψεις</string>
-     <string name="pref_fling_on_border_enabled">Σύρσιμο από τα άκρα</string>
-     <string name="pref_fling_on_border_enabled_title_summary">Σύρσιμο από την αριστερή ή δεξιά πλευρά για να κάνετε εναλλαγή μεταξύ καρτελών</string>
+     <string name="pref_fling_on_border">Σύρετε από την άκρη</string>
+     <string name="pref_fling_on_border_title_summary">Σύρετε από την αριστερή ή τη δεξιά άκρη</string>
      <string name="pref_font_size_category">Μέγεθος κειμένου</string>
      <string name="pref_force_userscalable">Ενεργοποίηση επιβολής ζουμ</string>
      <string name="pref_force_userscalable_summary">"Παράκαμψη ελέγχου ζουμ από σελίδες"</string>
@@ -533,6 +556,7 @@
      <string name="pref_notifications_receive">Ειδοποιήσεις</string>
      <string name="pref_notifications_title">Ειδοποιήσεις</string>
      <string name="pref_other_title">Άλλο</string>
+     <string name="pref_paper_mode_title">Λειτουργία ανάγνωσης</string>
      <string name="pref_privacy_clear_cache">Καθαρισμός cache</string>
      <string name="pref_privacy_clear_cache_dlg">Διαγραφή τοπικού cached περιεχομένου και βάσεων δεδομένων;</string>
      <string name="pref_privacy_clear_cache_summary">Καθαρισμός τοπικού cached περιεχομένου και βάσεων δεδομένων</string>
@@ -590,6 +614,7 @@
      <string name="quicklink_saved_before">Σελίδα προστέθηκε στην αρχική οθόνη</string>
      <string name="quicklink_user_define_webpage_title">Όνομα</string>
      <string name="quicklink_user_define_webpage_url">URL</string>
+     <string name="quicklinks_group_default_subtitle">Κενό</string>
      <string name="quicklinks_management">Γρήγοροι σύνδεσμοι</string>
      <string name="quicklinks_most_visited">Προσθήκη των δημοφιλών σελίδων στην αρχική οθόνη</string>
      <string name="quicklinks_most_visited_subtitle">Εμφάνιση των δημοφιλών σελίδων σε Νέα Καρτέλα</string>
@@ -637,11 +662,10 @@
      <string name="save_image_success">Επιτυχία αποθήκευσης εικόνας</string>
      <string name="save_page_capture_tip">Ανοίξτε τη μπάρα ειδοποιήσεων για να δείτε το στιγμιότυπο.</string>
      <string name="save_page_capture_to_camera">Το στιγμιότυπο αποθηκεύτηκε</string>
-     <string name="save_password_message">Θέλετε το πρόγραμμα περιήγησης να θυμάται αυτόν τον κωδικό πρόσβασης;</string>
+     <string name="save_password_message">Θέλετε το πρόγραμμα περιήγησης να θυμάται αυτό τον κωδικό πρόσβασης;</string>
      <string name="save_password_never">Ποτέ</string>
      <string name="save_password_notnow">Όχι τώρα</string>
-     <string name="save_password_remember">Να θυμάται</string>
-     <string name="save_to">Αποθήκευση σε</string>
+     <string name="save_password_remember">Απομνημόνευση</string>
      <string name="save_to_camera">Σώσε στην κάμερα</string>
      <string name="save_to_camera_failed">"Αδυναμία αποθήκευσης εικόνας"</string>
      <string name="save_to_camera_success">Σώθηκε στην κάμερα</string>
@@ -739,6 +763,7 @@
      <string name="unsecurity_url_toast">"Αυτή η ιστοσελίδα δεν είναι ασφαλής"</string>
      <string name="up_to_loading_tips">Ελευθερώστε για ανανέωση</string>
      <string name="update_no_network_toast">"Αδυναμία σύνδεσης στο δίκτυο"</string>
+     <string name="updating_chrome">Ενημέρωση Chrome…</string>
      <string name="uploads_disabled">Ανέβασμα αρχείων έχει απενεργοποιηθεί.</string>
      <string name="url_copy_done">Η ιστοσελίδα αντιγράφτηκε</string>
      <string name="url_find_on_page_result">Προβολή στο πρόγραμμα περιήγησης</string>
@@ -758,6 +783,7 @@
      <string name="v5_edit_mode_title_empty">0 επιλεγμένα</string>
      <string name="v5_select_all">Επιλογή όλων</string>
      <string name="version_check_button_checking">Έλεγχος</string>
+     <string name="version_check_button_default">Ελεγχος για ενημερώσεις</string>
      <string name="version_check_button_download_failed">Συνέχιση λήψης</string>
      <string name="version_check_button_downloading">Λήψη</string>
      <string name="version_check_button_install">Εγκατάσταση</string>
@@ -773,8 +799,8 @@
      <string name="video_activity_name">Συλλογές Βίντεο</string>
      <string name="video_buffering_percent">"Φόρτωση… "</string>
      <string name="video_buffering_percent_string">Φόρτωση…</string>
-     <string name="video_collect_cancel">Cancel Collect</string>
-     <string name="video_collect_success">Video Collect Success</string>
+     <string name="video_collect_cancel">Αφαίρεση από τα αγαπημένα</string>
+     <string name="video_collect_success">Προστέθηκε στα αγαπημένα</string>
      <string name="video_download_complete">Η λήψη ολοκληρώθηκε.</string>
      <string name="video_download_empty">Δεν υπάρχουν βίντεο</string>
      <string name="video_download_error">Σφάλμα</string>
@@ -800,7 +826,7 @@
      <string name="video_fragment_name_download">Offline βίντεο</string>
      <string name="video_fragment_name_historys">Ιστορικό</string>
      <string name="video_fragment_name_offine">Offline</string>
-     <string name="video_group_noupdates_list">NoUpdates</string>
+     <string name="video_group_noupdates_list">Δεν υπάρχουν διαθέσιμες ενημερώσεις</string>
      <string name="video_group_updates_list">Ενημερώσεις</string>
      <string name="video_history_empty">Δεν υπάρχει ιστορικό</string>
      <string name="video_manager_action_bar_end_view">Βίντεο</string>
