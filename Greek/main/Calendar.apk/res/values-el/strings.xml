@@ -50,8 +50,8 @@
      <string name="birthday_event_description_a_week_later">Μετά από μια εβδομάδα</string>
      <string name="birthday_event_description_day_after_tomorrow">Μεθαύριο</string>
      <string name="birthday_event_description_day_before_yesterday">Προχθές</string>
-     <string name="birthday_event_description_days_ago">Πριν %1$s ημέρες</string>
-     <string name="birthday_event_description_days_later">Μετά από %1$s ημέρες</string>
+     <string name="birthday_event_description_days_ago">Πριν %1$d ημέρες</string>
+     <string name="birthday_event_description_days_later">Μετά από %1$d ημέρες</string>
      <string name="birthday_event_description_detail_leap" />
      <string name="birthday_event_description_detail_smart" />
      <string name="birthday_event_description_special">"%1$s είναι του/ης %2$s %3$s%4$s%5$s"</string>

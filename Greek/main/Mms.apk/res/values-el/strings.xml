@@ -577,8 +577,8 @@
      <string name="sim_full_title">Πλήρης κάρτα SIM</string>
      <string name="sim_manage_messages_title">Μηνύματα κειμένου στην κάρτα SIM</string>
      <string name="sim_view">Προβολή</string>
-     <string name="slide_number">Διαφάνεια %s</string>
-     <string name="slide_show_part">Μέρος %1$s/%2$s</string>
+     <string name="slide_number">Διαφάνεια %d</string>
+     <string name="slide_show_part">Μέρος %1$d/%2$d</string>
      <string name="slide_up_to_cancel">Σύρετε πάνω για ακύρωση</string>
      <string name="slideshow_activity">Παρουσίαση</string>
      <string name="sms_content">Περιεχόμενο:</string>

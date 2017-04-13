@@ -486,7 +486,7 @@
      <string name="firewall_fragment_tab_title_sys">Σύστημα</string>
      <string name="firewall_network_restrict_notify_message">Πατήστε για αλλαγή ρυθμίσεων.</string>
      <string name="firewall_network_restrict_notify_mobile">δεδομένα κινητής</string>
-     <string name="firewall_network_restrict_notify_title">Το %1$s δεν μπορεί να χρησιμοποιήσει το %2$s.</string>
+     <string name="firewall_network_restrict_notify_title">Το %1$s δεν μπορεί να χρησιμοποιήσει το δίκτυο</string>
      <string name="firewall_restrict_android_dialog_content">Για να είσαι σίγουρο ότι η συσκευή λειτουργεί ικανοποιητικά, ορισμένες εφαρμογές συστήματος Android, θα εξακολουθούν να συνδέονται στο Internet. Αυτές οι εφαρμογές θα χρησιμοποιούν σύνδεση δεδομένων κινητής και μπορεί να οδηγήσουν σε δευτερεύουσες χρεώσεις από το φορέα σας.</string>
      <string name="firewall_restrict_android_dialog_title">Προσοχή</string>
      <string name="firewall_rule_group_title_mobile">Κινητή</string>

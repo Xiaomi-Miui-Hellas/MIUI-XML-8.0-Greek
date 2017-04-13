@@ -34,7 +34,7 @@
      <string name="control_set_alarm_with_existing">Σύνολο αφυπνίσεων: %s</string>
      <string name="day">1 ημέρα</string>
      <string name="day_concat">,</string>
-     <string name="days">%s ημέρες</string>
+     <string name="days">%d ημέρες</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_alarm">Διαγραφή αφύπνισης</string>
      <string name="delete_alarm_confirm">Διαγραφή αυτής της αφύπνισης;</string>
@@ -52,7 +52,7 @@
      <string name="full_wday_month_day_no_year">EEE d MMMM</string>
      <string name="hour">1 ώρα</string>
      <string name="hour_unit">ω</string>
-     <string name="hours">%s ώρες</string>
+     <string name="hours">%d ώρες</string>
      <string name="keep_screen_on">Ενεργή οθόνη</string>
      <string name="label">Όνομα</string>
      <string name="label_pref_summary">Ονομάστε αυτό το ξυπνητήρι</string>
@@ -72,7 +72,7 @@
      <string name="menu_item_sort_by_gmt_offset">Ταξινόμηση κατά ώρα</string>
      <string name="menu_item_sort_by_name">Ταξινόμηση κατά όνομα</string>
      <string name="minute">1 λεπτό</string>
-     <string name="minutes">%s λεπτά</string>
+     <string name="minutes">%d λεπτά</string>
      <string name="more_settings">Περισσότερες ρυθμίσεις</string>
      <string name="never">Μια φορά</string>
      <string name="oneshot_alarm">Διαγραφή όταν απενεργοποιηθεί</string>
