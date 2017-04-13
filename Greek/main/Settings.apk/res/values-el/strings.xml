@@ -4528,7 +4528,12 @@
      <string name="wifi_ssid">SSID</string>
      <string name="wifi_ssid_hint">Πληκτρολογήστε το SSID</string>
      <string name="wifi_starting">Ενεργοποίηση Wi‑Fi…</string>
+     <string name="wifi_state_disabled">Απενεργοποιήθηκε</string>
+     <string name="wifi_state_disabling">Απενεργοποίηση…</string>
+     <string name="wifi_state_enabled">Ενεργοποιήθηκε</string>
+     <string name="wifi_state_enabling">Ενεργοποίηση…</string>
      <string name="wifi_state_label">Κατάσταση Wi‑Fi:</string>
+     <string name="wifi_state_unknown">Άγνωστο</string>
      <string name="wifi_status">Κατάσταση</string>
      <string name="wifi_status_test">Κατάσταση Wi‑Fi:</string>
      <string name="wifi_stopping">Απενεργοποίηση Wi‑Fi…</string>
