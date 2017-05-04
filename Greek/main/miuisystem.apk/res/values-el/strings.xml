@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="add_frequent_phrases">Προσθήκη συχνών φράσεων</string>
+     <string name="android_ringtone_default_with_actual">Προεπιλεγμένος ήχος κλήσης (%1$s)</string>
      <string name="android_ringtone_silent">Κανένα</string>
      <string name="android_ringtone_unknown">Άγνωστος ήχος κλήσης</string>
      <string name="cloud_state_disabled">Ο συγχρονισμός με το Mi Cloud είναι ανενεργός</string>
