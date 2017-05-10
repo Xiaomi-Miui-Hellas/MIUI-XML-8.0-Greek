@@ -4726,7 +4726,7 @@
      <string name="wizard_next">Επόμενο</string>
      <string name="work_profile_confirm_remove_message">Όλες οι εφαρμογές και τα δεδομένα σε αυτό το προφίλ θα διαγραφούν εάν συνεχίσετε.</string>
      <string name="work_profile_confirm_remove_title">Διαγραφή προφίλ εργασίας;</string>
-     <string name="work_profile_usage_access_warning">Η απενεργοποίηση της πρόσβασης χρήσης γι' αυτήν την εφαρμογή δεν αποτρέπει το διαχειριστή σας από το να παρακολουθεί τη χρήση δεδομένων για εφαρμογές του προφίλ σας εργασίας.</string>
+     <string name="work_profile_usage_access_warning">Η απενεργοποίηση της πρόσβασης χρήσης γι' αυτήν την εφαρμογή δεν αποτρέπει το διαχειριστή σας από το να παρακολουθεί τη χρήση δεδομένων για εφαρμογές του προφίλ εργασίας σας.</string>
      <string name="work_sim_title">SIM εργασίας</string>
      <string name="wps_category">WPS</string>
      <string name="wps_connect_summary">Σιγουρευτείτε πως το router υποστηρίζει και έχει ενεργό το WPS</string>

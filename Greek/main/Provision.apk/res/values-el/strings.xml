@@ -39,7 +39,7 @@
      <string name="other_settings_location">Τοποθεσία</string>
      <string name="other_settings_location_summary">Επιτρέψτε στις εφαρμογές να έχουν πρόσβαση στην τοποθεσία σας</string>
      <string name="other_settings_mifg_online_content">Καθημερινές ταπετσαρίες</string>
-     <string name="other_settings_mifg_online_content_summary">Συνδεθείτε στο Internet για να παίρνετε νέες ταπετσαρίες για την οθόνη κλειδώματος τακτικά.</string>
+     <string name="other_settings_mifg_online_content_summary">Συνδεθείτε στο Internet για να παίρνετε νέες ταπετσαρίες για την Οθόνη κλειδώματος τακτικά.</string>
      <string name="other_settings_upload_debug_log_summary">Τα διαγνωστικά δεδομένα μπορεί να περιλαμβάνουν πληροφορίες σχετικά με τη χρήση του υλικού σας, το λειτουργικό σύστημα και τις εφαρμογές. Τα δεδομένα θα χρησιμοποιηθούν για τον εντοπισμό και την ανάλυση των προβλημάτων στο σύστημα και δεν πρόκειται ποτέ να χρησιμοποιηθούν για την αναγνώρισή σας προσωπικά.</string>
      <string name="other_settings_upload_debug_log_title">Αυτόματη αποστολή διαγνωστικών δεδομένων</string>
      <string name="other_settings_user_experience">Πρόγραμμα Εμπειρίας Χρηστών</string>

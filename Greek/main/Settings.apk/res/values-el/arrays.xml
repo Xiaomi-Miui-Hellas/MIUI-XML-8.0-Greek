@@ -363,6 +363,7 @@
         <item>1 λεπτό</item>
         <item>2 λεπτά</item>
         <item>5 λεπτά</item>
+        <item>Ποτέ</item>
      </string-array>
      <string-array name="long_press_timeout_selector_titles">
         <item>Σύντομη</item>
@@ -468,7 +469,6 @@
         <item>Φωτογραφίες</item>
         <item>Αρχεία</item>
         <item>Σημειώσεις</item>
-        <item>Λειτουργία Παιδιού</item>
      </string-array>
      <string-array name="proc_stats_memory_states">
         <item>Κανονική</item>
