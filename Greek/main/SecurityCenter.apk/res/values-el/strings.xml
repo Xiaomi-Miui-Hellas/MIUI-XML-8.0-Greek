@@ -101,7 +101,7 @@
      <string name="app_check_reason_background_cpu">Δραστηριότητα παρασκηνίου της CPU</string>
      <string name="app_check_reason_background_gps">Το GPS τρέχει στο παρασκήνιο</string>
      <string name="app_check_reason_wakelock">Δεν έχει οριστεί ο χρόνος ύπνου της συσκευής</string>
-     <string name="app_check_reason_wakeup_alarm">Η οθόνη κλειδώματος ανάβει συχνά</string>
+     <string name="app_check_reason_wakeup_alarm">Η Οθόνη κλειδώματος ανάβει συχνά</string>
      <string name="app_check_reason_wifi_scan">Συχνές σαρώσεις Wi‑Fi</string>
      <string name="app_check_sub_title_text">Βελτιστοποίηση εφαρμογών για επίλυση προβλημάτων μπαταρίας</string>
      <string name="app_detail">Λεπτομέρειες</string>
@@ -627,8 +627,8 @@
      <string name="lock_screen_traffic_purchase_textview">Αγορά δεδομένων κινητής</string>
      <string name="lock_screen_traffic_warn_title">Ειδοποιήσεις οθόνης κλειδώματος</string>
      <string name="lock_screen_warning_category">Ειδοποιήσεις οθόνης κλειδώματος</string>
-     <string name="lock_screen_warning_switch_summary">Εμφάνιση προειδοποίησης στην οθόνη κλειδώματος όταν η χρήση των δεδομένων υπερβαίνει ένα ορισμένο ποσό</string>
-     <string name="lock_screen_warning_switch_title">Εμφάνιση ειδοποιήσεων στην οθόνη κλειδώματος</string>
+     <string name="lock_screen_warning_switch_summary">Εμφάνιση προειδοποίησης στην Οθόνη κλειδώματος όταν η χρήση των δεδομένων υπερβαίνει ένα ορισμένο ποσό</string>
+     <string name="lock_screen_warning_switch_title">Εμφάνιση ειδοποιήσεων στην Οθόνη κλειδώματος</string>
      <string name="lock_settings_title">Κλείδωμα οθόνης και κωδικός</string>
      <string name="lockpassword_confirm_your_password_header">Επιβεβαίωση κωδικού</string>
      <string name="lockpassword_confirm_your_pattern_header">Επιβεβαίωση μοτίβου</string>
@@ -811,7 +811,7 @@
      <string name="notification_battery_consume_abnormal_title">Η μπαταρία αδειάζει πολύ γρήγορα</string>
      <string name="notification_battery_over_heat_summary">Βρείτε τι προκαλεί τη θέρμανση, και δροσίστε τη συσκευή.</string>
      <string name="notification_battery_over_heat_title">Η τρέχουσα θερμοκρασία είναι %d℃</string>
-     <string name="notification_charging_title">Φόρτιση</string>
+     <string name="notification_charging_title">"Φορτίζει "</string>
      <string name="notification_exit_power_save_mode">Εξοικονόμηση μπαταρίας ανενεργή</string>
      <string name="notification_exit_power_save_mode_subtitle">Μπαταρία %s φορτισμένη.</string>
      <string name="notification_item">Ενεργοποίηση Κλειδώματος Εφαρμογής</string>
@@ -924,7 +924,7 @@
      <string name="pm_auto_start_by_system">Έναρξη εφαρμογών</string>
      <string name="pm_auto_start_by_system_event">Επιτρέψτε στις εφαρμογές να ξεκινάνε αυτόματα</string>
      <string name="pm_auto_start_proc_is_running">Τρέχουν</string>
-     <string name="pm_remember_choice">Να θυμάται την επιλογή</string>
+     <string name="pm_remember_choice">Απομνημόνευση επιλογής</string>
      <string name="pm_root_success_notification_infomation">Βεβαιωθείτε ότι κατανοείτε τους κινδύνους σχετικά με την πρόσβαση root</string>
      <string name="pm_root_success_notification_title">Πρόσβαση root ενεργή</string>
      <string name="power_20s_shutdown">Η συσκευή θα απενεργοποιηθεί σε %d δευτερόλεπτα</string>

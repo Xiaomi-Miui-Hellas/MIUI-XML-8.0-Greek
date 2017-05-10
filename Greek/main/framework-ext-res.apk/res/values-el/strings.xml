@@ -3,7 +3,7 @@
      <string name="add_frequent_phrases">Προσθήκη συχνών φράσεων</string>
      <string name="all_call_livetalk_enable">Χρήση πακέτων top-up για τις εγχώριες και διεθνείς κλήσεις</string>
      <string name="all_call_livetalk_remain_mins">Λεπτά που απομένουν: %1$s εγχώρια | %2$s διεθνή</string>
-     <string name="alwaysUsePrompt">Να θυμάται την επιλογή</string>
+     <string name="alwaysUsePrompt">Απομνημόνευση επιλογής</string>
      <string name="apply_password_action">Ορισμός κωδικού πρόσβασης</string>
      <string name="apply_password_confirm_dlg_msg">Απαίτηση κωδικού πρόσβασης για %s​;</string>
      <string name="apply_password_confirm_dlg_title">Αυτός ο κωδικός πρόσβασης θα χρησιμοποιηθεί για %s</string>
