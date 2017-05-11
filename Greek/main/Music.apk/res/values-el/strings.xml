@@ -59,6 +59,7 @@
      <string name="artist_gender_female">Γυναίκα</string>
      <string name="artist_gender_group">Συγκρότημα</string>
      <string name="artist_gender_male">Άντρας</string>
+     <string name="artist_home_search_hint">Αναζήτηση για καλλιτέχνες</string>
      <string name="artist_is_empty">Το όνομα του καλλιτέχνη δεν μπορεί να είναι κενό.</string>
      <string name="artist_name">Καλλιτέχνης</string>
      <string name="artist_news">Νέα</string>
@@ -105,6 +106,7 @@
      <string name="can_not_find_resource">Αδυναμία εύρεσης πόρων</string>
      <string name="cancel">Άκυρο</string>
      <string name="cancel_running_download">Ακύρωση</string>
+     <string name="change_download_quality">Αλλαγή ποιότητας λήψης</string>
      <string name="channel_list_fragment_title">Ράδιο</string>
      <string name="chinese_female">Γυναίκες καλλιτέχνες (Κίνα)</string>
      <string name="chinese_group">Συγκροτήματα (Κίνα)</string>
@@ -209,6 +211,7 @@
      <string name="doc_filter">Έγγραφα</string>
      <string name="done">Ολοκληρώθηκε</string>
      <string name="download">Λήψη</string>
+     <string name="download_added_to_list">Προστέθηκε στη λίστα λήψης</string>
      <string name="download_all_song">Λήψη όλων</string>
      <string name="download_apk_desktop_installing">Εγκατάσταση…</string>
      <string name="download_apk_desktop_pause">Σε παύση</string>
@@ -263,10 +266,20 @@
      <string name="download_success">Ολοκληρώθηκε</string>
      <string name="download_title_sorted_by_date">Λήψεις - Ταξινόμηση κατά ημερομηνία</string>
      <string name="download_title_sorted_by_size">Λήψεις - Ταξινόμηση κατά μέγεθος</string>
+     <string name="download_toast">Χρήση δεδομένων κινητής για λήψη τραγουδιών</string>
+     <string name="download_toast_with_beyond_data">Χρήση δεδομένων κινητής για λήψη τραγουδιών. Υπέρβαση ορίου κατά %s</string>
+     <string name="download_toast_with_data">Χρήση δεδομένων κινητής για λήψη τραγουδιών. %s υπόλοιπο</string>
      <string name="download_traffic_dialog_buy_package">Αγοράστε πρόγραμμα δεδομένων μουσικής</string>
-     <string name="download_traffic_dialog_msg">Χρησιμοποιώντας τη σύνδεση δεδομένων κινητής για να κατεβάσετε μουσική, θα αυξηθούν τα τέλη χρήσης των δεδομένων σας</string>
+     <string name="download_traffic_dialog_msg">Απομένουν %s δεδομένων κινητής. Χρήση δεδομένων κινητής για λήψη τραγουδιών;</string>
+     <string name="download_traffic_dialog_msg_beyond">Έχετε ήδη υπερβεί το όριο δεδομένων κινητής κατά %s. Χρήση δεδομένων κινητής για λήψη τραγουδιών;</string>
+     <string name="download_traffic_dialog_msg_serious">Απομένουν %s δεδομένων κινητής. Χρήση δεδομένων κινητής για λήψη τραγουδιών;</string>
+     <string name="download_traffic_dialog_msg_without_data">Χρησιμοποιείτε δεδομένα κινητής για λήψη τραγουδιών. Λήψη ούτως ή άλλως;</string>
      <string name="download_traffic_dialog_negative_button">Αναμονή για Wi‑Fi</string>
      <string name="download_traffic_dialog_position_button">Άμεση λήψη</string>
+     <string name="download_traffic_dialog_position_button_serious">Ακόμα γίνετε λήψη…</string>
+     <string name="download_traffic_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
+     <string name="download_traffic_dialog_title_beyond">Υπέρβαση χρήσης δεδομένων</string>
+     <string name="download_traffic_dialog_title_serious">Απομένουν ελάχιστα δεδομένα κινητής</string>
      <string name="download_unknown_title">&lt;Ανώνυμο></string>
      <string name="download_wait_connect">Αναμονή για σύνδεση</string>
      <string name="download_when_network_connected">Λήψη όταν συνδεθείτε στο Internet</string>
@@ -461,6 +474,7 @@
      <string name="metered_alert_msg">Χρησιμοποιείτε σύνδεση δεδομένων για αναπαραγωγή μουσικής. Αναπαραγωγή ούτως ή άλλως;</string>
      <string name="metered_alert_msg_with_data">Έχουν απομείνει %s δεδομένα κινητής. Χρήση δεδομένων κινητής για αναπαραγωγή τραγουδιών;</string>
      <string name="metered_allow">Αναπαραγωγή</string>
+     <string name="metered_beyond_alert">Υπέρβαση ορίου δεδομένων</string>
      <string name="metered_disallow">Όχι τώρα</string>
      <string name="metered_play_toast">Stream μέσω σύνδεσης δεδομένων</string>
      <string name="metered_play_toast_with_beyond_data">Αναπαραγωγή με χρήση δεδομένων κινητής. Υπέρβαση κατά %s</string>
@@ -691,6 +705,7 @@
      <string name="search_for_album">Άλμπουμ</string>
      <string name="search_for_artist">Καλλιτέχνης</string>
      <string name="search_hint">Αναζήτηση καλλιτεχνών, τραγουδιών, άλμπουμ και προτάσεων</string>
+     <string name="search_hint_not_support_online">Αναζήτηση για καλλιτέχνες, τραγούδια και άλμπουμ</string>
      <string name="search_history_clear_all">Καθαρισμός</string>
      <string name="search_instant_online_music">Online</string>
      <string name="search_lyric">Αναζήτηση στίχων</string>
@@ -822,6 +837,7 @@
      <string name="title_online_artist">Δημοφιλείς καλλιτέχνες</string>
      <string name="title_online_billboard">Charts</string>
      <string name="title_online_fm">Ράδιο</string>
+     <string name="title_online_fm_recommend">Προτεινόμενα FM</string>
      <string name="title_online_recommend">Προτεινόμενες λίστες αναπαραγωγής</string>
      <string name="title_online_release">Νέα άλμπουμ</string>
      <string name="title_online_song">Δημοφιλή τραγούδια</string>
