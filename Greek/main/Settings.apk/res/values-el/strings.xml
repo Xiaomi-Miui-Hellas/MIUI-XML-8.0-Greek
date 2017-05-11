@@ -1049,7 +1049,7 @@
      <string name="data_usage_metered_mobile">Δίκτυα κινητής τηλεφωνίας</string>
      <string name="data_usage_metered_title">Κινητά hotspot</string>
      <string name="data_usage_metered_wifi">Δίκτυα Wi‑Fi</string>
-     <string name="data_usage_metered_wifi_disabled">Για να επιλέξετε hotspot, ενεργοποιήσετε το Wi‑Fi.</string>
+     <string name="data_usage_metered_wifi_disabled">Για να επιλέξετε hotspot, ενεργοποιήστε το Wi‑Fi.</string>
      <string name="data_usage_pick_cycle_day">Ημέρα του μήνα για να επαναφέρετε τον κύκλο χρήσης δεδομένων:</string>
      <string name="data_usage_received_sent">%1$s ελήφθησαν, %2$s εστάλησαν</string>
      <string name="data_usage_restrict_background">Αν περιορίσετε στο παρασκήνιο δεδομένων κινητής τηλεφωνίας, ορισμένες εφαρμογές και υπηρεσίες δεν θα λειτουργούν, εκτός αν είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi.</string>
