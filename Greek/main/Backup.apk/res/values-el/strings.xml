@@ -85,7 +85,6 @@
      <string name="delete_backup_title">Διαγραφή αντιγράφου</string>
      <string name="delete_failed_backup_confirm">Το αρχείο περιέχει σφάλμα αδύνατη η επαναφορά</string>
      <string name="deselect_all">Αποεπιλογή όλων</string>
-     <string name="digit_percent">%</string>
      <string name="dir_date_format">HH-mm-ss_dd-MM-yyyy</string>
      <string name="disable_encrypt_title">Η κρυπτογράφηση έχει απενεργοποιηθεί</string>
      <string name="enable_encrypt">Ενεργοποίηση τώρα</string>
@@ -109,6 +108,7 @@
      <string name="exchange_account">Λογαριασμός Exchange</string>
      <string name="fail">Ανεπιτυχής δημιουργία αντιγράφων</string>
      <string name="feature_title_account">Λογαριασμός</string>
+     <string name="feature_title_antispam">AntiSpam</string>
      <string name="feature_title_call_log">Ιστορικό κλήσεων</string>
      <string name="feature_title_mms">MMS</string>
      <string name="file_uploading">Αποστολή…</string>
@@ -334,7 +334,6 @@
      <string name="user_notice_message">Ορισμένες λειτουργίες απαιτούν πρόσβαση στο Internet για να λειτουργήσουν κανονικά.</string>
      <string name="user_notice_title">Ειδοποίηση χρήστη</string>
      <string name="wifi_title">Ρυθμίσεις Wi‑Fi</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_bytes_unit">%1$sB</string>
      <string name="xiaomi_connect_download_manager_fail">Αποτυχία σύνδεσης Διαχειριστή Λήψεων. Παρακαλώ ελέγξτε την κατάσταση του Διαχειριστή Λήψεων στη Διαχείριση Εφαρμογών.</string>
      <string name="xiaomi_external_storage_unavailable">Ο χώρος αποθήκευσης δεν είναι διαθέσιμος. Παρακαλώ ελέγξτε την κάρτα SD.</string>

@@ -122,5 +122,4 @@
      <string name="start_recover">Επαναφορά %s</string>
      <string name="success_open_cloudbackup">Ενεργοποίηση αντ.ασφαλείας εφαρμογών Αρχικής οθόνης</string>
      <string name="wait_icon_download">Λήψη εικονιδίων εφαρμογών…</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

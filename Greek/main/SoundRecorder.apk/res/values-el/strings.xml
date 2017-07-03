@@ -144,5 +144,4 @@
      <string name="toast_uninstall_fileexplorer">Η εφαρμογή Αρχεία δεν έχει εγκατασταθεί</string>
      <string name="wifi_recommended_body" formatted="false">Χρησιμοποιώντας τα δεδομένα κινητής για να κατεβάσετε αυτό το αρχείο (%s) θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα. Για να περιμένετε για μια σύνδεση Wi‑Fi για τη λήψη αυτού του αρχείου, πατήστε %s.</string>
      <string name="wifi_recommended_title">Προειδοποίηση χρήσης δεδομένων</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

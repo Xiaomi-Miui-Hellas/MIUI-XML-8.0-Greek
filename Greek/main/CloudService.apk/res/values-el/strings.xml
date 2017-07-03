@@ -489,7 +489,6 @@
      <string name="wipe_data_dialog_msg_and_on">, και μερικά άλλα στοιχεία</string>
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="wipe_data_dialog_title">"Μερικά στοιχεία δεν έχουν συγχρονιστεί</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xmpp_server_addr" />
 </resources>

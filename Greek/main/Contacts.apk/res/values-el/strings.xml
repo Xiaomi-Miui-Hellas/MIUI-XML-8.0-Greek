@@ -897,8 +897,6 @@
      <string name="path_wipe_data">Εφαρμογές συστήματος/Επαφές/Οργάνωση επαφών/Εκκαθάριση δεδομένων</string>
      <string name="payphone">Καρτοτηλέφωνο </string>
      <string name="people">Επαφές</string>
-     <string name="percent_sign">%</string>
-     <string name="percentage">%s%%</string>
      <string name="phoneLabelsGroup">Τηλέφωνο</string>
      <string name="phone_call_type_livetalk">LiveTalk</string>
      <string name="phone_call_type_voip">VoIP</string>

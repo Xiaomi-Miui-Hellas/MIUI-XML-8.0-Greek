@@ -352,5 +352,4 @@
      <string name="website">Ιστοσελίδα</string>
      <string name="whitelist_prefix_add_hint">Προσθήκη όλων των αριθμών με πρόθεμα στις εξαιρέσεις</string>
      <string name="wl_no_whitelist">Δεν υπάρχουν εξαιρέσεις</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
