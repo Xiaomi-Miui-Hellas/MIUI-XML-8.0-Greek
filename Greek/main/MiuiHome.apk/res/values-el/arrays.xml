@@ -42,7 +42,6 @@
         <item>Λιθίου</item>
      </string-array>
      <string-array name="transformation_entries">
-        <item>Κλασική ολίσθηση</item>
         <item>Κλασική ολίσθηση (χωρίς υπέρβαση)</item>
         <item>Σταδιακό σβήσιμο</item>
         <item>Πέσιμο</item>
